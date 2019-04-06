@@ -13,11 +13,15 @@ ul, .commenting{
 }
 
 .video-container {
+    object-fit: cover;
     box-shadow: inset 3px 3px 10px 0 white;
     border-radius: 10px;
 }
 
-.voting-container {
+.small{
+    width:25px;
+    height:25px;
+    object-fit: fill
 }
 
 .vid-col{

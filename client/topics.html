@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Hackamon Project</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link rel="stylesheet" href="/styles/materialize.min.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="/styles/style.css">
         <link rel="stylesheet" href="/styles/unit.css">
@@ -34,14 +34,14 @@
             <div class="container" id="app">
                 <h4 id="subject-header" class="center">ASP2011 - Astronomy</h4>
                 <div class="collection" v-for="item in topics">
-                    <a href="/units/science/ASP2011/videos" class="collection-item">{{item}}</a>
+                    <a href="/units/science/ASP2011/videos" class="collection-item" style="color:rgb(0,109,174)">{{item}}<span class="right"><b>{{random()}} uploads</b></span></a>
                 </div>
             </div>
         </main>
         <footer class="page-footer transparent">
         </footer>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src="/js/materialize.min.js"></script>
+        <script src="/js/vue.js"></script>
     </body>
     <script src="/js/topics.js"></script>
 </html>
