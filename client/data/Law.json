@@ -1,1 +1,1738 @@
-{"LAW1111": "Foundations of law", "LAW1112": "Public law and statutory interpretation", "LAW1113": "Torts", "LAW1114": "Criminal law 1", "LAW2001": "Law in professional contexts", "LAW2101": "Contract A", "LAW2102": "Contract B", "LAW2111": "Constitutional law", "LAW2112": "Property A", "LAW3111": "Equity", "LAW3112": "Corporations law", "LAW3402": "Property B", "LAW4101": "Administration of criminal justice", "LAW4104": "Australian banking law", "LAW4108": "Constitutional law of Malaysia", "LAW4111": "Crime and gender", "LAW4112": "Advanced constitutional law", "LAW4113": "Current problems in criminal law", "LAW4115": "Environmental law", "LAW4119": "Contemporary workplace relations law", "LAW4121": "Insurance law", "LAW4122": "International law", "LAW4123": "International organisations", "LAW4125": "Comparative antitrust law", "LAW4126": "Asian legal systems", "LAW4127": "Collective labour rights", "LAW4129": "Law and discrimination", "LAW4130": "Law and social theory", "LAW4132": "Law of employment", "LAW4133": "International law seminar: International public order", "LAW4137": "Legal philosophy", "LAW4140": "Media law 2", "LAW4151": "Theoretical perspectives on law, gender and feminism", "LAW4153": "Comparative European legal systems", "LAW4155": "International human rights", "LAW4156": "Conflict of laws - private international law", "LAW4158": "Indigenous peoples and the law", "LAW4159": "International business transactions", "LAW4160": "Negotiation and conflict resolution", "LAW4161": "Introduction to European Union law", "LAW4162": "Family property and financial disputes", "LAW4163": "Parents, children and the state", "LAW4164": "International refugee law and practice", "LAW4165": "Comparative constitutions and rights", "LAW4166": "Citizenship and migration law", "LAW4170": "Trusts", "LAW4172": "Human rights in Australian law", "LAW4173": "Research unit A", "LAW4174": "Research unit B", "LAW4176": "Applied legal research", "LAW4177": "Introduction to family law", "LAW4178": "Comparative civil procedure", "LAW4179": "International commercial arbitration", "LAW4180": "International law of the sea and maritime security: Pirates, poachers, people smugglers & terrorists", "LAW4184": "International criminal law", "LAW4188": "International banking law", "LAW4189": "Comparative criminal law", "LAW4190": "Construction law: Principles and practice", "LAW4193": "Biotechnology and the law", "LAW4196": "Consumer law", "LAW4197": "Current issues in Indigenous rights: International, comparative and regional perspectives", "LAW4198": "Australian commercial law", "LAW4199": "International laws of armed conflict", "LAW4214": "Supervised research paper", "LAW4219": "The law of financial transactions", "LAW4225": "Non-adversarial justice", "LAW4227": "Criminal investigation law and procedure", "LAW4228": "Problem based learning seminar", "LAW4229": "Comparative tax policy", "LAW4230": "Animal law", "LAW4242": "Introduction to transitional justice", "LAW4243": "Tax policy", "LAW4244": "Construction law (dispute resolution)", "LAW4247": "Current issues in statutory interpretation", "LAW4249": "Environmental activism, ecoterrorism and the law", "LAW4250": "The global lawyer", "LAW4251": "Advanced copyright: Global law and policy", "LAW4252": "Chinese legal institutions and laws", "LAW4301": "Advanced torts", "LAW4302": "The law of public listed companies", "LAW4303": "Litigation and dispute resolution", "LAW4304": "Forensic evidence: Law, science, medicine and technology", "LAW4305": "Federal criminal justice", "LAW4306": "Sentencing and sanctions", "LAW4308": "Restitution", "LAW4309": "Lawyers ethics in practice", "LAW4310": "Trial practice and advocacy", "LAW4311": "Succession law", "LAW4312": "Legal issues in medicine", "LAW4313": "International environmental law", "LAW4314": "International space law", "LAW4316": "Media law 1", "LAW4318": "Competition law", "LAW4319": "Superannuation law", "LAW4322": "Advanced taxation law", "LAW4323": "Evidence", "LAW4324": "Corporate governance and shareholders remedies", "LAW4325": "Advanced evidence", "LAW4326": "Cyberlaw", "LAW4327": "Honours thesis", "LAW4328": "Professional practice", "LAW4329": "Comparative cyberlaw", "LAW4330": "Family law assistance program: Professional practice", "LAW4331": "Administrative law", "LAW4332": "Criminal law and procedure 2", "LAW4333": "Corporate insolvency", "LAW4339": "Personal insolvency", "LAW4340": "Sport and the law", "LAW4341": "Copyright and designs", "LAW4342": "Patents, trade marks and unfair competition", "LAW4343": "Sovereignty and globalisation", "LAW4484": "Malaysian and Singaporean constitutional systems", "LAW4513": "Capital markets regulation: A comparative perspective", "LAW4515": "International criminology", "LAW4516": "Comparative perspectives on crime and punishment", "LAW4522": "Remedies", "LAW4523": "The judiciary in comparative perspective", "LAW4526": "World Trade Organisation (WTO) law", "LAW4528": "Comparative consumer bankruptcy", "LAW4531": "Product liability law from a comparative perspective", "LAW4532": "Climate change and international law", "LAW4533": "International and comparative taxation law", "LAW4534": "Law and biology", "LAW4535": "International and comparative trade mark law", "LAW4536": "International and comparative family law", "LAW4537": "Public policy, regulation and the law", "LAW4538": "Lawyers, literature and cinema", "LAW4539": "Modern constitutionalism: A comparative perspective", "LAW4540": "Entrepreneurship and the law", "LAW4541": "Gender and the law", "LAW4641": "Intellectual property: Theory, copyright and design", "LAW4642": "Issues in medical ethics and law", "LAW4643": "Corporate social responsibility", "LAW4644": "Comparative remedies", "LAW4645": "International perspectives on torts law", "LAW4646": "Sexuality and the law", "LAW4647": "Great books of the common law", "LAW4648": "Ethics and criminal justice", "LAW4649": "Mediation and law: From problem solving to narrative building", "LAW4651": "Comparative evidence law", "LAW4652": "Transnational litigation", "LAW4653": "Privacy and surveillance in an information age: Comparative law perspectives", "LAW4654": "Law and liberty", "LAW4655": "Comparative issues in patent law", "LAW4656": "Varieties of the secular: Law, religion, and social change", "LAW4658": "International litigation and arbitration", "LAW4659": "Game theory and the law", "LAW4660": "Regulating relationships and families", "LAW4662": "Air and space law", "LAW4663": "International environmental governance", "LAW4664": "Comparative dispute resolution", "LAW4665": "Comparative cybercrime", "LAW4666": "European human rights law", "LAW4667": "Human dignity in comparative perspective", "LAW4668": "International investment law", "LAW4669": "Humans rights and the European Union", "LAW4670": "Introduction to Islamic law", "LAW4671": "Private investment law", "LAW4673": "European and international monetary law", "LAW4674": "Freedom of speech: Law, theory and policy", "LAW4675": "International and comparative insolvency law", "LAW4676": "Judgment and decision-making", "LAW4677": "International information and media law", "LAW4678": "International criminal justice", "LAW4679": "The law of climate change", "LAW4680": "Australian corporations law", "LAW4681": "Global economic law", "LAW4682": "Contemporary issues in international sports law", "LAW4683": "EU external relations: Law and policy", "LAW4684": "Comparative indigenous rights", "LAW4685": "International and transnational law and the green economy", "LAW4686": "Contemporary issues in public policy, regulation and the law", "LAW4687": "Human trafficking, modern slavery and the law", "LAW4688": "Comparative commercial transactions law", "LAW4689": "International humanitarian law", "LAW4690": "Human rights and migration in comparative perspective", "LAW4701": "Commercial transactions", "LAW4702": "Competition and consumer law", "LAW4703": "Introduction to intellectual property", "LAW4704": "Taxation law", "LAW4801": "Research project", "LAW4802": "Research practicum", "LAW4803": "Clinical placement", "LAW4805": "Mooting and advocacy competition", "LAW4806": "Jessup moot competition", "LAW4807": "Vis arbitration moot", "LAW4808": "Law Review editorship 1", "LAW4809": "Law Review editorship 2", "LAW4810": "Work integrated learning project", "LAW4811": "In-house clinical placement", "LAW5000": "Australian legal reasoning and methods", "LAW5001": "Principles of criminal law and procedure", "LAW5002": "Principles of contract law A", "LAW5003": "Principles of torts", "LAW5004": "Principles of public law and statutory interpretation", "LAW5005": "Principles of contract law B", "LAW5006": "Principles of property law", "LAW5007": "Principles of constitutional law", "LAW5008": "Principles of equity", "LAW5010": "Principles of trusts", "LAW5011": "Principles of company law", "LAW5012": "Principles of evidence", "LAW5013": "Principles of litigation and dispute resolution", "LAW5014": "Principles of administrative law", "LAW5015": "Ethics in legal practice", "LAW5018": "Advanced property law", "LAW5050": "Professional practice (JD)", "LAW5051": "Research practicum", "LAW5052": "Professional project", "LAW5053": "Law Review editorship 1", "LAW5054": "Law Review editorship 2", "LAW5055": "Vis arbitration moot", "LAW5056": "Jessup moot competition", "LAW5057": "Work integrated learning project", "LAW5080": "Australian legal system", "LAW5081": "Australian legal process and research", "LAW5082": "Masters research", "LAW5083": "Extended research", "LAW5084": "Minor thesis", "LAW5185": "Graduate research paper", "LAW5300": "Commercial tenancy law", "LAW5301": "Copyright", "LAW5302": "European Union law and policy", "LAW5303": "Forensic family law", "LAW5304": "Overview of international human rights law", "LAW5305": "International trade law", "LAW5306": "Corporate insolvency", "LAW5307": "Occupational health and safety", "LAW5308": "Current issues in evidence", "LAW5309": "Public sector employment law", "LAW5310": "Sentencing", "LAW5311": "Takeovers", "LAW5312": "Competition law", "LAW5313": "Planning law", "LAW5314": "International environmental law", "LAW5315": "Commercial alternative dispute resolution", "LAW5316": "Trade marks and commercial designations", "LAW5317": "Principles of privacy and freedom of information", "LAW5318": "International aspects of intellectual property", "LAW5319": "Law of employee relations", "LAW5320": "Local government law", "LAW5321": "Protecting commercial innovation: Patents and trade secrets", "LAW5322": "Superannuation law and practice", "LAW5323": "Collective labour rights", "LAW5324": "Discrimination law, theory and policy", "LAW5325": "Defamation law", "LAW5326": "Comparative European legal systems", "LAW5327": "International human rights", "LAW5328": "International business transactions", "LAW5329": "Introduction to European Union law", "LAW5330": "International refugee law and practice", "LAW5331": "Comparative constitution and rights", "LAW5332": "International commercial arbitration", "LAW5333": "Comparative criminal law", "LAW5334": "Psychiatry, psychology and law", "LAW5335": "Contemporary problems in the administration of criminal justice", "LAW5336": "Law of the internet", "LAW5337": "Labour law for corporate lawyers", "LAW5338": "International humanitarian law", "LAW5339": "Technology contracts and licensing law", "LAW5340": "Intellectual property", "LAW5341": "Trade mark practice", "LAW5342": "Current issues in electronic commerce law", "LAW5343": "Privacy and surveillance: Law, policy and governance", "LAW5344": "Negotiation: Essential skills for dispute resolution", "LAW5345": "Business and human rights", "LAW5346": "Design law and practice", "LAW5347": "Consumer policy and regulation", "LAW5348": "Indigenous rights and international law", "LAW5350": "Principles of taxation", "LAW5351": "Comparative competition law", "LAW5352": "Electronic workplace law", "LAW5353": "Cybercrime", "LAW5354": "International criminal justice", "LAW5355": "Advocacy", "LAW5356": "Corporate and white collar crime", "LAW5357": "Corporate governance and directors' duties", "LAW5358": "Current issues in workplace law", "LAW5359": "International human rights law and women", "LAW5360": "Advanced conflict resolution skills", "LAW5361": "Foundations of regulation: Policy, principles and practice", "LAW5362": "Regulatory methods", "LAW5363": "Regulatory performance: Evaluating what works", "LAW5364": "Economic, social and cultural rights and international law", "LAW5365": "Terrorism and human rights", "LAW5366": "International banking and finance: Law and practice", "LAW5367": "Energy law, regulation and policy", "LAW5368": "Regulation of Australian water resources", "LAW5369": "World Trade Organization (WTO) law", "LAW5370": "Discrimination law and human rights at work", "LAW5371": "Protecting the rights of minorities, marginalised and vulnerable people", "LAW5372": "Principles of construction law", "LAW5373": "Comparative bills of rights", "LAW5374": "Federal labour law", "LAW5375": "Arbitration of international commercial disputes", "LAW5376": "International criminal law: Procedural and practical aspects", "LAW5377": "The use of force in international law", "LAW5378": "Comparative corporate governance", "LAW5379": "Procurement law", "LAW5380": "International human rights law and development", "LAW5381": "Human rights advocacy: Australian law and practice", "LAW5382": "Principles of environmental law", "LAW5383": "International refugee law and human rights", "LAW5384": "International investment law", "LAW5385": "Corporate finance law", "LAW5386": "Health law and human rights", "LAW5387": "Non-adversarial family and children's law", "LAW5388": "Patenting for commercialisation", "LAW5389": "The law of climate change", "LAW5390": "Workplace bargaining and agreements law", "LAW5392": "Globalisation and international economic law", "LAW5393": "Law of workforce management", "LAW5394": "Banking law", "LAW5395": "Arbitration of domestic commercial disputes", "LAW5396": "Economics of regulation", "LAW5397": "Issues in consumer policy", "LAW5398": "Transnational labour law", "LAW5399": "Personal property securities", "LAW5400": "International trade mark law", "LAW5402": "Innovation: Labour, competition and intellectual property law perspectives", "LAW5403": "International covenant on civil and political rights", "LAW5404": "Genocide and international law", "LAW5407": "Current issues in torts", "LAW5408": "Remedies in commercial disputes", "LAW5409": "Principles of family law", "LAW5410": "Collaborative practice", "LAW5411": "Advanced mediation: Skills and theory A", "LAW5412": "Advanced mediation: Skills and theory B", "LAW5413": "Legal process and professional conduct", "LAW5414": "Public international law", "LAW5415": "Domestic and international debt capital markets", "LAW5416": "Children's rights in Australian law", "LAW5417": "Children's rights in international law", "LAW5418": "Transitional justice", "LAW5419": "The law of financial transactions", "LAW5420": "Malaysian and Singaporean constitutional systems", "LAW5421": "Managing high conflict personalities in legal disputes", "LAW5422": "Victorian charter of rights and responsibilities", "LAW5423": "Private international law in commercial disputes", "LAW5424": "Human trafficking, modern slavery and the law", "LAW5425": "Current issues in copyright", "LAW5426": "Regulating business: Enforcement and compliance", "LAW5427": "Freedom of speech: Law theory and policy", "LAW5428": "Health law", "LAW5429": "Advanced commercial negotiation skills", "LAW5430": "Advanced evidence and proof in litigation", "LAW5431": "International entertainment law", "LAW5432": "Workplace investigations and misconduct", "LAW5433": "Victims, law and mass atrocity", "LAW5434": "Principles of government law and administration", "LAW5435": "Comparative perspectives on crime and punishment", "LAW5436": "International and comparative family law", "LAW5437": "China's legal system", "LAW5438": "Current issues in sports law", "LAW5439": "Sexual and gender minorities and human rights", "LAW5440": "International commercial dispute resolution advocacy", "LAW5441": "Australian tax policy", "LAW5442": "Racial, ethnic and linguistic minorities and human rights", "LAW5443": "Language, communication and legal process", "LAW5444": "Advanced commercial contracts masterclass", "LAW5445": "Commercial equity", "LAW5446": "Comparative media law", "LAW5447": "Intellectual property and the internet", "LAW5448": "Copyright X: US and international copyright law and theory", "LAW5449": "Advanced administrative law", "LAW5450": "Principles of succession law", "LAW5451": "Indigenous people and the law", "LAW5452": "Private investment law", "LAW5453": "Comparative international litigation", "LAW5454": "Climate change and displacement", "LAW5455": "Chinese law and innovation policies", "LAW5456": "Science, technology and law", "LAW5457": "Forensic evidence: Law, science, medicine and technology", "LAW5458": "Animal law, regulation and policy", "LAW5459": "Australians detained abroad", "LAW5460": "Online dispute resolution", "LAW5461": "Entrepreneurship and the law", "LAW5462": "Non-adversarial practice", "LAW5463": "Children's law in action", "LAW5464": "Negotiation and influence: Strategy and skills", "LAW5465": "Migration and Human Rights", "LAW5466": "Financial services law", "LAW5468": "Emerging technologies, global data flows and the law", "LAW5600": "Issues in medical ethics and law", "LAW5601": "Comparative remedies", "LAW5602": "International perspectives on torts law", "LAW5603": "Comparative cyberlaw", "LAW5604": "International environmental governance", "LAW5605": "Comparative dispute resolution", "LAW5606": "Restitution", "LAW5607": "Comparative evidence law", "LAW5608": "Transnational litigation", "LAW5609": "Law and liberty", "LAW5610": "Varieties of the secular: Law, religion, and social change", "LAW5611": "Comparative issues in patent law", "LAW5612": "International litigation and arbitration", "LAW5613": "Game theory and the law", "LAW5614": "Regulating relationships and families", "LAW5615": "Environmental activism, ecoterrorism and the law", "LAW5616": "Air and space law", "LAW5617": "International and comparative taxation law", "LAW5618": "Comparative cybercrime", "LAW5619": "European human rights law", "LAW5620": "Privacy and surveillance in an information age: Comparative law perspectives", "LAW5621": "Mediation and law: From problem solving to narrative building", "LAW5622": "Human dignity in comparative perspective", "LAW5623": "Human rights and the European Union", "LAW5624": "Introduction to Islamic law", "LAW5625": "Freedom of speech: Law, theory and policy", "LAW5626": "International and comparative insolvency law", "LAW5627": "Judgment and decision-making", "LAW5628": "International and comparative trademark law", "LAW5630": "European and international monetary law", "LAW5631": "Lawyers, literature and cinema", "LAW5632": "International information and media law", "LAW5633": "Contemporary workplace relations law", "LAW5634": "Global economic law", "LAW5635": "Contemporary issues in international sports law", "LAW5636": "EU external relations: Law and policy", "LAW5637": "Asian legal systems", "LAW5638": "Climate change and international law", "LAW5639": "Comparative indigenous rights", "LAW5640": "International and transnational law and the green economy", "LAW5642": "The global lawyer", "LAW5643": "Advanced negotiation and conflict resolution", "LAW5644": "Sovereignty and globalisation", "LAW5645": "Conventional and islamic international banking and finance law", "LAW5646": "Real property law in Asia and Australia", "LAW5647": "Contemporary issues in public policy, regulation and the law", "LAW5648": "Comparative commercial transactions law", "LAW5649": "Law in the age of artificial intelligence", "LAW5650": "Legal tech studio", "LAW5651": "Human rights and migration in comparative perspective", "LAW6300": "Doctor of Juridical Science seminar"}
+[
+  {
+    "unitcode": "LAW1111",
+    "unitname": "Foundations of law"
+  },
+  {
+    "unitcode": "LAW1112",
+    "unitname": "Public law and statutory interpretation"
+  },
+  {
+    "unitcode": "LAW1113",
+    "unitname": "Torts"
+  },
+  {
+    "unitcode": "LAW1114",
+    "unitname": "Criminal law 1"
+  },
+  {
+    "unitcode": "LAW2001",
+    "unitname": "Law in professional contexts"
+  },
+  {
+    "unitcode": "LAW2101",
+    "unitname": "Contract A"
+  },
+  {
+    "unitcode": "LAW2102",
+    "unitname": "Contract B"
+  },
+  {
+    "unitcode": "LAW2111",
+    "unitname": "Constitutional law"
+  },
+  {
+    "unitcode": "LAW2112",
+    "unitname": "Property A"
+  },
+  {
+    "unitcode": "LAW3111",
+    "unitname": "Equity"
+  },
+  {
+    "unitcode": "LAW3112",
+    "unitname": "Corporations law"
+  },
+  {
+    "unitcode": "LAW3402",
+    "unitname": "Property B"
+  },
+  {
+    "unitcode": "LAW4101",
+    "unitname": "Administration of criminal justice"
+  },
+  {
+    "unitcode": "LAW4104",
+    "unitname": "Australian banking law"
+  },
+  {
+    "unitcode": "LAW4108",
+    "unitname": "Constitutional law of Malaysia"
+  },
+  {
+    "unitcode": "LAW4111",
+    "unitname": "Crime and gender"
+  },
+  {
+    "unitcode": "LAW4112",
+    "unitname": "Advanced constitutional law"
+  },
+  {
+    "unitcode": "LAW4113",
+    "unitname": "Current problems in criminal law"
+  },
+  {
+    "unitcode": "LAW4115",
+    "unitname": "Environmental law"
+  },
+  {
+    "unitcode": "LAW4119",
+    "unitname": "Contemporary workplace relations law"
+  },
+  {
+    "unitcode": "LAW4121",
+    "unitname": "Insurance law"
+  },
+  {
+    "unitcode": "LAW4122",
+    "unitname": "International law"
+  },
+  {
+    "unitcode": "LAW4123",
+    "unitname": "International organisations"
+  },
+  {
+    "unitcode": "LAW4125",
+    "unitname": "Comparative antitrust law"
+  },
+  {
+    "unitcode": "LAW4126",
+    "unitname": "Asian legal systems"
+  },
+  {
+    "unitcode": "LAW4127",
+    "unitname": "Collective labour rights"
+  },
+  {
+    "unitcode": "LAW4129",
+    "unitname": "Law and discrimination"
+  },
+  {
+    "unitcode": "LAW4130",
+    "unitname": "Law and social theory"
+  },
+  {
+    "unitcode": "LAW4132",
+    "unitname": "Law of employment"
+  },
+  {
+    "unitcode": "LAW4133",
+    "unitname": "International law seminar: International public order"
+  },
+  {
+    "unitcode": "LAW4137",
+    "unitname": "Legal philosophy"
+  },
+  {
+    "unitcode": "LAW4140",
+    "unitname": "Media law 2"
+  },
+  {
+    "unitcode": "LAW4151",
+    "unitname": "Theoretical perspectives on law, gender and feminism"
+  },
+  {
+    "unitcode": "LAW4153",
+    "unitname": "Comparative European legal systems"
+  },
+  {
+    "unitcode": "LAW4155",
+    "unitname": "International human rights"
+  },
+  {
+    "unitcode": "LAW4156",
+    "unitname": "Conflict of laws - private international law"
+  },
+  {
+    "unitcode": "LAW4158",
+    "unitname": "Indigenous peoples and the law"
+  },
+  {
+    "unitcode": "LAW4159",
+    "unitname": "International business transactions"
+  },
+  {
+    "unitcode": "LAW4160",
+    "unitname": "Negotiation and conflict resolution"
+  },
+  {
+    "unitcode": "LAW4161",
+    "unitname": "Introduction to European Union law"
+  },
+  {
+    "unitcode": "LAW4162",
+    "unitname": "Family property and financial disputes"
+  },
+  {
+    "unitcode": "LAW4163",
+    "unitname": "Parents, children and the state"
+  },
+  {
+    "unitcode": "LAW4164",
+    "unitname": "International refugee law and practice"
+  },
+  {
+    "unitcode": "LAW4165",
+    "unitname": "Comparative constitutions and rights"
+  },
+  {
+    "unitcode": "LAW4166",
+    "unitname": "Citizenship and migration law"
+  },
+  {
+    "unitcode": "LAW4170",
+    "unitname": "Trusts"
+  },
+  {
+    "unitcode": "LAW4172",
+    "unitname": "Human rights in Australian law"
+  },
+  {
+    "unitcode": "LAW4173",
+    "unitname": "Research unit A"
+  },
+  {
+    "unitcode": "LAW4174",
+    "unitname": "Research unit B"
+  },
+  {
+    "unitcode": "LAW4176",
+    "unitname": "Applied legal research"
+  },
+  {
+    "unitcode": "LAW4177",
+    "unitname": "Introduction to family law"
+  },
+  {
+    "unitcode": "LAW4178",
+    "unitname": "Comparative civil procedure"
+  },
+  {
+    "unitcode": "LAW4179",
+    "unitname": "International commercial arbitration"
+  },
+  {
+    "unitcode": "LAW4180",
+    "unitname": "International law of the sea and maritime security: Pirates, poachers, people smugglers & terrorists"
+  },
+  {
+    "unitcode": "LAW4184",
+    "unitname": "International criminal law"
+  },
+  {
+    "unitcode": "LAW4188",
+    "unitname": "International banking law"
+  },
+  {
+    "unitcode": "LAW4189",
+    "unitname": "Comparative criminal law"
+  },
+  {
+    "unitcode": "LAW4190",
+    "unitname": "Construction law: Principles and practice"
+  },
+  {
+    "unitcode": "LAW4193",
+    "unitname": "Biotechnology and the law"
+  },
+  {
+    "unitcode": "LAW4196",
+    "unitname": "Consumer law"
+  },
+  {
+    "unitcode": "LAW4197",
+    "unitname": "Current issues in Indigenous rights: International, comparative and regional perspectives"
+  },
+  {
+    "unitcode": "LAW4198",
+    "unitname": "Australian commercial law"
+  },
+  {
+    "unitcode": "LAW4199",
+    "unitname": "International laws of armed conflict"
+  },
+  {
+    "unitcode": "LAW4214",
+    "unitname": "Supervised research paper"
+  },
+  {
+    "unitcode": "LAW4219",
+    "unitname": "The law of financial transactions"
+  },
+  {
+    "unitcode": "LAW4225",
+    "unitname": "Non-adversarial justice"
+  },
+  {
+    "unitcode": "LAW4227",
+    "unitname": "Criminal investigation law and procedure"
+  },
+  {
+    "unitcode": "LAW4228",
+    "unitname": "Problem based learning seminar"
+  },
+  {
+    "unitcode": "LAW4229",
+    "unitname": "Comparative tax policy"
+  },
+  {
+    "unitcode": "LAW4230",
+    "unitname": "Animal law"
+  },
+  {
+    "unitcode": "LAW4242",
+    "unitname": "Introduction to transitional justice"
+  },
+  {
+    "unitcode": "LAW4243",
+    "unitname": "Tax policy"
+  },
+  {
+    "unitcode": "LAW4244",
+    "unitname": "Construction law (dispute resolution)"
+  },
+  {
+    "unitcode": "LAW4247",
+    "unitname": "Current issues in statutory interpretation"
+  },
+  {
+    "unitcode": "LAW4249",
+    "unitname": "Environmental activism, ecoterrorism and the law"
+  },
+  {
+    "unitcode": "LAW4250",
+    "unitname": "The global lawyer"
+  },
+  {
+    "unitcode": "LAW4251",
+    "unitname": "Advanced copyright: Global law and policy"
+  },
+  {
+    "unitcode": "LAW4252",
+    "unitname": "Chinese legal institutions and laws"
+  },
+  {
+    "unitcode": "LAW4301",
+    "unitname": "Advanced torts"
+  },
+  {
+    "unitcode": "LAW4302",
+    "unitname": "The law of public listed companies"
+  },
+  {
+    "unitcode": "LAW4303",
+    "unitname": "Litigation and dispute resolution"
+  },
+  {
+    "unitcode": "LAW4304",
+    "unitname": "Forensic evidence: Law, science, medicine and technology"
+  },
+  {
+    "unitcode": "LAW4305",
+    "unitname": "Federal criminal justice"
+  },
+  {
+    "unitcode": "LAW4306",
+    "unitname": "Sentencing and sanctions"
+  },
+  {
+    "unitcode": "LAW4308",
+    "unitname": "Restitution"
+  },
+  {
+    "unitcode": "LAW4309",
+    "unitname": "Lawyers ethics in practice"
+  },
+  {
+    "unitcode": "LAW4310",
+    "unitname": "Trial practice and advocacy"
+  },
+  {
+    "unitcode": "LAW4311",
+    "unitname": "Succession law"
+  },
+  {
+    "unitcode": "LAW4312",
+    "unitname": "Legal issues in medicine"
+  },
+  {
+    "unitcode": "LAW4313",
+    "unitname": "International environmental law"
+  },
+  {
+    "unitcode": "LAW4314",
+    "unitname": "International space law"
+  },
+  {
+    "unitcode": "LAW4316",
+    "unitname": "Media law 1"
+  },
+  {
+    "unitcode": "LAW4318",
+    "unitname": "Competition law"
+  },
+  {
+    "unitcode": "LAW4319",
+    "unitname": "Superannuation law"
+  },
+  {
+    "unitcode": "LAW4322",
+    "unitname": "Advanced taxation law"
+  },
+  {
+    "unitcode": "LAW4323",
+    "unitname": "Evidence"
+  },
+  {
+    "unitcode": "LAW4324",
+    "unitname": "Corporate governance and shareholders remedies"
+  },
+  {
+    "unitcode": "LAW4325",
+    "unitname": "Advanced evidence"
+  },
+  {
+    "unitcode": "LAW4326",
+    "unitname": "Cyberlaw"
+  },
+  {
+    "unitcode": "LAW4327",
+    "unitname": "Honours thesis"
+  },
+  {
+    "unitcode": "LAW4328",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "LAW4329",
+    "unitname": "Comparative cyberlaw"
+  },
+  {
+    "unitcode": "LAW4330",
+    "unitname": "Family law assistance program: Professional practice"
+  },
+  {
+    "unitcode": "LAW4331",
+    "unitname": "Administrative law"
+  },
+  {
+    "unitcode": "LAW4332",
+    "unitname": "Criminal law and procedure 2"
+  },
+  {
+    "unitcode": "LAW4333",
+    "unitname": "Corporate insolvency"
+  },
+  {
+    "unitcode": "LAW4339",
+    "unitname": "Personal insolvency"
+  },
+  {
+    "unitcode": "LAW4340",
+    "unitname": "Sport and the law"
+  },
+  {
+    "unitcode": "LAW4341",
+    "unitname": "Copyright and designs"
+  },
+  {
+    "unitcode": "LAW4342",
+    "unitname": "Patents, trade marks and unfair competition"
+  },
+  {
+    "unitcode": "LAW4343",
+    "unitname": "Sovereignty and globalisation"
+  },
+  {
+    "unitcode": "LAW4484",
+    "unitname": "Malaysian and Singaporean constitutional systems"
+  },
+  {
+    "unitcode": "LAW4513",
+    "unitname": "Capital markets regulation: A comparative perspective"
+  },
+  {
+    "unitcode": "LAW4515",
+    "unitname": "International criminology"
+  },
+  {
+    "unitcode": "LAW4516",
+    "unitname": "Comparative perspectives on crime and punishment"
+  },
+  {
+    "unitcode": "LAW4522",
+    "unitname": "Remedies"
+  },
+  {
+    "unitcode": "LAW4523",
+    "unitname": "The judiciary in comparative perspective"
+  },
+  {
+    "unitcode": "LAW4526",
+    "unitname": "World Trade Organisation (WTO) law"
+  },
+  {
+    "unitcode": "LAW4528",
+    "unitname": "Comparative consumer bankruptcy"
+  },
+  {
+    "unitcode": "LAW4531",
+    "unitname": "Product liability law from a comparative perspective"
+  },
+  {
+    "unitcode": "LAW4532",
+    "unitname": "Climate change and international law"
+  },
+  {
+    "unitcode": "LAW4533",
+    "unitname": "International and comparative taxation law"
+  },
+  {
+    "unitcode": "LAW4534",
+    "unitname": "Law and biology"
+  },
+  {
+    "unitcode": "LAW4535",
+    "unitname": "International and comparative trade mark law"
+  },
+  {
+    "unitcode": "LAW4536",
+    "unitname": "International and comparative family law"
+  },
+  {
+    "unitcode": "LAW4537",
+    "unitname": "Public policy, regulation and the law"
+  },
+  {
+    "unitcode": "LAW4538",
+    "unitname": "Lawyers, literature and cinema"
+  },
+  {
+    "unitcode": "LAW4539",
+    "unitname": "Modern constitutionalism: A comparative perspective"
+  },
+  {
+    "unitcode": "LAW4540",
+    "unitname": "Entrepreneurship and the law"
+  },
+  {
+    "unitcode": "LAW4541",
+    "unitname": "Gender and the law"
+  },
+  {
+    "unitcode": "LAW4641",
+    "unitname": "Intellectual property: Theory, copyright and design"
+  },
+  {
+    "unitcode": "LAW4642",
+    "unitname": "Issues in medical ethics and law"
+  },
+  {
+    "unitcode": "LAW4643",
+    "unitname": "Corporate social responsibility"
+  },
+  {
+    "unitcode": "LAW4644",
+    "unitname": "Comparative remedies"
+  },
+  {
+    "unitcode": "LAW4645",
+    "unitname": "International perspectives on torts law"
+  },
+  {
+    "unitcode": "LAW4646",
+    "unitname": "Sexuality and the law"
+  },
+  {
+    "unitcode": "LAW4647",
+    "unitname": "Great books of the common law"
+  },
+  {
+    "unitcode": "LAW4648",
+    "unitname": "Ethics and criminal justice"
+  },
+  {
+    "unitcode": "LAW4649",
+    "unitname": "Mediation and law: From problem solving to narrative building"
+  },
+  {
+    "unitcode": "LAW4651",
+    "unitname": "Comparative evidence law"
+  },
+  {
+    "unitcode": "LAW4652",
+    "unitname": "Transnational litigation"
+  },
+  {
+    "unitcode": "LAW4653",
+    "unitname": "Privacy and surveillance in an information age: Comparative law perspectives"
+  },
+  {
+    "unitcode": "LAW4654",
+    "unitname": "Law and liberty"
+  },
+  {
+    "unitcode": "LAW4655",
+    "unitname": "Comparative issues in patent law"
+  },
+  {
+    "unitcode": "LAW4656",
+    "unitname": "Varieties of the secular: Law, religion, and social change"
+  },
+  {
+    "unitcode": "LAW4658",
+    "unitname": "International litigation and arbitration"
+  },
+  {
+    "unitcode": "LAW4659",
+    "unitname": "Game theory and the law"
+  },
+  {
+    "unitcode": "LAW4660",
+    "unitname": "Regulating relationships and families"
+  },
+  {
+    "unitcode": "LAW4662",
+    "unitname": "Air and space law"
+  },
+  {
+    "unitcode": "LAW4663",
+    "unitname": "International environmental governance"
+  },
+  {
+    "unitcode": "LAW4664",
+    "unitname": "Comparative dispute resolution"
+  },
+  {
+    "unitcode": "LAW4665",
+    "unitname": "Comparative cybercrime"
+  },
+  {
+    "unitcode": "LAW4666",
+    "unitname": "European human rights law"
+  },
+  {
+    "unitcode": "LAW4667",
+    "unitname": "Human dignity in comparative perspective"
+  },
+  {
+    "unitcode": "LAW4668",
+    "unitname": "International investment law"
+  },
+  {
+    "unitcode": "LAW4669",
+    "unitname": "Humans rights and the European Union"
+  },
+  {
+    "unitcode": "LAW4670",
+    "unitname": "Introduction to Islamic law"
+  },
+  {
+    "unitcode": "LAW4671",
+    "unitname": "Private investment law"
+  },
+  {
+    "unitcode": "LAW4673",
+    "unitname": "European and international monetary law"
+  },
+  {
+    "unitcode": "LAW4674",
+    "unitname": "Freedom of speech: Law, theory and policy"
+  },
+  {
+    "unitcode": "LAW4675",
+    "unitname": "International and comparative insolvency law"
+  },
+  {
+    "unitcode": "LAW4676",
+    "unitname": "Judgment and decision-making"
+  },
+  {
+    "unitcode": "LAW4677",
+    "unitname": "International information and media law"
+  },
+  {
+    "unitcode": "LAW4678",
+    "unitname": "International criminal justice"
+  },
+  {
+    "unitcode": "LAW4679",
+    "unitname": "The law of climate change"
+  },
+  {
+    "unitcode": "LAW4680",
+    "unitname": "Australian corporations law"
+  },
+  {
+    "unitcode": "LAW4681",
+    "unitname": "Global economic law"
+  },
+  {
+    "unitcode": "LAW4682",
+    "unitname": "Contemporary issues in international sports law"
+  },
+  {
+    "unitcode": "LAW4683",
+    "unitname": "EU external relations: Law and policy"
+  },
+  {
+    "unitcode": "LAW4684",
+    "unitname": "Comparative indigenous rights"
+  },
+  {
+    "unitcode": "LAW4685",
+    "unitname": "International and transnational law and the green economy"
+  },
+  {
+    "unitcode": "LAW4686",
+    "unitname": "Contemporary issues in public policy, regulation and the law"
+  },
+  {
+    "unitcode": "LAW4687",
+    "unitname": "Human trafficking, modern slavery and the law"
+  },
+  {
+    "unitcode": "LAW4688",
+    "unitname": "Comparative commercial transactions law"
+  },
+  {
+    "unitcode": "LAW4689",
+    "unitname": "International humanitarian law"
+  },
+  {
+    "unitcode": "LAW4690",
+    "unitname": "Human rights and migration in comparative perspective"
+  },
+  {
+    "unitcode": "LAW4701",
+    "unitname": "Commercial transactions"
+  },
+  {
+    "unitcode": "LAW4702",
+    "unitname": "Competition and consumer law"
+  },
+  {
+    "unitcode": "LAW4703",
+    "unitname": "Introduction to intellectual property"
+  },
+  {
+    "unitcode": "LAW4704",
+    "unitname": "Taxation law"
+  },
+  {
+    "unitcode": "LAW4801",
+    "unitname": "Research project"
+  },
+  {
+    "unitcode": "LAW4802",
+    "unitname": "Research practicum"
+  },
+  {
+    "unitcode": "LAW4803",
+    "unitname": "Clinical placement"
+  },
+  {
+    "unitcode": "LAW4805",
+    "unitname": "Mooting and advocacy competition"
+  },
+  {
+    "unitcode": "LAW4806",
+    "unitname": "Jessup moot competition"
+  },
+  {
+    "unitcode": "LAW4807",
+    "unitname": "Vis arbitration moot"
+  },
+  {
+    "unitcode": "LAW4808",
+    "unitname": "Law Review editorship 1"
+  },
+  {
+    "unitcode": "LAW4809",
+    "unitname": "Law Review editorship 2"
+  },
+  {
+    "unitcode": "LAW4810",
+    "unitname": "Work integrated learning project"
+  },
+  {
+    "unitcode": "LAW4811",
+    "unitname": "In-house clinical placement"
+  },
+  {
+    "unitcode": "LAW5000",
+    "unitname": "Australian legal reasoning and methods"
+  },
+  {
+    "unitcode": "LAW5001",
+    "unitname": "Principles of criminal law and procedure"
+  },
+  {
+    "unitcode": "LAW5002",
+    "unitname": "Principles of contract law A"
+  },
+  {
+    "unitcode": "LAW5003",
+    "unitname": "Principles of torts"
+  },
+  {
+    "unitcode": "LAW5004",
+    "unitname": "Principles of public law and statutory interpretation"
+  },
+  {
+    "unitcode": "LAW5005",
+    "unitname": "Principles of contract law B"
+  },
+  {
+    "unitcode": "LAW5006",
+    "unitname": "Principles of property law"
+  },
+  {
+    "unitcode": "LAW5007",
+    "unitname": "Principles of constitutional law"
+  },
+  {
+    "unitcode": "LAW5008",
+    "unitname": "Principles of equity"
+  },
+  {
+    "unitcode": "LAW5010",
+    "unitname": "Principles of trusts"
+  },
+  {
+    "unitcode": "LAW5011",
+    "unitname": "Principles of company law"
+  },
+  {
+    "unitcode": "LAW5012",
+    "unitname": "Principles of evidence"
+  },
+  {
+    "unitcode": "LAW5013",
+    "unitname": "Principles of litigation and dispute resolution"
+  },
+  {
+    "unitcode": "LAW5014",
+    "unitname": "Principles of administrative law"
+  },
+  {
+    "unitcode": "LAW5015",
+    "unitname": "Ethics in legal practice"
+  },
+  {
+    "unitcode": "LAW5018",
+    "unitname": "Advanced property law"
+  },
+  {
+    "unitcode": "LAW5050",
+    "unitname": "Professional practice (JD)"
+  },
+  {
+    "unitcode": "LAW5051",
+    "unitname": "Research practicum"
+  },
+  {
+    "unitcode": "LAW5052",
+    "unitname": "Professional project"
+  },
+  {
+    "unitcode": "LAW5053",
+    "unitname": "Law Review editorship 1"
+  },
+  {
+    "unitcode": "LAW5054",
+    "unitname": "Law Review editorship 2"
+  },
+  {
+    "unitcode": "LAW5055",
+    "unitname": "Vis arbitration moot"
+  },
+  {
+    "unitcode": "LAW5056",
+    "unitname": "Jessup moot competition"
+  },
+  {
+    "unitcode": "LAW5057",
+    "unitname": "Work integrated learning project"
+  },
+  {
+    "unitcode": "LAW5080",
+    "unitname": "Australian legal system"
+  },
+  {
+    "unitcode": "LAW5081",
+    "unitname": "Australian legal process and research"
+  },
+  {
+    "unitcode": "LAW5082",
+    "unitname": "Masters research"
+  },
+  {
+    "unitcode": "LAW5083",
+    "unitname": "Extended research"
+  },
+  {
+    "unitcode": "LAW5084",
+    "unitname": "Minor thesis"
+  },
+  {
+    "unitcode": "LAW5185",
+    "unitname": "Graduate research paper"
+  },
+  {
+    "unitcode": "LAW5300",
+    "unitname": "Commercial tenancy law"
+  },
+  {
+    "unitcode": "LAW5301",
+    "unitname": "Copyright"
+  },
+  {
+    "unitcode": "LAW5302",
+    "unitname": "European Union law and policy"
+  },
+  {
+    "unitcode": "LAW5303",
+    "unitname": "Forensic family law"
+  },
+  {
+    "unitcode": "LAW5304",
+    "unitname": "Overview of international human rights law"
+  },
+  {
+    "unitcode": "LAW5305",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "LAW5306",
+    "unitname": "Corporate insolvency"
+  },
+  {
+    "unitcode": "LAW5307",
+    "unitname": "Occupational health and safety"
+  },
+  {
+    "unitcode": "LAW5308",
+    "unitname": "Current issues in evidence"
+  },
+  {
+    "unitcode": "LAW5309",
+    "unitname": "Public sector employment law"
+  },
+  {
+    "unitcode": "LAW5310",
+    "unitname": "Sentencing"
+  },
+  {
+    "unitcode": "LAW5311",
+    "unitname": "Takeovers"
+  },
+  {
+    "unitcode": "LAW5312",
+    "unitname": "Competition law"
+  },
+  {
+    "unitcode": "LAW5313",
+    "unitname": "Planning law"
+  },
+  {
+    "unitcode": "LAW5314",
+    "unitname": "International environmental law"
+  },
+  {
+    "unitcode": "LAW5315",
+    "unitname": "Commercial alternative dispute resolution"
+  },
+  {
+    "unitcode": "LAW5316",
+    "unitname": "Trade marks and commercial designations"
+  },
+  {
+    "unitcode": "LAW5317",
+    "unitname": "Principles of privacy and freedom of information"
+  },
+  {
+    "unitcode": "LAW5318",
+    "unitname": "International aspects of intellectual property"
+  },
+  {
+    "unitcode": "LAW5319",
+    "unitname": "Law of employee relations"
+  },
+  {
+    "unitcode": "LAW5320",
+    "unitname": "Local government law"
+  },
+  {
+    "unitcode": "LAW5321",
+    "unitname": "Protecting commercial innovation: Patents and trade secrets"
+  },
+  {
+    "unitcode": "LAW5322",
+    "unitname": "Superannuation law and practice"
+  },
+  {
+    "unitcode": "LAW5323",
+    "unitname": "Collective labour rights"
+  },
+  {
+    "unitcode": "LAW5324",
+    "unitname": "Discrimination law, theory and policy"
+  },
+  {
+    "unitcode": "LAW5325",
+    "unitname": "Defamation law"
+  },
+  {
+    "unitcode": "LAW5326",
+    "unitname": "Comparative European legal systems"
+  },
+  {
+    "unitcode": "LAW5327",
+    "unitname": "International human rights"
+  },
+  {
+    "unitcode": "LAW5328",
+    "unitname": "International business transactions"
+  },
+  {
+    "unitcode": "LAW5329",
+    "unitname": "Introduction to European Union law"
+  },
+  {
+    "unitcode": "LAW5330",
+    "unitname": "International refugee law and practice"
+  },
+  {
+    "unitcode": "LAW5331",
+    "unitname": "Comparative constitution and rights"
+  },
+  {
+    "unitcode": "LAW5332",
+    "unitname": "International commercial arbitration"
+  },
+  {
+    "unitcode": "LAW5333",
+    "unitname": "Comparative criminal law"
+  },
+  {
+    "unitcode": "LAW5334",
+    "unitname": "Psychiatry, psychology and law"
+  },
+  {
+    "unitcode": "LAW5335",
+    "unitname": "Contemporary problems in the administration of criminal justice"
+  },
+  {
+    "unitcode": "LAW5336",
+    "unitname": "Law of the internet"
+  },
+  {
+    "unitcode": "LAW5337",
+    "unitname": "Labour law for corporate lawyers"
+  },
+  {
+    "unitcode": "LAW5338",
+    "unitname": "International humanitarian law"
+  },
+  {
+    "unitcode": "LAW5339",
+    "unitname": "Technology contracts and licensing law"
+  },
+  {
+    "unitcode": "LAW5340",
+    "unitname": "Intellectual property"
+  },
+  {
+    "unitcode": "LAW5341",
+    "unitname": "Trade mark practice"
+  },
+  {
+    "unitcode": "LAW5342",
+    "unitname": "Current issues in electronic commerce law"
+  },
+  {
+    "unitcode": "LAW5343",
+    "unitname": "Privacy and surveillance: Law, policy and governance"
+  },
+  {
+    "unitcode": "LAW5344",
+    "unitname": "Negotiation: Essential skills for dispute resolution"
+  },
+  {
+    "unitcode": "LAW5345",
+    "unitname": "Business and human rights"
+  },
+  {
+    "unitcode": "LAW5346",
+    "unitname": "Design law and practice"
+  },
+  {
+    "unitcode": "LAW5347",
+    "unitname": "Consumer policy and regulation"
+  },
+  {
+    "unitcode": "LAW5348",
+    "unitname": "Indigenous rights and international law"
+  },
+  {
+    "unitcode": "LAW5350",
+    "unitname": "Principles of taxation"
+  },
+  {
+    "unitcode": "LAW5351",
+    "unitname": "Comparative competition law"
+  },
+  {
+    "unitcode": "LAW5352",
+    "unitname": "Electronic workplace law"
+  },
+  {
+    "unitcode": "LAW5353",
+    "unitname": "Cybercrime"
+  },
+  {
+    "unitcode": "LAW5354",
+    "unitname": "International criminal justice"
+  },
+  {
+    "unitcode": "LAW5355",
+    "unitname": "Advocacy"
+  },
+  {
+    "unitcode": "LAW5356",
+    "unitname": "Corporate and white collar crime"
+  },
+  {
+    "unitcode": "LAW5357",
+    "unitname": "Corporate governance and directors' duties"
+  },
+  {
+    "unitcode": "LAW5358",
+    "unitname": "Current issues in workplace law"
+  },
+  {
+    "unitcode": "LAW5359",
+    "unitname": "International human rights law and women"
+  },
+  {
+    "unitcode": "LAW5360",
+    "unitname": "Advanced conflict resolution skills"
+  },
+  {
+    "unitcode": "LAW5361",
+    "unitname": "Foundations of regulation: Policy, principles and practice"
+  },
+  {
+    "unitcode": "LAW5362",
+    "unitname": "Regulatory methods"
+  },
+  {
+    "unitcode": "LAW5363",
+    "unitname": "Regulatory performance: Evaluating what works"
+  },
+  {
+    "unitcode": "LAW5364",
+    "unitname": "Economic, social and cultural rights and international law"
+  },
+  {
+    "unitcode": "LAW5365",
+    "unitname": "Terrorism and human rights"
+  },
+  {
+    "unitcode": "LAW5366",
+    "unitname": "International banking and finance: Law and practice"
+  },
+  {
+    "unitcode": "LAW5367",
+    "unitname": "Energy law, regulation and policy"
+  },
+  {
+    "unitcode": "LAW5368",
+    "unitname": "Regulation of Australian water resources"
+  },
+  {
+    "unitcode": "LAW5369",
+    "unitname": "World Trade Organization (WTO) law"
+  },
+  {
+    "unitcode": "LAW5370",
+    "unitname": "Discrimination law and human rights at work"
+  },
+  {
+    "unitcode": "LAW5371",
+    "unitname": "Protecting the rights of minorities, marginalised and vulnerable people"
+  },
+  {
+    "unitcode": "LAW5372",
+    "unitname": "Principles of construction law"
+  },
+  {
+    "unitcode": "LAW5373",
+    "unitname": "Comparative bills of rights"
+  },
+  {
+    "unitcode": "LAW5374",
+    "unitname": "Federal labour law"
+  },
+  {
+    "unitcode": "LAW5375",
+    "unitname": "Arbitration of international commercial disputes"
+  },
+  {
+    "unitcode": "LAW5376",
+    "unitname": "International criminal law: Procedural and practical aspects"
+  },
+  {
+    "unitcode": "LAW5377",
+    "unitname": "The use of force in international law"
+  },
+  {
+    "unitcode": "LAW5378",
+    "unitname": "Comparative corporate governance"
+  },
+  {
+    "unitcode": "LAW5379",
+    "unitname": "Procurement law"
+  },
+  {
+    "unitcode": "LAW5380",
+    "unitname": "International human rights law and development"
+  },
+  {
+    "unitcode": "LAW5381",
+    "unitname": "Human rights advocacy: Australian law and practice"
+  },
+  {
+    "unitcode": "LAW5382",
+    "unitname": "Principles of environmental law"
+  },
+  {
+    "unitcode": "LAW5383",
+    "unitname": "International refugee law and human rights"
+  },
+  {
+    "unitcode": "LAW5384",
+    "unitname": "International investment law"
+  },
+  {
+    "unitcode": "LAW5385",
+    "unitname": "Corporate finance law"
+  },
+  {
+    "unitcode": "LAW5386",
+    "unitname": "Health law and human rights"
+  },
+  {
+    "unitcode": "LAW5387",
+    "unitname": "Non-adversarial family and children's law"
+  },
+  {
+    "unitcode": "LAW5388",
+    "unitname": "Patenting for commercialisation"
+  },
+  {
+    "unitcode": "LAW5389",
+    "unitname": "The law of climate change"
+  },
+  {
+    "unitcode": "LAW5390",
+    "unitname": "Workplace bargaining and agreements law"
+  },
+  {
+    "unitcode": "LAW5392",
+    "unitname": "Globalisation and international economic law"
+  },
+  {
+    "unitcode": "LAW5393",
+    "unitname": "Law of workforce management"
+  },
+  {
+    "unitcode": "LAW5394",
+    "unitname": "Banking law"
+  },
+  {
+    "unitcode": "LAW5395",
+    "unitname": "Arbitration of domestic commercial disputes"
+  },
+  {
+    "unitcode": "LAW5396",
+    "unitname": "Economics of regulation"
+  },
+  {
+    "unitcode": "LAW5397",
+    "unitname": "Issues in consumer policy"
+  },
+  {
+    "unitcode": "LAW5398",
+    "unitname": "Transnational labour law"
+  },
+  {
+    "unitcode": "LAW5399",
+    "unitname": "Personal property securities"
+  },
+  {
+    "unitcode": "LAW5400",
+    "unitname": "International trade mark law"
+  },
+  {
+    "unitcode": "LAW5402",
+    "unitname": "Innovation: Labour, competition and intellectual property law perspectives"
+  },
+  {
+    "unitcode": "LAW5403",
+    "unitname": "International covenant on civil and political rights"
+  },
+  {
+    "unitcode": "LAW5404",
+    "unitname": "Genocide and international law"
+  },
+  {
+    "unitcode": "LAW5407",
+    "unitname": "Current issues in torts"
+  },
+  {
+    "unitcode": "LAW5408",
+    "unitname": "Remedies in commercial disputes"
+  },
+  {
+    "unitcode": "LAW5409",
+    "unitname": "Principles of family law"
+  },
+  {
+    "unitcode": "LAW5410",
+    "unitname": "Collaborative practice"
+  },
+  {
+    "unitcode": "LAW5411",
+    "unitname": "Advanced mediation: Skills and theory A"
+  },
+  {
+    "unitcode": "LAW5412",
+    "unitname": "Advanced mediation: Skills and theory B"
+  },
+  {
+    "unitcode": "LAW5413",
+    "unitname": "Legal process and professional conduct"
+  },
+  {
+    "unitcode": "LAW5414",
+    "unitname": "Public international law"
+  },
+  {
+    "unitcode": "LAW5415",
+    "unitname": "Domestic and international debt capital markets"
+  },
+  {
+    "unitcode": "LAW5416",
+    "unitname": "Children's rights in Australian law"
+  },
+  {
+    "unitcode": "LAW5417",
+    "unitname": "Children's rights in international law"
+  },
+  {
+    "unitcode": "LAW5418",
+    "unitname": "Transitional justice"
+  },
+  {
+    "unitcode": "LAW5419",
+    "unitname": "The law of financial transactions"
+  },
+  {
+    "unitcode": "LAW5420",
+    "unitname": "Malaysian and Singaporean constitutional systems"
+  },
+  {
+    "unitcode": "LAW5421",
+    "unitname": "Managing high conflict personalities in legal disputes"
+  },
+  {
+    "unitcode": "LAW5422",
+    "unitname": "Victorian charter of rights and responsibilities"
+  },
+  {
+    "unitcode": "LAW5423",
+    "unitname": "Private international law in commercial disputes"
+  },
+  {
+    "unitcode": "LAW5424",
+    "unitname": "Human trafficking, modern slavery and the law"
+  },
+  {
+    "unitcode": "LAW5425",
+    "unitname": "Current issues in copyright"
+  },
+  {
+    "unitcode": "LAW5426",
+    "unitname": "Regulating business: Enforcement and compliance"
+  },
+  {
+    "unitcode": "LAW5427",
+    "unitname": "Freedom of speech: Law theory and policy"
+  },
+  {
+    "unitcode": "LAW5428",
+    "unitname": "Health law"
+  },
+  {
+    "unitcode": "LAW5429",
+    "unitname": "Advanced commercial negotiation skills"
+  },
+  {
+    "unitcode": "LAW5430",
+    "unitname": "Advanced evidence and proof in litigation"
+  },
+  {
+    "unitcode": "LAW5431",
+    "unitname": "International entertainment law"
+  },
+  {
+    "unitcode": "LAW5432",
+    "unitname": "Workplace investigations and misconduct"
+  },
+  {
+    "unitcode": "LAW5433",
+    "unitname": "Victims, law and mass atrocity"
+  },
+  {
+    "unitcode": "LAW5434",
+    "unitname": "Principles of government law and administration"
+  },
+  {
+    "unitcode": "LAW5435",
+    "unitname": "Comparative perspectives on crime and punishment"
+  },
+  {
+    "unitcode": "LAW5436",
+    "unitname": "International and comparative family law"
+  },
+  {
+    "unitcode": "LAW5437",
+    "unitname": "China's legal system"
+  },
+  {
+    "unitcode": "LAW5438",
+    "unitname": "Current issues in sports law"
+  },
+  {
+    "unitcode": "LAW5439",
+    "unitname": "Sexual and gender minorities and human rights"
+  },
+  {
+    "unitcode": "LAW5440",
+    "unitname": "International commercial dispute resolution advocacy"
+  },
+  {
+    "unitcode": "LAW5441",
+    "unitname": "Australian tax policy"
+  },
+  {
+    "unitcode": "LAW5442",
+    "unitname": "Racial, ethnic and linguistic minorities and human rights"
+  },
+  {
+    "unitcode": "LAW5443",
+    "unitname": "Language, communication and legal process"
+  },
+  {
+    "unitcode": "LAW5444",
+    "unitname": "Advanced commercial contracts masterclass"
+  },
+  {
+    "unitcode": "LAW5445",
+    "unitname": "Commercial equity"
+  },
+  {
+    "unitcode": "LAW5446",
+    "unitname": "Comparative media law"
+  },
+  {
+    "unitcode": "LAW5447",
+    "unitname": "Intellectual property and the internet"
+  },
+  {
+    "unitcode": "LAW5448",
+    "unitname": "Copyright X: US and international copyright law and theory"
+  },
+  {
+    "unitcode": "LAW5449",
+    "unitname": "Advanced administrative law"
+  },
+  {
+    "unitcode": "LAW5450",
+    "unitname": "Principles of succession law"
+  },
+  {
+    "unitcode": "LAW5451",
+    "unitname": "Indigenous people and the law"
+  },
+  {
+    "unitcode": "LAW5452",
+    "unitname": "Private investment law"
+  },
+  {
+    "unitcode": "LAW5453",
+    "unitname": "Comparative international litigation"
+  },
+  {
+    "unitcode": "LAW5454",
+    "unitname": "Climate change and displacement"
+  },
+  {
+    "unitcode": "LAW5455",
+    "unitname": "Chinese law and innovation policies"
+  },
+  {
+    "unitcode": "LAW5456",
+    "unitname": "Science, technology and law"
+  },
+  {
+    "unitcode": "LAW5457",
+    "unitname": "Forensic evidence: Law, science, medicine and technology"
+  },
+  {
+    "unitcode": "LAW5458",
+    "unitname": "Animal law, regulation and policy"
+  },
+  {
+    "unitcode": "LAW5459",
+    "unitname": "Australians detained abroad"
+  },
+  {
+    "unitcode": "LAW5460",
+    "unitname": "Online dispute resolution"
+  },
+  {
+    "unitcode": "LAW5461",
+    "unitname": "Entrepreneurship and the law"
+  },
+  {
+    "unitcode": "LAW5462",
+    "unitname": "Non-adversarial practice"
+  },
+  {
+    "unitcode": "LAW5463",
+    "unitname": "Children's law in action"
+  },
+  {
+    "unitcode": "LAW5464",
+    "unitname": "Negotiation and influence: Strategy and skills"
+  },
+  {
+    "unitcode": "LAW5465",
+    "unitname": "Migration and Human Rights"
+  },
+  {
+    "unitcode": "LAW5466",
+    "unitname": "Financial services law"
+  },
+  {
+    "unitcode": "LAW5468",
+    "unitname": "Emerging technologies, global data flows and the law"
+  },
+  {
+    "unitcode": "LAW5600",
+    "unitname": "Issues in medical ethics and law"
+  },
+  {
+    "unitcode": "LAW5601",
+    "unitname": "Comparative remedies"
+  },
+  {
+    "unitcode": "LAW5602",
+    "unitname": "International perspectives on torts law"
+  },
+  {
+    "unitcode": "LAW5603",
+    "unitname": "Comparative cyberlaw"
+  },
+  {
+    "unitcode": "LAW5604",
+    "unitname": "International environmental governance"
+  },
+  {
+    "unitcode": "LAW5605",
+    "unitname": "Comparative dispute resolution"
+  },
+  {
+    "unitcode": "LAW5606",
+    "unitname": "Restitution"
+  },
+  {
+    "unitcode": "LAW5607",
+    "unitname": "Comparative evidence law"
+  },
+  {
+    "unitcode": "LAW5608",
+    "unitname": "Transnational litigation"
+  },
+  {
+    "unitcode": "LAW5609",
+    "unitname": "Law and liberty"
+  },
+  {
+    "unitcode": "LAW5610",
+    "unitname": "Varieties of the secular: Law, religion, and social change"
+  },
+  {
+    "unitcode": "LAW5611",
+    "unitname": "Comparative issues in patent law"
+  },
+  {
+    "unitcode": "LAW5612",
+    "unitname": "International litigation and arbitration"
+  },
+  {
+    "unitcode": "LAW5613",
+    "unitname": "Game theory and the law"
+  },
+  {
+    "unitcode": "LAW5614",
+    "unitname": "Regulating relationships and families"
+  },
+  {
+    "unitcode": "LAW5615",
+    "unitname": "Environmental activism, ecoterrorism and the law"
+  },
+  {
+    "unitcode": "LAW5616",
+    "unitname": "Air and space law"
+  },
+  {
+    "unitcode": "LAW5617",
+    "unitname": "International and comparative taxation law"
+  },
+  {
+    "unitcode": "LAW5618",
+    "unitname": "Comparative cybercrime"
+  },
+  {
+    "unitcode": "LAW5619",
+    "unitname": "European human rights law"
+  },
+  {
+    "unitcode": "LAW5620",
+    "unitname": "Privacy and surveillance in an information age: Comparative law perspectives"
+  },
+  {
+    "unitcode": "LAW5621",
+    "unitname": "Mediation and law: From problem solving to narrative building"
+  },
+  {
+    "unitcode": "LAW5622",
+    "unitname": "Human dignity in comparative perspective"
+  },
+  {
+    "unitcode": "LAW5623",
+    "unitname": "Human rights and the European Union"
+  },
+  {
+    "unitcode": "LAW5624",
+    "unitname": "Introduction to Islamic law"
+  },
+  {
+    "unitcode": "LAW5625",
+    "unitname": "Freedom of speech: Law, theory and policy"
+  },
+  {
+    "unitcode": "LAW5626",
+    "unitname": "International and comparative insolvency law"
+  },
+  {
+    "unitcode": "LAW5627",
+    "unitname": "Judgment and decision-making"
+  },
+  {
+    "unitcode": "LAW5628",
+    "unitname": "International and comparative trademark law"
+  },
+  {
+    "unitcode": "LAW5630",
+    "unitname": "European and international monetary law"
+  },
+  {
+    "unitcode": "LAW5631",
+    "unitname": "Lawyers, literature and cinema"
+  },
+  {
+    "unitcode": "LAW5632",
+    "unitname": "International information and media law"
+  },
+  {
+    "unitcode": "LAW5633",
+    "unitname": "Contemporary workplace relations law"
+  },
+  {
+    "unitcode": "LAW5634",
+    "unitname": "Global economic law"
+  },
+  {
+    "unitcode": "LAW5635",
+    "unitname": "Contemporary issues in international sports law"
+  },
+  {
+    "unitcode": "LAW5636",
+    "unitname": "EU external relations: Law and policy"
+  },
+  {
+    "unitcode": "LAW5637",
+    "unitname": "Asian legal systems"
+  },
+  {
+    "unitcode": "LAW5638",
+    "unitname": "Climate change and international law"
+  },
+  {
+    "unitcode": "LAW5639",
+    "unitname": "Comparative indigenous rights"
+  },
+  {
+    "unitcode": "LAW5640",
+    "unitname": "International and transnational law and the green economy"
+  },
+  {
+    "unitcode": "LAW5642",
+    "unitname": "The global lawyer"
+  },
+  {
+    "unitcode": "LAW5643",
+    "unitname": "Advanced negotiation and conflict resolution"
+  },
+  {
+    "unitcode": "LAW5644",
+    "unitname": "Sovereignty and globalisation"
+  },
+  {
+    "unitcode": "LAW5645",
+    "unitname": "Conventional and islamic international banking and finance law"
+  },
+  {
+    "unitcode": "LAW5646",
+    "unitname": "Real property law in Asia and Australia"
+  },
+  {
+    "unitcode": "LAW5647",
+    "unitname": "Contemporary issues in public policy, regulation and the law"
+  },
+  {
+    "unitcode": "LAW5648",
+    "unitname": "Comparative commercial transactions law"
+  },
+  {
+    "unitcode": "LAW5649",
+    "unitname": "Law in the age of artificial intelligence"
+  },
+  {
+    "unitcode": "LAW5650",
+    "unitname": "Legal tech studio"
+  },
+  {
+    "unitcode": "LAW5651",
+    "unitname": "Human rights and migration in comparative perspective"
+  },
+  {
+    "unitcode": "LAW6300",
+    "unitname": "Doctor of Juridical Science seminar"
+  }
+]

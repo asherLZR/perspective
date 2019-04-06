@@ -1,1 +1,3918 @@
-{"AMG5018": "Celebrity, fashion, publicity", "AMG5382": "Contemporary issues in Asia", "AMG5400": "Global digital media: Issues in international and transnational communication", "AMG5409": "Communication research", "AMG5742": "Communications research project", "AMG5743": "Communications research thesis", "AMG5751": "Communications industry internship", "AMG5894": "Communications theories and practices", "AMU1017": "Academic literacies", "AMU1018": "Learning in higher education", "AMU1277": "Media studies", "AMU1278": "Communication technologies and practices", "AMU1304": "Television studies: Forms and approaches", "AMU1305": "Film studies: Forms and approaches", "AMU1309": "Introduction to sexuality studies", "AMU1310": "Introduction to gender studies", "AMU1312": "Introduction to creative writing", "AMU1314": "Writing techniques: Forms and literary devices", "AMU1325": "Introduction to world politics and history", "AMU1326": "Transformation from above: Globalisation and the state", "AMU1328": "Introduction to journalism", "AMU1329": "Broadcast journalism", "AMU1330": "Digital media 1", "AMU1331": "Introduction to internet studies", "AMU2140": "States and markets", "AMU2145": "Digital media 2", "AMU2146": "Digital screens", "AMU2315": "Strategies in writing experiments", "AMU2439": "Youth and mobile media", "AMU2448": "Film genres", "AMU2449": "Film histories: From 1895 to the present", "AMU2450": "Contemporary media theory", "AMU2453": "Research methods in the social sciences", "AMU2455": "Special topic in social sciences", "AMU2498": "Contemporary fiction", "AMU2625": "Borders, people and identity: Migration in the 21st century", "AMU2685": "Malaysian studies", "AMU2690": "Discovering the Asia-Pacific study trips", "AMU2787": "Multimedia journalism", "AMU2814": "Transforming community: Project design and public relations for social campaigns", "AMU2832": "Postcolonial and diasporic literature", "AMU2906": "Genders, sexualities and religions in Southeast Asia", "AMU2907": "Sexual and reproductive health and rights in global contexts", "AMU2908": "Critical methodologies for action research", "AMU2920": "Transformation from below: Civil, society, social movements and political change", "AMU3127": "Stardom: Celebrity, society and power", "AMU3449": "Reading social media: Sociotechnological literacies", "AMU3451": "Freedom and control in the media", "AMU3499": "Authorship and writing", "AMU3560": "Contemporary feminisms in Asia", "AMU3565": "Southeast Asian cinema", "AMU3570": "International relations", "AMU3574": "Performing Asian, African and black masculinities", "AMU3575": "Task force: Responding to global challenges", "AMU3580": "Digital Society: Engaging with the world", "AMU3630": "Governing the global economy: Stability, efficiency, justice", "AMU3650": "A world in crisis: Multilevel responses to global emergencies", "AMU3744": "Workplace learning internship", "AMU3806": "Business reporting", "AMU3857": "Writing techniques", "AMU3858": "Writing experiments", "AMU3859": "Writing portfolio", "AMU4718": "Arts honours dissertation 1", "AMU4719": "Arts honours dissertation 2", "AMU4720": "Research issues and methodology", "AMU4727": "Readings in social, political and cultural theory", "APG4223": "Gender, violence and society: Understanding social patterns", "APG4224": "Gender, violence and society: Criminal justice responses", "APG4248": "Field methods in anthropology and international development", "APG4314": "Seeking justice: South Africa and Rwanda", "APG4421": "Dramatic theory, criticism and research methods", "APG4554": "Resource evaluation and management", "APG4618": "Researching histories", "APG4681": "Social research practice", "APG4789": "Research methods in music", "APG5018": "Celebrity, fashion, publicity", "APG5042": "Practices of teaching Englishes for intercultural communication", "APG5043": "Language and multilingual societies", "APG5044": "Professional internship", "APG5045": "Gender and development", "APG5046": "General linguistics", "APG5047": "Issues in teaching languages for international communication", "APG5048": "Translation for special purposes", "APG5049": "Theory and practice of interpreting", "APG5050": "Communication research methods", "APG5051": "Special topics in bioethics", "APG5052": "Special topic in digital media and communication", "APG5054": "Research methods for development practice and change", "APG5060": "Advanced academic skills", "APG5064": "Gender, security and conflict", "APG5066": "Shanghai city lab", "APG5067": "Cultural economy and sustainable development", "APG5068": "Creative cities", "APG5069": "Australia and Asia in the Asian century: Politics, business, media", "APG5070": "Media, mobility and migration", "APG5073": "Conflict, security and development", "APG5075": "Using data to understand family violence", "APG5076": "Health and family violence", "APG5077": "Cultural and nature-based product management", "APG5078": "Gender-based policy and planning", "APG5080": "Bioethics and the body", "APG5081": "Public health ethics", "APG5082": "Creative entrepreneurship in cultural industries", "APG5091": "Big ideas in international relations policy", "APG5092": "Human rights in global politics", "APG5093": "International relations field unit: Governing peace and security", "APG5095": "Research and writing", "APG5100": "Colab M: Mentoring for development practice and professional development", "APG5101": "Foundations of public policy", "APG5102": "Governance", "APG5103": "Policy analysis and evaluation", "APG5104": "Public management", "APG5109": "Family violence prevention practicum", "APG5122": "Corporate sustainability", "APG5135": "Video journalism", "APG5140": "Guiding principles for professionals engaged in disasters and humanitarian crises", "APG5155": "Designing research in the humanities and social sciences", "APG5180": "Policy and political communication", "APG5181": "Intergovernmental relations", "APG5182": "Digital management and production", "APG5183": "International tourism marketing research project", "APG5184": "Video-making as research", "APG5189": "Monitoring and evaluation", "APG5190": "Global journalism: Hong Kong field school", "APG5215": "Global creative cities", "APG5229": "Prosperity, poverty and sustainability in a globalised world", "APG5230": "Ecosystems and environmental management", "APG5324": "International political economy", "APG5327": "Wars of recognition: Terrorism and political violence", "APG5332": "Contemporary security topics", "APG5337": "Governance and democratisation", "APG5347": "Research methods in applied linguistics", "APG5348": "Second language acquisition", "APG5349": "World Englishes", "APG5351": "World news", "APG5355": "Journalism and technology", "APG5365": "Principles of global communications", "APG5366": "Strategic communications in a digital era", "APG5367": "Campaigns, advocacy and change", "APG5389": "Tourism industry and marketing", "APG5390": "Contemporary tourism and development in emerging economies", "APG5393": "Ethics", "APG5394": "Questions of life and death", "APG5397": "Media, technologies and social change", "APG5398": "Digital media technologies", "APG5400": "Issues in international communications", "APG5401": "Media empires and entrepreneurs", "APG5426": "Environmental analysis", "APG5428": "Environmental governance and citizenship", "APG5433": "Corporate sustainability management", "APG5434": "Sustainability measurement", "APG5470": "Managing multicultural teams", "APG5471": "Leadership in intercultural environments", "APG5481": "Language for professional purposes part 1", "APG5482": "Language for professional purposes part 2", "APG5483": "Language for professional purposes part 3", "APG5547": "Studio production", "APG5553": "Field studies in sustainable development", "APG5555": "Digital tourism economy", "APG5566": "Strategic events management", "APG5590": "Political Islam", "APG5609": "Sustainable tourism development and planning", "APG5616": "Conference interpreting", "APG5617": "Human research ethics", "APG5627": "Research in political ecology", "APG5628": "Deconstructing development", "APG5640": "Journalism in society", "APG5642": "Investigative journalism", "APG5652": "Language and intercultural communication", "APG5653": "Journalism futures: New York field school", "APG5662": "Cultural and creative industries", "APG5666": "Terrorism, counter-terrorism and intelligence", "APG5667": "Terrorism, fringe politics and extremist violence", "APG5668": "Advanced seminar in international relations", "APG5690": "Applied translation", "APG5702": "Bilingualism", "APG5703": "Literacy", "APG5704": "Discourse analysis", "APG5717": "Applied industry research and practice", "APG5729": "Clinical ethics", "APG5730": "Bioethics, public policy, and the law", "APG5733": "Health care ethics", "APG5742": "Industry project", "APG5746": "Reading and writing international relations", "APG5752": "Field trip in media and communications", "APG5782": "Film festivals in local and international contexts", "APG5805": "Project planning and management in international development", "APG5848": "Research thesis", "APG5849": "Research thesis A", "APG5850": "Research thesis B", "APG5856": "Research project", "APG5874": "Global translation and interpreting professional practices", "APG5875": "Introduction to interpreting and translation studies", "APG5876": "Translation trends in a digital age", "APG5881": "Translation studies abroad 1", "APG5882": "Translation studies abroad 2", "APG5883": "Major translation project part 1", "APG5884": "Major translation project part 2", "APG5885": "Specialised interpreting", "APG5894": "Communications theories and practices", "APG5900": "Cultural economy", "APG5990": "Managing public sector organisations", "APG5993": "Designing public policies and programs", "APG5995": "Governing by the rules", "APG5998": "Public financial management", "APR6035": "Advanced research methodologies in media, film and journalism", "APR6100": "Film, media and communication studies: The state of the fields", "ATS1001": "Chinese introductory 1", "ATS1002": "Chinese introductory 2", "ATS1020": "Leadership for social change 1", "ATS1040": "Religions and society", "ATS1041": "World religions", "ATS1044": "Performance 1", "ATS1045": "Performance 2", "ATS1046": "Composition and music technology 1: Introduction to composition genres", "ATS1047": "Composition and music technology 2: Materials of composition", "ATS1061": "French introductory 1", "ATS1062": "French introductory 2", "ATS1089": "Fundamentals of journalism", "ATS1090": "Practice of journalism", "ATS1091": "German introductory 1", "ATS1092": "German introductory 2", "ATS1111": "Indonesian 1: Biographies", "ATS1112": "Indonesian 2: Journeys and cultural encounters", "ATS1119": "Communicating in the digital era", "ATS1125": "Public relations foundations", "ATS1141": "Japanese introductory 1", "ATS1142": "Japanese introductory 2", "ATS1171": "Korean introductory 1", "ATS1172": "Korean introductory 2", "ATS1189": "Acting 1: Theory and practice", "ATS1190": "Acting 2: Theory and practice", "ATS1191": "Spanish introductory 1", "ATS1192": "Spanish introductory 2", "ATS1206": "Media challenges", "ATS1208": "Digital Humanities: Concepts, tools and debates", "ATS1211": "Ukrainian introductory 1", "ATS1212": "Ukrainian introductory 2", "ATS1221": "Italian introductory 1", "ATS1222": "Italian introductory 2", "ATS1229": "Intensive introductory Italian 1 (in country)", "ATS1230": "Intensive introductory Italian 2 (in country)", "ATS1247": "Introducing archaeology 1", "ATS1248": "Introducing archaeology 2", "ATS1250": "Social justice and Indigenous Australians", "ATS1254": "Culture, power and difference: Indigeneity and Australian identity", "ATS1255": "Encountering cultures: Introduction to anthropology 1", "ATS1261": "Understanding human behaviour", "ATS1262": "Understanding social behaviour", "ATS1263": "Bioethics: Current controversies", "ATS1264": "Bioethics, justice and the law", "ATS1267": "Latin language 1", "ATS1269": "Latin language 2", "ATS1279": "Media and culture", "ATS1280": "Understanding the media", "ATS1287": "Performance in context 1", "ATS1288": "Performance in context 2", "ATS1297": "Academic writing", "ATS1298": "Professional writing", "ATS1304": "Introduction to television studies", "ATS1305": "Introduction to film studies", "ATS1309": "The global challenge", "ATS1310": "Extreme earth! Natural hazards and human vulnerability", "ATS1314": "Human rights theory 1", "ATS1315": "Human rights theory 2", "ATS1316": "Medieval worlds: From Vikings to the Silk Road", "ATS1317": "Renaissance worlds: Conflict, art, invention", "ATS1319": "Global Asia", "ATS1320": "Nations at war: Revolution and empire", "ATS1321": "Nations at war: The twentieth century", "ATS1325": "International studies: Origins of globalisation", "ATS1326": "International studies: Challenges of globalisation", "ATS1336": "Yiddish language, culture and literature 1A", "ATS1337": "Yiddish language, culture and literature 1B", "ATS1338": "Language and communication: Sounds and words", "ATS1339": "Language and communication: Putting words together", "ATS1340": "English for academic purposes", "ATS1343": "Popular music in global perspective", "ATS1345": "Music and history", "ATS1346": "Music and culture", "ATS1347": "Music ensemble 1", "ATS1348": "Music ensemble 2", "ATS1353": "Foundations of modern politics", "ATS1365": "Introduction to sociology", "ATS1366": "The individual and society", "ATS1371": "Life, death and morality (Introduction to philosophy A)", "ATS1396": "Drug cultures", "ATS1420": "The global crime problem", "ATS1421": "The complexity of crime", "ATS1422": "Controlling crime, controlling society", "ATS1423": "Punishment, courts and corrections", "ATS1515": "Reading across cultures", "ATS1701": "Terrorism and political violence: An introduction", "ATS1835": "Time, self and mind (Introduction to philosophy B)", "ATS1873": "Introduction to international relations", "ATS1899": "Music theory and ear training 1", "ATS1900": "Music theory and ear training 2", "ATS1903": "Introducing literature: Ways of reading", "ATS1904": "Reading the city: Literary genres", "ATS1905": "Chinese introductory for background speakers 1", "ATS1906": "Chinese introductory for background speakers 2", "ATS1940": "Chinese translation 2", "ATS1945": "Australian government and politics", "ATS1959": "Chinese translation 1", "ATS2001": "Chinese introductory 1", "ATS2002": "Chinese introductory 2", "ATS2003": "Chinese intermediate 1", "ATS2004": "Chinese intermediate 2", "ATS2005": "Chinese proficient 1", "ATS2006": "Chinese proficient 2", "ATS2019": "Beyond 'Primitive' Art: Understanding meaning and symbolism in Indigenous art", "ATS2020": "Colonialism in comparison: Australia, New Zealand and the Pacific", "ATS2039": "Understanding modern China", "ATS2040": "Understanding contemporary China", "ATS2043": "Chinese translation for professional purposes 1", "ATS2044": "Chinese translation for professional purposes 2", "ATS2056": "Crime and inequality", "ATS2057": "Genocide", "ATS2060": "The art of teaching music performance", "ATS2063": "French intermediate 1", "ATS2064": "French intermediate 2", "ATS2065": "French proficient 1", "ATS2066": "French proficient 2", "ATS2084": "Ancient mythologies", "ATS2086": "Leadership for social change 2", "ATS2087": "Lifestyle journalism", "ATS2088": "Russia and the US: Comparative politics", "ATS2093": "German intermediate 1", "ATS2094": "German intermediate 2", "ATS2095": "German proficient 1", "ATS2096": "German proficient 2", "ATS2105": "Theatre and performance: Theory and practice 2", "ATS2106": "An environmental history of the world: People and our planet", "ATS2110": "Slavery: A history", "ATS2113": "Indonesian 3: Contemporary issues in Indonesia", "ATS2114": "Indonesian 4: Stories and storytelling in the Indonesian archipelago", "ATS2122": "Performance 3", "ATS2123": "Performance 4", "ATS2127": "Composition and music technology 3: Spatial composition techniques", "ATS2128": "Composition and music technology 4: Composition for screen", "ATS2139": "Song writing: How to write a popular song", "ATS2141": "Japanese introductory 1", "ATS2142": "Japanese introductory 2", "ATS2143": "Japanese intermediate 1", "ATS2144": "Japanese intermediate 2", "ATS2145": "Japanese proficient 1", "ATS2146": "Japanese proficient 2", "ATS2159": "Recording and computer music production", "ATS2160": "Language, culture and society on the Korean Peninsula", "ATS2163": "The writing self: Creative nonfiction", "ATS2164": "Italian transformations: Reading and writing self-discovery", "ATS2169": "Photojournalism", "ATS2170": "Social entrepreneurship", "ATS2171": "Korean introductory 1", "ATS2172": "Korean introductory 2", "ATS2173": "Korean intermediate 1", "ATS2174": "Korean intermediate 2", "ATS2184": "Intercultural skills for an internationalised workplace", "ATS2185": "Biblical texts and contexts", "ATS2186": "Audio lab", "ATS2187": "Video lab", "ATS2188": "Writing lab", "ATS2189": "Conflict and coexistence 1: Jews, Christians and Muslims from antiquity through the middle ages", "ATS2193": "Spanish intermediate 1", "ATS2194": "Spanish intermediate 2", "ATS2195": "Spanish proficient 1", "ATS2196": "Spanish proficient 2", "ATS2215": "Ukrainian intermediate 1", "ATS2216": "Ukrainian intermediate 2", "ATS2219": "Sport journalism in the digital age", "ATS2223": "Italian intermediate 1", "ATS2224": "Italian intermediate 2", "ATS2225": "Italian proficient 1", "ATS2226": "Italian proficient 2", "ATS2229": "Intensive introductory Italian 1 (in country)", "ATS2230": "Intensive introductory Italian 2 (in country)", "ATS2247": "Italian proficient 2 (in country)", "ATS2250": "Communications and cultures in the global era", "ATS2251": "Cuba study tour", "ATS2255": "Mobile journalism", "ATS2256": "Political psychology", "ATS2257": "Long-form television: \"HBO\" and beyond", "ATS2269": "Exploring contemporary Australia: People, events, ideas", "ATS2271": "Beowulf: An interdisciplinary approach", "ATS2275": "The European Union from consensus to crisis", "ATS2276": "Modern Italian political thought", "ATS2277": "Artefacts, objects and remains: Making sense of archaeological sites", "ATS2280": "Video games: Industry and culture", "ATS2283": "The archaeology of empires", "ATS2290": "Global leadership and advanced research program", "ATS2295": "Screening contemporary Europe", "ATS2296": "Musical theatre 1: History and form", "ATS2297": "Musical theatre 2: Skills and performance", "ATS2305": "Digital humanities: Expanding research paradigms", "ATS2310": "Newsroom practice", "ATS2323": "Media anthropology: Power, culture and representation", "ATS2324": "Climate change communication", "ATS2329": "Project in applied digital humanities", "ATS2330": "State sovereignty, human rights, and the responsibility to protect", "ATS2331": "Music - Overseas study program 1", "ATS2332": "Music - Overseas study program 2", "ATS2333": "Jazz history", "ATS2334": "Human rights discourse: A practical and conceptual history", "ATS2335": "War and memory: Resistance, massacre and representation in second world war Italy", "ATS2337": "The Minotaur to the Trojan war: Aegean archaeology", "ATS2341": "Asian imaginaries: Bollywood, Manga and other fictions in Asian worlds", "ATS2344": "Study tour in Italy: Etruscan and Roman archaeology", "ATS2349": "The golden age of Athens", "ATS2351": "The archaeology of death in ancient Egypt", "ATS2352": "Egypt's golden age", "ATS2354": "Interrogating racism: Indigenous Australians and the state", "ATS2355": "Race and power: Imagining Indigenous Australia", "ATS2358": "Contesting laws: Heritage, culture and land", "ATS2359": "Hearing the country: Studies in Indigenous Australian ethnoecology", "ATS2371": "Magic, science and religion", "ATS2378": "The anthropology of international development", "ATS2380": "Australia: Migrant nation", "ATS2382": "War and memory in the Asia Pacific: Legacies of World War II", "ATS2385": "Australians at war", "ATS2394": "Australia and Asia", "ATS2395": "Australia in a globalising world", "ATS2400": "Personality: Beyond the persona", "ATS2410": "Narrative", "ATS2422": "Romanticism and its literary legacy", "ATS2436": "New media: From the telegraph to Twitter", "ATS2439": "Youth media: Understanding media research", "ATS2440": "The public sphere", "ATS2443": "On the road: Travel and representation", "ATS2444": "Inscribing Italy: Travels and imaginings", "ATS2455": "Public relations strategy", "ATS2456": "Cybercrime", "ATS2457": "Crime, media and culture", "ATS2458": "Crime, control and policing", "ATS2465": "Human rights in the criminal justice sphere", "ATS2469": "Victims, justice and the law", "ATS2485": "Reading the past", "ATS2490": "Advanced professional writing", "ATS2492": "Shakespeare and Renaissance literature", "ATS2508": "Introduction to poetry writing", "ATS2517": "Introduction to fiction writing", "ATS2519": "Children's literature: A comparative study", "ATS2529": "Australian film and television: Local and global", "ATS2530": "Film and television genres", "ATS2535": "Storytelling in film and television: From classical narrative to art cinema", "ATS2538": "Film and television institutions", "ATS2547": "Cities and sustainability", "ATS2548": "Environmental policy and management", "ATS2551": "Writing resistance: Understanding the power of Indigenous story-telling through literature", "ATS2552": "Crime, justice and the public", "ATS2553": "Indigenous justice in Australia", "ATS2557": "Fears and fantasies: Deviance and criminality in the modern world", "ATS2560": "Gender, theory and society", "ATS2561": "Sex and the media", "ATS2579": "Witches and depravity in the medieval and early modern world", "ATS2584": "Australia's black history", "ATS2586": "Islam: Principles, civilisations, influences", "ATS2590": "Twentieth-century Britain: Rule Britannia to cool Britannia", "ATS2595": "The rise and fall of Nazi Germany", "ATS2596": "The Vietnam War", "ATS2600": "The Holocaust", "ATS2603": "The age of crusades: Cultures and societies", "ATS2612": "The Renaissance in Florence", "ATS2617": "The American civil war", "ATS2619": "Cultural diversity in contemporary Europe", "ATS2620": "The age of the Samurai", "ATS2624": "Global governance", "ATS2625": "Mobile worlds: Borders, displacement and belonging", "ATS2628": "Power and poverty: International development in a globalised world", "ATS2633": "Global cities: Past, present and future", "ATS2637": "Global bioethics", "ATS2640": "The ethics of global conflict", "ATS2648": "Contemporary Japan", "ATS2653": "Japanese: Language, culture and communication", "ATS2667": "Language across time", "ATS2668": "Structure in the languages of the world", "ATS2671": "Managing intercultural communication", "ATS2672": "Exploring texts with computers", "ATS2676": "Sociolinguistics", "ATS2681": "Structure of English", "ATS2682": "Second language acquisition", "ATS2683": "The analysis of discourse: Texts, narrative and society", "ATS2687": "The ethnomusicology of improvisation", "ATS2691": "Politics, violence and memory", "ATS2693": "Politics, media and elections", "ATS2698": "Middle East politics", "ATS2699": "Parties and power", "ATS2706": "Foreign policy analysis", "ATS2716": "Cultural diversity and identity", "ATS2718": "Families, relationships and society", "ATS2720": "Youth, culture and social change", "ATS2723": "Social research methods", "ATS2727": "Men, masculinity and society", "ATS2743": "Build your career: Planning and strategies for employability", "ATS2748": "Introduction to Ancient Greek", "ATS2750": "Intermediate Ancient Greek", "ATS2757": "Towards decolonisation: The United Nations, rights and Indigenous peoples", "ATS2758": "Religion, philosophy, science", "ATS2769": "English as an international language", "ATS2770": "English as an international language: Language and globalisation", "ATS2784": "News and power", "ATS2787": "Social media and digital storytelling", "ATS2788": "Podcasting and audio journalism", "ATS2790": "Longform journalism", "ATS2791": "Editing and design", "ATS2795": "Yiddish language, culture and literature 2A", "ATS2796": "Yiddish language, culture and literature 2B", "ATS2799": "Audio culture: From Cage to Gaga", "ATS2800": "Music ensemble 3", "ATS2801": "Music ensemble 4", "ATS2804": "From the erotic to the exotic: Music in the nineteenth century", "ATS2805": "Music, identity and place", "ATS2811": "Theatre and performance: Theory and practice 1", "ATS2837": "Plato and Platonism", "ATS2839": "Ethics", "ATS2840": "Philosophy of mind", "ATS2845": "Screenwriting for media production", "ATS2846": "Screening Melbourne", "ATS2860": "After the death of God: Continental philosophy of religion from Nietzsche to today", "ATS2861": "God, freedom and evil", "ATS2863": "History of philosophy: Descartes", "ATS2865": "Language, truth and power", "ATS2866": "Symbolic logic", "ATS2867": "Thinking about science", "ATS2868": "Anarchy, property, and the state", "ATS2871": "Environmental ethics", "ATS2872": "Topics in Indian philosophy", "ATS2875": "The moral psychology of evil", "ATS2890": "Script development 1", "ATS2898": "The Italian city: Historical and literary perspectives", "ATS2900": "Writing about music: Headlines and hashtags", "ATS2901": "Music theory and ear training 3", "ATS2902": "Music theory and ear training 4", "ATS2907": "Modern Islam", "ATS2910": "Professional and academic presentation skills", "ATS2913": "Greek tragedy: Performance and reception", "ATS2914": "The dark hero", "ATS2915": "The roots of fantasy", "ATS2924": "Introduction to Ancient Egyptian language", "ATS2931": "Making history at the museum", "ATS2932": "Struggles for justice: The history of rebellion, resistance and revolt", "ATS2940": "Chinese translation 2", "ATS2941": "Asia's underside: Violence, crime and protest", "ATS2946": "Critical thinking: How to analyse arguments and improve your reasoning skills", "ATS2957": "Medieval Italy: Sites of encounter", "ATS2959": "Chinese translation 1", "ATS2961": "Political ideas", "ATS2964": "Screen theories", "ATS2991": "Archaeological fieldwork in Italy", "ATS2992": "Global immersion guarantee program", "ATS2995": "Blood and guts: A history of medicine in Europe", "ATS3002": "Documentary", "ATS3004": "Crime, risk and security", "ATS3005": "Chinese proficient 1", "ATS3006": "Chinese proficient 2", "ATS3007": "Chinese studies advanced 1", "ATS3008": "Chinese studies advanced 2", "ATS3009": "Chinese studies advanced 3: Readings in modern literature", "ATS3010": "Chinese studies advanced 4: Readings in modern literature", "ATS3011": "Chinese studies advanced 5: Contemporary literature", "ATS3012": "Chinese studies advanced 6: Contemporary literature", "ATS3013": "Chinese business translation 1", "ATS3014": "Chinese business translation 2", "ATS3020": "Colonialism in comparison: Australia, New Zealand and the Pacific", "ATS3021": "Chamber music 1", "ATS3022": "Chamber music 2", "ATS3037": "Chinese online media: Contemporary issues and perspectives", "ATS3038": "Chinese online media: Current issues and perspectives", "ATS3042": "Chinese media analysis", "ATS3045": "From translation to interpreting in Chinese 1", "ATS3046": "From translation to interpreting in Chinese 2", "ATS3058": "New writing in Italy", "ATS3060": "Uni-Capitol Washington internship programme", "ATS3061": "Music in Australia", "ATS3062": "Digital production", "ATS3064": "Cultural intelligence: Building competencies for global leadership", "ATS3065": "French proficient 1", "ATS3066": "French proficient 2", "ATS3067": "French studies advanced 1", "ATS3068": "French studies advanced 2", "ATS3069": "French studies advanced 3", "ATS3070": "French studies advanced 4", "ATS3071": "France on film", "ATS3077": "Whatever happened to truth?: French literature, thought and visual culture", "ATS3079": "The fall and rise of modern China: From opium war to opening up", "ATS3080": "Remembering the past", "ATS3083": "Translating across cultures", "ATS3089": "Social institutions and power in Asia", "ATS3091": "Digital literatures", "ATS3094": "The music business: How to be successful in the music industry", "ATS3095": "German proficient 1", "ATS3096": "German proficient 2", "ATS3097": "German advanced 1", "ATS3098": "German advanced 2", "ATS3104": "German literature in the age of Goethe", "ATS3105": "On the brink of modernity (Germany and Europe 1890-1920)", "ATS3108": "Introduction to the study of media culture from a German studies perspective", "ATS3111": "Leadership for social change 3", "ATS3113": "Reporting the arts circuit", "ATS3115": "Indonesian 5: Indonesian political culture", "ATS3116": "Indonesian 6: Indonesian writing", "ATS3124": "Life in the Soviet Union", "ATS3129": "Arts internship", "ATS3130": "Arts international internship", "ATS3135": "War and memory: Resistance, massacre and representation in second world war Italy", "ATS3136": "Performance 5", "ATS3137": "Performance 6", "ATS3139": "Extended major research unit", "ATS3140": "Composition and music technology 5: Interactive composition", "ATS3141": "Composition and music technology 6: Final project", "ATS3144": "Music research in the digital age", "ATS3145": "Japanese proficient 1", "ATS3146": "Japanese proficient 2", "ATS3147": "Japanese studies advanced 1", "ATS3148": "Japanese studies advanced 2", "ATS3151": "Japanese studies advanced: Current issues", "ATS3152": "Japanese studies advanced: Literature and film", "ATS3153": "Music research project", "ATS3156": "Popular culture in North and South Korea, Hallyu and East Asian cultural flows", "ATS3157": "Religion, politics and violence", "ATS3164": "Italian transformations: Reading and writing self-discovery", "ATS3170": "Social entrepreurship", "ATS3175": "Korean proficient 1", "ATS3176": "Korean proficient 2", "ATS3184": "Engaging cultures and the art of the festival", "ATS3189": "Literary theory", "ATS3190": "Conflict and coexistence 2: Jews, Christians and Muslims in the modern world", "ATS3191": "Media analytics lab", "ATS3192": "Media entrepreneurship lab", "ATS3193": "Virtual reality lab", "ATS3195": "Spanish proficient 1", "ATS3196": "Spanish proficient 2", "ATS3199": "Cultures of the corporate world", "ATS3208": "In the footsteps of refugees", "ATS3210": "Study tour: Crime and criminal justice in Asia", "ATS3212": "Berlin encounters: German culture, history and politics in the centre of Europe", "ATS3213": "Media communication professional placement", "ATS3216": "Media communication professional project", "ATS3217": "Ukrainian proficient 1", "ATS3218": "Ukrainian proficient 2", "ATS3219": "Ukrainian studies advanced 1", "ATS3220": "Ukrainian studies advanced 2", "ATS3221": "The music industries", "ATS3223": "Gender, violence and society: Understanding social patterns", "ATS3224": "Gender, violence and society: Criminal justice responses", "ATS3225": "Italian proficient 1", "ATS3226": "Italian proficient 2", "ATS3227": "Italian studies advanced 1", "ATS3228": "Italian studies advanced 2", "ATS3230": "Sex, gender and power in the ancient Near East", "ATS3231": "Study tour: Human rights and criminal justice USA", "ATS3232": "Study tour: Contemporary issues in UK criminal justice", "ATS3235": "New Caledonia and global French: Immersion into post-colonial francophone cultures in South Pacific", "ATS3237": "Italy on film", "ATS3240": "The fiction of Italy", "ATS3241": "Italian theatre from Goldoni to Fo", "ATS3247": "Italian proficient 2 (in country)", "ATS3248": "Field methods in anthropology and international development", "ATS3249": "French individualism", "ATS3251": "Cuba study tour", "ATS3257": "Cuba: Understanding the revolution", "ATS3265": "Broadcast studio journalism", "ATS3266": "Washington and the world: Washington D.C study tour", "ATS3275": "The European Union from consensus to crisis", "ATS3276": "Modern Italian political thought", "ATS3278": "Advanced writing and interviewing", "ATS3279": "Reading and critiquing the European canon today", "ATS3280": "The ethnographic endeavour: Capturing the Indigenous past to understand the Indigenous present", "ATS3284": "Final journey: Remembering the Holocaust", "ATS3290": "Global leadership and advanced research program", "ATS3295": "Screening contemporary Europe", "ATS3296": "Musical theatre 1: History and form", "ATS3297": "Musical theatre 2: Skills and performance", "ATS3306": "Digital storytelling", "ATS3308": "Politics of crime", "ATS3309": "Producing and consuming Japan: A study tour through western Japan", "ATS3310": "Writing in Australia", "ATS3311": "Text and community in Medieval and Renaissance Italy", "ATS3314": "Seeking justice: South Africa and Rwanda", "ATS3316": "The emergence of modern Ireland", "ATS3319": "Cultural diversity in contemporary Europe", "ATS3322": "Practical and comparative penology", "ATS3328": "The archaeology of world rock art", "ATS3330": "State sovereignty, human rights, and the responsibility to protect", "ATS3331": "Music - Overseas study program 1", "ATS3332": "Music - Overseas study program 2", "ATS3335": "International political economy", "ATS3338": "Master class in archaeology and ancient history", "ATS3340": "International security studies", "ATS3344": "Study tour in Italy: Etruscan and Roman archaeology", "ATS3346": "Imperial Rome: Power and perversion in the age of Augustus and Nero", "ATS3350": "From Alexander to Kleopatra: The rise and fall of the Hellenistic world", "ATS3354": "Interrogating racism: Indigenous Australians and the state", "ATS3359": "Hearing the country: Studies in Indigenous Australian ethnoecology", "ATS3376": "Anthropology of human rights", "ATS3391": "A world of sport: Business, politics and media", "ATS3394": "Australia and Asia", "ATS3399": "The politics of identity", "ATS3404": "Eros and the body: Sexuality and body politics in the classical world", "ATS3405": "Critical theory and poststructuralism: Recent European philosophy", "ATS3407": "Psychoanalytic readings - Freud, Jung, Lacan", "ATS3419": "Aesthetics and European philosophy", "ATS3421": "Literature and modernism", "ATS3444": "Inscribing Italy: Travels and imaginings", "ATS3445": "Communications ethics, policy and law", "ATS3459": "Prisons, power and punishment", "ATS3462": "International crime and justice", "ATS3464": "Study tour: Comparative criminology USA", "ATS3465": "Human rights in the criminal justice sphere", "ATS3466": "Sex, gender and crime", "ATS3487": "The shadow of reason: Irrational literature in the eighteenth century", "ATS3496": "Fairy-tale traditions", "ATS3502": "Contemporary literature", "ATS3503": "Writing women", "ATS3506": "Poetry: Text and performance", "ATS3509": "Advanced poetry writing", "ATS3518": "Advanced fiction writing", "ATS3531": "Gender and sexuality in film and television", "ATS3536": "Alternatives in film and television", "ATS3539": "Asian cinema and television", "ATS3540": "Documentary and realism in film and television", "ATS3543": "Australia's ancient Indigenous past: A 65,000 year archaeological odyssey", "ATS3544": "Practical archaeology in the field", "ATS3546": "Environmental assessment and decision making", "ATS3554": "Resource evaluation and management", "ATS3563": "Global consumption", "ATS3580": "The modern Middle East", "ATS3582": "Arab-Israeli conflict", "ATS3584": "Australia's black history", "ATS3593": "History of sexuality 1800 - to the present", "ATS3599": "Modern Israel: History, politics and society", "ATS3611": "Imagining God: The mystic quest in Judaism, Christianity and Islam", "ATS3612": "The Renaissance in Florence", "ATS3623": "Nationality, ethnicity and conflict", "ATS3626": "Global disasters: Catastrophe and social change", "ATS3627": "Global cultures, media flows: Creating and consuming (popular) culture", "ATS3632": "Post-conflict: Justice, memory, reconciliation", "ATS3634": "Indigenous peoples globally", "ATS3636": "Sacred and profane: Religion, the secular and the state", "ATS3639": "Poverty, climate change and international justice", "ATS3645": "Journalism and global change", "ATS3649": "Japanese language in action", "ATS3665": "Language endangerment", "ATS3666": "Indigenous languages of the Pacific", "ATS3669": "Sounds of the languages of the world", "ATS3673": "History and sociolinguistics of English", "ATS3674": "Meaning and the mind", "ATS3677": "Indigenous languages of Australia", "ATS3679": "Psycholinguistics and child language acquisition", "ATS3690": "Reflections on humanity: Truth, freedom and power", "ATS3695": "Public policy", "ATS3697": "Gender and international relations", "ATS3705": "Knowledge and power in world politics", "ATS3715": "Sexuality and society", "ATS3717": "Health, culture and society", "ATS3719": "Modern political thought", "ATS3725": "Population and society", "ATS3726": "Self and society", "ATS3730": "Sustainability and society", "ATS3732": "Communications and media studies: Contemporary debates", "ATS3743": "Build your career: Planning and strategies for employability", "ATS3760": "Global communications", "ATS3761": "Civic forum journalism", "ATS3762": "Language and the internet", "ATS3774": "Directing workshop", "ATS3775": "Theatre internship unit", "ATS3776": "Script development 2", "ATS3778": "Englishes in the global context", "ATS3779": "Cultural linguistics", "ATS3781": "English as an international language: Writing across cultures", "ATS3782": "Bodies of work", "ATS3786": "Journalism, law and ethics", "ATS3789": "Video journalism", "ATS3795": "Global correspondent", "ATS3805": "Korean studies advanced: Literature and writing", "ATS3814": "Yiddish language, culture and literature 3A", "ATS3815": "Yiddish language, culture and literature 3B", "ATS3816": "The social context of language learning", "ATS3818": "Drumming traditions of West Africa", "ATS3819": "Orchestration", "ATS3820": "Conducting", "ATS3824": "Popular music and society", "ATS3825": "Western art music in the 20th and 21st century", "ATS3828": "Film music", "ATS3829": "East Asia and its music: Silk road histories and popular contexts", "ATS3833": "Theatre and performance: Professional practice", "ATS3834": "Theatre in performance", "ATS3836": "Victorian parliamentary internship", "ATS3849": "Build your own research project in French studies", "ATS3852": "Contemporary issues in social science research", "ATS3859": "Style and register: Scholarly and professional writing in German", "ATS3862": "Thinking about religion", "ATS3867": "Crime fiction and film in Hispanic cultures", "ATS3869": "Political philosophy", "ATS3870": "Philosophy of religion", "ATS3873": "Philosophical issues in applied ethics", "ATS3876": "Theory of knowledge", "ATS3878": "Recent logic", "ATS3879": "Philosophy of language", "ATS3882": "Metaphysics", "ATS3883": "Issues in logical theory", "ATS3884": "History of philosophy: Emotions", "ATS3885": "History of philosophy: Stoics and Epicureans", "ATS3888": "Race and class in American literature", "ATS3898": "The Italian city: Historical and literary perspectives", "ATS3899": "Jazz arranging: Contemporary arranging techniques for small groups to large ensembles", "ATS3900": "Jazz composition: From Tin Pan Alley to today", "ATS3903": "Leaders, power and politics", "ATS3905": "Democratic theory", "ATS3908": "American empire: The United States from colonies to superpower", "ATS3912": "Performance studies 2 - Cultures", "ATS3913": "Playtext study 2 - Shakespearean stages", "ATS3918": "International journalism professional project", "ATS3919": "Journalism professional placement", "ATS3926": "Gongs, punks and shadow plays", "ATS3930": "Encounters and empire: Europe and the world", "ATS3933": "The meaning of things: Writing cultural history", "ATS3935": "Professional practice", "ATS3938": "Leadership for social change 3 (overseas intensive)", "ATS3939": "Crime in Italian popular culture", "ATS3940": "Chinese cultural analysis", "ATS3951": "Japanese popular culture and identity", "ATS3954": "Media industry project", "ATS3956": "Trauma and memory in the modern world", "ATS3957": "Medieval Italy: Sites of encounter", "ATS3969": "Screen studies in the digital era", "ATS3970": "The audio visual essay", "ATS3972": "Imagining Ibero-America: Travels, texts and transnational encounters", "ATS3974": "European integration and security", "ATS3978": "Japanese communication in professional settings", "ATS3983": "Screen project: From film theory to digital video practice", "ATS3987": "Theories of theatre 2", "ATS3991": "Archaeological fieldwork in Italy", "ATS4002": "Honours research methods seminar", "ATS4137": "Special reading unit 1 (Honours)", "ATS4171": "Advanced readings in media and communications studies", "ATS4205": "Methods and topics in international studies", "ATS4215": "History archives workshop", "ATS4230": "Arts honours thesis", "ATS4231": "Arts honours thesis A", "ATS4232": "Arts honours thesis B", "ATS4256": "Archaeology of state formation", "ATS4257": "Interpreting the past through archaeology", "ATS4269": "Rethinking theatre history", "ATS4280": "Contemporary film theory and criticism", "ATS4281": "Professional screen pathways: Research, industry and practice", "ATS4286": "Final journey: Remembering the Holocaust", "ATS4289": "Medieval dialogues: Reason, mysticism and society", "ATS4311": "Text and community in Medieval and Renaissance Italy", "ATS4328": "Grand theories of politics and international relations", "ATS4333": "Issues in politics, governance and research", "ATS4345": "Research methods in classical antiquity", "ATS4348": "Theme and genre in literary studies", "ATS4367": "Placement research project for honours in international studies", "ATS4373": "Honours professional project", "ATS4374": "Honours specialist seminar", "ATS4375": "Honours research seminar", "ATS4388": "Special topic in literary studies", "ATS4451": "Music honours research A", "ATS4452": "Music honours research B", "ATS4653": "Honours workshop", "ATS4699": "Criminology honours coursework: Research, practice and policy", "ATS4702": "Classical languages for researchers", "ATS4810": "Global justice: Civil and human rights after 1945", "ATS4834": "Music honours project", "ATS4868": "Philosophy honours A", "ATS4869": "Philosophy honours B", "ATS4924": "Honours: Social sciences research methods", "AZA1001": "Introduction to development studies", "AZA1010": "Fundamentals of political science", "AZA1011": "Fundamentals of international relations", "AZA1019": "Psychology: Introduction 1A", "AZA1020": "Psychology: Introduction 1B", "AZA1035": "Principles of public relations practice", "AZA1264": "Ethics and biotechnology", "AZA1279": "Media and society", "AZA1281": "Explaining crime: Theory and practice", "AZA1282": "Introduction to criminal justice", "AZA1285": "Child and youth development in South Africa: A person-in-environment perspective", "AZA1286": "Child and youth development: A five-level developmental model", "AZA1306": "Introduction to human geography", "AZA1308": "Introduction to physical geography", "AZA1325": "International studies 1", "AZA1326": "International studies 2", "AZA1328": "Journalism 1: Introduction", "AZA1329": "Journalism 2: Introduction", "AZA1365": "Everyday life in sociological perspectives", "AZA1366": "Families, relationships, health and the media", "AZA1371": "Introduction to philosophy: Moral dilemmas and philosophy", "AZA1433": "Interpersonal communication", "AZA2010": "Political ideologies", "AZA2012": "Comparative politics", "AZA2015": "Biological and cognitive psychology", "AZA2016": "Public policy-making", "AZA2030": "Corporate communication", "AZA2035": "Development communication", "AZA2040": "Issues, crises and social responsibility management", "AZA2045": "Public relations and the media", "AZA2378": "Development and the developing world", "AZA2436": "New media and cyber cultures", "AZA2455": "Child and adult development", "AZA2460": "Industrial and organisational psychology", "AZA2461": "Crime and punishment", "AZA2470": "Victimology in South Africa", "AZA2490": "Research assessment", "AZA2495": "Social and community psychology", "AZA2549": "Poverty and power: The uneven world", "AZA2625": "Places and spaces: International migration in the global age", "AZA2633": "World cities: A historical and comparative analysis", "AZA2719": "Theoretical perspectives in political and social thought", "AZA2723": "Methodological issues in the social sciences", "AZA2762": "Health and safety guidelines for children and youth", "AZA2763": "Child and youth assessment: Risk and protective factors, signs and symptoms", "AZA2764": "Building support networks for children and families", "AZA2765": "Child and youth interventions: Individual, group and community interventions", "AZA2785": "Legal aspects of journalism", "AZA2787": "Journalism: An online perspective", "AZA2789": "Journalism: Video perspectives", "AZA2939": "Ethics and the modern world", "AZA3010": "Competing models of political economy", "AZA3015": "War, peace and international security", "AZA3018": "Research design and quantitative methods", "AZA3031": "Public relations campaigns and events", "AZA3135": "Abnormal behaviour", "AZA3184": "Public relations work integrated learning", "AZA3259": "Geographical information systems (GIS): Planning and decision making", "AZA3301": "Social inclusion internship: Working on migrant and refugee settlement in multicultural communities", "AZA3360": "Psychotherapy and counselling", "AZA3380": "Sociology of development", "AZA3432": "Managing communication in multicultural organisations", "AZA3453": "Research fundamentals", "AZA3462": "Psychological assessment", "AZA3463": "Criminal behaviour in South Africa: A psychosocial approach", "AZA3465": "Personality", "AZA3466": "Women and crime: Damsels in distress", "AZA3467": "Child justice: Human rights, law reform and socio-criminology of deviance", "AZA3468": "Forensic criminology: Victim and offender profiling", "AZA3542": "Geographical information systems: FOSS geo-informatics", "AZA3546": "Environmental impact assessment", "AZA3547": "Urban planning, development and sustainability", "AZA3548": "Environmental policy and resource management", "AZA3550": "Climatology", "AZA3629": "Beliefs, religion and spirituality: A global perspective", "AZA3640": "Philosophy of war and global conflict", "AZA3641": "Diplomacy in contemporary international relations", "AZA3643": "Africa in the modern world", "AZA3644": "South Africa: Democracy and development", "AZA3688": "Foreign policy: Introduction", "AZA3703": "The global politics of arms control and disarmament", "AZA3717": "Medical sociology", "AZA3720": "Sociological perspectives on youth culture and social change", "AZA3737": "South Africa and African social justice", "AZA3744": "School of Social Science workplace internship", "AZA3764": "Consulting", "AZA3769": "Family functioning and child abuse: The child and youth care worker's role", "AZA3770": "Intermediary services in courts: Protecting the rights of the child and youth victim", "AZA3771": "Management of community projects: Working preventatively with children, youth and families", "AZA3772": "Field placements in child and youth care settings", "AZA3806": "Reporting economic and business issues", "AZA3808": "Investigative journalism in the South African and African context", "AZA3810": "Reporting sport and sport cultures", "AZA3869": "Political philosophy and justice", "AZA3871": "Environmentalism: A philosophical perspective", "AZA3919": "Professional placement in journalism: South Africa", "AZA4010": "Selected topics in philosophy", "AZA4020": "Selected topics in journalism", "AZA4110": "Sociology selected topics", "AZA4310": "Child and youth care policy and leadership: Advocating for the rights of children and youth", "AZA4420": "Adult psychopathology", "AZA4430": "Counselling", "AZA4440": "Psychology research project", "AZA4445": "Social issues in psychology", "AZA4450": "Researching for social sciences and humanities", "AZA4480": "Psychological testing and assessment", "AZA4721": "Communication and media practice applied", "AZA4743": "Theoretical perspectives of conflict, crime, victimisation and criminal justice", "AZA4778": "Social science honours dissertation A", "AZA4779": "Social science honours dissertation B", "AZA4810": "The globalisation of civil and human rights", "AZA4889": "Advanced concepts in geography and environmental science"}
+[
+  {
+    "unitcode": "AMG5018",
+    "unitname": "Celebrity, fashion, publicity"
+  },
+  {
+    "unitcode": "AMG5382",
+    "unitname": "Contemporary issues in Asia"
+  },
+  {
+    "unitcode": "AMG5400",
+    "unitname": "Global digital media: Issues in international and transnational communication"
+  },
+  {
+    "unitcode": "AMG5409",
+    "unitname": "Communication research"
+  },
+  {
+    "unitcode": "AMG5742",
+    "unitname": "Communications research project"
+  },
+  {
+    "unitcode": "AMG5743",
+    "unitname": "Communications research thesis"
+  },
+  {
+    "unitcode": "AMG5751",
+    "unitname": "Communications industry internship"
+  },
+  {
+    "unitcode": "AMG5894",
+    "unitname": "Communications theories and practices"
+  },
+  {
+    "unitcode": "AMU1017",
+    "unitname": "Academic literacies"
+  },
+  {
+    "unitcode": "AMU1018",
+    "unitname": "Learning in higher education"
+  },
+  {
+    "unitcode": "AMU1277",
+    "unitname": "Media studies"
+  },
+  {
+    "unitcode": "AMU1278",
+    "unitname": "Communication technologies and practices"
+  },
+  {
+    "unitcode": "AMU1304",
+    "unitname": "Television studies: Forms and approaches"
+  },
+  {
+    "unitcode": "AMU1305",
+    "unitname": "Film studies: Forms and approaches"
+  },
+  {
+    "unitcode": "AMU1309",
+    "unitname": "Introduction to sexuality studies"
+  },
+  {
+    "unitcode": "AMU1310",
+    "unitname": "Introduction to gender studies"
+  },
+  {
+    "unitcode": "AMU1312",
+    "unitname": "Introduction to creative writing"
+  },
+  {
+    "unitcode": "AMU1314",
+    "unitname": "Writing techniques: Forms and literary devices"
+  },
+  {
+    "unitcode": "AMU1325",
+    "unitname": "Introduction to world politics and history"
+  },
+  {
+    "unitcode": "AMU1326",
+    "unitname": "Transformation from above: Globalisation and the state"
+  },
+  {
+    "unitcode": "AMU1328",
+    "unitname": "Introduction to journalism"
+  },
+  {
+    "unitcode": "AMU1329",
+    "unitname": "Broadcast journalism"
+  },
+  {
+    "unitcode": "AMU1330",
+    "unitname": "Digital media 1"
+  },
+  {
+    "unitcode": "AMU1331",
+    "unitname": "Introduction to internet studies"
+  },
+  {
+    "unitcode": "AMU2140",
+    "unitname": "States and markets"
+  },
+  {
+    "unitcode": "AMU2145",
+    "unitname": "Digital media 2"
+  },
+  {
+    "unitcode": "AMU2146",
+    "unitname": "Digital screens"
+  },
+  {
+    "unitcode": "AMU2315",
+    "unitname": "Strategies in writing experiments"
+  },
+  {
+    "unitcode": "AMU2439",
+    "unitname": "Youth and mobile media"
+  },
+  {
+    "unitcode": "AMU2448",
+    "unitname": "Film genres"
+  },
+  {
+    "unitcode": "AMU2449",
+    "unitname": "Film histories: From 1895 to the present"
+  },
+  {
+    "unitcode": "AMU2450",
+    "unitname": "Contemporary media theory"
+  },
+  {
+    "unitcode": "AMU2453",
+    "unitname": "Research methods in the social sciences"
+  },
+  {
+    "unitcode": "AMU2455",
+    "unitname": "Special topic in social sciences"
+  },
+  {
+    "unitcode": "AMU2498",
+    "unitname": "Contemporary fiction"
+  },
+  {
+    "unitcode": "AMU2625",
+    "unitname": "Borders, people and identity: Migration in the 21st century"
+  },
+  {
+    "unitcode": "AMU2685",
+    "unitname": "Malaysian studies"
+  },
+  {
+    "unitcode": "AMU2690",
+    "unitname": "Discovering the Asia-Pacific study trips"
+  },
+  {
+    "unitcode": "AMU2787",
+    "unitname": "Multimedia journalism"
+  },
+  {
+    "unitcode": "AMU2814",
+    "unitname": "Transforming community: Project design and public relations for social campaigns"
+  },
+  {
+    "unitcode": "AMU2832",
+    "unitname": "Postcolonial and diasporic literature"
+  },
+  {
+    "unitcode": "AMU2906",
+    "unitname": "Genders, sexualities and religions in Southeast Asia"
+  },
+  {
+    "unitcode": "AMU2907",
+    "unitname": "Sexual and reproductive health and rights in global contexts"
+  },
+  {
+    "unitcode": "AMU2908",
+    "unitname": "Critical methodologies for action research"
+  },
+  {
+    "unitcode": "AMU2920",
+    "unitname": "Transformation from below: Civil, society, social movements and political change"
+  },
+  {
+    "unitcode": "AMU3127",
+    "unitname": "Stardom: Celebrity, society and power"
+  },
+  {
+    "unitcode": "AMU3449",
+    "unitname": "Reading social media: Sociotechnological literacies"
+  },
+  {
+    "unitcode": "AMU3451",
+    "unitname": "Freedom and control in the media"
+  },
+  {
+    "unitcode": "AMU3499",
+    "unitname": "Authorship and writing"
+  },
+  {
+    "unitcode": "AMU3560",
+    "unitname": "Contemporary feminisms in Asia"
+  },
+  {
+    "unitcode": "AMU3565",
+    "unitname": "Southeast Asian cinema"
+  },
+  {
+    "unitcode": "AMU3570",
+    "unitname": "International relations"
+  },
+  {
+    "unitcode": "AMU3574",
+    "unitname": "Performing Asian, African and black masculinities"
+  },
+  {
+    "unitcode": "AMU3575",
+    "unitname": "Task force: Responding to global challenges"
+  },
+  {
+    "unitcode": "AMU3580",
+    "unitname": "Digital Society: Engaging with the world"
+  },
+  {
+    "unitcode": "AMU3630",
+    "unitname": "Governing the global economy: Stability, efficiency, justice"
+  },
+  {
+    "unitcode": "AMU3650",
+    "unitname": "A world in crisis: Multilevel responses to global emergencies"
+  },
+  {
+    "unitcode": "AMU3744",
+    "unitname": "Workplace learning internship"
+  },
+  {
+    "unitcode": "AMU3806",
+    "unitname": "Business reporting"
+  },
+  {
+    "unitcode": "AMU3857",
+    "unitname": "Writing techniques"
+  },
+  {
+    "unitcode": "AMU3858",
+    "unitname": "Writing experiments"
+  },
+  {
+    "unitcode": "AMU3859",
+    "unitname": "Writing portfolio"
+  },
+  {
+    "unitcode": "AMU4718",
+    "unitname": "Arts honours dissertation 1"
+  },
+  {
+    "unitcode": "AMU4719",
+    "unitname": "Arts honours dissertation 2"
+  },
+  {
+    "unitcode": "AMU4720",
+    "unitname": "Research issues and methodology"
+  },
+  {
+    "unitcode": "AMU4727",
+    "unitname": "Readings in social, political and cultural theory"
+  },
+  {
+    "unitcode": "APG4223",
+    "unitname": "Gender, violence and society: Understanding social patterns"
+  },
+  {
+    "unitcode": "APG4224",
+    "unitname": "Gender, violence and society: Criminal justice responses"
+  },
+  {
+    "unitcode": "APG4248",
+    "unitname": "Field methods in anthropology and international development"
+  },
+  {
+    "unitcode": "APG4314",
+    "unitname": "Seeking justice: South Africa and Rwanda"
+  },
+  {
+    "unitcode": "APG4421",
+    "unitname": "Dramatic theory, criticism and research methods"
+  },
+  {
+    "unitcode": "APG4554",
+    "unitname": "Resource evaluation and management"
+  },
+  {
+    "unitcode": "APG4618",
+    "unitname": "Researching histories"
+  },
+  {
+    "unitcode": "APG4681",
+    "unitname": "Social research practice"
+  },
+  {
+    "unitcode": "APG4789",
+    "unitname": "Research methods in music"
+  },
+  {
+    "unitcode": "APG5018",
+    "unitname": "Celebrity, fashion, publicity"
+  },
+  {
+    "unitcode": "APG5042",
+    "unitname": "Practices of teaching Englishes for intercultural communication"
+  },
+  {
+    "unitcode": "APG5043",
+    "unitname": "Language and multilingual societies"
+  },
+  {
+    "unitcode": "APG5044",
+    "unitname": "Professional internship"
+  },
+  {
+    "unitcode": "APG5045",
+    "unitname": "Gender and development"
+  },
+  {
+    "unitcode": "APG5046",
+    "unitname": "General linguistics"
+  },
+  {
+    "unitcode": "APG5047",
+    "unitname": "Issues in teaching languages for international communication"
+  },
+  {
+    "unitcode": "APG5048",
+    "unitname": "Translation for special purposes"
+  },
+  {
+    "unitcode": "APG5049",
+    "unitname": "Theory and practice of interpreting"
+  },
+  {
+    "unitcode": "APG5050",
+    "unitname": "Communication research methods"
+  },
+  {
+    "unitcode": "APG5051",
+    "unitname": "Special topics in bioethics"
+  },
+  {
+    "unitcode": "APG5052",
+    "unitname": "Special topic in digital media and communication"
+  },
+  {
+    "unitcode": "APG5054",
+    "unitname": "Research methods for development practice and change"
+  },
+  {
+    "unitcode": "APG5060",
+    "unitname": "Advanced academic skills"
+  },
+  {
+    "unitcode": "APG5064",
+    "unitname": "Gender, security and conflict"
+  },
+  {
+    "unitcode": "APG5066",
+    "unitname": "Shanghai city lab"
+  },
+  {
+    "unitcode": "APG5067",
+    "unitname": "Cultural economy and sustainable development"
+  },
+  {
+    "unitcode": "APG5068",
+    "unitname": "Creative cities"
+  },
+  {
+    "unitcode": "APG5069",
+    "unitname": "Australia and Asia in the Asian century: Politics, business, media"
+  },
+  {
+    "unitcode": "APG5070",
+    "unitname": "Media, mobility and migration"
+  },
+  {
+    "unitcode": "APG5073",
+    "unitname": "Conflict, security and development"
+  },
+  {
+    "unitcode": "APG5075",
+    "unitname": "Using data to understand family violence"
+  },
+  {
+    "unitcode": "APG5076",
+    "unitname": "Health and family violence"
+  },
+  {
+    "unitcode": "APG5077",
+    "unitname": "Cultural and nature-based product management"
+  },
+  {
+    "unitcode": "APG5078",
+    "unitname": "Gender-based policy and planning"
+  },
+  {
+    "unitcode": "APG5080",
+    "unitname": "Bioethics and the body"
+  },
+  {
+    "unitcode": "APG5081",
+    "unitname": "Public health ethics"
+  },
+  {
+    "unitcode": "APG5082",
+    "unitname": "Creative entrepreneurship in cultural industries"
+  },
+  {
+    "unitcode": "APG5091",
+    "unitname": "Big ideas in international relations policy"
+  },
+  {
+    "unitcode": "APG5092",
+    "unitname": "Human rights in global politics"
+  },
+  {
+    "unitcode": "APG5093",
+    "unitname": "International relations field unit: Governing peace and security"
+  },
+  {
+    "unitcode": "APG5095",
+    "unitname": "Research and writing"
+  },
+  {
+    "unitcode": "APG5100",
+    "unitname": "Colab M: Mentoring for development practice and professional development"
+  },
+  {
+    "unitcode": "APG5101",
+    "unitname": "Foundations of public policy"
+  },
+  {
+    "unitcode": "APG5102",
+    "unitname": "Governance"
+  },
+  {
+    "unitcode": "APG5103",
+    "unitname": "Policy analysis and evaluation"
+  },
+  {
+    "unitcode": "APG5104",
+    "unitname": "Public management"
+  },
+  {
+    "unitcode": "APG5109",
+    "unitname": "Family violence prevention practicum"
+  },
+  {
+    "unitcode": "APG5122",
+    "unitname": "Corporate sustainability"
+  },
+  {
+    "unitcode": "APG5135",
+    "unitname": "Video journalism"
+  },
+  {
+    "unitcode": "APG5140",
+    "unitname": "Guiding principles for professionals engaged in disasters and humanitarian crises"
+  },
+  {
+    "unitcode": "APG5155",
+    "unitname": "Designing research in the humanities and social sciences"
+  },
+  {
+    "unitcode": "APG5180",
+    "unitname": "Policy and political communication"
+  },
+  {
+    "unitcode": "APG5181",
+    "unitname": "Intergovernmental relations"
+  },
+  {
+    "unitcode": "APG5182",
+    "unitname": "Digital management and production"
+  },
+  {
+    "unitcode": "APG5183",
+    "unitname": "International tourism marketing research project"
+  },
+  {
+    "unitcode": "APG5184",
+    "unitname": "Video-making as research"
+  },
+  {
+    "unitcode": "APG5189",
+    "unitname": "Monitoring and evaluation"
+  },
+  {
+    "unitcode": "APG5190",
+    "unitname": "Global journalism: Hong Kong field school"
+  },
+  {
+    "unitcode": "APG5215",
+    "unitname": "Global creative cities"
+  },
+  {
+    "unitcode": "APG5229",
+    "unitname": "Prosperity, poverty and sustainability in a globalised world"
+  },
+  {
+    "unitcode": "APG5230",
+    "unitname": "Ecosystems and environmental management"
+  },
+  {
+    "unitcode": "APG5324",
+    "unitname": "International political economy"
+  },
+  {
+    "unitcode": "APG5327",
+    "unitname": "Wars of recognition: Terrorism and political violence"
+  },
+  {
+    "unitcode": "APG5332",
+    "unitname": "Contemporary security topics"
+  },
+  {
+    "unitcode": "APG5337",
+    "unitname": "Governance and democratisation"
+  },
+  {
+    "unitcode": "APG5347",
+    "unitname": "Research methods in applied linguistics"
+  },
+  {
+    "unitcode": "APG5348",
+    "unitname": "Second language acquisition"
+  },
+  {
+    "unitcode": "APG5349",
+    "unitname": "World Englishes"
+  },
+  {
+    "unitcode": "APG5351",
+    "unitname": "World news"
+  },
+  {
+    "unitcode": "APG5355",
+    "unitname": "Journalism and technology"
+  },
+  {
+    "unitcode": "APG5365",
+    "unitname": "Principles of global communications"
+  },
+  {
+    "unitcode": "APG5366",
+    "unitname": "Strategic communications in a digital era"
+  },
+  {
+    "unitcode": "APG5367",
+    "unitname": "Campaigns, advocacy and change"
+  },
+  {
+    "unitcode": "APG5389",
+    "unitname": "Tourism industry and marketing"
+  },
+  {
+    "unitcode": "APG5390",
+    "unitname": "Contemporary tourism and development in emerging economies"
+  },
+  {
+    "unitcode": "APG5393",
+    "unitname": "Ethics"
+  },
+  {
+    "unitcode": "APG5394",
+    "unitname": "Questions of life and death"
+  },
+  {
+    "unitcode": "APG5397",
+    "unitname": "Media, technologies and social change"
+  },
+  {
+    "unitcode": "APG5398",
+    "unitname": "Digital media technologies"
+  },
+  {
+    "unitcode": "APG5400",
+    "unitname": "Issues in international communications"
+  },
+  {
+    "unitcode": "APG5401",
+    "unitname": "Media empires and entrepreneurs"
+  },
+  {
+    "unitcode": "APG5426",
+    "unitname": "Environmental analysis"
+  },
+  {
+    "unitcode": "APG5428",
+    "unitname": "Environmental governance and citizenship"
+  },
+  {
+    "unitcode": "APG5433",
+    "unitname": "Corporate sustainability management"
+  },
+  {
+    "unitcode": "APG5434",
+    "unitname": "Sustainability measurement"
+  },
+  {
+    "unitcode": "APG5470",
+    "unitname": "Managing multicultural teams"
+  },
+  {
+    "unitcode": "APG5471",
+    "unitname": "Leadership in intercultural environments"
+  },
+  {
+    "unitcode": "APG5481",
+    "unitname": "Language for professional purposes part 1"
+  },
+  {
+    "unitcode": "APG5482",
+    "unitname": "Language for professional purposes part 2"
+  },
+  {
+    "unitcode": "APG5483",
+    "unitname": "Language for professional purposes part 3"
+  },
+  {
+    "unitcode": "APG5547",
+    "unitname": "Studio production"
+  },
+  {
+    "unitcode": "APG5553",
+    "unitname": "Field studies in sustainable development"
+  },
+  {
+    "unitcode": "APG5555",
+    "unitname": "Digital tourism economy"
+  },
+  {
+    "unitcode": "APG5566",
+    "unitname": "Strategic events management"
+  },
+  {
+    "unitcode": "APG5590",
+    "unitname": "Political Islam"
+  },
+  {
+    "unitcode": "APG5609",
+    "unitname": "Sustainable tourism development and planning"
+  },
+  {
+    "unitcode": "APG5616",
+    "unitname": "Conference interpreting"
+  },
+  {
+    "unitcode": "APG5617",
+    "unitname": "Human research ethics"
+  },
+  {
+    "unitcode": "APG5627",
+    "unitname": "Research in political ecology"
+  },
+  {
+    "unitcode": "APG5628",
+    "unitname": "Deconstructing development"
+  },
+  {
+    "unitcode": "APG5640",
+    "unitname": "Journalism in society"
+  },
+  {
+    "unitcode": "APG5642",
+    "unitname": "Investigative journalism"
+  },
+  {
+    "unitcode": "APG5652",
+    "unitname": "Language and intercultural communication"
+  },
+  {
+    "unitcode": "APG5653",
+    "unitname": "Journalism futures: New York field school"
+  },
+  {
+    "unitcode": "APG5662",
+    "unitname": "Cultural and creative industries"
+  },
+  {
+    "unitcode": "APG5666",
+    "unitname": "Terrorism, counter-terrorism and intelligence"
+  },
+  {
+    "unitcode": "APG5667",
+    "unitname": "Terrorism, fringe politics and extremist violence"
+  },
+  {
+    "unitcode": "APG5668",
+    "unitname": "Advanced seminar in international relations"
+  },
+  {
+    "unitcode": "APG5690",
+    "unitname": "Applied translation"
+  },
+  {
+    "unitcode": "APG5702",
+    "unitname": "Bilingualism"
+  },
+  {
+    "unitcode": "APG5703",
+    "unitname": "Literacy"
+  },
+  {
+    "unitcode": "APG5704",
+    "unitname": "Discourse analysis"
+  },
+  {
+    "unitcode": "APG5717",
+    "unitname": "Applied industry research and practice"
+  },
+  {
+    "unitcode": "APG5729",
+    "unitname": "Clinical ethics"
+  },
+  {
+    "unitcode": "APG5730",
+    "unitname": "Bioethics, public policy, and the law"
+  },
+  {
+    "unitcode": "APG5733",
+    "unitname": "Health care ethics"
+  },
+  {
+    "unitcode": "APG5742",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "APG5746",
+    "unitname": "Reading and writing international relations"
+  },
+  {
+    "unitcode": "APG5752",
+    "unitname": "Field trip in media and communications"
+  },
+  {
+    "unitcode": "APG5782",
+    "unitname": "Film festivals in local and international contexts"
+  },
+  {
+    "unitcode": "APG5805",
+    "unitname": "Project planning and management in international development"
+  },
+  {
+    "unitcode": "APG5848",
+    "unitname": "Research thesis"
+  },
+  {
+    "unitcode": "APG5849",
+    "unitname": "Research thesis A"
+  },
+  {
+    "unitcode": "APG5850",
+    "unitname": "Research thesis B"
+  },
+  {
+    "unitcode": "APG5856",
+    "unitname": "Research project"
+  },
+  {
+    "unitcode": "APG5874",
+    "unitname": "Global translation and interpreting professional practices"
+  },
+  {
+    "unitcode": "APG5875",
+    "unitname": "Introduction to interpreting and translation studies"
+  },
+  {
+    "unitcode": "APG5876",
+    "unitname": "Translation trends in a digital age"
+  },
+  {
+    "unitcode": "APG5881",
+    "unitname": "Translation studies abroad 1"
+  },
+  {
+    "unitcode": "APG5882",
+    "unitname": "Translation studies abroad 2"
+  },
+  {
+    "unitcode": "APG5883",
+    "unitname": "Major translation project part 1"
+  },
+  {
+    "unitcode": "APG5884",
+    "unitname": "Major translation project part 2"
+  },
+  {
+    "unitcode": "APG5885",
+    "unitname": "Specialised interpreting"
+  },
+  {
+    "unitcode": "APG5894",
+    "unitname": "Communications theories and practices"
+  },
+  {
+    "unitcode": "APG5900",
+    "unitname": "Cultural economy"
+  },
+  {
+    "unitcode": "APG5990",
+    "unitname": "Managing public sector organisations"
+  },
+  {
+    "unitcode": "APG5993",
+    "unitname": "Designing public policies and programs"
+  },
+  {
+    "unitcode": "APG5995",
+    "unitname": "Governing by the rules"
+  },
+  {
+    "unitcode": "APG5998",
+    "unitname": "Public financial management"
+  },
+  {
+    "unitcode": "APR6035",
+    "unitname": "Advanced research methodologies in media, film and journalism"
+  },
+  {
+    "unitcode": "APR6100",
+    "unitname": "Film, media and communication studies: The state of the fields"
+  },
+  {
+    "unitcode": "ATS1001",
+    "unitname": "Chinese introductory 1"
+  },
+  {
+    "unitcode": "ATS1002",
+    "unitname": "Chinese introductory 2"
+  },
+  {
+    "unitcode": "ATS1020",
+    "unitname": "Leadership for social change 1"
+  },
+  {
+    "unitcode": "ATS1040",
+    "unitname": "Religions and society"
+  },
+  {
+    "unitcode": "ATS1041",
+    "unitname": "World religions"
+  },
+  {
+    "unitcode": "ATS1044",
+    "unitname": "Performance 1"
+  },
+  {
+    "unitcode": "ATS1045",
+    "unitname": "Performance 2"
+  },
+  {
+    "unitcode": "ATS1046",
+    "unitname": "Composition and music technology 1: Introduction to composition genres"
+  },
+  {
+    "unitcode": "ATS1047",
+    "unitname": "Composition and music technology 2: Materials of composition"
+  },
+  {
+    "unitcode": "ATS1061",
+    "unitname": "French introductory 1"
+  },
+  {
+    "unitcode": "ATS1062",
+    "unitname": "French introductory 2"
+  },
+  {
+    "unitcode": "ATS1089",
+    "unitname": "Fundamentals of journalism"
+  },
+  {
+    "unitcode": "ATS1090",
+    "unitname": "Practice of journalism"
+  },
+  {
+    "unitcode": "ATS1091",
+    "unitname": "German introductory 1"
+  },
+  {
+    "unitcode": "ATS1092",
+    "unitname": "German introductory 2"
+  },
+  {
+    "unitcode": "ATS1111",
+    "unitname": "Indonesian 1: Biographies"
+  },
+  {
+    "unitcode": "ATS1112",
+    "unitname": "Indonesian 2: Journeys and cultural encounters"
+  },
+  {
+    "unitcode": "ATS1119",
+    "unitname": "Communicating in the digital era"
+  },
+  {
+    "unitcode": "ATS1125",
+    "unitname": "Public relations foundations"
+  },
+  {
+    "unitcode": "ATS1141",
+    "unitname": "Japanese introductory 1"
+  },
+  {
+    "unitcode": "ATS1142",
+    "unitname": "Japanese introductory 2"
+  },
+  {
+    "unitcode": "ATS1171",
+    "unitname": "Korean introductory 1"
+  },
+  {
+    "unitcode": "ATS1172",
+    "unitname": "Korean introductory 2"
+  },
+  {
+    "unitcode": "ATS1189",
+    "unitname": "Acting 1: Theory and practice"
+  },
+  {
+    "unitcode": "ATS1190",
+    "unitname": "Acting 2: Theory and practice"
+  },
+  {
+    "unitcode": "ATS1191",
+    "unitname": "Spanish introductory 1"
+  },
+  {
+    "unitcode": "ATS1192",
+    "unitname": "Spanish introductory 2"
+  },
+  {
+    "unitcode": "ATS1206",
+    "unitname": "Media challenges"
+  },
+  {
+    "unitcode": "ATS1208",
+    "unitname": "Digital Humanities: Concepts, tools and debates"
+  },
+  {
+    "unitcode": "ATS1211",
+    "unitname": "Ukrainian introductory 1"
+  },
+  {
+    "unitcode": "ATS1212",
+    "unitname": "Ukrainian introductory 2"
+  },
+  {
+    "unitcode": "ATS1221",
+    "unitname": "Italian introductory 1"
+  },
+  {
+    "unitcode": "ATS1222",
+    "unitname": "Italian introductory 2"
+  },
+  {
+    "unitcode": "ATS1229",
+    "unitname": "Intensive introductory Italian 1 (in country)"
+  },
+  {
+    "unitcode": "ATS1230",
+    "unitname": "Intensive introductory Italian 2 (in country)"
+  },
+  {
+    "unitcode": "ATS1247",
+    "unitname": "Introducing archaeology 1"
+  },
+  {
+    "unitcode": "ATS1248",
+    "unitname": "Introducing archaeology 2"
+  },
+  {
+    "unitcode": "ATS1250",
+    "unitname": "Social justice and Indigenous Australians"
+  },
+  {
+    "unitcode": "ATS1254",
+    "unitname": "Culture, power and difference: Indigeneity and Australian identity"
+  },
+  {
+    "unitcode": "ATS1255",
+    "unitname": "Encountering cultures: Introduction to anthropology 1"
+  },
+  {
+    "unitcode": "ATS1261",
+    "unitname": "Understanding human behaviour"
+  },
+  {
+    "unitcode": "ATS1262",
+    "unitname": "Understanding social behaviour"
+  },
+  {
+    "unitcode": "ATS1263",
+    "unitname": "Bioethics: Current controversies"
+  },
+  {
+    "unitcode": "ATS1264",
+    "unitname": "Bioethics, justice and the law"
+  },
+  {
+    "unitcode": "ATS1267",
+    "unitname": "Latin language 1"
+  },
+  {
+    "unitcode": "ATS1269",
+    "unitname": "Latin language 2"
+  },
+  {
+    "unitcode": "ATS1279",
+    "unitname": "Media and culture"
+  },
+  {
+    "unitcode": "ATS1280",
+    "unitname": "Understanding the media"
+  },
+  {
+    "unitcode": "ATS1287",
+    "unitname": "Performance in context 1"
+  },
+  {
+    "unitcode": "ATS1288",
+    "unitname": "Performance in context 2"
+  },
+  {
+    "unitcode": "ATS1297",
+    "unitname": "Academic writing"
+  },
+  {
+    "unitcode": "ATS1298",
+    "unitname": "Professional writing"
+  },
+  {
+    "unitcode": "ATS1304",
+    "unitname": "Introduction to television studies"
+  },
+  {
+    "unitcode": "ATS1305",
+    "unitname": "Introduction to film studies"
+  },
+  {
+    "unitcode": "ATS1309",
+    "unitname": "The global challenge"
+  },
+  {
+    "unitcode": "ATS1310",
+    "unitname": "Extreme earth! Natural hazards and human vulnerability"
+  },
+  {
+    "unitcode": "ATS1314",
+    "unitname": "Human rights theory 1"
+  },
+  {
+    "unitcode": "ATS1315",
+    "unitname": "Human rights theory 2"
+  },
+  {
+    "unitcode": "ATS1316",
+    "unitname": "Medieval worlds: From Vikings to the Silk Road"
+  },
+  {
+    "unitcode": "ATS1317",
+    "unitname": "Renaissance worlds: Conflict, art, invention"
+  },
+  {
+    "unitcode": "ATS1319",
+    "unitname": "Global Asia"
+  },
+  {
+    "unitcode": "ATS1320",
+    "unitname": "Nations at war: Revolution and empire"
+  },
+  {
+    "unitcode": "ATS1321",
+    "unitname": "Nations at war: The twentieth century"
+  },
+  {
+    "unitcode": "ATS1325",
+    "unitname": "International studies: Origins of globalisation"
+  },
+  {
+    "unitcode": "ATS1326",
+    "unitname": "International studies: Challenges of globalisation"
+  },
+  {
+    "unitcode": "ATS1336",
+    "unitname": "Yiddish language, culture and literature 1A"
+  },
+  {
+    "unitcode": "ATS1337",
+    "unitname": "Yiddish language, culture and literature 1B"
+  },
+  {
+    "unitcode": "ATS1338",
+    "unitname": "Language and communication: Sounds and words"
+  },
+  {
+    "unitcode": "ATS1339",
+    "unitname": "Language and communication: Putting words together"
+  },
+  {
+    "unitcode": "ATS1340",
+    "unitname": "English for academic purposes"
+  },
+  {
+    "unitcode": "ATS1343",
+    "unitname": "Popular music in global perspective"
+  },
+  {
+    "unitcode": "ATS1345",
+    "unitname": "Music and history"
+  },
+  {
+    "unitcode": "ATS1346",
+    "unitname": "Music and culture"
+  },
+  {
+    "unitcode": "ATS1347",
+    "unitname": "Music ensemble 1"
+  },
+  {
+    "unitcode": "ATS1348",
+    "unitname": "Music ensemble 2"
+  },
+  {
+    "unitcode": "ATS1353",
+    "unitname": "Foundations of modern politics"
+  },
+  {
+    "unitcode": "ATS1365",
+    "unitname": "Introduction to sociology"
+  },
+  {
+    "unitcode": "ATS1366",
+    "unitname": "The individual and society"
+  },
+  {
+    "unitcode": "ATS1371",
+    "unitname": "Life, death and morality (Introduction to philosophy A)"
+  },
+  {
+    "unitcode": "ATS1396",
+    "unitname": "Drug cultures"
+  },
+  {
+    "unitcode": "ATS1420",
+    "unitname": "The global crime problem"
+  },
+  {
+    "unitcode": "ATS1421",
+    "unitname": "The complexity of crime"
+  },
+  {
+    "unitcode": "ATS1422",
+    "unitname": "Controlling crime, controlling society"
+  },
+  {
+    "unitcode": "ATS1423",
+    "unitname": "Punishment, courts and corrections"
+  },
+  {
+    "unitcode": "ATS1515",
+    "unitname": "Reading across cultures"
+  },
+  {
+    "unitcode": "ATS1701",
+    "unitname": "Terrorism and political violence: An introduction"
+  },
+  {
+    "unitcode": "ATS1835",
+    "unitname": "Time, self and mind (Introduction to philosophy B)"
+  },
+  {
+    "unitcode": "ATS1873",
+    "unitname": "Introduction to international relations"
+  },
+  {
+    "unitcode": "ATS1899",
+    "unitname": "Music theory and ear training 1"
+  },
+  {
+    "unitcode": "ATS1900",
+    "unitname": "Music theory and ear training 2"
+  },
+  {
+    "unitcode": "ATS1903",
+    "unitname": "Introducing literature: Ways of reading"
+  },
+  {
+    "unitcode": "ATS1904",
+    "unitname": "Reading the city: Literary genres"
+  },
+  {
+    "unitcode": "ATS1905",
+    "unitname": "Chinese introductory for background speakers 1"
+  },
+  {
+    "unitcode": "ATS1906",
+    "unitname": "Chinese introductory for background speakers 2"
+  },
+  {
+    "unitcode": "ATS1940",
+    "unitname": "Chinese translation 2"
+  },
+  {
+    "unitcode": "ATS1945",
+    "unitname": "Australian government and politics"
+  },
+  {
+    "unitcode": "ATS1959",
+    "unitname": "Chinese translation 1"
+  },
+  {
+    "unitcode": "ATS2001",
+    "unitname": "Chinese introductory 1"
+  },
+  {
+    "unitcode": "ATS2002",
+    "unitname": "Chinese introductory 2"
+  },
+  {
+    "unitcode": "ATS2003",
+    "unitname": "Chinese intermediate 1"
+  },
+  {
+    "unitcode": "ATS2004",
+    "unitname": "Chinese intermediate 2"
+  },
+  {
+    "unitcode": "ATS2005",
+    "unitname": "Chinese proficient 1"
+  },
+  {
+    "unitcode": "ATS2006",
+    "unitname": "Chinese proficient 2"
+  },
+  {
+    "unitcode": "ATS2019",
+    "unitname": "Beyond 'Primitive' Art: Understanding meaning and symbolism in Indigenous art"
+  },
+  {
+    "unitcode": "ATS2020",
+    "unitname": "Colonialism in comparison: Australia, New Zealand and the Pacific"
+  },
+  {
+    "unitcode": "ATS2039",
+    "unitname": "Understanding modern China"
+  },
+  {
+    "unitcode": "ATS2040",
+    "unitname": "Understanding contemporary China"
+  },
+  {
+    "unitcode": "ATS2043",
+    "unitname": "Chinese translation for professional purposes 1"
+  },
+  {
+    "unitcode": "ATS2044",
+    "unitname": "Chinese translation for professional purposes 2"
+  },
+  {
+    "unitcode": "ATS2056",
+    "unitname": "Crime and inequality"
+  },
+  {
+    "unitcode": "ATS2057",
+    "unitname": "Genocide"
+  },
+  {
+    "unitcode": "ATS2060",
+    "unitname": "The art of teaching music performance"
+  },
+  {
+    "unitcode": "ATS2063",
+    "unitname": "French intermediate 1"
+  },
+  {
+    "unitcode": "ATS2064",
+    "unitname": "French intermediate 2"
+  },
+  {
+    "unitcode": "ATS2065",
+    "unitname": "French proficient 1"
+  },
+  {
+    "unitcode": "ATS2066",
+    "unitname": "French proficient 2"
+  },
+  {
+    "unitcode": "ATS2084",
+    "unitname": "Ancient mythologies"
+  },
+  {
+    "unitcode": "ATS2086",
+    "unitname": "Leadership for social change 2"
+  },
+  {
+    "unitcode": "ATS2087",
+    "unitname": "Lifestyle journalism"
+  },
+  {
+    "unitcode": "ATS2088",
+    "unitname": "Russia and the US: Comparative politics"
+  },
+  {
+    "unitcode": "ATS2093",
+    "unitname": "German intermediate 1"
+  },
+  {
+    "unitcode": "ATS2094",
+    "unitname": "German intermediate 2"
+  },
+  {
+    "unitcode": "ATS2095",
+    "unitname": "German proficient 1"
+  },
+  {
+    "unitcode": "ATS2096",
+    "unitname": "German proficient 2"
+  },
+  {
+    "unitcode": "ATS2105",
+    "unitname": "Theatre and performance: Theory and practice 2"
+  },
+  {
+    "unitcode": "ATS2106",
+    "unitname": "An environmental history of the world: People and our planet"
+  },
+  {
+    "unitcode": "ATS2110",
+    "unitname": "Slavery: A history"
+  },
+  {
+    "unitcode": "ATS2113",
+    "unitname": "Indonesian 3: Contemporary issues in Indonesia"
+  },
+  {
+    "unitcode": "ATS2114",
+    "unitname": "Indonesian 4: Stories and storytelling in the Indonesian archipelago"
+  },
+  {
+    "unitcode": "ATS2122",
+    "unitname": "Performance 3"
+  },
+  {
+    "unitcode": "ATS2123",
+    "unitname": "Performance 4"
+  },
+  {
+    "unitcode": "ATS2127",
+    "unitname": "Composition and music technology 3: Spatial composition techniques"
+  },
+  {
+    "unitcode": "ATS2128",
+    "unitname": "Composition and music technology 4: Composition for screen"
+  },
+  {
+    "unitcode": "ATS2139",
+    "unitname": "Song writing: How to write a popular song"
+  },
+  {
+    "unitcode": "ATS2141",
+    "unitname": "Japanese introductory 1"
+  },
+  {
+    "unitcode": "ATS2142",
+    "unitname": "Japanese introductory 2"
+  },
+  {
+    "unitcode": "ATS2143",
+    "unitname": "Japanese intermediate 1"
+  },
+  {
+    "unitcode": "ATS2144",
+    "unitname": "Japanese intermediate 2"
+  },
+  {
+    "unitcode": "ATS2145",
+    "unitname": "Japanese proficient 1"
+  },
+  {
+    "unitcode": "ATS2146",
+    "unitname": "Japanese proficient 2"
+  },
+  {
+    "unitcode": "ATS2159",
+    "unitname": "Recording and computer music production"
+  },
+  {
+    "unitcode": "ATS2160",
+    "unitname": "Language, culture and society on the Korean Peninsula"
+  },
+  {
+    "unitcode": "ATS2163",
+    "unitname": "The writing self: Creative nonfiction"
+  },
+  {
+    "unitcode": "ATS2164",
+    "unitname": "Italian transformations: Reading and writing self-discovery"
+  },
+  {
+    "unitcode": "ATS2169",
+    "unitname": "Photojournalism"
+  },
+  {
+    "unitcode": "ATS2170",
+    "unitname": "Social entrepreneurship"
+  },
+  {
+    "unitcode": "ATS2171",
+    "unitname": "Korean introductory 1"
+  },
+  {
+    "unitcode": "ATS2172",
+    "unitname": "Korean introductory 2"
+  },
+  {
+    "unitcode": "ATS2173",
+    "unitname": "Korean intermediate 1"
+  },
+  {
+    "unitcode": "ATS2174",
+    "unitname": "Korean intermediate 2"
+  },
+  {
+    "unitcode": "ATS2184",
+    "unitname": "Intercultural skills for an internationalised workplace"
+  },
+  {
+    "unitcode": "ATS2185",
+    "unitname": "Biblical texts and contexts"
+  },
+  {
+    "unitcode": "ATS2186",
+    "unitname": "Audio lab"
+  },
+  {
+    "unitcode": "ATS2187",
+    "unitname": "Video lab"
+  },
+  {
+    "unitcode": "ATS2188",
+    "unitname": "Writing lab"
+  },
+  {
+    "unitcode": "ATS2189",
+    "unitname": "Conflict and coexistence 1: Jews, Christians and Muslims from antiquity through the middle ages"
+  },
+  {
+    "unitcode": "ATS2193",
+    "unitname": "Spanish intermediate 1"
+  },
+  {
+    "unitcode": "ATS2194",
+    "unitname": "Spanish intermediate 2"
+  },
+  {
+    "unitcode": "ATS2195",
+    "unitname": "Spanish proficient 1"
+  },
+  {
+    "unitcode": "ATS2196",
+    "unitname": "Spanish proficient 2"
+  },
+  {
+    "unitcode": "ATS2215",
+    "unitname": "Ukrainian intermediate 1"
+  },
+  {
+    "unitcode": "ATS2216",
+    "unitname": "Ukrainian intermediate 2"
+  },
+  {
+    "unitcode": "ATS2219",
+    "unitname": "Sport journalism in the digital age"
+  },
+  {
+    "unitcode": "ATS2223",
+    "unitname": "Italian intermediate 1"
+  },
+  {
+    "unitcode": "ATS2224",
+    "unitname": "Italian intermediate 2"
+  },
+  {
+    "unitcode": "ATS2225",
+    "unitname": "Italian proficient 1"
+  },
+  {
+    "unitcode": "ATS2226",
+    "unitname": "Italian proficient 2"
+  },
+  {
+    "unitcode": "ATS2229",
+    "unitname": "Intensive introductory Italian 1 (in country)"
+  },
+  {
+    "unitcode": "ATS2230",
+    "unitname": "Intensive introductory Italian 2 (in country)"
+  },
+  {
+    "unitcode": "ATS2247",
+    "unitname": "Italian proficient 2 (in country)"
+  },
+  {
+    "unitcode": "ATS2250",
+    "unitname": "Communications and cultures in the global era"
+  },
+  {
+    "unitcode": "ATS2251",
+    "unitname": "Cuba study tour"
+  },
+  {
+    "unitcode": "ATS2255",
+    "unitname": "Mobile journalism"
+  },
+  {
+    "unitcode": "ATS2256",
+    "unitname": "Political psychology"
+  },
+  {
+    "unitcode": "ATS2257",
+    "unitname": "Long-form television: \"HBO\" and beyond"
+  },
+  {
+    "unitcode": "ATS2269",
+    "unitname": "Exploring contemporary Australia: People, events, ideas"
+  },
+  {
+    "unitcode": "ATS2271",
+    "unitname": "Beowulf: An interdisciplinary approach"
+  },
+  {
+    "unitcode": "ATS2275",
+    "unitname": "The European Union from consensus to crisis"
+  },
+  {
+    "unitcode": "ATS2276",
+    "unitname": "Modern Italian political thought"
+  },
+  {
+    "unitcode": "ATS2277",
+    "unitname": "Artefacts, objects and remains: Making sense of archaeological sites"
+  },
+  {
+    "unitcode": "ATS2280",
+    "unitname": "Video games: Industry and culture"
+  },
+  {
+    "unitcode": "ATS2283",
+    "unitname": "The archaeology of empires"
+  },
+  {
+    "unitcode": "ATS2290",
+    "unitname": "Global leadership and advanced research program"
+  },
+  {
+    "unitcode": "ATS2295",
+    "unitname": "Screening contemporary Europe"
+  },
+  {
+    "unitcode": "ATS2296",
+    "unitname": "Musical theatre 1: History and form"
+  },
+  {
+    "unitcode": "ATS2297",
+    "unitname": "Musical theatre 2: Skills and performance"
+  },
+  {
+    "unitcode": "ATS2305",
+    "unitname": "Digital humanities: Expanding research paradigms"
+  },
+  {
+    "unitcode": "ATS2310",
+    "unitname": "Newsroom practice"
+  },
+  {
+    "unitcode": "ATS2323",
+    "unitname": "Media anthropology: Power, culture and representation"
+  },
+  {
+    "unitcode": "ATS2324",
+    "unitname": "Climate change communication"
+  },
+  {
+    "unitcode": "ATS2329",
+    "unitname": "Project in applied digital humanities"
+  },
+  {
+    "unitcode": "ATS2330",
+    "unitname": "State sovereignty, human rights, and the responsibility to protect"
+  },
+  {
+    "unitcode": "ATS2331",
+    "unitname": "Music - Overseas study program 1"
+  },
+  {
+    "unitcode": "ATS2332",
+    "unitname": "Music - Overseas study program 2"
+  },
+  {
+    "unitcode": "ATS2333",
+    "unitname": "Jazz history"
+  },
+  {
+    "unitcode": "ATS2334",
+    "unitname": "Human rights discourse: A practical and conceptual history"
+  },
+  {
+    "unitcode": "ATS2335",
+    "unitname": "War and memory: Resistance, massacre and representation in second world war Italy"
+  },
+  {
+    "unitcode": "ATS2337",
+    "unitname": "The Minotaur to the Trojan war: Aegean archaeology"
+  },
+  {
+    "unitcode": "ATS2341",
+    "unitname": "Asian imaginaries: Bollywood, Manga and other fictions in Asian worlds"
+  },
+  {
+    "unitcode": "ATS2344",
+    "unitname": "Study tour in Italy: Etruscan and Roman archaeology"
+  },
+  {
+    "unitcode": "ATS2349",
+    "unitname": "The golden age of Athens"
+  },
+  {
+    "unitcode": "ATS2351",
+    "unitname": "The archaeology of death in ancient Egypt"
+  },
+  {
+    "unitcode": "ATS2352",
+    "unitname": "Egypt's golden age"
+  },
+  {
+    "unitcode": "ATS2354",
+    "unitname": "Interrogating racism: Indigenous Australians and the state"
+  },
+  {
+    "unitcode": "ATS2355",
+    "unitname": "Race and power: Imagining Indigenous Australia"
+  },
+  {
+    "unitcode": "ATS2358",
+    "unitname": "Contesting laws: Heritage, culture and land"
+  },
+  {
+    "unitcode": "ATS2359",
+    "unitname": "Hearing the country: Studies in Indigenous Australian ethnoecology"
+  },
+  {
+    "unitcode": "ATS2371",
+    "unitname": "Magic, science and religion"
+  },
+  {
+    "unitcode": "ATS2378",
+    "unitname": "The anthropology of international development"
+  },
+  {
+    "unitcode": "ATS2380",
+    "unitname": "Australia: Migrant nation"
+  },
+  {
+    "unitcode": "ATS2382",
+    "unitname": "War and memory in the Asia Pacific: Legacies of World War II"
+  },
+  {
+    "unitcode": "ATS2385",
+    "unitname": "Australians at war"
+  },
+  {
+    "unitcode": "ATS2394",
+    "unitname": "Australia and Asia"
+  },
+  {
+    "unitcode": "ATS2395",
+    "unitname": "Australia in a globalising world"
+  },
+  {
+    "unitcode": "ATS2400",
+    "unitname": "Personality: Beyond the persona"
+  },
+  {
+    "unitcode": "ATS2410",
+    "unitname": "Narrative"
+  },
+  {
+    "unitcode": "ATS2422",
+    "unitname": "Romanticism and its literary legacy"
+  },
+  {
+    "unitcode": "ATS2436",
+    "unitname": "New media: From the telegraph to Twitter"
+  },
+  {
+    "unitcode": "ATS2439",
+    "unitname": "Youth media: Understanding media research"
+  },
+  {
+    "unitcode": "ATS2440",
+    "unitname": "The public sphere"
+  },
+  {
+    "unitcode": "ATS2443",
+    "unitname": "On the road: Travel and representation"
+  },
+  {
+    "unitcode": "ATS2444",
+    "unitname": "Inscribing Italy: Travels and imaginings"
+  },
+  {
+    "unitcode": "ATS2455",
+    "unitname": "Public relations strategy"
+  },
+  {
+    "unitcode": "ATS2456",
+    "unitname": "Cybercrime"
+  },
+  {
+    "unitcode": "ATS2457",
+    "unitname": "Crime, media and culture"
+  },
+  {
+    "unitcode": "ATS2458",
+    "unitname": "Crime, control and policing"
+  },
+  {
+    "unitcode": "ATS2465",
+    "unitname": "Human rights in the criminal justice sphere"
+  },
+  {
+    "unitcode": "ATS2469",
+    "unitname": "Victims, justice and the law"
+  },
+  {
+    "unitcode": "ATS2485",
+    "unitname": "Reading the past"
+  },
+  {
+    "unitcode": "ATS2490",
+    "unitname": "Advanced professional writing"
+  },
+  {
+    "unitcode": "ATS2492",
+    "unitname": "Shakespeare and Renaissance literature"
+  },
+  {
+    "unitcode": "ATS2508",
+    "unitname": "Introduction to poetry writing"
+  },
+  {
+    "unitcode": "ATS2517",
+    "unitname": "Introduction to fiction writing"
+  },
+  {
+    "unitcode": "ATS2519",
+    "unitname": "Children's literature: A comparative study"
+  },
+  {
+    "unitcode": "ATS2529",
+    "unitname": "Australian film and television: Local and global"
+  },
+  {
+    "unitcode": "ATS2530",
+    "unitname": "Film and television genres"
+  },
+  {
+    "unitcode": "ATS2535",
+    "unitname": "Storytelling in film and television: From classical narrative to art cinema"
+  },
+  {
+    "unitcode": "ATS2538",
+    "unitname": "Film and television institutions"
+  },
+  {
+    "unitcode": "ATS2547",
+    "unitname": "Cities and sustainability"
+  },
+  {
+    "unitcode": "ATS2548",
+    "unitname": "Environmental policy and management"
+  },
+  {
+    "unitcode": "ATS2551",
+    "unitname": "Writing resistance: Understanding the power of Indigenous story-telling through literature"
+  },
+  {
+    "unitcode": "ATS2552",
+    "unitname": "Crime, justice and the public"
+  },
+  {
+    "unitcode": "ATS2553",
+    "unitname": "Indigenous justice in Australia"
+  },
+  {
+    "unitcode": "ATS2557",
+    "unitname": "Fears and fantasies: Deviance and criminality in the modern world"
+  },
+  {
+    "unitcode": "ATS2560",
+    "unitname": "Gender, theory and society"
+  },
+  {
+    "unitcode": "ATS2561",
+    "unitname": "Sex and the media"
+  },
+  {
+    "unitcode": "ATS2579",
+    "unitname": "Witches and depravity in the medieval and early modern world"
+  },
+  {
+    "unitcode": "ATS2584",
+    "unitname": "Australia's black history"
+  },
+  {
+    "unitcode": "ATS2586",
+    "unitname": "Islam: Principles, civilisations, influences"
+  },
+  {
+    "unitcode": "ATS2590",
+    "unitname": "Twentieth-century Britain: Rule Britannia to cool Britannia"
+  },
+  {
+    "unitcode": "ATS2595",
+    "unitname": "The rise and fall of Nazi Germany"
+  },
+  {
+    "unitcode": "ATS2596",
+    "unitname": "The Vietnam War"
+  },
+  {
+    "unitcode": "ATS2600",
+    "unitname": "The Holocaust"
+  },
+  {
+    "unitcode": "ATS2603",
+    "unitname": "The age of crusades: Cultures and societies"
+  },
+  {
+    "unitcode": "ATS2612",
+    "unitname": "The Renaissance in Florence"
+  },
+  {
+    "unitcode": "ATS2617",
+    "unitname": "The American civil war"
+  },
+  {
+    "unitcode": "ATS2619",
+    "unitname": "Cultural diversity in contemporary Europe"
+  },
+  {
+    "unitcode": "ATS2620",
+    "unitname": "The age of the Samurai"
+  },
+  {
+    "unitcode": "ATS2624",
+    "unitname": "Global governance"
+  },
+  {
+    "unitcode": "ATS2625",
+    "unitname": "Mobile worlds: Borders, displacement and belonging"
+  },
+  {
+    "unitcode": "ATS2628",
+    "unitname": "Power and poverty: International development in a globalised world"
+  },
+  {
+    "unitcode": "ATS2633",
+    "unitname": "Global cities: Past, present and future"
+  },
+  {
+    "unitcode": "ATS2637",
+    "unitname": "Global bioethics"
+  },
+  {
+    "unitcode": "ATS2640",
+    "unitname": "The ethics of global conflict"
+  },
+  {
+    "unitcode": "ATS2648",
+    "unitname": "Contemporary Japan"
+  },
+  {
+    "unitcode": "ATS2653",
+    "unitname": "Japanese: Language, culture and communication"
+  },
+  {
+    "unitcode": "ATS2667",
+    "unitname": "Language across time"
+  },
+  {
+    "unitcode": "ATS2668",
+    "unitname": "Structure in the languages of the world"
+  },
+  {
+    "unitcode": "ATS2671",
+    "unitname": "Managing intercultural communication"
+  },
+  {
+    "unitcode": "ATS2672",
+    "unitname": "Exploring texts with computers"
+  },
+  {
+    "unitcode": "ATS2676",
+    "unitname": "Sociolinguistics"
+  },
+  {
+    "unitcode": "ATS2681",
+    "unitname": "Structure of English"
+  },
+  {
+    "unitcode": "ATS2682",
+    "unitname": "Second language acquisition"
+  },
+  {
+    "unitcode": "ATS2683",
+    "unitname": "The analysis of discourse: Texts, narrative and society"
+  },
+  {
+    "unitcode": "ATS2687",
+    "unitname": "The ethnomusicology of improvisation"
+  },
+  {
+    "unitcode": "ATS2691",
+    "unitname": "Politics, violence and memory"
+  },
+  {
+    "unitcode": "ATS2693",
+    "unitname": "Politics, media and elections"
+  },
+  {
+    "unitcode": "ATS2698",
+    "unitname": "Middle East politics"
+  },
+  {
+    "unitcode": "ATS2699",
+    "unitname": "Parties and power"
+  },
+  {
+    "unitcode": "ATS2706",
+    "unitname": "Foreign policy analysis"
+  },
+  {
+    "unitcode": "ATS2716",
+    "unitname": "Cultural diversity and identity"
+  },
+  {
+    "unitcode": "ATS2718",
+    "unitname": "Families, relationships and society"
+  },
+  {
+    "unitcode": "ATS2720",
+    "unitname": "Youth, culture and social change"
+  },
+  {
+    "unitcode": "ATS2723",
+    "unitname": "Social research methods"
+  },
+  {
+    "unitcode": "ATS2727",
+    "unitname": "Men, masculinity and society"
+  },
+  {
+    "unitcode": "ATS2743",
+    "unitname": "Build your career: Planning and strategies for employability"
+  },
+  {
+    "unitcode": "ATS2748",
+    "unitname": "Introduction to Ancient Greek"
+  },
+  {
+    "unitcode": "ATS2750",
+    "unitname": "Intermediate Ancient Greek"
+  },
+  {
+    "unitcode": "ATS2757",
+    "unitname": "Towards decolonisation: The United Nations, rights and Indigenous peoples"
+  },
+  {
+    "unitcode": "ATS2758",
+    "unitname": "Religion, philosophy, science"
+  },
+  {
+    "unitcode": "ATS2769",
+    "unitname": "English as an international language"
+  },
+  {
+    "unitcode": "ATS2770",
+    "unitname": "English as an international language: Language and globalisation"
+  },
+  {
+    "unitcode": "ATS2784",
+    "unitname": "News and power"
+  },
+  {
+    "unitcode": "ATS2787",
+    "unitname": "Social media and digital storytelling"
+  },
+  {
+    "unitcode": "ATS2788",
+    "unitname": "Podcasting and audio journalism"
+  },
+  {
+    "unitcode": "ATS2790",
+    "unitname": "Longform journalism"
+  },
+  {
+    "unitcode": "ATS2791",
+    "unitname": "Editing and design"
+  },
+  {
+    "unitcode": "ATS2795",
+    "unitname": "Yiddish language, culture and literature 2A"
+  },
+  {
+    "unitcode": "ATS2796",
+    "unitname": "Yiddish language, culture and literature 2B"
+  },
+  {
+    "unitcode": "ATS2799",
+    "unitname": "Audio culture: From Cage to Gaga"
+  },
+  {
+    "unitcode": "ATS2800",
+    "unitname": "Music ensemble 3"
+  },
+  {
+    "unitcode": "ATS2801",
+    "unitname": "Music ensemble 4"
+  },
+  {
+    "unitcode": "ATS2804",
+    "unitname": "From the erotic to the exotic: Music in the nineteenth century"
+  },
+  {
+    "unitcode": "ATS2805",
+    "unitname": "Music, identity and place"
+  },
+  {
+    "unitcode": "ATS2811",
+    "unitname": "Theatre and performance: Theory and practice 1"
+  },
+  {
+    "unitcode": "ATS2837",
+    "unitname": "Plato and Platonism"
+  },
+  {
+    "unitcode": "ATS2839",
+    "unitname": "Ethics"
+  },
+  {
+    "unitcode": "ATS2840",
+    "unitname": "Philosophy of mind"
+  },
+  {
+    "unitcode": "ATS2845",
+    "unitname": "Screenwriting for media production"
+  },
+  {
+    "unitcode": "ATS2846",
+    "unitname": "Screening Melbourne"
+  },
+  {
+    "unitcode": "ATS2860",
+    "unitname": "After the death of God: Continental philosophy of religion from Nietzsche to today"
+  },
+  {
+    "unitcode": "ATS2861",
+    "unitname": "God, freedom and evil"
+  },
+  {
+    "unitcode": "ATS2863",
+    "unitname": "History of philosophy: Descartes"
+  },
+  {
+    "unitcode": "ATS2865",
+    "unitname": "Language, truth and power"
+  },
+  {
+    "unitcode": "ATS2866",
+    "unitname": "Symbolic logic"
+  },
+  {
+    "unitcode": "ATS2867",
+    "unitname": "Thinking about science"
+  },
+  {
+    "unitcode": "ATS2868",
+    "unitname": "Anarchy, property, and the state"
+  },
+  {
+    "unitcode": "ATS2871",
+    "unitname": "Environmental ethics"
+  },
+  {
+    "unitcode": "ATS2872",
+    "unitname": "Topics in Indian philosophy"
+  },
+  {
+    "unitcode": "ATS2875",
+    "unitname": "The moral psychology of evil"
+  },
+  {
+    "unitcode": "ATS2890",
+    "unitname": "Script development 1"
+  },
+  {
+    "unitcode": "ATS2898",
+    "unitname": "The Italian city: Historical and literary perspectives"
+  },
+  {
+    "unitcode": "ATS2900",
+    "unitname": "Writing about music: Headlines and hashtags"
+  },
+  {
+    "unitcode": "ATS2901",
+    "unitname": "Music theory and ear training 3"
+  },
+  {
+    "unitcode": "ATS2902",
+    "unitname": "Music theory and ear training 4"
+  },
+  {
+    "unitcode": "ATS2907",
+    "unitname": "Modern Islam"
+  },
+  {
+    "unitcode": "ATS2910",
+    "unitname": "Professional and academic presentation skills"
+  },
+  {
+    "unitcode": "ATS2913",
+    "unitname": "Greek tragedy: Performance and reception"
+  },
+  {
+    "unitcode": "ATS2914",
+    "unitname": "The dark hero"
+  },
+  {
+    "unitcode": "ATS2915",
+    "unitname": "The roots of fantasy"
+  },
+  {
+    "unitcode": "ATS2924",
+    "unitname": "Introduction to Ancient Egyptian language"
+  },
+  {
+    "unitcode": "ATS2931",
+    "unitname": "Making history at the museum"
+  },
+  {
+    "unitcode": "ATS2932",
+    "unitname": "Struggles for justice: The history of rebellion, resistance and revolt"
+  },
+  {
+    "unitcode": "ATS2940",
+    "unitname": "Chinese translation 2"
+  },
+  {
+    "unitcode": "ATS2941",
+    "unitname": "Asia's underside: Violence, crime and protest"
+  },
+  {
+    "unitcode": "ATS2946",
+    "unitname": "Critical thinking: How to analyse arguments and improve your reasoning skills"
+  },
+  {
+    "unitcode": "ATS2957",
+    "unitname": "Medieval Italy: Sites of encounter"
+  },
+  {
+    "unitcode": "ATS2959",
+    "unitname": "Chinese translation 1"
+  },
+  {
+    "unitcode": "ATS2961",
+    "unitname": "Political ideas"
+  },
+  {
+    "unitcode": "ATS2964",
+    "unitname": "Screen theories"
+  },
+  {
+    "unitcode": "ATS2991",
+    "unitname": "Archaeological fieldwork in Italy"
+  },
+  {
+    "unitcode": "ATS2992",
+    "unitname": "Global immersion guarantee program"
+  },
+  {
+    "unitcode": "ATS2995",
+    "unitname": "Blood and guts: A history of medicine in Europe"
+  },
+  {
+    "unitcode": "ATS3002",
+    "unitname": "Documentary"
+  },
+  {
+    "unitcode": "ATS3004",
+    "unitname": "Crime, risk and security"
+  },
+  {
+    "unitcode": "ATS3005",
+    "unitname": "Chinese proficient 1"
+  },
+  {
+    "unitcode": "ATS3006",
+    "unitname": "Chinese proficient 2"
+  },
+  {
+    "unitcode": "ATS3007",
+    "unitname": "Chinese studies advanced 1"
+  },
+  {
+    "unitcode": "ATS3008",
+    "unitname": "Chinese studies advanced 2"
+  },
+  {
+    "unitcode": "ATS3009",
+    "unitname": "Chinese studies advanced 3: Readings in modern literature"
+  },
+  {
+    "unitcode": "ATS3010",
+    "unitname": "Chinese studies advanced 4: Readings in modern literature"
+  },
+  {
+    "unitcode": "ATS3011",
+    "unitname": "Chinese studies advanced 5: Contemporary literature"
+  },
+  {
+    "unitcode": "ATS3012",
+    "unitname": "Chinese studies advanced 6: Contemporary literature"
+  },
+  {
+    "unitcode": "ATS3013",
+    "unitname": "Chinese business translation 1"
+  },
+  {
+    "unitcode": "ATS3014",
+    "unitname": "Chinese business translation 2"
+  },
+  {
+    "unitcode": "ATS3020",
+    "unitname": "Colonialism in comparison: Australia, New Zealand and the Pacific"
+  },
+  {
+    "unitcode": "ATS3021",
+    "unitname": "Chamber music 1"
+  },
+  {
+    "unitcode": "ATS3022",
+    "unitname": "Chamber music 2"
+  },
+  {
+    "unitcode": "ATS3037",
+    "unitname": "Chinese online media: Contemporary issues and perspectives"
+  },
+  {
+    "unitcode": "ATS3038",
+    "unitname": "Chinese online media: Current issues and perspectives"
+  },
+  {
+    "unitcode": "ATS3042",
+    "unitname": "Chinese media analysis"
+  },
+  {
+    "unitcode": "ATS3045",
+    "unitname": "From translation to interpreting in Chinese 1"
+  },
+  {
+    "unitcode": "ATS3046",
+    "unitname": "From translation to interpreting in Chinese 2"
+  },
+  {
+    "unitcode": "ATS3058",
+    "unitname": "New writing in Italy"
+  },
+  {
+    "unitcode": "ATS3060",
+    "unitname": "Uni-Capitol Washington internship programme"
+  },
+  {
+    "unitcode": "ATS3061",
+    "unitname": "Music in Australia"
+  },
+  {
+    "unitcode": "ATS3062",
+    "unitname": "Digital production"
+  },
+  {
+    "unitcode": "ATS3064",
+    "unitname": "Cultural intelligence: Building competencies for global leadership"
+  },
+  {
+    "unitcode": "ATS3065",
+    "unitname": "French proficient 1"
+  },
+  {
+    "unitcode": "ATS3066",
+    "unitname": "French proficient 2"
+  },
+  {
+    "unitcode": "ATS3067",
+    "unitname": "French studies advanced 1"
+  },
+  {
+    "unitcode": "ATS3068",
+    "unitname": "French studies advanced 2"
+  },
+  {
+    "unitcode": "ATS3069",
+    "unitname": "French studies advanced 3"
+  },
+  {
+    "unitcode": "ATS3070",
+    "unitname": "French studies advanced 4"
+  },
+  {
+    "unitcode": "ATS3071",
+    "unitname": "France on film"
+  },
+  {
+    "unitcode": "ATS3077",
+    "unitname": "Whatever happened to truth?: French literature, thought and visual culture"
+  },
+  {
+    "unitcode": "ATS3079",
+    "unitname": "The fall and rise of modern China: From opium war to opening up"
+  },
+  {
+    "unitcode": "ATS3080",
+    "unitname": "Remembering the past"
+  },
+  {
+    "unitcode": "ATS3083",
+    "unitname": "Translating across cultures"
+  },
+  {
+    "unitcode": "ATS3089",
+    "unitname": "Social institutions and power in Asia"
+  },
+  {
+    "unitcode": "ATS3091",
+    "unitname": "Digital literatures"
+  },
+  {
+    "unitcode": "ATS3094",
+    "unitname": "The music business: How to be successful in the music industry"
+  },
+  {
+    "unitcode": "ATS3095",
+    "unitname": "German proficient 1"
+  },
+  {
+    "unitcode": "ATS3096",
+    "unitname": "German proficient 2"
+  },
+  {
+    "unitcode": "ATS3097",
+    "unitname": "German advanced 1"
+  },
+  {
+    "unitcode": "ATS3098",
+    "unitname": "German advanced 2"
+  },
+  {
+    "unitcode": "ATS3104",
+    "unitname": "German literature in the age of Goethe"
+  },
+  {
+    "unitcode": "ATS3105",
+    "unitname": "On the brink of modernity (Germany and Europe 1890-1920)"
+  },
+  {
+    "unitcode": "ATS3108",
+    "unitname": "Introduction to the study of media culture from a German studies perspective"
+  },
+  {
+    "unitcode": "ATS3111",
+    "unitname": "Leadership for social change 3"
+  },
+  {
+    "unitcode": "ATS3113",
+    "unitname": "Reporting the arts circuit"
+  },
+  {
+    "unitcode": "ATS3115",
+    "unitname": "Indonesian 5: Indonesian political culture"
+  },
+  {
+    "unitcode": "ATS3116",
+    "unitname": "Indonesian 6: Indonesian writing"
+  },
+  {
+    "unitcode": "ATS3124",
+    "unitname": "Life in the Soviet Union"
+  },
+  {
+    "unitcode": "ATS3129",
+    "unitname": "Arts internship"
+  },
+  {
+    "unitcode": "ATS3130",
+    "unitname": "Arts international internship"
+  },
+  {
+    "unitcode": "ATS3135",
+    "unitname": "War and memory: Resistance, massacre and representation in second world war Italy"
+  },
+  {
+    "unitcode": "ATS3136",
+    "unitname": "Performance 5"
+  },
+  {
+    "unitcode": "ATS3137",
+    "unitname": "Performance 6"
+  },
+  {
+    "unitcode": "ATS3139",
+    "unitname": "Extended major research unit"
+  },
+  {
+    "unitcode": "ATS3140",
+    "unitname": "Composition and music technology 5: Interactive composition"
+  },
+  {
+    "unitcode": "ATS3141",
+    "unitname": "Composition and music technology 6: Final project"
+  },
+  {
+    "unitcode": "ATS3144",
+    "unitname": "Music research in the digital age"
+  },
+  {
+    "unitcode": "ATS3145",
+    "unitname": "Japanese proficient 1"
+  },
+  {
+    "unitcode": "ATS3146",
+    "unitname": "Japanese proficient 2"
+  },
+  {
+    "unitcode": "ATS3147",
+    "unitname": "Japanese studies advanced 1"
+  },
+  {
+    "unitcode": "ATS3148",
+    "unitname": "Japanese studies advanced 2"
+  },
+  {
+    "unitcode": "ATS3151",
+    "unitname": "Japanese studies advanced: Current issues"
+  },
+  {
+    "unitcode": "ATS3152",
+    "unitname": "Japanese studies advanced: Literature and film"
+  },
+  {
+    "unitcode": "ATS3153",
+    "unitname": "Music research project"
+  },
+  {
+    "unitcode": "ATS3156",
+    "unitname": "Popular culture in North and South Korea, Hallyu and East Asian cultural flows"
+  },
+  {
+    "unitcode": "ATS3157",
+    "unitname": "Religion, politics and violence"
+  },
+  {
+    "unitcode": "ATS3164",
+    "unitname": "Italian transformations: Reading and writing self-discovery"
+  },
+  {
+    "unitcode": "ATS3170",
+    "unitname": "Social entrepreurship"
+  },
+  {
+    "unitcode": "ATS3175",
+    "unitname": "Korean proficient 1"
+  },
+  {
+    "unitcode": "ATS3176",
+    "unitname": "Korean proficient 2"
+  },
+  {
+    "unitcode": "ATS3184",
+    "unitname": "Engaging cultures and the art of the festival"
+  },
+  {
+    "unitcode": "ATS3189",
+    "unitname": "Literary theory"
+  },
+  {
+    "unitcode": "ATS3190",
+    "unitname": "Conflict and coexistence 2: Jews, Christians and Muslims in the modern world"
+  },
+  {
+    "unitcode": "ATS3191",
+    "unitname": "Media analytics lab"
+  },
+  {
+    "unitcode": "ATS3192",
+    "unitname": "Media entrepreneurship lab"
+  },
+  {
+    "unitcode": "ATS3193",
+    "unitname": "Virtual reality lab"
+  },
+  {
+    "unitcode": "ATS3195",
+    "unitname": "Spanish proficient 1"
+  },
+  {
+    "unitcode": "ATS3196",
+    "unitname": "Spanish proficient 2"
+  },
+  {
+    "unitcode": "ATS3199",
+    "unitname": "Cultures of the corporate world"
+  },
+  {
+    "unitcode": "ATS3208",
+    "unitname": "In the footsteps of refugees"
+  },
+  {
+    "unitcode": "ATS3210",
+    "unitname": "Study tour: Crime and criminal justice in Asia"
+  },
+  {
+    "unitcode": "ATS3212",
+    "unitname": "Berlin encounters: German culture, history and politics in the centre of Europe"
+  },
+  {
+    "unitcode": "ATS3213",
+    "unitname": "Media communication professional placement"
+  },
+  {
+    "unitcode": "ATS3216",
+    "unitname": "Media communication professional project"
+  },
+  {
+    "unitcode": "ATS3217",
+    "unitname": "Ukrainian proficient 1"
+  },
+  {
+    "unitcode": "ATS3218",
+    "unitname": "Ukrainian proficient 2"
+  },
+  {
+    "unitcode": "ATS3219",
+    "unitname": "Ukrainian studies advanced 1"
+  },
+  {
+    "unitcode": "ATS3220",
+    "unitname": "Ukrainian studies advanced 2"
+  },
+  {
+    "unitcode": "ATS3221",
+    "unitname": "The music industries"
+  },
+  {
+    "unitcode": "ATS3223",
+    "unitname": "Gender, violence and society: Understanding social patterns"
+  },
+  {
+    "unitcode": "ATS3224",
+    "unitname": "Gender, violence and society: Criminal justice responses"
+  },
+  {
+    "unitcode": "ATS3225",
+    "unitname": "Italian proficient 1"
+  },
+  {
+    "unitcode": "ATS3226",
+    "unitname": "Italian proficient 2"
+  },
+  {
+    "unitcode": "ATS3227",
+    "unitname": "Italian studies advanced 1"
+  },
+  {
+    "unitcode": "ATS3228",
+    "unitname": "Italian studies advanced 2"
+  },
+  {
+    "unitcode": "ATS3230",
+    "unitname": "Sex, gender and power in the ancient Near East"
+  },
+  {
+    "unitcode": "ATS3231",
+    "unitname": "Study tour: Human rights and criminal justice USA"
+  },
+  {
+    "unitcode": "ATS3232",
+    "unitname": "Study tour: Contemporary issues in UK criminal justice"
+  },
+  {
+    "unitcode": "ATS3235",
+    "unitname": "New Caledonia and global French: Immersion into post-colonial francophone cultures in South Pacific"
+  },
+  {
+    "unitcode": "ATS3237",
+    "unitname": "Italy on film"
+  },
+  {
+    "unitcode": "ATS3240",
+    "unitname": "The fiction of Italy"
+  },
+  {
+    "unitcode": "ATS3241",
+    "unitname": "Italian theatre from Goldoni to Fo"
+  },
+  {
+    "unitcode": "ATS3247",
+    "unitname": "Italian proficient 2 (in country)"
+  },
+  {
+    "unitcode": "ATS3248",
+    "unitname": "Field methods in anthropology and international development"
+  },
+  {
+    "unitcode": "ATS3249",
+    "unitname": "French individualism"
+  },
+  {
+    "unitcode": "ATS3251",
+    "unitname": "Cuba study tour"
+  },
+  {
+    "unitcode": "ATS3257",
+    "unitname": "Cuba: Understanding the revolution"
+  },
+  {
+    "unitcode": "ATS3265",
+    "unitname": "Broadcast studio journalism"
+  },
+  {
+    "unitcode": "ATS3266",
+    "unitname": "Washington and the world: Washington D.C study tour"
+  },
+  {
+    "unitcode": "ATS3275",
+    "unitname": "The European Union from consensus to crisis"
+  },
+  {
+    "unitcode": "ATS3276",
+    "unitname": "Modern Italian political thought"
+  },
+  {
+    "unitcode": "ATS3278",
+    "unitname": "Advanced writing and interviewing"
+  },
+  {
+    "unitcode": "ATS3279",
+    "unitname": "Reading and critiquing the European canon today"
+  },
+  {
+    "unitcode": "ATS3280",
+    "unitname": "The ethnographic endeavour: Capturing the Indigenous past to understand the Indigenous present"
+  },
+  {
+    "unitcode": "ATS3284",
+    "unitname": "Final journey: Remembering the Holocaust"
+  },
+  {
+    "unitcode": "ATS3290",
+    "unitname": "Global leadership and advanced research program"
+  },
+  {
+    "unitcode": "ATS3295",
+    "unitname": "Screening contemporary Europe"
+  },
+  {
+    "unitcode": "ATS3296",
+    "unitname": "Musical theatre 1: History and form"
+  },
+  {
+    "unitcode": "ATS3297",
+    "unitname": "Musical theatre 2: Skills and performance"
+  },
+  {
+    "unitcode": "ATS3306",
+    "unitname": "Digital storytelling"
+  },
+  {
+    "unitcode": "ATS3308",
+    "unitname": "Politics of crime"
+  },
+  {
+    "unitcode": "ATS3309",
+    "unitname": "Producing and consuming Japan: A study tour through western Japan"
+  },
+  {
+    "unitcode": "ATS3310",
+    "unitname": "Writing in Australia"
+  },
+  {
+    "unitcode": "ATS3311",
+    "unitname": "Text and community in Medieval and Renaissance Italy"
+  },
+  {
+    "unitcode": "ATS3314",
+    "unitname": "Seeking justice: South Africa and Rwanda"
+  },
+  {
+    "unitcode": "ATS3316",
+    "unitname": "The emergence of modern Ireland"
+  },
+  {
+    "unitcode": "ATS3319",
+    "unitname": "Cultural diversity in contemporary Europe"
+  },
+  {
+    "unitcode": "ATS3322",
+    "unitname": "Practical and comparative penology"
+  },
+  {
+    "unitcode": "ATS3328",
+    "unitname": "The archaeology of world rock art"
+  },
+  {
+    "unitcode": "ATS3330",
+    "unitname": "State sovereignty, human rights, and the responsibility to protect"
+  },
+  {
+    "unitcode": "ATS3331",
+    "unitname": "Music - Overseas study program 1"
+  },
+  {
+    "unitcode": "ATS3332",
+    "unitname": "Music - Overseas study program 2"
+  },
+  {
+    "unitcode": "ATS3335",
+    "unitname": "International political economy"
+  },
+  {
+    "unitcode": "ATS3338",
+    "unitname": "Master class in archaeology and ancient history"
+  },
+  {
+    "unitcode": "ATS3340",
+    "unitname": "International security studies"
+  },
+  {
+    "unitcode": "ATS3344",
+    "unitname": "Study tour in Italy: Etruscan and Roman archaeology"
+  },
+  {
+    "unitcode": "ATS3346",
+    "unitname": "Imperial Rome: Power and perversion in the age of Augustus and Nero"
+  },
+  {
+    "unitcode": "ATS3350",
+    "unitname": "From Alexander to Kleopatra: The rise and fall of the Hellenistic world"
+  },
+  {
+    "unitcode": "ATS3354",
+    "unitname": "Interrogating racism: Indigenous Australians and the state"
+  },
+  {
+    "unitcode": "ATS3359",
+    "unitname": "Hearing the country: Studies in Indigenous Australian ethnoecology"
+  },
+  {
+    "unitcode": "ATS3376",
+    "unitname": "Anthropology of human rights"
+  },
+  {
+    "unitcode": "ATS3391",
+    "unitname": "A world of sport: Business, politics and media"
+  },
+  {
+    "unitcode": "ATS3394",
+    "unitname": "Australia and Asia"
+  },
+  {
+    "unitcode": "ATS3399",
+    "unitname": "The politics of identity"
+  },
+  {
+    "unitcode": "ATS3404",
+    "unitname": "Eros and the body: Sexuality and body politics in the classical world"
+  },
+  {
+    "unitcode": "ATS3405",
+    "unitname": "Critical theory and poststructuralism: Recent European philosophy"
+  },
+  {
+    "unitcode": "ATS3407",
+    "unitname": "Psychoanalytic readings - Freud, Jung, Lacan"
+  },
+  {
+    "unitcode": "ATS3419",
+    "unitname": "Aesthetics and European philosophy"
+  },
+  {
+    "unitcode": "ATS3421",
+    "unitname": "Literature and modernism"
+  },
+  {
+    "unitcode": "ATS3444",
+    "unitname": "Inscribing Italy: Travels and imaginings"
+  },
+  {
+    "unitcode": "ATS3445",
+    "unitname": "Communications ethics, policy and law"
+  },
+  {
+    "unitcode": "ATS3459",
+    "unitname": "Prisons, power and punishment"
+  },
+  {
+    "unitcode": "ATS3462",
+    "unitname": "International crime and justice"
+  },
+  {
+    "unitcode": "ATS3464",
+    "unitname": "Study tour: Comparative criminology USA"
+  },
+  {
+    "unitcode": "ATS3465",
+    "unitname": "Human rights in the criminal justice sphere"
+  },
+  {
+    "unitcode": "ATS3466",
+    "unitname": "Sex, gender and crime"
+  },
+  {
+    "unitcode": "ATS3487",
+    "unitname": "The shadow of reason: Irrational literature in the eighteenth century"
+  },
+  {
+    "unitcode": "ATS3496",
+    "unitname": "Fairy-tale traditions"
+  },
+  {
+    "unitcode": "ATS3502",
+    "unitname": "Contemporary literature"
+  },
+  {
+    "unitcode": "ATS3503",
+    "unitname": "Writing women"
+  },
+  {
+    "unitcode": "ATS3506",
+    "unitname": "Poetry: Text and performance"
+  },
+  {
+    "unitcode": "ATS3509",
+    "unitname": "Advanced poetry writing"
+  },
+  {
+    "unitcode": "ATS3518",
+    "unitname": "Advanced fiction writing"
+  },
+  {
+    "unitcode": "ATS3531",
+    "unitname": "Gender and sexuality in film and television"
+  },
+  {
+    "unitcode": "ATS3536",
+    "unitname": "Alternatives in film and television"
+  },
+  {
+    "unitcode": "ATS3539",
+    "unitname": "Asian cinema and television"
+  },
+  {
+    "unitcode": "ATS3540",
+    "unitname": "Documentary and realism in film and television"
+  },
+  {
+    "unitcode": "ATS3543",
+    "unitname": "Australia's ancient Indigenous past: A 65,000 year archaeological odyssey"
+  },
+  {
+    "unitcode": "ATS3544",
+    "unitname": "Practical archaeology in the field"
+  },
+  {
+    "unitcode": "ATS3546",
+    "unitname": "Environmental assessment and decision making"
+  },
+  {
+    "unitcode": "ATS3554",
+    "unitname": "Resource evaluation and management"
+  },
+  {
+    "unitcode": "ATS3563",
+    "unitname": "Global consumption"
+  },
+  {
+    "unitcode": "ATS3580",
+    "unitname": "The modern Middle East"
+  },
+  {
+    "unitcode": "ATS3582",
+    "unitname": "Arab-Israeli conflict"
+  },
+  {
+    "unitcode": "ATS3584",
+    "unitname": "Australia's black history"
+  },
+  {
+    "unitcode": "ATS3593",
+    "unitname": "History of sexuality 1800 - to the present"
+  },
+  {
+    "unitcode": "ATS3599",
+    "unitname": "Modern Israel: History, politics and society"
+  },
+  {
+    "unitcode": "ATS3611",
+    "unitname": "Imagining God: The mystic quest in Judaism, Christianity and Islam"
+  },
+  {
+    "unitcode": "ATS3612",
+    "unitname": "The Renaissance in Florence"
+  },
+  {
+    "unitcode": "ATS3623",
+    "unitname": "Nationality, ethnicity and conflict"
+  },
+  {
+    "unitcode": "ATS3626",
+    "unitname": "Global disasters: Catastrophe and social change"
+  },
+  {
+    "unitcode": "ATS3627",
+    "unitname": "Global cultures, media flows: Creating and consuming (popular) culture"
+  },
+  {
+    "unitcode": "ATS3632",
+    "unitname": "Post-conflict: Justice, memory, reconciliation"
+  },
+  {
+    "unitcode": "ATS3634",
+    "unitname": "Indigenous peoples globally"
+  },
+  {
+    "unitcode": "ATS3636",
+    "unitname": "Sacred and profane: Religion, the secular and the state"
+  },
+  {
+    "unitcode": "ATS3639",
+    "unitname": "Poverty, climate change and international justice"
+  },
+  {
+    "unitcode": "ATS3645",
+    "unitname": "Journalism and global change"
+  },
+  {
+    "unitcode": "ATS3649",
+    "unitname": "Japanese language in action"
+  },
+  {
+    "unitcode": "ATS3665",
+    "unitname": "Language endangerment"
+  },
+  {
+    "unitcode": "ATS3666",
+    "unitname": "Indigenous languages of the Pacific"
+  },
+  {
+    "unitcode": "ATS3669",
+    "unitname": "Sounds of the languages of the world"
+  },
+  {
+    "unitcode": "ATS3673",
+    "unitname": "History and sociolinguistics of English"
+  },
+  {
+    "unitcode": "ATS3674",
+    "unitname": "Meaning and the mind"
+  },
+  {
+    "unitcode": "ATS3677",
+    "unitname": "Indigenous languages of Australia"
+  },
+  {
+    "unitcode": "ATS3679",
+    "unitname": "Psycholinguistics and child language acquisition"
+  },
+  {
+    "unitcode": "ATS3690",
+    "unitname": "Reflections on humanity: Truth, freedom and power"
+  },
+  {
+    "unitcode": "ATS3695",
+    "unitname": "Public policy"
+  },
+  {
+    "unitcode": "ATS3697",
+    "unitname": "Gender and international relations"
+  },
+  {
+    "unitcode": "ATS3705",
+    "unitname": "Knowledge and power in world politics"
+  },
+  {
+    "unitcode": "ATS3715",
+    "unitname": "Sexuality and society"
+  },
+  {
+    "unitcode": "ATS3717",
+    "unitname": "Health, culture and society"
+  },
+  {
+    "unitcode": "ATS3719",
+    "unitname": "Modern political thought"
+  },
+  {
+    "unitcode": "ATS3725",
+    "unitname": "Population and society"
+  },
+  {
+    "unitcode": "ATS3726",
+    "unitname": "Self and society"
+  },
+  {
+    "unitcode": "ATS3730",
+    "unitname": "Sustainability and society"
+  },
+  {
+    "unitcode": "ATS3732",
+    "unitname": "Communications and media studies: Contemporary debates"
+  },
+  {
+    "unitcode": "ATS3743",
+    "unitname": "Build your career: Planning and strategies for employability"
+  },
+  {
+    "unitcode": "ATS3760",
+    "unitname": "Global communications"
+  },
+  {
+    "unitcode": "ATS3761",
+    "unitname": "Civic forum journalism"
+  },
+  {
+    "unitcode": "ATS3762",
+    "unitname": "Language and the internet"
+  },
+  {
+    "unitcode": "ATS3774",
+    "unitname": "Directing workshop"
+  },
+  {
+    "unitcode": "ATS3775",
+    "unitname": "Theatre internship unit"
+  },
+  {
+    "unitcode": "ATS3776",
+    "unitname": "Script development 2"
+  },
+  {
+    "unitcode": "ATS3778",
+    "unitname": "Englishes in the global context"
+  },
+  {
+    "unitcode": "ATS3779",
+    "unitname": "Cultural linguistics"
+  },
+  {
+    "unitcode": "ATS3781",
+    "unitname": "English as an international language: Writing across cultures"
+  },
+  {
+    "unitcode": "ATS3782",
+    "unitname": "Bodies of work"
+  },
+  {
+    "unitcode": "ATS3786",
+    "unitname": "Journalism, law and ethics"
+  },
+  {
+    "unitcode": "ATS3789",
+    "unitname": "Video journalism"
+  },
+  {
+    "unitcode": "ATS3795",
+    "unitname": "Global correspondent"
+  },
+  {
+    "unitcode": "ATS3805",
+    "unitname": "Korean studies advanced: Literature and writing"
+  },
+  {
+    "unitcode": "ATS3814",
+    "unitname": "Yiddish language, culture and literature 3A"
+  },
+  {
+    "unitcode": "ATS3815",
+    "unitname": "Yiddish language, culture and literature 3B"
+  },
+  {
+    "unitcode": "ATS3816",
+    "unitname": "The social context of language learning"
+  },
+  {
+    "unitcode": "ATS3818",
+    "unitname": "Drumming traditions of West Africa"
+  },
+  {
+    "unitcode": "ATS3819",
+    "unitname": "Orchestration"
+  },
+  {
+    "unitcode": "ATS3820",
+    "unitname": "Conducting"
+  },
+  {
+    "unitcode": "ATS3824",
+    "unitname": "Popular music and society"
+  },
+  {
+    "unitcode": "ATS3825",
+    "unitname": "Western art music in the 20th and 21st century"
+  },
+  {
+    "unitcode": "ATS3828",
+    "unitname": "Film music"
+  },
+  {
+    "unitcode": "ATS3829",
+    "unitname": "East Asia and its music: Silk road histories and popular contexts"
+  },
+  {
+    "unitcode": "ATS3833",
+    "unitname": "Theatre and performance: Professional practice"
+  },
+  {
+    "unitcode": "ATS3834",
+    "unitname": "Theatre in performance"
+  },
+  {
+    "unitcode": "ATS3836",
+    "unitname": "Victorian parliamentary internship"
+  },
+  {
+    "unitcode": "ATS3849",
+    "unitname": "Build your own research project in French studies"
+  },
+  {
+    "unitcode": "ATS3852",
+    "unitname": "Contemporary issues in social science research"
+  },
+  {
+    "unitcode": "ATS3859",
+    "unitname": "Style and register: Scholarly and professional writing in German"
+  },
+  {
+    "unitcode": "ATS3862",
+    "unitname": "Thinking about religion"
+  },
+  {
+    "unitcode": "ATS3867",
+    "unitname": "Crime fiction and film in Hispanic cultures"
+  },
+  {
+    "unitcode": "ATS3869",
+    "unitname": "Political philosophy"
+  },
+  {
+    "unitcode": "ATS3870",
+    "unitname": "Philosophy of religion"
+  },
+  {
+    "unitcode": "ATS3873",
+    "unitname": "Philosophical issues in applied ethics"
+  },
+  {
+    "unitcode": "ATS3876",
+    "unitname": "Theory of knowledge"
+  },
+  {
+    "unitcode": "ATS3878",
+    "unitname": "Recent logic"
+  },
+  {
+    "unitcode": "ATS3879",
+    "unitname": "Philosophy of language"
+  },
+  {
+    "unitcode": "ATS3882",
+    "unitname": "Metaphysics"
+  },
+  {
+    "unitcode": "ATS3883",
+    "unitname": "Issues in logical theory"
+  },
+  {
+    "unitcode": "ATS3884",
+    "unitname": "History of philosophy: Emotions"
+  },
+  {
+    "unitcode": "ATS3885",
+    "unitname": "History of philosophy: Stoics and Epicureans"
+  },
+  {
+    "unitcode": "ATS3888",
+    "unitname": "Race and class in American literature"
+  },
+  {
+    "unitcode": "ATS3898",
+    "unitname": "The Italian city: Historical and literary perspectives"
+  },
+  {
+    "unitcode": "ATS3899",
+    "unitname": "Jazz arranging: Contemporary arranging techniques for small groups to large ensembles"
+  },
+  {
+    "unitcode": "ATS3900",
+    "unitname": "Jazz composition: From Tin Pan Alley to today"
+  },
+  {
+    "unitcode": "ATS3903",
+    "unitname": "Leaders, power and politics"
+  },
+  {
+    "unitcode": "ATS3905",
+    "unitname": "Democratic theory"
+  },
+  {
+    "unitcode": "ATS3908",
+    "unitname": "American empire: The United States from colonies to superpower"
+  },
+  {
+    "unitcode": "ATS3912",
+    "unitname": "Performance studies 2 - Cultures"
+  },
+  {
+    "unitcode": "ATS3913",
+    "unitname": "Playtext study 2 - Shakespearean stages"
+  },
+  {
+    "unitcode": "ATS3918",
+    "unitname": "International journalism professional project"
+  },
+  {
+    "unitcode": "ATS3919",
+    "unitname": "Journalism professional placement"
+  },
+  {
+    "unitcode": "ATS3926",
+    "unitname": "Gongs, punks and shadow plays"
+  },
+  {
+    "unitcode": "ATS3930",
+    "unitname": "Encounters and empire: Europe and the world"
+  },
+  {
+    "unitcode": "ATS3933",
+    "unitname": "The meaning of things: Writing cultural history"
+  },
+  {
+    "unitcode": "ATS3935",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "ATS3938",
+    "unitname": "Leadership for social change 3 (overseas intensive)"
+  },
+  {
+    "unitcode": "ATS3939",
+    "unitname": "Crime in Italian popular culture"
+  },
+  {
+    "unitcode": "ATS3940",
+    "unitname": "Chinese cultural analysis"
+  },
+  {
+    "unitcode": "ATS3951",
+    "unitname": "Japanese popular culture and identity"
+  },
+  {
+    "unitcode": "ATS3954",
+    "unitname": "Media industry project"
+  },
+  {
+    "unitcode": "ATS3956",
+    "unitname": "Trauma and memory in the modern world"
+  },
+  {
+    "unitcode": "ATS3957",
+    "unitname": "Medieval Italy: Sites of encounter"
+  },
+  {
+    "unitcode": "ATS3969",
+    "unitname": "Screen studies in the digital era"
+  },
+  {
+    "unitcode": "ATS3970",
+    "unitname": "The audio visual essay"
+  },
+  {
+    "unitcode": "ATS3972",
+    "unitname": "Imagining Ibero-America: Travels, texts and transnational encounters"
+  },
+  {
+    "unitcode": "ATS3974",
+    "unitname": "European integration and security"
+  },
+  {
+    "unitcode": "ATS3978",
+    "unitname": "Japanese communication in professional settings"
+  },
+  {
+    "unitcode": "ATS3983",
+    "unitname": "Screen project: From film theory to digital video practice"
+  },
+  {
+    "unitcode": "ATS3987",
+    "unitname": "Theories of theatre 2"
+  },
+  {
+    "unitcode": "ATS3991",
+    "unitname": "Archaeological fieldwork in Italy"
+  },
+  {
+    "unitcode": "ATS4002",
+    "unitname": "Honours research methods seminar"
+  },
+  {
+    "unitcode": "ATS4137",
+    "unitname": "Special reading unit 1 (Honours)"
+  },
+  {
+    "unitcode": "ATS4171",
+    "unitname": "Advanced readings in media and communications studies"
+  },
+  {
+    "unitcode": "ATS4205",
+    "unitname": "Methods and topics in international studies"
+  },
+  {
+    "unitcode": "ATS4215",
+    "unitname": "History archives workshop"
+  },
+  {
+    "unitcode": "ATS4230",
+    "unitname": "Arts honours thesis"
+  },
+  {
+    "unitcode": "ATS4231",
+    "unitname": "Arts honours thesis A"
+  },
+  {
+    "unitcode": "ATS4232",
+    "unitname": "Arts honours thesis B"
+  },
+  {
+    "unitcode": "ATS4256",
+    "unitname": "Archaeology of state formation"
+  },
+  {
+    "unitcode": "ATS4257",
+    "unitname": "Interpreting the past through archaeology"
+  },
+  {
+    "unitcode": "ATS4269",
+    "unitname": "Rethinking theatre history"
+  },
+  {
+    "unitcode": "ATS4280",
+    "unitname": "Contemporary film theory and criticism"
+  },
+  {
+    "unitcode": "ATS4281",
+    "unitname": "Professional screen pathways: Research, industry and practice"
+  },
+  {
+    "unitcode": "ATS4286",
+    "unitname": "Final journey: Remembering the Holocaust"
+  },
+  {
+    "unitcode": "ATS4289",
+    "unitname": "Medieval dialogues: Reason, mysticism and society"
+  },
+  {
+    "unitcode": "ATS4311",
+    "unitname": "Text and community in Medieval and Renaissance Italy"
+  },
+  {
+    "unitcode": "ATS4328",
+    "unitname": "Grand theories of politics and international relations"
+  },
+  {
+    "unitcode": "ATS4333",
+    "unitname": "Issues in politics, governance and research"
+  },
+  {
+    "unitcode": "ATS4345",
+    "unitname": "Research methods in classical antiquity"
+  },
+  {
+    "unitcode": "ATS4348",
+    "unitname": "Theme and genre in literary studies"
+  },
+  {
+    "unitcode": "ATS4367",
+    "unitname": "Placement research project for honours in international studies"
+  },
+  {
+    "unitcode": "ATS4373",
+    "unitname": "Honours professional project"
+  },
+  {
+    "unitcode": "ATS4374",
+    "unitname": "Honours specialist seminar"
+  },
+  {
+    "unitcode": "ATS4375",
+    "unitname": "Honours research seminar"
+  },
+  {
+    "unitcode": "ATS4388",
+    "unitname": "Special topic in literary studies"
+  },
+  {
+    "unitcode": "ATS4451",
+    "unitname": "Music honours research A"
+  },
+  {
+    "unitcode": "ATS4452",
+    "unitname": "Music honours research B"
+  },
+  {
+    "unitcode": "ATS4653",
+    "unitname": "Honours workshop"
+  },
+  {
+    "unitcode": "ATS4699",
+    "unitname": "Criminology honours coursework: Research, practice and policy"
+  },
+  {
+    "unitcode": "ATS4702",
+    "unitname": "Classical languages for researchers"
+  },
+  {
+    "unitcode": "ATS4810",
+    "unitname": "Global justice: Civil and human rights after 1945"
+  },
+  {
+    "unitcode": "ATS4834",
+    "unitname": "Music honours project"
+  },
+  {
+    "unitcode": "ATS4868",
+    "unitname": "Philosophy honours A"
+  },
+  {
+    "unitcode": "ATS4869",
+    "unitname": "Philosophy honours B"
+  },
+  {
+    "unitcode": "ATS4924",
+    "unitname": "Honours: Social sciences research methods"
+  },
+  {
+    "unitcode": "AZA1001",
+    "unitname": "Introduction to development studies"
+  },
+  {
+    "unitcode": "AZA1010",
+    "unitname": "Fundamentals of political science"
+  },
+  {
+    "unitcode": "AZA1011",
+    "unitname": "Fundamentals of international relations"
+  },
+  {
+    "unitcode": "AZA1019",
+    "unitname": "Psychology: Introduction 1A"
+  },
+  {
+    "unitcode": "AZA1020",
+    "unitname": "Psychology: Introduction 1B"
+  },
+  {
+    "unitcode": "AZA1035",
+    "unitname": "Principles of public relations practice"
+  },
+  {
+    "unitcode": "AZA1264",
+    "unitname": "Ethics and biotechnology"
+  },
+  {
+    "unitcode": "AZA1279",
+    "unitname": "Media and society"
+  },
+  {
+    "unitcode": "AZA1281",
+    "unitname": "Explaining crime: Theory and practice"
+  },
+  {
+    "unitcode": "AZA1282",
+    "unitname": "Introduction to criminal justice"
+  },
+  {
+    "unitcode": "AZA1285",
+    "unitname": "Child and youth development in South Africa: A person-in-environment perspective"
+  },
+  {
+    "unitcode": "AZA1286",
+    "unitname": "Child and youth development: A five-level developmental model"
+  },
+  {
+    "unitcode": "AZA1306",
+    "unitname": "Introduction to human geography"
+  },
+  {
+    "unitcode": "AZA1308",
+    "unitname": "Introduction to physical geography"
+  },
+  {
+    "unitcode": "AZA1325",
+    "unitname": "International studies 1"
+  },
+  {
+    "unitcode": "AZA1326",
+    "unitname": "International studies 2"
+  },
+  {
+    "unitcode": "AZA1328",
+    "unitname": "Journalism 1: Introduction"
+  },
+  {
+    "unitcode": "AZA1329",
+    "unitname": "Journalism 2: Introduction"
+  },
+  {
+    "unitcode": "AZA1365",
+    "unitname": "Everyday life in sociological perspectives"
+  },
+  {
+    "unitcode": "AZA1366",
+    "unitname": "Families, relationships, health and the media"
+  },
+  {
+    "unitcode": "AZA1371",
+    "unitname": "Introduction to philosophy: Moral dilemmas and philosophy"
+  },
+  {
+    "unitcode": "AZA1433",
+    "unitname": "Interpersonal communication"
+  },
+  {
+    "unitcode": "AZA2010",
+    "unitname": "Political ideologies"
+  },
+  {
+    "unitcode": "AZA2012",
+    "unitname": "Comparative politics"
+  },
+  {
+    "unitcode": "AZA2015",
+    "unitname": "Biological and cognitive psychology"
+  },
+  {
+    "unitcode": "AZA2016",
+    "unitname": "Public policy-making"
+  },
+  {
+    "unitcode": "AZA2030",
+    "unitname": "Corporate communication"
+  },
+  {
+    "unitcode": "AZA2035",
+    "unitname": "Development communication"
+  },
+  {
+    "unitcode": "AZA2040",
+    "unitname": "Issues, crises and social responsibility management"
+  },
+  {
+    "unitcode": "AZA2045",
+    "unitname": "Public relations and the media"
+  },
+  {
+    "unitcode": "AZA2378",
+    "unitname": "Development and the developing world"
+  },
+  {
+    "unitcode": "AZA2436",
+    "unitname": "New media and cyber cultures"
+  },
+  {
+    "unitcode": "AZA2455",
+    "unitname": "Child and adult development"
+  },
+  {
+    "unitcode": "AZA2460",
+    "unitname": "Industrial and organisational psychology"
+  },
+  {
+    "unitcode": "AZA2461",
+    "unitname": "Crime and punishment"
+  },
+  {
+    "unitcode": "AZA2470",
+    "unitname": "Victimology in South Africa"
+  },
+  {
+    "unitcode": "AZA2490",
+    "unitname": "Research assessment"
+  },
+  {
+    "unitcode": "AZA2495",
+    "unitname": "Social and community psychology"
+  },
+  {
+    "unitcode": "AZA2549",
+    "unitname": "Poverty and power: The uneven world"
+  },
+  {
+    "unitcode": "AZA2625",
+    "unitname": "Places and spaces: International migration in the global age"
+  },
+  {
+    "unitcode": "AZA2633",
+    "unitname": "World cities: A historical and comparative analysis"
+  },
+  {
+    "unitcode": "AZA2719",
+    "unitname": "Theoretical perspectives in political and social thought"
+  },
+  {
+    "unitcode": "AZA2723",
+    "unitname": "Methodological issues in the social sciences"
+  },
+  {
+    "unitcode": "AZA2762",
+    "unitname": "Health and safety guidelines for children and youth"
+  },
+  {
+    "unitcode": "AZA2763",
+    "unitname": "Child and youth assessment: Risk and protective factors, signs and symptoms"
+  },
+  {
+    "unitcode": "AZA2764",
+    "unitname": "Building support networks for children and families"
+  },
+  {
+    "unitcode": "AZA2765",
+    "unitname": "Child and youth interventions: Individual, group and community interventions"
+  },
+  {
+    "unitcode": "AZA2785",
+    "unitname": "Legal aspects of journalism"
+  },
+  {
+    "unitcode": "AZA2787",
+    "unitname": "Journalism: An online perspective"
+  },
+  {
+    "unitcode": "AZA2789",
+    "unitname": "Journalism: Video perspectives"
+  },
+  {
+    "unitcode": "AZA2939",
+    "unitname": "Ethics and the modern world"
+  },
+  {
+    "unitcode": "AZA3010",
+    "unitname": "Competing models of political economy"
+  },
+  {
+    "unitcode": "AZA3015",
+    "unitname": "War, peace and international security"
+  },
+  {
+    "unitcode": "AZA3018",
+    "unitname": "Research design and quantitative methods"
+  },
+  {
+    "unitcode": "AZA3031",
+    "unitname": "Public relations campaigns and events"
+  },
+  {
+    "unitcode": "AZA3135",
+    "unitname": "Abnormal behaviour"
+  },
+  {
+    "unitcode": "AZA3184",
+    "unitname": "Public relations work integrated learning"
+  },
+  {
+    "unitcode": "AZA3259",
+    "unitname": "Geographical information systems (GIS): Planning and decision making"
+  },
+  {
+    "unitcode": "AZA3301",
+    "unitname": "Social inclusion internship: Working on migrant and refugee settlement in multicultural communities"
+  },
+  {
+    "unitcode": "AZA3360",
+    "unitname": "Psychotherapy and counselling"
+  },
+  {
+    "unitcode": "AZA3380",
+    "unitname": "Sociology of development"
+  },
+  {
+    "unitcode": "AZA3432",
+    "unitname": "Managing communication in multicultural organisations"
+  },
+  {
+    "unitcode": "AZA3453",
+    "unitname": "Research fundamentals"
+  },
+  {
+    "unitcode": "AZA3462",
+    "unitname": "Psychological assessment"
+  },
+  {
+    "unitcode": "AZA3463",
+    "unitname": "Criminal behaviour in South Africa: A psychosocial approach"
+  },
+  {
+    "unitcode": "AZA3465",
+    "unitname": "Personality"
+  },
+  {
+    "unitcode": "AZA3466",
+    "unitname": "Women and crime: Damsels in distress"
+  },
+  {
+    "unitcode": "AZA3467",
+    "unitname": "Child justice: Human rights, law reform and socio-criminology of deviance"
+  },
+  {
+    "unitcode": "AZA3468",
+    "unitname": "Forensic criminology: Victim and offender profiling"
+  },
+  {
+    "unitcode": "AZA3542",
+    "unitname": "Geographical information systems: FOSS geo-informatics"
+  },
+  {
+    "unitcode": "AZA3546",
+    "unitname": "Environmental impact assessment"
+  },
+  {
+    "unitcode": "AZA3547",
+    "unitname": "Urban planning, development and sustainability"
+  },
+  {
+    "unitcode": "AZA3548",
+    "unitname": "Environmental policy and resource management"
+  },
+  {
+    "unitcode": "AZA3550",
+    "unitname": "Climatology"
+  },
+  {
+    "unitcode": "AZA3629",
+    "unitname": "Beliefs, religion and spirituality: A global perspective"
+  },
+  {
+    "unitcode": "AZA3640",
+    "unitname": "Philosophy of war and global conflict"
+  },
+  {
+    "unitcode": "AZA3641",
+    "unitname": "Diplomacy in contemporary international relations"
+  },
+  {
+    "unitcode": "AZA3643",
+    "unitname": "Africa in the modern world"
+  },
+  {
+    "unitcode": "AZA3644",
+    "unitname": "South Africa: Democracy and development"
+  },
+  {
+    "unitcode": "AZA3688",
+    "unitname": "Foreign policy: Introduction"
+  },
+  {
+    "unitcode": "AZA3703",
+    "unitname": "The global politics of arms control and disarmament"
+  },
+  {
+    "unitcode": "AZA3717",
+    "unitname": "Medical sociology"
+  },
+  {
+    "unitcode": "AZA3720",
+    "unitname": "Sociological perspectives on youth culture and social change"
+  },
+  {
+    "unitcode": "AZA3737",
+    "unitname": "South Africa and African social justice"
+  },
+  {
+    "unitcode": "AZA3744",
+    "unitname": "School of Social Science workplace internship"
+  },
+  {
+    "unitcode": "AZA3764",
+    "unitname": "Consulting"
+  },
+  {
+    "unitcode": "AZA3769",
+    "unitname": "Family functioning and child abuse: The child and youth care worker's role"
+  },
+  {
+    "unitcode": "AZA3770",
+    "unitname": "Intermediary services in courts: Protecting the rights of the child and youth victim"
+  },
+  {
+    "unitcode": "AZA3771",
+    "unitname": "Management of community projects: Working preventatively with children, youth and families"
+  },
+  {
+    "unitcode": "AZA3772",
+    "unitname": "Field placements in child and youth care settings"
+  },
+  {
+    "unitcode": "AZA3806",
+    "unitname": "Reporting economic and business issues"
+  },
+  {
+    "unitcode": "AZA3808",
+    "unitname": "Investigative journalism in the South African and African context"
+  },
+  {
+    "unitcode": "AZA3810",
+    "unitname": "Reporting sport and sport cultures"
+  },
+  {
+    "unitcode": "AZA3869",
+    "unitname": "Political philosophy and justice"
+  },
+  {
+    "unitcode": "AZA3871",
+    "unitname": "Environmentalism: A philosophical perspective"
+  },
+  {
+    "unitcode": "AZA3919",
+    "unitname": "Professional placement in journalism: South Africa"
+  },
+  {
+    "unitcode": "AZA4010",
+    "unitname": "Selected topics in philosophy"
+  },
+  {
+    "unitcode": "AZA4020",
+    "unitname": "Selected topics in journalism"
+  },
+  {
+    "unitcode": "AZA4110",
+    "unitname": "Sociology selected topics"
+  },
+  {
+    "unitcode": "AZA4310",
+    "unitname": "Child and youth care policy and leadership: Advocating for the rights of children and youth"
+  },
+  {
+    "unitcode": "AZA4420",
+    "unitname": "Adult psychopathology"
+  },
+  {
+    "unitcode": "AZA4430",
+    "unitname": "Counselling"
+  },
+  {
+    "unitcode": "AZA4440",
+    "unitname": "Psychology research project"
+  },
+  {
+    "unitcode": "AZA4445",
+    "unitname": "Social issues in psychology"
+  },
+  {
+    "unitcode": "AZA4450",
+    "unitname": "Researching for social sciences and humanities"
+  },
+  {
+    "unitcode": "AZA4480",
+    "unitname": "Psychological testing and assessment"
+  },
+  {
+    "unitcode": "AZA4721",
+    "unitname": "Communication and media practice applied"
+  },
+  {
+    "unitcode": "AZA4743",
+    "unitname": "Theoretical perspectives of conflict, crime, victimisation and criminal justice"
+  },
+  {
+    "unitcode": "AZA4778",
+    "unitname": "Social science honours dissertation A"
+  },
+  {
+    "unitcode": "AZA4779",
+    "unitname": "Social science honours dissertation B"
+  },
+  {
+    "unitcode": "AZA4810",
+    "unitname": "The globalisation of civil and human rights"
+  },
+  {
+    "unitcode": "AZA4889",
+    "unitname": "Advanced concepts in geography and environmental science"
+  }
+]

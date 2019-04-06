@@ -1,1 +1,3342 @@
-{"ACB1100": "Introduction to financial accounting", "ACB1200": "Accounting for managers", "ACB2020": "Cost information for decision making", "ACB2491": "Company reporting", "ACB2851": "Accounting information systems and financial modelling", "ACB3021": "Performance measurement and control", "ACB3041": "Auditing and assurance", "ACB3050": "Advanced financial accounting theory and issues", "ACC1100": "Introduction to financial accounting", "ACC1200": "Accounting for managers", "ACC2100": "Financial accounting", "ACC2200": "Introduction to management accounting", "ACC2400": "Accounting information systems", "ACC3100": "Advanced financial accounting", "ACC3200": "Management accounting", "ACC3600": "Auditing and assurance", "ACC5903": "Accounting for business", "ACF1100": "Introduction to financial accounting", "ACF1200": "Accounting for managers", "ACF2100": "Financial accounting", "ACF2200": "Introduction to management accounting", "ACF2400": "Accounting information systems", "ACF3100": "Advanced financial accounting", "ACF3200": "Management accounting", "ACF3600": "Auditing and assurance", "ACF3900": "Global issues in accounting", "ACF5001": "Research project in accounting", "ACF5080": "Management control systems", "ACF5100": "Strategic management accounting", "ACF5120": "Forensic accounting and fraud examination", "ACF5130": "Financial statement analysis and business valuation", "ACF5150": "Financial reporting issues", "ACF5268": "Accounting for healthcare managers", "ACF5320": "Business analytics", "ACF5330": "Integrated systems for business enterprises", "ACF5350": "Applied contemporary accounting", "ACF5510": "Integrated accounting", "ACF5903": "Accounting for business", "ACF5904": "Accounting information systems", "ACF5950": "Introduction to financial accounting", "ACF5953": "Financial accounting", "ACF5955": "Management accounting", "ACF5956": "Advanced financial accounting", "ACF5957": "Auditing and assurance", "ACM5903": "Accounting for business", "ACS1000": "Principles of accounting and finance", "ACS1002": "Introduction to financial accounting", "ACS2700": "Business ethics, corporate governance and professional conduct", "ACS2730": "Financial accounting A", "ACS2740": "Financial accounting B", "ACS2760": "Auditing A", "ACS2770": "Cost and management accounting A", "ACS3730": "Financial accounting C", "ACS3740": "Financial accounting D", "ACS3750": "Cost and management accounting B", "ACS3765": "Auditing C", "ACS3770": "Auditing B", "ACW1100": "Introduction to financial accounting", "ACW1200": "Accounting for managers", "ACW2391": "Introduction to management accounting", "ACW2491": "Financial accounting", "ACW2851": "Accounting information systems and financial modelling", "ACW3041": "Auditing and assurance", "ACW3431": "Management accounting", "ACW3491": "Advanced financial accounting", "ACX2900": "Accounting for sustainability", "ACX3150": "Financial analysis and valuation", "ACX3250": "Advanced management accounting", "ACX3500": "International study program in accounting", "ACX4000": "Research methods", "ACX4018": "Honours research thesis", "ACX4040": "Issues in accounting information systems", "ACX4050": "Issues in auditing and assurance", "ACX4070": "Issues in financial accounting", "ACX4090": "Issues in management accounting", "ACX5951": "International study program in accounting", "BES3120": "Perspectives on global business issues", "BES4000": "Research methodology 1", "BES4010": "Research methodology 2", "BES4020": "Directed studies 1", "BES4030": "Directed studies 2", "BES4100": "Research project and report", "BEW3100": "Work placement program", "BEW3555": "Integrative business practices", "BEW4000": "Research methodology 1", "BEW4010": "Research methodology 2", "BEW4020": "Directed studies 1", "BEW4030": "Directed studies 2", "BEW4100": "Research project and report", "BEX2000": "Digital technology and business", "BEX2010": "Intermediate macroeconomics", "BEX2410": "Introductory econometrics", "BEX2440": "Mathematics for economics and business", "BEX2500": "Integrative thinking and decision making", "BEX2520": "Probability and statistical inference for economics and business", "BEX3000": "Current issues in business", "BEX3006": "Industry placement", "BEX3012": "Industry placement", "BEX3024": "Industry placement", "BEX3106": "Industry placement", "BEX3112": "Industry placement", "BEX3150": "Sustainability practice and organisations", "BEX3206": "Industry placement", "BEX3212": "Industry placement", "BEX3300": "Business and design", "BEX3350": "Industry project", "BEX3351": "Industry project", "BEX3400": "Principles of econometrics", "BEX3410": "Applied econometrics", "BEX3411": "Entrepreneurship", "BEX3450": "Industry project", "BEX3451": "Industry project", "BEX3460": "Financial econometrics", "BEX3500": "Current issues in commerce", "BEX3510": "Modelling in finance and insurance", "BEX3550": "Industry project", "BEX3555": "Integrative business practices", "BEX3600": "Current issues in business administration", "BEX3622": "Issues in global business", "BEX3710": "Labour economics", "BEX3722": "Engaging with international business - Australia", "BEX3723": "Engaging with international business - North America", "BEX3724": "Engaging with international business - Asia", "BEX3725": "Engaging with international business - Europe", "BEX3728": "Engaging with international business", "BEX3729": "Engaging with international business - Exchange", "BEX4120": "Actuarial practice II", "BEX4130": "Asset liability management", "BEX4420": "Microeconometrics", "BEX4460": "Financial econometrics 2", "BEX4650": "Microeconomics", "BEX4670": "Economic development", "BEX4690": "International trade", "BEX4810": "Public economics", "BEX5001": "Industry placement", "BEX5002": "Commercialisation project A", "BEX5003": "Commercialisation project B", "BEX5006": "Industry project", "BEX5010": "Qualitative business research methods", "BEX5012": "Industry placement", "BEX5110": "Special reading unit 2", "BEX5112": "Industry project", "BEX5200": "Climate change and carbon management strategies", "BEX5300": "Applied financial econometrics", "BEX5410": "Bayesian Time Series Econometrics", "BEX5411": "Creativity and entrepreneurship", "BEX5463": "Advanced buyer behaviour", "BEX5479": "Project evaluation", "BEX5601": "Business environment", "BEX5604": "Professional development", "BEX5650": "Microeconomic theory", "BEX5660": "Macroeconomic theory", "BEX5707": "Business insights from data analysis", "BEX5722": "Engaging with international business - Australia", "BEX5723": "Engaging with international business - North America", "BEX5724": "Engaging with international business", "BEX5725": "Engaging with international business - Europe", "BEX5729": "Engaging with international business - Exchange", "BEX5800": "Global business environment", "BEX5810": "Sustainable business and innovation", "BEX5832": "European business and society", "BEX5850": "Mathematical economic theory", "BEX5870": "Advanced health economics A", "BEX5871": "Advanced health economics B", "BEX5900": "Microeconomics", "BEX5950": "Business statistics", "BEX5973": "Economic evaluation in health care", "BEX5975": "Principles of health economics for developing countries", "BEX6001": "Foundations of accounting research", "BEX6002": "Current issues in accounting research", "BEX6011": "Empirical asset pricing", "BEX6012": "Corporate financial management", "BEX6013": "Issues in financial institutions", "BEX6014": "Contemporary issues in finance", "BEX6100": "Advanced quantitative research methods", "BEX6200": "Advanced qualitative research methods", "BEX6300": "Philosophy of research", "BEX6400": "Empirical methods for economic analysis", "BEX6500": "Statistical inference", "BEX6510": "Foundations of econometrics", "BEX6600": "Research topics in advanced microeconomics", "BEX6650": "Research topics in advanced microeconomics", "BEX6660": "Research topics in advanced macroeconomics", "BEX6700": "Research paper", "BEX6800": "Advanced mathematical economic theory", "BEX6990": "Research strategies and methods in business law", "BFB1001": "Foundations of finance", "BFB2140": "Corporate finance 1", "BFB3121": "Investments and portfolio management", "BFC2140": "Corporate finance 1", "BFC2340": "Debt markets and fixed income securities", "BFC2751": "Derivatives 1", "BFC3140": "Corporate finance 2", "BFC3170": "Management of financial intermediaries", "BFC3240": "International finance", "BFC3241": "Equities and investment analysis", "BFC3340": "Derivatives 2", "BFC3440": "Pension and financial planning", "BFC3540": "Modelling in finance", "BFC5130": "Case studies in banking and finance", "BFC5280": "Institutional asset and liability management", "BFC5380": "Credit risk modelling", "BFC5913": "Financial planning", "BFC5914": "Bank lending", "BFC5915": "Options, futures and risk management", "BFC5916": "International banking", "BFC5925": "Financial management theory", "BFC5926": "Financial institutions and markets", "BFC5935": "Portfolio management and theory", "BFC5936": "Financial modelling", "BFF1001": "Foundations of finance", "BFF2140": "Corporate finance 1", "BFF2341": "International financial management", "BFF2401": "Commercial banking and finance", "BFF2701": "Equity markets", "BFF3111": "Personal financial planning", "BFF3121": "Investments and portfolio management", "BFF3301": "Treasury and financial markets", "BFF3331": "International banking and finance", "BFF3351": "Investment banking", "BFF3651": "Treasury management", "BFF3751": "Derivatives 1", "BFF3841": "Credit analysis and lending management", "BFF5021": "Case studies in risk management", "BFF5180": "Research dissertation", "BFF5220": "Applied investments", "BFF5230": "Global financial markets", "BFF5250": "Corporate treasury management", "BFF5255": "Modelling in finance", "BFF5270": "Funds management", "BFF5300": "Case studies in finance", "BFF5333": "Project finance", "BFF5370": "Financial markets and technology", "BFF5580": "Mergers and acquisitions", "BFF5902": "Introduction to risk management", "BFF5910": "Special topics in finance", "BFF5915": "Options, futures and risk management", "BFF5954": "Business finance", "BFF5977": "Risk financing and treasury management", "BFM5014": "Current issues in international finance", "BFM5915": "Options, futures and risk management", "BFM5959": "Accounting and finance for international managers", "BFM5973": "International finance", "BFS2780": "Corporate finance A", "BFS3790": "Corporate finance B", "BFS5959": "Accounting and finance for international managers", "BFW1001": "Foundations of finance", "BFW1310": "Introduction to Islamic banking and finance", "BFW2140": "Corporate finance 1", "BFW2341": "International financial management", "BFW2401": "Commercial banking and finance", "BFW2751": "Derivatives 1", "BFW3121": "Investments and portfolio management", "BFW3331": "International banking and finance", "BFW3540": "Modelling in finance", "BFW3651": "Treasury management", "BFW3652": "Corporate treasury and credit management", "BFW3841": "Credit analysis and lending management", "BFW3851": "Behavioural finance", "BFX3355": "Property investment", "BFX3871": "International study program in banking and finance", "BFX3999": "Finance and society", "BFX4000": "Research methods", "BFX4018": "Honours research thesis", "BFX4030": "Advanced modelling in finance", "BFX4060": "Issues in corporate finance", "BFX4080": "Issues in banking", "BFX4120": "Issues in investments", "BFX5000": "Research methods", "BFX5018": "Research dissertation", "BFX5260": "Treasury and financial markets", "BFX5860": "International study program in banking and finance", "BFZ5959": "Accounting and finance for international managers", "BTB1010": "Commercial law", "BTB2220": "Corporations law", "BTB3221": "Taxation law and practice", "BTB3281": "Marketing law", "BTB3350": "Business taxation", "BTC1110": "Commercial law", "BTC2000": "Australian company law", "BTC3150": "Taxation law", "BTC3200": "Finance law", "BTC3300": "Marketing law", "BTC3350": "Business taxation", "BTC5904": "Law and commercial decisions", "BTF1010": "Business law", "BTF2000": "Australian corporations law", "BTF2223": "Corporate crime", "BTF2601": "Banking law", "BTF3181": "Marketing law", "BTF3931": "Taxation law", "BTF5000": "Corporate governance", "BTF5001": "Business regulation and compliance", "BTF5050": "Comparative business law in Asia", "BTF5060": "Work and the law", "BTF5130": "International law and policy", "BTF5150": "Intellectual property and marketing law", "BTF5160": "The globalisation of law and development in Asia", "BTF5170": "Chinese business law", "BTF5180": "Financial services regulation", "BTF5235": "Workplace and investment taxation", "BTF5340": "Regional trade governance", "BTF5345": "Human rights and global business", "BTF5501": "Corporations law", "BTF5801": "Masters research paper", "BTF5841": "Human resources management law", "BTF5900": "Major research project", "BTF5903": "Law and business decisions", "BTF5905": "Laws of international trade and commerce", "BTF5910": "Corporate sustainability regulation", "BTF5919": "International trade law", "BTF5965": "Taxation law", "BTM3290": "Independent study", "BTM5903": "Law and business decisions", "BTM5909": "Ethics and global corporate governance", "BTM5919": "International trade law", "BTS1201": "South Africa business law A", "BTS2201": "South African business law B", "BTS2301": "South African taxation A", "BTS3201": "International trade law", "BTS3301": "South African business law C", "BTS3302": "South African taxation B", "BTS3303": "South African taxation law C", "BTS5919": "International trade law", "BTW1042": "Malaysian business law", "BTW2213": "Malaysian company law", "BTW2241": "Comparative workplace relations law", "BTW2320": "Current issues in corporate governance", "BTW3153": "Malaysian income tax law", "BTW3201": "International trade law", "BTW3221": "Taxation law and practice", "BTW3233": "Conventional and Islamic finance law", "BTW3281": "Marketing law", "BTX3100": "Sustainability regulation for business", "BTX3110": "International trade law", "BTX3130": "Stock exchange and derivatives law", "BTX3350": "Business taxation", "BTX3650": "Sports law", "BTX3699": "Insolvency", "BTX3900": "Research project in business law or taxation", "BTX3991": "Employment law", "BTX4130": "Honours research thesis", "BTX5220": "International issues in employment law", "BTZ5919": "International trade law", "ECB1101": "Introductory microeconomics", "ECB1102": "Introductory macroeconomics", "ECB2141": "Economics of labour markets", "ECB2330": "Macroeconomic policy", "ECB2731": "Managerial economics", "ECB3121": "Economics of international trade and finance", "ECB3143": "Economics of money and banking", "ECB3830": "Business, competition and regulation", "ECC1000": "Principles of microeconomics", "ECC1100": "Principles of macroeconomics", "ECC2000": "Intermediate microeconomics", "ECC2010": "Intermediate macroeconomics", "ECC2300": "Current issues in macroeconomic policy", "ECC2360": "Environmental economics", "ECC2400": "Current issues in applied microeconomics", "ECC2450": "Sports economics", "ECC2600": "Behavioural economics", "ECC2610": "Game theory and strategic thinking", "ECC2800": "Prosperity, poverty and sustainability in a globalised world", "ECC2840": "Australian economic institutions and policy", "ECC3600": "Experimental economics", "ECC3640": "Economics of climate change", "ECC3660": "Monetary economics", "ECC3670": "Economics of developing countries", "ECC3690": "International economics", "ECC3710": "Labour economics", "ECC3800": "History of economic thought", "ECC3810": "Public finance", "ECC3830": "Industrial organisation and regulation", "ECC3840": "Mathematical economics", "ECC3860": "Integrated economic modelling", "ECC4500": "Long-run economic change", "ECC4650": "Microeconomics", "ECC4660": "Macroeconomics", "ECC4670": "Economic development", "ECC4690": "International trade", "ECC4720": "Law and economics", "ECC4810": "Public economics", "ECC4830": "Welfare economics", "ECC4840": "Industrial organisation", "ECC4860": "Honours research project", "ECC5010": "Special topics in advanced economics", "ECC5470": "Competition, regulation and policy", "ECC5475": "Financial economics", "ECC5479": "Project evaluation", "ECC5484": "Industrial organisation", "ECC5650": "Microeconomic theory", "ECC5660": "Macroeconomic theory", "ECC5690": "Economic development", "ECC5810": "Public economics", "ECC5850": "Mathematical economic theory", "ECC5861": "Economics research project", "ECC5900": "Microeconomics", "ECC5901": "Macroeconomics", "ECC5953": "Economics", "ECC6660": "Research topics in advanced macroeconomics", "ECC6690": "Research topics in open economy", "ECF1100": "Microeconomics", "ECF1200": "Macroeconomics", "ECF2331": "Macroeconomic and monetary policy", "ECF2550": "Business in Asia", "ECF2721": "Trade finance and foreign exchange", "ECF2731": "Managerial economics", "ECF3120": "Consumer economics", "ECF3121": "Economics of international trade", "ECF3143": "Economics of money and banking", "ECF3900": "Business, competition and regulation", "ECF5040": "Industry economics", "ECF5060": "Applied economics research project", "ECF5200": "Game theory and business strategy", "ECF5410": "Applied microeconomics", "ECF5421": "Applied macroeconomics", "ECF5921": "International economics", "ECF5923": "Macroeconomics and monetary policy", "ECF5927": "Managerial economics", "ECF5953": "Economics", "ECM2001": "Asia in the world economy", "ECM2360": "Environmental and natural resource economics", "ECM3670": "Development economics", "ECM3810": "Public sector economics", "ECM5921": "International economics", "ECM5953": "Economics", "ECS1101": "Introductory microeconomics", "ECS1102": "Introductory macroeconomics", "ECS2141": "Economics of labour markets", "ECS2730": "Intermediate macroeconomics", "ECS2731": "Intermediate microeconomics", "ECS3121": "Economics of international trade", "ECS3143": "Economics of money and banking", "ECS3567": "Development economics", "ECS3830": "Competition and regulation", "ECS5921": "Introduction to international economics", "ECW1101": "Introductory microeconomics", "ECW1102": "Introductory macroeconomics", "ECW2141": "Economics of labour markets", "ECW2721": "Trade finance and foreign exchange", "ECW2730": "Macroeconomic policy", "ECW2731": "Managerial economics", "ECW3143": "Economics of money and banking", "ECW3301": "Case studies in international trade", "ECW3830": "Business, competition and regulation", "ECX3550": "Business in Asia", "ETB1100": "Business statistics", "ETB2111": "Business data modelling", "ETC1000": "Business and economic statistics", "ETC1010": "Data modelling and computing", "ETC2410": "Introductory econometrics", "ETC2420": "Statistical thinking", "ETC2430": "Actuarial statistics", "ETC2440": "Mathematics for economics and business", "ETC2500": "Marketing research analysis", "ETC2520": "Probability and statistical inference for economics and business", "ETC3250": "Business analytics", "ETC3400": "Principles of econometrics", "ETC3410": "Applied econometrics", "ETC3420": "Applied insurance methods", "ETC3430": "Financial mathematics under uncertainty", "ETC3440": "Introductory econometrics", "ETC3450": "Time series analysis for business and economics", "ETC3460": "Financial econometrics", "ETC3500": "Survey data analysis", "ETC3510": "Modelling in finance and insurance", "ETC3520": "Foundations of quantitative finance", "ETC3530": "Contingencies in insurance and pensions", "ETC3550": "Applied forecasting for business and economics", "ETC3555": "Statistical machine learning", "ETC3580": "Advanced statistical modelling", "ETC4010": "Special reading unit in econometrics honours", "ETC4110": "Actuarial practice 1", "ETC4120": "Actuarial practice 2", "ETC4130": "Asset liability management", "ETC4400": "Econometric theory", "ETC4410": "Applied econometrics 2", "ETC4420": "Microeconometrics", "ETC4460": "Financial econometrics 2", "ETC4541": "Bayesian time series econometrics", "ETC4860": "Honours research project", "ETC5010": "Special reading unit 2", "ETC5020": "Special reading unit 3", "ETC5242": "Statistical thinking", "ETC5252": "Probability and statistical inference for economics and business", "ETC5340": "Principles of econometrics", "ETC5341": "Applied econometrics", "ETC5342": "Applied insurance methods", "ETC5343": "Financial mathematics under uncertainty", "ETC5345": "Time series analysis for business and economics", "ETC5346": "Financial econometrics", "ETC5351": "Modelling in finance and insurance", "ETC5352": "Foundations of quantitative finance", "ETC5353": "Insurance and pensions", "ETC5410": "Bayesian time series econometrics", "ETC5420": "Microeconometrics", "ETC5440": "Econometric theory", "ETC5441": "Applied econometrics 2", "ETC5460": "Financial econometrics 2", "ETC5470": "Econometrics graduate seminar", "ETC5860": "Research paper", "ETC5900": "Business statistics", "ETF1100": "Business statistics", "ETF2011": "Quantitative methods for risk analysis", "ETF2100": "Introductory econometrics", "ETF2121": "Data analysis in business", "ETF2480": "Business modelling", "ETF2700": "Mathematics for business", "ETF3200": "Applied econometrics", "ETF3231": "Business forecasting", "ETF3300": "Quantitative methods for financial markets", "ETF3480": "Optimisation for managers", "ETF3500": "High dimensional data analysis", "ETF3600": "Quantitative models for business research", "ETF5010": "Special reading unit 2", "ETF5020": "Special reading unit 3", "ETF5200": "Applied time series econometrics", "ETF5231": "Business forecasting", "ETF5300": "Applied financial econometrics", "ETF5320": "Applied econometrics", "ETF5330": "Quantitative methods for financial markets", "ETF5480": "Optimisation for managers", "ETF5500": "High dimensional data analysis", "ETF5550": "Research project", "ETF5555": "Minor thesis", "ETF5600": "Quantitative models for business research", "ETF5650": "Business optimisation skills", "ETF5900": "Business statistics", "ETF5910": "Introductory applied econometrics", "ETF5912": "Data analysis in business", "ETF5922": "Data visualisation and analytics", "ETF5930": "Financial econometrics", "ETF5952": "Quantitative methods for risk analysis", "ETF5970": "Mathematics for business", "ETM5900": "Business statistics", "ETM5950": "Data analytics for business", "ETS1102": "Business statistics", "ETS1200": "Quantitative methods for business", "ETS2000": "Advanced quantitative methods", "ETS2010": "Introductory probability theory", "ETS2111": "Business data modelling", "ETS2410": "Introductory econometrics", "ETS3410": "Applied econometrics", "ETW1000": "Business and economic statistics", "ETW1010": "Data modelling and computing", "ETW1100": "Introduction to business analytics", "ETW2111": "Business data modelling", "ETW2410": "Introductory econometrics", "ETW2420": "Survey methods and managerial statistics", "ETW2440": "Business modelling and analytics methods", "ETW2472": "Project management analytics", "ETW3420": "Principles of forecasting and applications", "ETW3450": "Applied time series econometrics", "ETW3481": "Econometric methods for finance", "ETW3482": "Data mining for business", "ETW3483": "Enterprise analytics", "ETW3510": "Applied econometric methods", "ETX2250": "Data visualisation and analytics", "ETX6500": "Statistical inference", "ETX6510": "Foundations of econometrics", "HEC5870": "Advanced health economics A", "HEC5871": "Advanced health economics B", "HEC5970": "Introduction to health economics", "HEC5973": "Economic evaluation in health care", "HEC5975": "Principles of health economics for developing countries", "HEC5979": "Health economics", "LEE5001": "Advanced leadership 1", "LEE5002": "Advanced leadership 2", "LEE5003": "Advanced leadership 3", "LEE5004": "Advanced leadership 4", "LEE5010": "Advanced leadership 5", "LEE5011": "Advanced leadership 6", "MBA5111": "Leadership 1: People and performance", "MBA5112": "MBA 1", "MBA5113": "MBA Labs: Strategy project", "MBA5211": "Leadership 2: Influence and negotiations", "MBA5212": "MBA 2", "MBA5213": "MBA Labs commercialisation of technology project", "MBA5221": "Global executive MBA foundation I", "MBA5222": "Global executive MBA foundation II", "MBA5223": "Global executive MBA globalisation I", "MBA5224": "Global executive MBA globalisation II", "MBA5225": "Global executive MBA innovation I", "MBA5226": "Global executive MBA innovation II", "MBA5227": "Global executive MBA transformation I", "MBA5228": "Global executive MBA transformation II", "MBA5311": "Leadership 3: Influence and negotiations", "MBA5312": "MBA 3", "MBA5313": "MBA Labs: Technology and entrepreneurship project", "MBA5411": "Leadership 4: Personal and professional development", "MBA5412": "MBA Seminars", "MBA5413": "MBA Labs: International business project", "MBA5415": "Strategy capstone", "MBA5722": "MBA study tour", "MGB1010": "Introduction to management", "MGB2200": "Business communication", "MGB2230": "Organisational behaviour", "MGB2430": "People, culture and strategy", "MGB3120": "Inclusive management", "MGB3249": "Events and project management", "MGB3684": "Business strategy", "MGC1010": "Introduction to management", "MGC2021": "Organisations and society", "MGC2230": "Organisational behaviour", "MGC2430": "Human resource management", "MGC3110": "Strategic management", "MGC3250": "Innovation, entrepreneurship and intrapreneurship", "MGC5872": "Managing healthcare innovation", "MGF1010": "Introduction to management", "MGF1100": "Managerial communication", "MGF2111": "Organisational behaviour", "MGF2341": "Managing employee relations", "MGF2351": "International business", "MGF2656": "HRM and managing global workforces", "MGF2661": "Human resource management", "MGF3450": "Managing conflict", "MGF3621": "Organisational change", "MGF3681": "International management", "MGF3684": "Business strategy", "MGF5011": "Commercialisation", "MGF5020": "Business ethics in a global environment", "MGF5030": "Corporate social responsibility", "MGF5130": "Managing diversity and inclusion", "MGF5181": "International business strategy", "MGF5220": "Managing work, family and life", "MGF5261": "Talent management and professions of the future", "MGF5300": "Governance", "MGF5310": "International management", "MGF5370": "Policy analysis", "MGF5551": "Human resource management strategy and analytics", "MGF5600": "Managing innovation", "MGF5610": "People management and work in a global context", "MGF5611": "Advanced supply chain management", "MGF5630": "Principles of negotiation", "MGF5640": "Cross-cultural management communication", "MGF5670": "Leadership", "MGF5680": "Managerial problem solving and decision making", "MGF5690": "Services and operations management", "MGF5691": "Sustainable operations and supply chain management", "MGF5701": "Designing business processes", "MGF5702": "People management and strategy", "MGF5710": "Governance of market societies", "MGF5722": "Emerging economies in a globalising world", "MGF5730": "International trade policy", "MGF5760": "International institutions and organisations", "MGF5911": "Diplomacy and statecraft", "MGF5920": "Work and employment relations", "MGF5921": "Foundations in human resource management", "MGF5923": "Public policy", "MGF5927": "Public management", "MGF5928": "Strategic leadership", "MGF5940": "Intercultural communication and negotiation", "MGF5960": "Organisations: people, purpose and structure", "MGF5961": "Supply chain management", "MGF5962": "Principles of management", "MGF5966": "International business theory and practice", "MGF5972": "Managing organisational change", "MGF5976": "Strategic management", "MGF5985": "Human resource management", "MGF5991": "Professional development - career dynamics", "MGF5992": "Professional development - Self and relationships", "MGM5181": "International business strategy", "MGM5310": "International management", "MGM5638": "Asian business systems", "MGM5640": "Cross-cultural management communication", "MGM5698": "Global supply chain management", "MGM5966": "International business theory and practice", "MGS1010": "Introduction to management", "MGS1100": "Managerial communication", "MGS2230": "Organisational behaviour", "MGS2351": "International business", "MGS2430": "Human resource management", "MGS3130": "Organisational change and development", "MGS3210": "Organisational wellness", "MGS3401": "Strategic management", "MGS3650": "Integrated business management simulation", "MGS3651": "Entrepreneurship", "MGS3991": "Leadership principles and practices", "MGS5000": "Introductory management research methods", "MGS5181": "International business strategy", "MGS5310": "International management", "MGS5640": "Cross-cultural management communication", "MGS5900": "Research report", "MGS5901": "Research report: An introduction", "MGS5966": "International business theory and practice", "MGW1010": "Introduction to management", "MGW1100": "Managerial communication", "MGW1232": "Introduction to Islamic business", "MGW2230": "Organisational behaviour", "MGW2351": "International business", "MGW2430": "Human resource management", "MGW2991": "Leadership in Asia", "MGW3130": "Organisational change and development", "MGW3234": "Social entrepreneurship", "MGW3381": "Management information systems", "MGW3401": "Strategic management", "MGW3681": "International management", "MGX2700": "Project management for small to medium enterprises", "MGX3100": "Corporate social responsibility and business ethics", "MGX3121": "International business strategy", "MGX3441": "Human resource strategy", "MGX3771": "Operations management", "MGX3991": "Leadership principles and practices", "MGX4000": "Introductory management research methods", "MGX4100": "Perspectives and paradigms in management theory", "MGX4200": "Data analysis for organisational research", "MGX4300": "Contemporary issues in management", "MGX4400": "Honours research thesis", "MGX5000": "Introductory management research methods", "MGX5461": "Contemporary issues in globalisation", "MGX5890": "International study program in international business", "MGX5900": "Research report", "MGX5901": "Research report (introduction)", "MGZ5181": "International business strategy and cases", "MGZ5640": "Cross-cultural management communication", "MGZ5750": "The governance of international trade", "MGZ5966": "International business theory and practice", "MKB1700": "Fundamentals of marketing", "MKB2500": "Retail management principles", "MKB2600": "Tourism marketing", "MKB2703": "Consumer psychology", "MKB2704": "Consumer orientated marketing communications", "MKB2705": "Research methods and analysis", "MKB2706": "Brand and product management", "MKB3301": "Services marketing", "MKB3531": "International marketing", "MKB3801": "Sales and distribution", "MKB3802": "Professional services marketing", "MKB3803": "Stakeholder marketing", "MKB3804": "Strategic marketing in social contexts", "MKB3881": "Digital marketing", "MKC1200": "Principles of marketing", "MKC2110": "Buyer behaviour in marketing", "MKC2130": "Marketing decision analysis", "MKC2500": "Marketing research analysis", "MKC2610": "Strategic retailing in the global market", "MKC3110": "Market analysis and strategy development", "MKC3140": "Marketing strategy implementation", "MKC3300": "Marketing law", "MKC3460": "Integrated marketing communication", "MKC3500": "Survey data analysis", "MKF1120": "Marketing theory and practice", "MKF2111": "Buyer behaviour", "MKF2121": "Marketing research methods", "MKF2131": "Marketing decision analysis", "MKF2401": "Marketing issues in packaging design", "MKF2521": "Brand management", "MKF2540": "Retail management principles", "MKF2801": "Marketing insights", "MKF3001": "Special studies unit", "MKF3121": "Marketing planning and implementation", "MKF3131": "Strategic marketing", "MKF3151": "Marketing planning and strategy", "MKF3301": "Services marketing", "MKF3461": "Marketing communication", "MKF3471": "Sales management and negotiation", "MKF3531": "International marketing", "MKF3621": "Advertising management and campaigns", "MKF3881": "Digital marketing", "MKF5150": "Major project", "MKF5200": "Assessing marketing performance", "MKF5231": "Strategic brand management", "MKF5251": "Case studies in marketing strategy", "MKF5260": "International marketing", "MKF5301": "Minor thesis", "MKF5351": "Marketing strategy masterclass", "MKF5371": "Business to business marketing", "MKF5391": "Sales management", "MKF5403": "Advanced business research methods", "MKF5461": "Contemporary issues in marketing", "MKF5463": "Advanced buyer behaviour", "MKF5505": "Marketing for healthcare managers", "MKF5601": "Social media marketing", "MKF5630": "Services marketing", "MKF5641": "Advanced marketing communication", "MKF5660": "Relationship marketing", "MKF5741": "Marketing performance and decision analysis", "MKF5760": "Marketing leadership in society", "MKF5761": "Managing supply networks", "MKF5801": "Customer focused innovation", "MKF5911": "Theory and process of buyer behaviour", "MKF5912": "Marketing research", "MKF5917": "Understanding marketing and consumers", "MKF5926": "Integrated marketing communication", "MKF5955": "Marketing and the international consumer", "MKF5981": "Retailing", "MKM5211": "Applied business project", "MKM5251": "Innovation and entrepreneurship", "MKM5260": "International marketing", "MKM5955": "Marketing and the international consumer", "MKS1120": "Marketing theory and practice", "MKS2402": "Consumer behaviour", "MKS2420": "Marketing research methods", "MKS2431": "Business marketing", "MKS2460": "Integrated marketing communication", "MKS3121": "Marketing planning and implementation", "MKS3440": "Marketing strategy", "MKS3444": "International marketing", "MKS3631": "Marketing internship", "MKS3881": "Electronic marketing", "MKS5955": "Marketing and the international consumer", "MKW1120": "Marketing theory and practice", "MKW2402": "Consumer behaviour", "MKW2420": "Marketing research methods", "MKW2431": "Business marketing", "MKW2460": "Integrated marketing communication", "MKW2500": "Retail marketing", "MKW3300": "Introduction to social commerce", "MKW3301": "Services marketing", "MKW3440": "Marketing strategy", "MKW3444": "International marketing", "MKW3610": "Marketing strategy and implementation", "MKX2531": "Not for profit marketing", "MKX3200": "Sport marketing and sponsorship", "MKX3481": "Marketing channels", "MKX3521": "Global study programs in marketing", "MKX3631": "Marketing internship", "MKX4050": "Marketing theory", "MKX4060": "Marketing research practice", "MKX4070": "Qualitative research methods", "MKX4080": "Advanced business research methods", "MKX4461": "Contemporary issues in marketing", "MKX4900": "Honours research thesis", "MKX5123": "Entrepreneurial innovation", "MKX5521": "Global study programs in marketing", "MKX5931": "International dimensions of electronic business", "MKZ5955": "Marketing and the international consumer", "OPM4000": "Principles of managing projects", "OPM4001": "Managing the project context", "OPM4002": "Techniques for managing projects", "OPM4003": "Delivering projects", "OPM5000": "Organising the project function", "OPM5001": "Project as a social system", "OPM5002": "Innovation in the project context", "OPM5003": "Managing project knowledge"}
+[
+  {
+    "unitcode": "ACB1100",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACB1200",
+    "unitname": "Accounting for managers"
+  },
+  {
+    "unitcode": "ACB2020",
+    "unitname": "Cost information for decision making"
+  },
+  {
+    "unitcode": "ACB2491",
+    "unitname": "Company reporting"
+  },
+  {
+    "unitcode": "ACB2851",
+    "unitname": "Accounting information systems and financial modelling"
+  },
+  {
+    "unitcode": "ACB3021",
+    "unitname": "Performance measurement and control"
+  },
+  {
+    "unitcode": "ACB3041",
+    "unitname": "Auditing and assurance"
+  },
+  {
+    "unitcode": "ACB3050",
+    "unitname": "Advanced financial accounting theory and issues"
+  },
+  {
+    "unitcode": "ACC1100",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACC1200",
+    "unitname": "Accounting for managers"
+  },
+  {
+    "unitcode": "ACC2100",
+    "unitname": "Financial accounting"
+  },
+  {
+    "unitcode": "ACC2200",
+    "unitname": "Introduction to management accounting"
+  },
+  {
+    "unitcode": "ACC2400",
+    "unitname": "Accounting information systems"
+  },
+  {
+    "unitcode": "ACC3100",
+    "unitname": "Advanced financial accounting"
+  },
+  {
+    "unitcode": "ACC3200",
+    "unitname": "Management accounting"
+  },
+  {
+    "unitcode": "ACC3600",
+    "unitname": "Auditing and assurance"
+  },
+  {
+    "unitcode": "ACC5903",
+    "unitname": "Accounting for business"
+  },
+  {
+    "unitcode": "ACF1100",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACF1200",
+    "unitname": "Accounting for managers"
+  },
+  {
+    "unitcode": "ACF2100",
+    "unitname": "Financial accounting"
+  },
+  {
+    "unitcode": "ACF2200",
+    "unitname": "Introduction to management accounting"
+  },
+  {
+    "unitcode": "ACF2400",
+    "unitname": "Accounting information systems"
+  },
+  {
+    "unitcode": "ACF3100",
+    "unitname": "Advanced financial accounting"
+  },
+  {
+    "unitcode": "ACF3200",
+    "unitname": "Management accounting"
+  },
+  {
+    "unitcode": "ACF3600",
+    "unitname": "Auditing and assurance"
+  },
+  {
+    "unitcode": "ACF3900",
+    "unitname": "Global issues in accounting"
+  },
+  {
+    "unitcode": "ACF5001",
+    "unitname": "Research project in accounting"
+  },
+  {
+    "unitcode": "ACF5080",
+    "unitname": "Management control systems"
+  },
+  {
+    "unitcode": "ACF5100",
+    "unitname": "Strategic management accounting"
+  },
+  {
+    "unitcode": "ACF5120",
+    "unitname": "Forensic accounting and fraud examination"
+  },
+  {
+    "unitcode": "ACF5130",
+    "unitname": "Financial statement analysis and business valuation"
+  },
+  {
+    "unitcode": "ACF5150",
+    "unitname": "Financial reporting issues"
+  },
+  {
+    "unitcode": "ACF5268",
+    "unitname": "Accounting for healthcare managers"
+  },
+  {
+    "unitcode": "ACF5320",
+    "unitname": "Business analytics"
+  },
+  {
+    "unitcode": "ACF5330",
+    "unitname": "Integrated systems for business enterprises"
+  },
+  {
+    "unitcode": "ACF5350",
+    "unitname": "Applied contemporary accounting"
+  },
+  {
+    "unitcode": "ACF5510",
+    "unitname": "Integrated accounting"
+  },
+  {
+    "unitcode": "ACF5903",
+    "unitname": "Accounting for business"
+  },
+  {
+    "unitcode": "ACF5904",
+    "unitname": "Accounting information systems"
+  },
+  {
+    "unitcode": "ACF5950",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACF5953",
+    "unitname": "Financial accounting"
+  },
+  {
+    "unitcode": "ACF5955",
+    "unitname": "Management accounting"
+  },
+  {
+    "unitcode": "ACF5956",
+    "unitname": "Advanced financial accounting"
+  },
+  {
+    "unitcode": "ACF5957",
+    "unitname": "Auditing and assurance"
+  },
+  {
+    "unitcode": "ACM5903",
+    "unitname": "Accounting for business"
+  },
+  {
+    "unitcode": "ACS1000",
+    "unitname": "Principles of accounting and finance"
+  },
+  {
+    "unitcode": "ACS1002",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACS2700",
+    "unitname": "Business ethics, corporate governance and professional conduct"
+  },
+  {
+    "unitcode": "ACS2730",
+    "unitname": "Financial accounting A"
+  },
+  {
+    "unitcode": "ACS2740",
+    "unitname": "Financial accounting B"
+  },
+  {
+    "unitcode": "ACS2760",
+    "unitname": "Auditing A"
+  },
+  {
+    "unitcode": "ACS2770",
+    "unitname": "Cost and management accounting A"
+  },
+  {
+    "unitcode": "ACS3730",
+    "unitname": "Financial accounting C"
+  },
+  {
+    "unitcode": "ACS3740",
+    "unitname": "Financial accounting D"
+  },
+  {
+    "unitcode": "ACS3750",
+    "unitname": "Cost and management accounting B"
+  },
+  {
+    "unitcode": "ACS3765",
+    "unitname": "Auditing C"
+  },
+  {
+    "unitcode": "ACS3770",
+    "unitname": "Auditing B"
+  },
+  {
+    "unitcode": "ACW1100",
+    "unitname": "Introduction to financial accounting"
+  },
+  {
+    "unitcode": "ACW1200",
+    "unitname": "Accounting for managers"
+  },
+  {
+    "unitcode": "ACW2391",
+    "unitname": "Introduction to management accounting"
+  },
+  {
+    "unitcode": "ACW2491",
+    "unitname": "Financial accounting"
+  },
+  {
+    "unitcode": "ACW2851",
+    "unitname": "Accounting information systems and financial modelling"
+  },
+  {
+    "unitcode": "ACW3041",
+    "unitname": "Auditing and assurance"
+  },
+  {
+    "unitcode": "ACW3431",
+    "unitname": "Management accounting"
+  },
+  {
+    "unitcode": "ACW3491",
+    "unitname": "Advanced financial accounting"
+  },
+  {
+    "unitcode": "ACX2900",
+    "unitname": "Accounting for sustainability"
+  },
+  {
+    "unitcode": "ACX3150",
+    "unitname": "Financial analysis and valuation"
+  },
+  {
+    "unitcode": "ACX3250",
+    "unitname": "Advanced management accounting"
+  },
+  {
+    "unitcode": "ACX3500",
+    "unitname": "International study program in accounting"
+  },
+  {
+    "unitcode": "ACX4000",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "ACX4018",
+    "unitname": "Honours research thesis"
+  },
+  {
+    "unitcode": "ACX4040",
+    "unitname": "Issues in accounting information systems"
+  },
+  {
+    "unitcode": "ACX4050",
+    "unitname": "Issues in auditing and assurance"
+  },
+  {
+    "unitcode": "ACX4070",
+    "unitname": "Issues in financial accounting"
+  },
+  {
+    "unitcode": "ACX4090",
+    "unitname": "Issues in management accounting"
+  },
+  {
+    "unitcode": "ACX5951",
+    "unitname": "International study program in accounting"
+  },
+  {
+    "unitcode": "BES3120",
+    "unitname": "Perspectives on global business issues"
+  },
+  {
+    "unitcode": "BES4000",
+    "unitname": "Research methodology 1"
+  },
+  {
+    "unitcode": "BES4010",
+    "unitname": "Research methodology 2"
+  },
+  {
+    "unitcode": "BES4020",
+    "unitname": "Directed studies 1"
+  },
+  {
+    "unitcode": "BES4030",
+    "unitname": "Directed studies 2"
+  },
+  {
+    "unitcode": "BES4100",
+    "unitname": "Research project and report"
+  },
+  {
+    "unitcode": "BEW3100",
+    "unitname": "Work placement program"
+  },
+  {
+    "unitcode": "BEW3555",
+    "unitname": "Integrative business practices"
+  },
+  {
+    "unitcode": "BEW4000",
+    "unitname": "Research methodology 1"
+  },
+  {
+    "unitcode": "BEW4010",
+    "unitname": "Research methodology 2"
+  },
+  {
+    "unitcode": "BEW4020",
+    "unitname": "Directed studies 1"
+  },
+  {
+    "unitcode": "BEW4030",
+    "unitname": "Directed studies 2"
+  },
+  {
+    "unitcode": "BEW4100",
+    "unitname": "Research project and report"
+  },
+  {
+    "unitcode": "BEX2000",
+    "unitname": "Digital technology and business"
+  },
+  {
+    "unitcode": "BEX2010",
+    "unitname": "Intermediate macroeconomics"
+  },
+  {
+    "unitcode": "BEX2410",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "BEX2440",
+    "unitname": "Mathematics for economics and business"
+  },
+  {
+    "unitcode": "BEX2500",
+    "unitname": "Integrative thinking and decision making"
+  },
+  {
+    "unitcode": "BEX2520",
+    "unitname": "Probability and statistical inference for economics and business"
+  },
+  {
+    "unitcode": "BEX3000",
+    "unitname": "Current issues in business"
+  },
+  {
+    "unitcode": "BEX3006",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3012",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3024",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3106",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3112",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3150",
+    "unitname": "Sustainability practice and organisations"
+  },
+  {
+    "unitcode": "BEX3206",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3212",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX3300",
+    "unitname": "Business and design"
+  },
+  {
+    "unitcode": "BEX3350",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX3351",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX3400",
+    "unitname": "Principles of econometrics"
+  },
+  {
+    "unitcode": "BEX3410",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "BEX3411",
+    "unitname": "Entrepreneurship"
+  },
+  {
+    "unitcode": "BEX3450",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX3451",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX3460",
+    "unitname": "Financial econometrics"
+  },
+  {
+    "unitcode": "BEX3500",
+    "unitname": "Current issues in commerce"
+  },
+  {
+    "unitcode": "BEX3510",
+    "unitname": "Modelling in finance and insurance"
+  },
+  {
+    "unitcode": "BEX3550",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX3555",
+    "unitname": "Integrative business practices"
+  },
+  {
+    "unitcode": "BEX3600",
+    "unitname": "Current issues in business administration"
+  },
+  {
+    "unitcode": "BEX3622",
+    "unitname": "Issues in global business"
+  },
+  {
+    "unitcode": "BEX3710",
+    "unitname": "Labour economics"
+  },
+  {
+    "unitcode": "BEX3722",
+    "unitname": "Engaging with international business - Australia"
+  },
+  {
+    "unitcode": "BEX3723",
+    "unitname": "Engaging with international business - North America"
+  },
+  {
+    "unitcode": "BEX3724",
+    "unitname": "Engaging with international business - Asia"
+  },
+  {
+    "unitcode": "BEX3725",
+    "unitname": "Engaging with international business - Europe"
+  },
+  {
+    "unitcode": "BEX3728",
+    "unitname": "Engaging with international business"
+  },
+  {
+    "unitcode": "BEX3729",
+    "unitname": "Engaging with international business - Exchange"
+  },
+  {
+    "unitcode": "BEX4120",
+    "unitname": "Actuarial practice II"
+  },
+  {
+    "unitcode": "BEX4130",
+    "unitname": "Asset liability management"
+  },
+  {
+    "unitcode": "BEX4420",
+    "unitname": "Microeconometrics"
+  },
+  {
+    "unitcode": "BEX4460",
+    "unitname": "Financial econometrics 2"
+  },
+  {
+    "unitcode": "BEX4650",
+    "unitname": "Microeconomics"
+  },
+  {
+    "unitcode": "BEX4670",
+    "unitname": "Economic development"
+  },
+  {
+    "unitcode": "BEX4690",
+    "unitname": "International trade"
+  },
+  {
+    "unitcode": "BEX4810",
+    "unitname": "Public economics"
+  },
+  {
+    "unitcode": "BEX5001",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX5002",
+    "unitname": "Commercialisation project A"
+  },
+  {
+    "unitcode": "BEX5003",
+    "unitname": "Commercialisation project B"
+  },
+  {
+    "unitcode": "BEX5006",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX5010",
+    "unitname": "Qualitative business research methods"
+  },
+  {
+    "unitcode": "BEX5012",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "BEX5110",
+    "unitname": "Special reading unit 2"
+  },
+  {
+    "unitcode": "BEX5112",
+    "unitname": "Industry project"
+  },
+  {
+    "unitcode": "BEX5200",
+    "unitname": "Climate change and carbon management strategies"
+  },
+  {
+    "unitcode": "BEX5300",
+    "unitname": "Applied financial econometrics"
+  },
+  {
+    "unitcode": "BEX5410",
+    "unitname": "Bayesian Time Series Econometrics"
+  },
+  {
+    "unitcode": "BEX5411",
+    "unitname": "Creativity and entrepreneurship"
+  },
+  {
+    "unitcode": "BEX5463",
+    "unitname": "Advanced buyer behaviour"
+  },
+  {
+    "unitcode": "BEX5479",
+    "unitname": "Project evaluation"
+  },
+  {
+    "unitcode": "BEX5601",
+    "unitname": "Business environment"
+  },
+  {
+    "unitcode": "BEX5604",
+    "unitname": "Professional development"
+  },
+  {
+    "unitcode": "BEX5650",
+    "unitname": "Microeconomic theory"
+  },
+  {
+    "unitcode": "BEX5660",
+    "unitname": "Macroeconomic theory"
+  },
+  {
+    "unitcode": "BEX5707",
+    "unitname": "Business insights from data analysis"
+  },
+  {
+    "unitcode": "BEX5722",
+    "unitname": "Engaging with international business - Australia"
+  },
+  {
+    "unitcode": "BEX5723",
+    "unitname": "Engaging with international business - North America"
+  },
+  {
+    "unitcode": "BEX5724",
+    "unitname": "Engaging with international business"
+  },
+  {
+    "unitcode": "BEX5725",
+    "unitname": "Engaging with international business - Europe"
+  },
+  {
+    "unitcode": "BEX5729",
+    "unitname": "Engaging with international business - Exchange"
+  },
+  {
+    "unitcode": "BEX5800",
+    "unitname": "Global business environment"
+  },
+  {
+    "unitcode": "BEX5810",
+    "unitname": "Sustainable business and innovation"
+  },
+  {
+    "unitcode": "BEX5832",
+    "unitname": "European business and society"
+  },
+  {
+    "unitcode": "BEX5850",
+    "unitname": "Mathematical economic theory"
+  },
+  {
+    "unitcode": "BEX5870",
+    "unitname": "Advanced health economics A"
+  },
+  {
+    "unitcode": "BEX5871",
+    "unitname": "Advanced health economics B"
+  },
+  {
+    "unitcode": "BEX5900",
+    "unitname": "Microeconomics"
+  },
+  {
+    "unitcode": "BEX5950",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "BEX5973",
+    "unitname": "Economic evaluation in health care"
+  },
+  {
+    "unitcode": "BEX5975",
+    "unitname": "Principles of health economics for developing countries"
+  },
+  {
+    "unitcode": "BEX6001",
+    "unitname": "Foundations of accounting research"
+  },
+  {
+    "unitcode": "BEX6002",
+    "unitname": "Current issues in accounting research"
+  },
+  {
+    "unitcode": "BEX6011",
+    "unitname": "Empirical asset pricing"
+  },
+  {
+    "unitcode": "BEX6012",
+    "unitname": "Corporate financial management"
+  },
+  {
+    "unitcode": "BEX6013",
+    "unitname": "Issues in financial institutions"
+  },
+  {
+    "unitcode": "BEX6014",
+    "unitname": "Contemporary issues in finance"
+  },
+  {
+    "unitcode": "BEX6100",
+    "unitname": "Advanced quantitative research methods"
+  },
+  {
+    "unitcode": "BEX6200",
+    "unitname": "Advanced qualitative research methods"
+  },
+  {
+    "unitcode": "BEX6300",
+    "unitname": "Philosophy of research"
+  },
+  {
+    "unitcode": "BEX6400",
+    "unitname": "Empirical methods for economic analysis"
+  },
+  {
+    "unitcode": "BEX6500",
+    "unitname": "Statistical inference"
+  },
+  {
+    "unitcode": "BEX6510",
+    "unitname": "Foundations of econometrics"
+  },
+  {
+    "unitcode": "BEX6600",
+    "unitname": "Research topics in advanced microeconomics"
+  },
+  {
+    "unitcode": "BEX6650",
+    "unitname": "Research topics in advanced microeconomics"
+  },
+  {
+    "unitcode": "BEX6660",
+    "unitname": "Research topics in advanced macroeconomics"
+  },
+  {
+    "unitcode": "BEX6700",
+    "unitname": "Research paper"
+  },
+  {
+    "unitcode": "BEX6800",
+    "unitname": "Advanced mathematical economic theory"
+  },
+  {
+    "unitcode": "BEX6990",
+    "unitname": "Research strategies and methods in business law"
+  },
+  {
+    "unitcode": "BFB1001",
+    "unitname": "Foundations of finance"
+  },
+  {
+    "unitcode": "BFB2140",
+    "unitname": "Corporate finance 1"
+  },
+  {
+    "unitcode": "BFB3121",
+    "unitname": "Investments and portfolio management"
+  },
+  {
+    "unitcode": "BFC2140",
+    "unitname": "Corporate finance 1"
+  },
+  {
+    "unitcode": "BFC2340",
+    "unitname": "Debt markets and fixed income securities"
+  },
+  {
+    "unitcode": "BFC2751",
+    "unitname": "Derivatives 1"
+  },
+  {
+    "unitcode": "BFC3140",
+    "unitname": "Corporate finance 2"
+  },
+  {
+    "unitcode": "BFC3170",
+    "unitname": "Management of financial intermediaries"
+  },
+  {
+    "unitcode": "BFC3240",
+    "unitname": "International finance"
+  },
+  {
+    "unitcode": "BFC3241",
+    "unitname": "Equities and investment analysis"
+  },
+  {
+    "unitcode": "BFC3340",
+    "unitname": "Derivatives 2"
+  },
+  {
+    "unitcode": "BFC3440",
+    "unitname": "Pension and financial planning"
+  },
+  {
+    "unitcode": "BFC3540",
+    "unitname": "Modelling in finance"
+  },
+  {
+    "unitcode": "BFC5130",
+    "unitname": "Case studies in banking and finance"
+  },
+  {
+    "unitcode": "BFC5280",
+    "unitname": "Institutional asset and liability management"
+  },
+  {
+    "unitcode": "BFC5380",
+    "unitname": "Credit risk modelling"
+  },
+  {
+    "unitcode": "BFC5913",
+    "unitname": "Financial planning"
+  },
+  {
+    "unitcode": "BFC5914",
+    "unitname": "Bank lending"
+  },
+  {
+    "unitcode": "BFC5915",
+    "unitname": "Options, futures and risk management"
+  },
+  {
+    "unitcode": "BFC5916",
+    "unitname": "International banking"
+  },
+  {
+    "unitcode": "BFC5925",
+    "unitname": "Financial management theory"
+  },
+  {
+    "unitcode": "BFC5926",
+    "unitname": "Financial institutions and markets"
+  },
+  {
+    "unitcode": "BFC5935",
+    "unitname": "Portfolio management and theory"
+  },
+  {
+    "unitcode": "BFC5936",
+    "unitname": "Financial modelling"
+  },
+  {
+    "unitcode": "BFF1001",
+    "unitname": "Foundations of finance"
+  },
+  {
+    "unitcode": "BFF2140",
+    "unitname": "Corporate finance 1"
+  },
+  {
+    "unitcode": "BFF2341",
+    "unitname": "International financial management"
+  },
+  {
+    "unitcode": "BFF2401",
+    "unitname": "Commercial banking and finance"
+  },
+  {
+    "unitcode": "BFF2701",
+    "unitname": "Equity markets"
+  },
+  {
+    "unitcode": "BFF3111",
+    "unitname": "Personal financial planning"
+  },
+  {
+    "unitcode": "BFF3121",
+    "unitname": "Investments and portfolio management"
+  },
+  {
+    "unitcode": "BFF3301",
+    "unitname": "Treasury and financial markets"
+  },
+  {
+    "unitcode": "BFF3331",
+    "unitname": "International banking and finance"
+  },
+  {
+    "unitcode": "BFF3351",
+    "unitname": "Investment banking"
+  },
+  {
+    "unitcode": "BFF3651",
+    "unitname": "Treasury management"
+  },
+  {
+    "unitcode": "BFF3751",
+    "unitname": "Derivatives 1"
+  },
+  {
+    "unitcode": "BFF3841",
+    "unitname": "Credit analysis and lending management"
+  },
+  {
+    "unitcode": "BFF5021",
+    "unitname": "Case studies in risk management"
+  },
+  {
+    "unitcode": "BFF5180",
+    "unitname": "Research dissertation"
+  },
+  {
+    "unitcode": "BFF5220",
+    "unitname": "Applied investments"
+  },
+  {
+    "unitcode": "BFF5230",
+    "unitname": "Global financial markets"
+  },
+  {
+    "unitcode": "BFF5250",
+    "unitname": "Corporate treasury management"
+  },
+  {
+    "unitcode": "BFF5255",
+    "unitname": "Modelling in finance"
+  },
+  {
+    "unitcode": "BFF5270",
+    "unitname": "Funds management"
+  },
+  {
+    "unitcode": "BFF5300",
+    "unitname": "Case studies in finance"
+  },
+  {
+    "unitcode": "BFF5333",
+    "unitname": "Project finance"
+  },
+  {
+    "unitcode": "BFF5370",
+    "unitname": "Financial markets and technology"
+  },
+  {
+    "unitcode": "BFF5580",
+    "unitname": "Mergers and acquisitions"
+  },
+  {
+    "unitcode": "BFF5902",
+    "unitname": "Introduction to risk management"
+  },
+  {
+    "unitcode": "BFF5910",
+    "unitname": "Special topics in finance"
+  },
+  {
+    "unitcode": "BFF5915",
+    "unitname": "Options, futures and risk management"
+  },
+  {
+    "unitcode": "BFF5954",
+    "unitname": "Business finance"
+  },
+  {
+    "unitcode": "BFF5977",
+    "unitname": "Risk financing and treasury management"
+  },
+  {
+    "unitcode": "BFM5014",
+    "unitname": "Current issues in international finance"
+  },
+  {
+    "unitcode": "BFM5915",
+    "unitname": "Options, futures and risk management"
+  },
+  {
+    "unitcode": "BFM5959",
+    "unitname": "Accounting and finance for international managers"
+  },
+  {
+    "unitcode": "BFM5973",
+    "unitname": "International finance"
+  },
+  {
+    "unitcode": "BFS2780",
+    "unitname": "Corporate finance A"
+  },
+  {
+    "unitcode": "BFS3790",
+    "unitname": "Corporate finance B"
+  },
+  {
+    "unitcode": "BFS5959",
+    "unitname": "Accounting and finance for international managers"
+  },
+  {
+    "unitcode": "BFW1001",
+    "unitname": "Foundations of finance"
+  },
+  {
+    "unitcode": "BFW1310",
+    "unitname": "Introduction to Islamic banking and finance"
+  },
+  {
+    "unitcode": "BFW2140",
+    "unitname": "Corporate finance 1"
+  },
+  {
+    "unitcode": "BFW2341",
+    "unitname": "International financial management"
+  },
+  {
+    "unitcode": "BFW2401",
+    "unitname": "Commercial banking and finance"
+  },
+  {
+    "unitcode": "BFW2751",
+    "unitname": "Derivatives 1"
+  },
+  {
+    "unitcode": "BFW3121",
+    "unitname": "Investments and portfolio management"
+  },
+  {
+    "unitcode": "BFW3331",
+    "unitname": "International banking and finance"
+  },
+  {
+    "unitcode": "BFW3540",
+    "unitname": "Modelling in finance"
+  },
+  {
+    "unitcode": "BFW3651",
+    "unitname": "Treasury management"
+  },
+  {
+    "unitcode": "BFW3652",
+    "unitname": "Corporate treasury and credit management"
+  },
+  {
+    "unitcode": "BFW3841",
+    "unitname": "Credit analysis and lending management"
+  },
+  {
+    "unitcode": "BFW3851",
+    "unitname": "Behavioural finance"
+  },
+  {
+    "unitcode": "BFX3355",
+    "unitname": "Property investment"
+  },
+  {
+    "unitcode": "BFX3871",
+    "unitname": "International study program in banking and finance"
+  },
+  {
+    "unitcode": "BFX3999",
+    "unitname": "Finance and society"
+  },
+  {
+    "unitcode": "BFX4000",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "BFX4018",
+    "unitname": "Honours research thesis"
+  },
+  {
+    "unitcode": "BFX4030",
+    "unitname": "Advanced modelling in finance"
+  },
+  {
+    "unitcode": "BFX4060",
+    "unitname": "Issues in corporate finance"
+  },
+  {
+    "unitcode": "BFX4080",
+    "unitname": "Issues in banking"
+  },
+  {
+    "unitcode": "BFX4120",
+    "unitname": "Issues in investments"
+  },
+  {
+    "unitcode": "BFX5000",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "BFX5018",
+    "unitname": "Research dissertation"
+  },
+  {
+    "unitcode": "BFX5260",
+    "unitname": "Treasury and financial markets"
+  },
+  {
+    "unitcode": "BFX5860",
+    "unitname": "International study program in banking and finance"
+  },
+  {
+    "unitcode": "BFZ5959",
+    "unitname": "Accounting and finance for international managers"
+  },
+  {
+    "unitcode": "BTB1010",
+    "unitname": "Commercial law"
+  },
+  {
+    "unitcode": "BTB2220",
+    "unitname": "Corporations law"
+  },
+  {
+    "unitcode": "BTB3221",
+    "unitname": "Taxation law and practice"
+  },
+  {
+    "unitcode": "BTB3281",
+    "unitname": "Marketing law"
+  },
+  {
+    "unitcode": "BTB3350",
+    "unitname": "Business taxation"
+  },
+  {
+    "unitcode": "BTC1110",
+    "unitname": "Commercial law"
+  },
+  {
+    "unitcode": "BTC2000",
+    "unitname": "Australian company law"
+  },
+  {
+    "unitcode": "BTC3150",
+    "unitname": "Taxation law"
+  },
+  {
+    "unitcode": "BTC3200",
+    "unitname": "Finance law"
+  },
+  {
+    "unitcode": "BTC3300",
+    "unitname": "Marketing law"
+  },
+  {
+    "unitcode": "BTC3350",
+    "unitname": "Business taxation"
+  },
+  {
+    "unitcode": "BTC5904",
+    "unitname": "Law and commercial decisions"
+  },
+  {
+    "unitcode": "BTF1010",
+    "unitname": "Business law"
+  },
+  {
+    "unitcode": "BTF2000",
+    "unitname": "Australian corporations law"
+  },
+  {
+    "unitcode": "BTF2223",
+    "unitname": "Corporate crime"
+  },
+  {
+    "unitcode": "BTF2601",
+    "unitname": "Banking law"
+  },
+  {
+    "unitcode": "BTF3181",
+    "unitname": "Marketing law"
+  },
+  {
+    "unitcode": "BTF3931",
+    "unitname": "Taxation law"
+  },
+  {
+    "unitcode": "BTF5000",
+    "unitname": "Corporate governance"
+  },
+  {
+    "unitcode": "BTF5001",
+    "unitname": "Business regulation and compliance"
+  },
+  {
+    "unitcode": "BTF5050",
+    "unitname": "Comparative business law in Asia"
+  },
+  {
+    "unitcode": "BTF5060",
+    "unitname": "Work and the law"
+  },
+  {
+    "unitcode": "BTF5130",
+    "unitname": "International law and policy"
+  },
+  {
+    "unitcode": "BTF5150",
+    "unitname": "Intellectual property and marketing law"
+  },
+  {
+    "unitcode": "BTF5160",
+    "unitname": "The globalisation of law and development in Asia"
+  },
+  {
+    "unitcode": "BTF5170",
+    "unitname": "Chinese business law"
+  },
+  {
+    "unitcode": "BTF5180",
+    "unitname": "Financial services regulation"
+  },
+  {
+    "unitcode": "BTF5235",
+    "unitname": "Workplace and investment taxation"
+  },
+  {
+    "unitcode": "BTF5340",
+    "unitname": "Regional trade governance"
+  },
+  {
+    "unitcode": "BTF5345",
+    "unitname": "Human rights and global business"
+  },
+  {
+    "unitcode": "BTF5501",
+    "unitname": "Corporations law"
+  },
+  {
+    "unitcode": "BTF5801",
+    "unitname": "Masters research paper"
+  },
+  {
+    "unitcode": "BTF5841",
+    "unitname": "Human resources management law"
+  },
+  {
+    "unitcode": "BTF5900",
+    "unitname": "Major research project"
+  },
+  {
+    "unitcode": "BTF5903",
+    "unitname": "Law and business decisions"
+  },
+  {
+    "unitcode": "BTF5905",
+    "unitname": "Laws of international trade and commerce"
+  },
+  {
+    "unitcode": "BTF5910",
+    "unitname": "Corporate sustainability regulation"
+  },
+  {
+    "unitcode": "BTF5919",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTF5965",
+    "unitname": "Taxation law"
+  },
+  {
+    "unitcode": "BTM3290",
+    "unitname": "Independent study"
+  },
+  {
+    "unitcode": "BTM5903",
+    "unitname": "Law and business decisions"
+  },
+  {
+    "unitcode": "BTM5909",
+    "unitname": "Ethics and global corporate governance"
+  },
+  {
+    "unitcode": "BTM5919",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTS1201",
+    "unitname": "South Africa business law A"
+  },
+  {
+    "unitcode": "BTS2201",
+    "unitname": "South African business law B"
+  },
+  {
+    "unitcode": "BTS2301",
+    "unitname": "South African taxation A"
+  },
+  {
+    "unitcode": "BTS3201",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTS3301",
+    "unitname": "South African business law C"
+  },
+  {
+    "unitcode": "BTS3302",
+    "unitname": "South African taxation B"
+  },
+  {
+    "unitcode": "BTS3303",
+    "unitname": "South African taxation law C"
+  },
+  {
+    "unitcode": "BTS5919",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTW1042",
+    "unitname": "Malaysian business law"
+  },
+  {
+    "unitcode": "BTW2213",
+    "unitname": "Malaysian company law"
+  },
+  {
+    "unitcode": "BTW2241",
+    "unitname": "Comparative workplace relations law"
+  },
+  {
+    "unitcode": "BTW2320",
+    "unitname": "Current issues in corporate governance"
+  },
+  {
+    "unitcode": "BTW3153",
+    "unitname": "Malaysian income tax law"
+  },
+  {
+    "unitcode": "BTW3201",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTW3221",
+    "unitname": "Taxation law and practice"
+  },
+  {
+    "unitcode": "BTW3233",
+    "unitname": "Conventional and Islamic finance law"
+  },
+  {
+    "unitcode": "BTW3281",
+    "unitname": "Marketing law"
+  },
+  {
+    "unitcode": "BTX3100",
+    "unitname": "Sustainability regulation for business"
+  },
+  {
+    "unitcode": "BTX3110",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "BTX3130",
+    "unitname": "Stock exchange and derivatives law"
+  },
+  {
+    "unitcode": "BTX3350",
+    "unitname": "Business taxation"
+  },
+  {
+    "unitcode": "BTX3650",
+    "unitname": "Sports law"
+  },
+  {
+    "unitcode": "BTX3699",
+    "unitname": "Insolvency"
+  },
+  {
+    "unitcode": "BTX3900",
+    "unitname": "Research project in business law or taxation"
+  },
+  {
+    "unitcode": "BTX3991",
+    "unitname": "Employment law"
+  },
+  {
+    "unitcode": "BTX4130",
+    "unitname": "Honours research thesis"
+  },
+  {
+    "unitcode": "BTX5220",
+    "unitname": "International issues in employment law"
+  },
+  {
+    "unitcode": "BTZ5919",
+    "unitname": "International trade law"
+  },
+  {
+    "unitcode": "ECB1101",
+    "unitname": "Introductory microeconomics"
+  },
+  {
+    "unitcode": "ECB1102",
+    "unitname": "Introductory macroeconomics"
+  },
+  {
+    "unitcode": "ECB2141",
+    "unitname": "Economics of labour markets"
+  },
+  {
+    "unitcode": "ECB2330",
+    "unitname": "Macroeconomic policy"
+  },
+  {
+    "unitcode": "ECB2731",
+    "unitname": "Managerial economics"
+  },
+  {
+    "unitcode": "ECB3121",
+    "unitname": "Economics of international trade and finance"
+  },
+  {
+    "unitcode": "ECB3143",
+    "unitname": "Economics of money and banking"
+  },
+  {
+    "unitcode": "ECB3830",
+    "unitname": "Business, competition and regulation"
+  },
+  {
+    "unitcode": "ECC1000",
+    "unitname": "Principles of microeconomics"
+  },
+  {
+    "unitcode": "ECC1100",
+    "unitname": "Principles of macroeconomics"
+  },
+  {
+    "unitcode": "ECC2000",
+    "unitname": "Intermediate microeconomics"
+  },
+  {
+    "unitcode": "ECC2010",
+    "unitname": "Intermediate macroeconomics"
+  },
+  {
+    "unitcode": "ECC2300",
+    "unitname": "Current issues in macroeconomic policy"
+  },
+  {
+    "unitcode": "ECC2360",
+    "unitname": "Environmental economics"
+  },
+  {
+    "unitcode": "ECC2400",
+    "unitname": "Current issues in applied microeconomics"
+  },
+  {
+    "unitcode": "ECC2450",
+    "unitname": "Sports economics"
+  },
+  {
+    "unitcode": "ECC2600",
+    "unitname": "Behavioural economics"
+  },
+  {
+    "unitcode": "ECC2610",
+    "unitname": "Game theory and strategic thinking"
+  },
+  {
+    "unitcode": "ECC2800",
+    "unitname": "Prosperity, poverty and sustainability in a globalised world"
+  },
+  {
+    "unitcode": "ECC2840",
+    "unitname": "Australian economic institutions and policy"
+  },
+  {
+    "unitcode": "ECC3600",
+    "unitname": "Experimental economics"
+  },
+  {
+    "unitcode": "ECC3640",
+    "unitname": "Economics of climate change"
+  },
+  {
+    "unitcode": "ECC3660",
+    "unitname": "Monetary economics"
+  },
+  {
+    "unitcode": "ECC3670",
+    "unitname": "Economics of developing countries"
+  },
+  {
+    "unitcode": "ECC3690",
+    "unitname": "International economics"
+  },
+  {
+    "unitcode": "ECC3710",
+    "unitname": "Labour economics"
+  },
+  {
+    "unitcode": "ECC3800",
+    "unitname": "History of economic thought"
+  },
+  {
+    "unitcode": "ECC3810",
+    "unitname": "Public finance"
+  },
+  {
+    "unitcode": "ECC3830",
+    "unitname": "Industrial organisation and regulation"
+  },
+  {
+    "unitcode": "ECC3840",
+    "unitname": "Mathematical economics"
+  },
+  {
+    "unitcode": "ECC3860",
+    "unitname": "Integrated economic modelling"
+  },
+  {
+    "unitcode": "ECC4500",
+    "unitname": "Long-run economic change"
+  },
+  {
+    "unitcode": "ECC4650",
+    "unitname": "Microeconomics"
+  },
+  {
+    "unitcode": "ECC4660",
+    "unitname": "Macroeconomics"
+  },
+  {
+    "unitcode": "ECC4670",
+    "unitname": "Economic development"
+  },
+  {
+    "unitcode": "ECC4690",
+    "unitname": "International trade"
+  },
+  {
+    "unitcode": "ECC4720",
+    "unitname": "Law and economics"
+  },
+  {
+    "unitcode": "ECC4810",
+    "unitname": "Public economics"
+  },
+  {
+    "unitcode": "ECC4830",
+    "unitname": "Welfare economics"
+  },
+  {
+    "unitcode": "ECC4840",
+    "unitname": "Industrial organisation"
+  },
+  {
+    "unitcode": "ECC4860",
+    "unitname": "Honours research project"
+  },
+  {
+    "unitcode": "ECC5010",
+    "unitname": "Special topics in advanced economics"
+  },
+  {
+    "unitcode": "ECC5470",
+    "unitname": "Competition, regulation and policy"
+  },
+  {
+    "unitcode": "ECC5475",
+    "unitname": "Financial economics"
+  },
+  {
+    "unitcode": "ECC5479",
+    "unitname": "Project evaluation"
+  },
+  {
+    "unitcode": "ECC5484",
+    "unitname": "Industrial organisation"
+  },
+  {
+    "unitcode": "ECC5650",
+    "unitname": "Microeconomic theory"
+  },
+  {
+    "unitcode": "ECC5660",
+    "unitname": "Macroeconomic theory"
+  },
+  {
+    "unitcode": "ECC5690",
+    "unitname": "Economic development"
+  },
+  {
+    "unitcode": "ECC5810",
+    "unitname": "Public economics"
+  },
+  {
+    "unitcode": "ECC5850",
+    "unitname": "Mathematical economic theory"
+  },
+  {
+    "unitcode": "ECC5861",
+    "unitname": "Economics research project"
+  },
+  {
+    "unitcode": "ECC5900",
+    "unitname": "Microeconomics"
+  },
+  {
+    "unitcode": "ECC5901",
+    "unitname": "Macroeconomics"
+  },
+  {
+    "unitcode": "ECC5953",
+    "unitname": "Economics"
+  },
+  {
+    "unitcode": "ECC6660",
+    "unitname": "Research topics in advanced macroeconomics"
+  },
+  {
+    "unitcode": "ECC6690",
+    "unitname": "Research topics in open economy"
+  },
+  {
+    "unitcode": "ECF1100",
+    "unitname": "Microeconomics"
+  },
+  {
+    "unitcode": "ECF1200",
+    "unitname": "Macroeconomics"
+  },
+  {
+    "unitcode": "ECF2331",
+    "unitname": "Macroeconomic and monetary policy"
+  },
+  {
+    "unitcode": "ECF2550",
+    "unitname": "Business in Asia"
+  },
+  {
+    "unitcode": "ECF2721",
+    "unitname": "Trade finance and foreign exchange"
+  },
+  {
+    "unitcode": "ECF2731",
+    "unitname": "Managerial economics"
+  },
+  {
+    "unitcode": "ECF3120",
+    "unitname": "Consumer economics"
+  },
+  {
+    "unitcode": "ECF3121",
+    "unitname": "Economics of international trade"
+  },
+  {
+    "unitcode": "ECF3143",
+    "unitname": "Economics of money and banking"
+  },
+  {
+    "unitcode": "ECF3900",
+    "unitname": "Business, competition and regulation"
+  },
+  {
+    "unitcode": "ECF5040",
+    "unitname": "Industry economics"
+  },
+  {
+    "unitcode": "ECF5060",
+    "unitname": "Applied economics research project"
+  },
+  {
+    "unitcode": "ECF5200",
+    "unitname": "Game theory and business strategy"
+  },
+  {
+    "unitcode": "ECF5410",
+    "unitname": "Applied microeconomics"
+  },
+  {
+    "unitcode": "ECF5421",
+    "unitname": "Applied macroeconomics"
+  },
+  {
+    "unitcode": "ECF5921",
+    "unitname": "International economics"
+  },
+  {
+    "unitcode": "ECF5923",
+    "unitname": "Macroeconomics and monetary policy"
+  },
+  {
+    "unitcode": "ECF5927",
+    "unitname": "Managerial economics"
+  },
+  {
+    "unitcode": "ECF5953",
+    "unitname": "Economics"
+  },
+  {
+    "unitcode": "ECM2001",
+    "unitname": "Asia in the world economy"
+  },
+  {
+    "unitcode": "ECM2360",
+    "unitname": "Environmental and natural resource economics"
+  },
+  {
+    "unitcode": "ECM3670",
+    "unitname": "Development economics"
+  },
+  {
+    "unitcode": "ECM3810",
+    "unitname": "Public sector economics"
+  },
+  {
+    "unitcode": "ECM5921",
+    "unitname": "International economics"
+  },
+  {
+    "unitcode": "ECM5953",
+    "unitname": "Economics"
+  },
+  {
+    "unitcode": "ECS1101",
+    "unitname": "Introductory microeconomics"
+  },
+  {
+    "unitcode": "ECS1102",
+    "unitname": "Introductory macroeconomics"
+  },
+  {
+    "unitcode": "ECS2141",
+    "unitname": "Economics of labour markets"
+  },
+  {
+    "unitcode": "ECS2730",
+    "unitname": "Intermediate macroeconomics"
+  },
+  {
+    "unitcode": "ECS2731",
+    "unitname": "Intermediate microeconomics"
+  },
+  {
+    "unitcode": "ECS3121",
+    "unitname": "Economics of international trade"
+  },
+  {
+    "unitcode": "ECS3143",
+    "unitname": "Economics of money and banking"
+  },
+  {
+    "unitcode": "ECS3567",
+    "unitname": "Development economics"
+  },
+  {
+    "unitcode": "ECS3830",
+    "unitname": "Competition and regulation"
+  },
+  {
+    "unitcode": "ECS5921",
+    "unitname": "Introduction to international economics"
+  },
+  {
+    "unitcode": "ECW1101",
+    "unitname": "Introductory microeconomics"
+  },
+  {
+    "unitcode": "ECW1102",
+    "unitname": "Introductory macroeconomics"
+  },
+  {
+    "unitcode": "ECW2141",
+    "unitname": "Economics of labour markets"
+  },
+  {
+    "unitcode": "ECW2721",
+    "unitname": "Trade finance and foreign exchange"
+  },
+  {
+    "unitcode": "ECW2730",
+    "unitname": "Macroeconomic policy"
+  },
+  {
+    "unitcode": "ECW2731",
+    "unitname": "Managerial economics"
+  },
+  {
+    "unitcode": "ECW3143",
+    "unitname": "Economics of money and banking"
+  },
+  {
+    "unitcode": "ECW3301",
+    "unitname": "Case studies in international trade"
+  },
+  {
+    "unitcode": "ECW3830",
+    "unitname": "Business, competition and regulation"
+  },
+  {
+    "unitcode": "ECX3550",
+    "unitname": "Business in Asia"
+  },
+  {
+    "unitcode": "ETB1100",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETB2111",
+    "unitname": "Business data modelling"
+  },
+  {
+    "unitcode": "ETC1000",
+    "unitname": "Business and economic statistics"
+  },
+  {
+    "unitcode": "ETC1010",
+    "unitname": "Data modelling and computing"
+  },
+  {
+    "unitcode": "ETC2410",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "ETC2420",
+    "unitname": "Statistical thinking"
+  },
+  {
+    "unitcode": "ETC2430",
+    "unitname": "Actuarial statistics"
+  },
+  {
+    "unitcode": "ETC2440",
+    "unitname": "Mathematics for economics and business"
+  },
+  {
+    "unitcode": "ETC2500",
+    "unitname": "Marketing research analysis"
+  },
+  {
+    "unitcode": "ETC2520",
+    "unitname": "Probability and statistical inference for economics and business"
+  },
+  {
+    "unitcode": "ETC3250",
+    "unitname": "Business analytics"
+  },
+  {
+    "unitcode": "ETC3400",
+    "unitname": "Principles of econometrics"
+  },
+  {
+    "unitcode": "ETC3410",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "ETC3420",
+    "unitname": "Applied insurance methods"
+  },
+  {
+    "unitcode": "ETC3430",
+    "unitname": "Financial mathematics under uncertainty"
+  },
+  {
+    "unitcode": "ETC3440",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "ETC3450",
+    "unitname": "Time series analysis for business and economics"
+  },
+  {
+    "unitcode": "ETC3460",
+    "unitname": "Financial econometrics"
+  },
+  {
+    "unitcode": "ETC3500",
+    "unitname": "Survey data analysis"
+  },
+  {
+    "unitcode": "ETC3510",
+    "unitname": "Modelling in finance and insurance"
+  },
+  {
+    "unitcode": "ETC3520",
+    "unitname": "Foundations of quantitative finance"
+  },
+  {
+    "unitcode": "ETC3530",
+    "unitname": "Contingencies in insurance and pensions"
+  },
+  {
+    "unitcode": "ETC3550",
+    "unitname": "Applied forecasting for business and economics"
+  },
+  {
+    "unitcode": "ETC3555",
+    "unitname": "Statistical machine learning"
+  },
+  {
+    "unitcode": "ETC3580",
+    "unitname": "Advanced statistical modelling"
+  },
+  {
+    "unitcode": "ETC4010",
+    "unitname": "Special reading unit in econometrics honours"
+  },
+  {
+    "unitcode": "ETC4110",
+    "unitname": "Actuarial practice 1"
+  },
+  {
+    "unitcode": "ETC4120",
+    "unitname": "Actuarial practice 2"
+  },
+  {
+    "unitcode": "ETC4130",
+    "unitname": "Asset liability management"
+  },
+  {
+    "unitcode": "ETC4400",
+    "unitname": "Econometric theory"
+  },
+  {
+    "unitcode": "ETC4410",
+    "unitname": "Applied econometrics 2"
+  },
+  {
+    "unitcode": "ETC4420",
+    "unitname": "Microeconometrics"
+  },
+  {
+    "unitcode": "ETC4460",
+    "unitname": "Financial econometrics 2"
+  },
+  {
+    "unitcode": "ETC4541",
+    "unitname": "Bayesian time series econometrics"
+  },
+  {
+    "unitcode": "ETC4860",
+    "unitname": "Honours research project"
+  },
+  {
+    "unitcode": "ETC5010",
+    "unitname": "Special reading unit 2"
+  },
+  {
+    "unitcode": "ETC5020",
+    "unitname": "Special reading unit 3"
+  },
+  {
+    "unitcode": "ETC5242",
+    "unitname": "Statistical thinking"
+  },
+  {
+    "unitcode": "ETC5252",
+    "unitname": "Probability and statistical inference for economics and business"
+  },
+  {
+    "unitcode": "ETC5340",
+    "unitname": "Principles of econometrics"
+  },
+  {
+    "unitcode": "ETC5341",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "ETC5342",
+    "unitname": "Applied insurance methods"
+  },
+  {
+    "unitcode": "ETC5343",
+    "unitname": "Financial mathematics under uncertainty"
+  },
+  {
+    "unitcode": "ETC5345",
+    "unitname": "Time series analysis for business and economics"
+  },
+  {
+    "unitcode": "ETC5346",
+    "unitname": "Financial econometrics"
+  },
+  {
+    "unitcode": "ETC5351",
+    "unitname": "Modelling in finance and insurance"
+  },
+  {
+    "unitcode": "ETC5352",
+    "unitname": "Foundations of quantitative finance"
+  },
+  {
+    "unitcode": "ETC5353",
+    "unitname": "Insurance and pensions"
+  },
+  {
+    "unitcode": "ETC5410",
+    "unitname": "Bayesian time series econometrics"
+  },
+  {
+    "unitcode": "ETC5420",
+    "unitname": "Microeconometrics"
+  },
+  {
+    "unitcode": "ETC5440",
+    "unitname": "Econometric theory"
+  },
+  {
+    "unitcode": "ETC5441",
+    "unitname": "Applied econometrics 2"
+  },
+  {
+    "unitcode": "ETC5460",
+    "unitname": "Financial econometrics 2"
+  },
+  {
+    "unitcode": "ETC5470",
+    "unitname": "Econometrics graduate seminar"
+  },
+  {
+    "unitcode": "ETC5860",
+    "unitname": "Research paper"
+  },
+  {
+    "unitcode": "ETC5900",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETF1100",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETF2011",
+    "unitname": "Quantitative methods for risk analysis"
+  },
+  {
+    "unitcode": "ETF2100",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "ETF2121",
+    "unitname": "Data analysis in business"
+  },
+  {
+    "unitcode": "ETF2480",
+    "unitname": "Business modelling"
+  },
+  {
+    "unitcode": "ETF2700",
+    "unitname": "Mathematics for business"
+  },
+  {
+    "unitcode": "ETF3200",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "ETF3231",
+    "unitname": "Business forecasting"
+  },
+  {
+    "unitcode": "ETF3300",
+    "unitname": "Quantitative methods for financial markets"
+  },
+  {
+    "unitcode": "ETF3480",
+    "unitname": "Optimisation for managers"
+  },
+  {
+    "unitcode": "ETF3500",
+    "unitname": "High dimensional data analysis"
+  },
+  {
+    "unitcode": "ETF3600",
+    "unitname": "Quantitative models for business research"
+  },
+  {
+    "unitcode": "ETF5010",
+    "unitname": "Special reading unit 2"
+  },
+  {
+    "unitcode": "ETF5020",
+    "unitname": "Special reading unit 3"
+  },
+  {
+    "unitcode": "ETF5200",
+    "unitname": "Applied time series econometrics"
+  },
+  {
+    "unitcode": "ETF5231",
+    "unitname": "Business forecasting"
+  },
+  {
+    "unitcode": "ETF5300",
+    "unitname": "Applied financial econometrics"
+  },
+  {
+    "unitcode": "ETF5320",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "ETF5330",
+    "unitname": "Quantitative methods for financial markets"
+  },
+  {
+    "unitcode": "ETF5480",
+    "unitname": "Optimisation for managers"
+  },
+  {
+    "unitcode": "ETF5500",
+    "unitname": "High dimensional data analysis"
+  },
+  {
+    "unitcode": "ETF5550",
+    "unitname": "Research project"
+  },
+  {
+    "unitcode": "ETF5555",
+    "unitname": "Minor thesis"
+  },
+  {
+    "unitcode": "ETF5600",
+    "unitname": "Quantitative models for business research"
+  },
+  {
+    "unitcode": "ETF5650",
+    "unitname": "Business optimisation skills"
+  },
+  {
+    "unitcode": "ETF5900",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETF5910",
+    "unitname": "Introductory applied econometrics"
+  },
+  {
+    "unitcode": "ETF5912",
+    "unitname": "Data analysis in business"
+  },
+  {
+    "unitcode": "ETF5922",
+    "unitname": "Data visualisation and analytics"
+  },
+  {
+    "unitcode": "ETF5930",
+    "unitname": "Financial econometrics"
+  },
+  {
+    "unitcode": "ETF5952",
+    "unitname": "Quantitative methods for risk analysis"
+  },
+  {
+    "unitcode": "ETF5970",
+    "unitname": "Mathematics for business"
+  },
+  {
+    "unitcode": "ETM5900",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETM5950",
+    "unitname": "Data analytics for business"
+  },
+  {
+    "unitcode": "ETS1102",
+    "unitname": "Business statistics"
+  },
+  {
+    "unitcode": "ETS1200",
+    "unitname": "Quantitative methods for business"
+  },
+  {
+    "unitcode": "ETS2000",
+    "unitname": "Advanced quantitative methods"
+  },
+  {
+    "unitcode": "ETS2010",
+    "unitname": "Introductory probability theory"
+  },
+  {
+    "unitcode": "ETS2111",
+    "unitname": "Business data modelling"
+  },
+  {
+    "unitcode": "ETS2410",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "ETS3410",
+    "unitname": "Applied econometrics"
+  },
+  {
+    "unitcode": "ETW1000",
+    "unitname": "Business and economic statistics"
+  },
+  {
+    "unitcode": "ETW1010",
+    "unitname": "Data modelling and computing"
+  },
+  {
+    "unitcode": "ETW1100",
+    "unitname": "Introduction to business analytics"
+  },
+  {
+    "unitcode": "ETW2111",
+    "unitname": "Business data modelling"
+  },
+  {
+    "unitcode": "ETW2410",
+    "unitname": "Introductory econometrics"
+  },
+  {
+    "unitcode": "ETW2420",
+    "unitname": "Survey methods and managerial statistics"
+  },
+  {
+    "unitcode": "ETW2440",
+    "unitname": "Business modelling and analytics methods"
+  },
+  {
+    "unitcode": "ETW2472",
+    "unitname": "Project management analytics"
+  },
+  {
+    "unitcode": "ETW3420",
+    "unitname": "Principles of forecasting and applications"
+  },
+  {
+    "unitcode": "ETW3450",
+    "unitname": "Applied time series econometrics"
+  },
+  {
+    "unitcode": "ETW3481",
+    "unitname": "Econometric methods for finance"
+  },
+  {
+    "unitcode": "ETW3482",
+    "unitname": "Data mining for business"
+  },
+  {
+    "unitcode": "ETW3483",
+    "unitname": "Enterprise analytics"
+  },
+  {
+    "unitcode": "ETW3510",
+    "unitname": "Applied econometric methods"
+  },
+  {
+    "unitcode": "ETX2250",
+    "unitname": "Data visualisation and analytics"
+  },
+  {
+    "unitcode": "ETX6500",
+    "unitname": "Statistical inference"
+  },
+  {
+    "unitcode": "ETX6510",
+    "unitname": "Foundations of econometrics"
+  },
+  {
+    "unitcode": "HEC5870",
+    "unitname": "Advanced health economics A"
+  },
+  {
+    "unitcode": "HEC5871",
+    "unitname": "Advanced health economics B"
+  },
+  {
+    "unitcode": "HEC5970",
+    "unitname": "Introduction to health economics"
+  },
+  {
+    "unitcode": "HEC5973",
+    "unitname": "Economic evaluation in health care"
+  },
+  {
+    "unitcode": "HEC5975",
+    "unitname": "Principles of health economics for developing countries"
+  },
+  {
+    "unitcode": "HEC5979",
+    "unitname": "Health economics"
+  },
+  {
+    "unitcode": "LEE5001",
+    "unitname": "Advanced leadership 1"
+  },
+  {
+    "unitcode": "LEE5002",
+    "unitname": "Advanced leadership 2"
+  },
+  {
+    "unitcode": "LEE5003",
+    "unitname": "Advanced leadership 3"
+  },
+  {
+    "unitcode": "LEE5004",
+    "unitname": "Advanced leadership 4"
+  },
+  {
+    "unitcode": "LEE5010",
+    "unitname": "Advanced leadership 5"
+  },
+  {
+    "unitcode": "LEE5011",
+    "unitname": "Advanced leadership 6"
+  },
+  {
+    "unitcode": "MBA5111",
+    "unitname": "Leadership 1: People and performance"
+  },
+  {
+    "unitcode": "MBA5112",
+    "unitname": "MBA 1"
+  },
+  {
+    "unitcode": "MBA5113",
+    "unitname": "MBA Labs: Strategy project"
+  },
+  {
+    "unitcode": "MBA5211",
+    "unitname": "Leadership 2: Influence and negotiations"
+  },
+  {
+    "unitcode": "MBA5212",
+    "unitname": "MBA 2"
+  },
+  {
+    "unitcode": "MBA5213",
+    "unitname": "MBA Labs commercialisation of technology project"
+  },
+  {
+    "unitcode": "MBA5221",
+    "unitname": "Global executive MBA foundation I"
+  },
+  {
+    "unitcode": "MBA5222",
+    "unitname": "Global executive MBA foundation II"
+  },
+  {
+    "unitcode": "MBA5223",
+    "unitname": "Global executive MBA globalisation I"
+  },
+  {
+    "unitcode": "MBA5224",
+    "unitname": "Global executive MBA globalisation II"
+  },
+  {
+    "unitcode": "MBA5225",
+    "unitname": "Global executive MBA innovation I"
+  },
+  {
+    "unitcode": "MBA5226",
+    "unitname": "Global executive MBA innovation II"
+  },
+  {
+    "unitcode": "MBA5227",
+    "unitname": "Global executive MBA transformation I"
+  },
+  {
+    "unitcode": "MBA5228",
+    "unitname": "Global executive MBA transformation II"
+  },
+  {
+    "unitcode": "MBA5311",
+    "unitname": "Leadership 3: Influence and negotiations"
+  },
+  {
+    "unitcode": "MBA5312",
+    "unitname": "MBA 3"
+  },
+  {
+    "unitcode": "MBA5313",
+    "unitname": "MBA Labs: Technology and entrepreneurship project"
+  },
+  {
+    "unitcode": "MBA5411",
+    "unitname": "Leadership 4: Personal and professional development"
+  },
+  {
+    "unitcode": "MBA5412",
+    "unitname": "MBA Seminars"
+  },
+  {
+    "unitcode": "MBA5413",
+    "unitname": "MBA Labs: International business project"
+  },
+  {
+    "unitcode": "MBA5415",
+    "unitname": "Strategy capstone"
+  },
+  {
+    "unitcode": "MBA5722",
+    "unitname": "MBA study tour"
+  },
+  {
+    "unitcode": "MGB1010",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MGB2200",
+    "unitname": "Business communication"
+  },
+  {
+    "unitcode": "MGB2230",
+    "unitname": "Organisational behaviour"
+  },
+  {
+    "unitcode": "MGB2430",
+    "unitname": "People, culture and strategy"
+  },
+  {
+    "unitcode": "MGB3120",
+    "unitname": "Inclusive management"
+  },
+  {
+    "unitcode": "MGB3249",
+    "unitname": "Events and project management"
+  },
+  {
+    "unitcode": "MGB3684",
+    "unitname": "Business strategy"
+  },
+  {
+    "unitcode": "MGC1010",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MGC2021",
+    "unitname": "Organisations and society"
+  },
+  {
+    "unitcode": "MGC2230",
+    "unitname": "Organisational behaviour"
+  },
+  {
+    "unitcode": "MGC2430",
+    "unitname": "Human resource management"
+  },
+  {
+    "unitcode": "MGC3110",
+    "unitname": "Strategic management"
+  },
+  {
+    "unitcode": "MGC3250",
+    "unitname": "Innovation, entrepreneurship and intrapreneurship"
+  },
+  {
+    "unitcode": "MGC5872",
+    "unitname": "Managing healthcare innovation"
+  },
+  {
+    "unitcode": "MGF1010",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MGF1100",
+    "unitname": "Managerial communication"
+  },
+  {
+    "unitcode": "MGF2111",
+    "unitname": "Organisational behaviour"
+  },
+  {
+    "unitcode": "MGF2341",
+    "unitname": "Managing employee relations"
+  },
+  {
+    "unitcode": "MGF2351",
+    "unitname": "International business"
+  },
+  {
+    "unitcode": "MGF2656",
+    "unitname": "HRM and managing global workforces"
+  },
+  {
+    "unitcode": "MGF2661",
+    "unitname": "Human resource management"
+  },
+  {
+    "unitcode": "MGF3450",
+    "unitname": "Managing conflict"
+  },
+  {
+    "unitcode": "MGF3621",
+    "unitname": "Organisational change"
+  },
+  {
+    "unitcode": "MGF3681",
+    "unitname": "International management"
+  },
+  {
+    "unitcode": "MGF3684",
+    "unitname": "Business strategy"
+  },
+  {
+    "unitcode": "MGF5011",
+    "unitname": "Commercialisation"
+  },
+  {
+    "unitcode": "MGF5020",
+    "unitname": "Business ethics in a global environment"
+  },
+  {
+    "unitcode": "MGF5030",
+    "unitname": "Corporate social responsibility"
+  },
+  {
+    "unitcode": "MGF5130",
+    "unitname": "Managing diversity and inclusion"
+  },
+  {
+    "unitcode": "MGF5181",
+    "unitname": "International business strategy"
+  },
+  {
+    "unitcode": "MGF5220",
+    "unitname": "Managing work, family and life"
+  },
+  {
+    "unitcode": "MGF5261",
+    "unitname": "Talent management and professions of the future"
+  },
+  {
+    "unitcode": "MGF5300",
+    "unitname": "Governance"
+  },
+  {
+    "unitcode": "MGF5310",
+    "unitname": "International management"
+  },
+  {
+    "unitcode": "MGF5370",
+    "unitname": "Policy analysis"
+  },
+  {
+    "unitcode": "MGF5551",
+    "unitname": "Human resource management strategy and analytics"
+  },
+  {
+    "unitcode": "MGF5600",
+    "unitname": "Managing innovation"
+  },
+  {
+    "unitcode": "MGF5610",
+    "unitname": "People management and work in a global context"
+  },
+  {
+    "unitcode": "MGF5611",
+    "unitname": "Advanced supply chain management"
+  },
+  {
+    "unitcode": "MGF5630",
+    "unitname": "Principles of negotiation"
+  },
+  {
+    "unitcode": "MGF5640",
+    "unitname": "Cross-cultural management communication"
+  },
+  {
+    "unitcode": "MGF5670",
+    "unitname": "Leadership"
+  },
+  {
+    "unitcode": "MGF5680",
+    "unitname": "Managerial problem solving and decision making"
+  },
+  {
+    "unitcode": "MGF5690",
+    "unitname": "Services and operations management"
+  },
+  {
+    "unitcode": "MGF5691",
+    "unitname": "Sustainable operations and supply chain management"
+  },
+  {
+    "unitcode": "MGF5701",
+    "unitname": "Designing business processes"
+  },
+  {
+    "unitcode": "MGF5702",
+    "unitname": "People management and strategy"
+  },
+  {
+    "unitcode": "MGF5710",
+    "unitname": "Governance of market societies"
+  },
+  {
+    "unitcode": "MGF5722",
+    "unitname": "Emerging economies in a globalising world"
+  },
+  {
+    "unitcode": "MGF5730",
+    "unitname": "International trade policy"
+  },
+  {
+    "unitcode": "MGF5760",
+    "unitname": "International institutions and organisations"
+  },
+  {
+    "unitcode": "MGF5911",
+    "unitname": "Diplomacy and statecraft"
+  },
+  {
+    "unitcode": "MGF5920",
+    "unitname": "Work and employment relations"
+  },
+  {
+    "unitcode": "MGF5921",
+    "unitname": "Foundations in human resource management"
+  },
+  {
+    "unitcode": "MGF5923",
+    "unitname": "Public policy"
+  },
+  {
+    "unitcode": "MGF5927",
+    "unitname": "Public management"
+  },
+  {
+    "unitcode": "MGF5928",
+    "unitname": "Strategic leadership"
+  },
+  {
+    "unitcode": "MGF5940",
+    "unitname": "Intercultural communication and negotiation"
+  },
+  {
+    "unitcode": "MGF5960",
+    "unitname": "Organisations: people, purpose and structure"
+  },
+  {
+    "unitcode": "MGF5961",
+    "unitname": "Supply chain management"
+  },
+  {
+    "unitcode": "MGF5962",
+    "unitname": "Principles of management"
+  },
+  {
+    "unitcode": "MGF5966",
+    "unitname": "International business theory and practice"
+  },
+  {
+    "unitcode": "MGF5972",
+    "unitname": "Managing organisational change"
+  },
+  {
+    "unitcode": "MGF5976",
+    "unitname": "Strategic management"
+  },
+  {
+    "unitcode": "MGF5985",
+    "unitname": "Human resource management"
+  },
+  {
+    "unitcode": "MGF5991",
+    "unitname": "Professional development - career dynamics"
+  },
+  {
+    "unitcode": "MGF5992",
+    "unitname": "Professional development - Self and relationships"
+  },
+  {
+    "unitcode": "MGM5181",
+    "unitname": "International business strategy"
+  },
+  {
+    "unitcode": "MGM5310",
+    "unitname": "International management"
+  },
+  {
+    "unitcode": "MGM5638",
+    "unitname": "Asian business systems"
+  },
+  {
+    "unitcode": "MGM5640",
+    "unitname": "Cross-cultural management communication"
+  },
+  {
+    "unitcode": "MGM5698",
+    "unitname": "Global supply chain management"
+  },
+  {
+    "unitcode": "MGM5966",
+    "unitname": "International business theory and practice"
+  },
+  {
+    "unitcode": "MGS1010",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MGS1100",
+    "unitname": "Managerial communication"
+  },
+  {
+    "unitcode": "MGS2230",
+    "unitname": "Organisational behaviour"
+  },
+  {
+    "unitcode": "MGS2351",
+    "unitname": "International business"
+  },
+  {
+    "unitcode": "MGS2430",
+    "unitname": "Human resource management"
+  },
+  {
+    "unitcode": "MGS3130",
+    "unitname": "Organisational change and development"
+  },
+  {
+    "unitcode": "MGS3210",
+    "unitname": "Organisational wellness"
+  },
+  {
+    "unitcode": "MGS3401",
+    "unitname": "Strategic management"
+  },
+  {
+    "unitcode": "MGS3650",
+    "unitname": "Integrated business management simulation"
+  },
+  {
+    "unitcode": "MGS3651",
+    "unitname": "Entrepreneurship"
+  },
+  {
+    "unitcode": "MGS3991",
+    "unitname": "Leadership principles and practices"
+  },
+  {
+    "unitcode": "MGS5000",
+    "unitname": "Introductory management research methods"
+  },
+  {
+    "unitcode": "MGS5181",
+    "unitname": "International business strategy"
+  },
+  {
+    "unitcode": "MGS5310",
+    "unitname": "International management"
+  },
+  {
+    "unitcode": "MGS5640",
+    "unitname": "Cross-cultural management communication"
+  },
+  {
+    "unitcode": "MGS5900",
+    "unitname": "Research report"
+  },
+  {
+    "unitcode": "MGS5901",
+    "unitname": "Research report: An introduction"
+  },
+  {
+    "unitcode": "MGS5966",
+    "unitname": "International business theory and practice"
+  },
+  {
+    "unitcode": "MGW1010",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MGW1100",
+    "unitname": "Managerial communication"
+  },
+  {
+    "unitcode": "MGW1232",
+    "unitname": "Introduction to Islamic business"
+  },
+  {
+    "unitcode": "MGW2230",
+    "unitname": "Organisational behaviour"
+  },
+  {
+    "unitcode": "MGW2351",
+    "unitname": "International business"
+  },
+  {
+    "unitcode": "MGW2430",
+    "unitname": "Human resource management"
+  },
+  {
+    "unitcode": "MGW2991",
+    "unitname": "Leadership in Asia"
+  },
+  {
+    "unitcode": "MGW3130",
+    "unitname": "Organisational change and development"
+  },
+  {
+    "unitcode": "MGW3234",
+    "unitname": "Social entrepreneurship"
+  },
+  {
+    "unitcode": "MGW3381",
+    "unitname": "Management information systems"
+  },
+  {
+    "unitcode": "MGW3401",
+    "unitname": "Strategic management"
+  },
+  {
+    "unitcode": "MGW3681",
+    "unitname": "International management"
+  },
+  {
+    "unitcode": "MGX2700",
+    "unitname": "Project management for small to medium enterprises"
+  },
+  {
+    "unitcode": "MGX3100",
+    "unitname": "Corporate social responsibility and business ethics"
+  },
+  {
+    "unitcode": "MGX3121",
+    "unitname": "International business strategy"
+  },
+  {
+    "unitcode": "MGX3441",
+    "unitname": "Human resource strategy"
+  },
+  {
+    "unitcode": "MGX3771",
+    "unitname": "Operations management"
+  },
+  {
+    "unitcode": "MGX3991",
+    "unitname": "Leadership principles and practices"
+  },
+  {
+    "unitcode": "MGX4000",
+    "unitname": "Introductory management research methods"
+  },
+  {
+    "unitcode": "MGX4100",
+    "unitname": "Perspectives and paradigms in management theory"
+  },
+  {
+    "unitcode": "MGX4200",
+    "unitname": "Data analysis for organisational research"
+  },
+  {
+    "unitcode": "MGX4300",
+    "unitname": "Contemporary issues in management"
+  },
+  {
+    "unitcode": "MGX4400",
+    "unitname": "Honours research thesis"
+  },
+  {
+    "unitcode": "MGX5000",
+    "unitname": "Introductory management research methods"
+  },
+  {
+    "unitcode": "MGX5461",
+    "unitname": "Contemporary issues in globalisation"
+  },
+  {
+    "unitcode": "MGX5890",
+    "unitname": "International study program in international business"
+  },
+  {
+    "unitcode": "MGX5900",
+    "unitname": "Research report"
+  },
+  {
+    "unitcode": "MGX5901",
+    "unitname": "Research report (introduction)"
+  },
+  {
+    "unitcode": "MGZ5181",
+    "unitname": "International business strategy and cases"
+  },
+  {
+    "unitcode": "MGZ5640",
+    "unitname": "Cross-cultural management communication"
+  },
+  {
+    "unitcode": "MGZ5750",
+    "unitname": "The governance of international trade"
+  },
+  {
+    "unitcode": "MGZ5966",
+    "unitname": "International business theory and practice"
+  },
+  {
+    "unitcode": "MKB1700",
+    "unitname": "Fundamentals of marketing"
+  },
+  {
+    "unitcode": "MKB2500",
+    "unitname": "Retail management principles"
+  },
+  {
+    "unitcode": "MKB2600",
+    "unitname": "Tourism marketing"
+  },
+  {
+    "unitcode": "MKB2703",
+    "unitname": "Consumer psychology"
+  },
+  {
+    "unitcode": "MKB2704",
+    "unitname": "Consumer orientated marketing communications"
+  },
+  {
+    "unitcode": "MKB2705",
+    "unitname": "Research methods and analysis"
+  },
+  {
+    "unitcode": "MKB2706",
+    "unitname": "Brand and product management"
+  },
+  {
+    "unitcode": "MKB3301",
+    "unitname": "Services marketing"
+  },
+  {
+    "unitcode": "MKB3531",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKB3801",
+    "unitname": "Sales and distribution"
+  },
+  {
+    "unitcode": "MKB3802",
+    "unitname": "Professional services marketing"
+  },
+  {
+    "unitcode": "MKB3803",
+    "unitname": "Stakeholder marketing"
+  },
+  {
+    "unitcode": "MKB3804",
+    "unitname": "Strategic marketing in social contexts"
+  },
+  {
+    "unitcode": "MKB3881",
+    "unitname": "Digital marketing"
+  },
+  {
+    "unitcode": "MKC1200",
+    "unitname": "Principles of marketing"
+  },
+  {
+    "unitcode": "MKC2110",
+    "unitname": "Buyer behaviour in marketing"
+  },
+  {
+    "unitcode": "MKC2130",
+    "unitname": "Marketing decision analysis"
+  },
+  {
+    "unitcode": "MKC2500",
+    "unitname": "Marketing research analysis"
+  },
+  {
+    "unitcode": "MKC2610",
+    "unitname": "Strategic retailing in the global market"
+  },
+  {
+    "unitcode": "MKC3110",
+    "unitname": "Market analysis and strategy development"
+  },
+  {
+    "unitcode": "MKC3140",
+    "unitname": "Marketing strategy implementation"
+  },
+  {
+    "unitcode": "MKC3300",
+    "unitname": "Marketing law"
+  },
+  {
+    "unitcode": "MKC3460",
+    "unitname": "Integrated marketing communication"
+  },
+  {
+    "unitcode": "MKC3500",
+    "unitname": "Survey data analysis"
+  },
+  {
+    "unitcode": "MKF1120",
+    "unitname": "Marketing theory and practice"
+  },
+  {
+    "unitcode": "MKF2111",
+    "unitname": "Buyer behaviour"
+  },
+  {
+    "unitcode": "MKF2121",
+    "unitname": "Marketing research methods"
+  },
+  {
+    "unitcode": "MKF2131",
+    "unitname": "Marketing decision analysis"
+  },
+  {
+    "unitcode": "MKF2401",
+    "unitname": "Marketing issues in packaging design"
+  },
+  {
+    "unitcode": "MKF2521",
+    "unitname": "Brand management"
+  },
+  {
+    "unitcode": "MKF2540",
+    "unitname": "Retail management principles"
+  },
+  {
+    "unitcode": "MKF2801",
+    "unitname": "Marketing insights"
+  },
+  {
+    "unitcode": "MKF3001",
+    "unitname": "Special studies unit"
+  },
+  {
+    "unitcode": "MKF3121",
+    "unitname": "Marketing planning and implementation"
+  },
+  {
+    "unitcode": "MKF3131",
+    "unitname": "Strategic marketing"
+  },
+  {
+    "unitcode": "MKF3151",
+    "unitname": "Marketing planning and strategy"
+  },
+  {
+    "unitcode": "MKF3301",
+    "unitname": "Services marketing"
+  },
+  {
+    "unitcode": "MKF3461",
+    "unitname": "Marketing communication"
+  },
+  {
+    "unitcode": "MKF3471",
+    "unitname": "Sales management and negotiation"
+  },
+  {
+    "unitcode": "MKF3531",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKF3621",
+    "unitname": "Advertising management and campaigns"
+  },
+  {
+    "unitcode": "MKF3881",
+    "unitname": "Digital marketing"
+  },
+  {
+    "unitcode": "MKF5150",
+    "unitname": "Major project"
+  },
+  {
+    "unitcode": "MKF5200",
+    "unitname": "Assessing marketing performance"
+  },
+  {
+    "unitcode": "MKF5231",
+    "unitname": "Strategic brand management"
+  },
+  {
+    "unitcode": "MKF5251",
+    "unitname": "Case studies in marketing strategy"
+  },
+  {
+    "unitcode": "MKF5260",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKF5301",
+    "unitname": "Minor thesis"
+  },
+  {
+    "unitcode": "MKF5351",
+    "unitname": "Marketing strategy masterclass"
+  },
+  {
+    "unitcode": "MKF5371",
+    "unitname": "Business to business marketing"
+  },
+  {
+    "unitcode": "MKF5391",
+    "unitname": "Sales management"
+  },
+  {
+    "unitcode": "MKF5403",
+    "unitname": "Advanced business research methods"
+  },
+  {
+    "unitcode": "MKF5461",
+    "unitname": "Contemporary issues in marketing"
+  },
+  {
+    "unitcode": "MKF5463",
+    "unitname": "Advanced buyer behaviour"
+  },
+  {
+    "unitcode": "MKF5505",
+    "unitname": "Marketing for healthcare managers"
+  },
+  {
+    "unitcode": "MKF5601",
+    "unitname": "Social media marketing"
+  },
+  {
+    "unitcode": "MKF5630",
+    "unitname": "Services marketing"
+  },
+  {
+    "unitcode": "MKF5641",
+    "unitname": "Advanced marketing communication"
+  },
+  {
+    "unitcode": "MKF5660",
+    "unitname": "Relationship marketing"
+  },
+  {
+    "unitcode": "MKF5741",
+    "unitname": "Marketing performance and decision analysis"
+  },
+  {
+    "unitcode": "MKF5760",
+    "unitname": "Marketing leadership in society"
+  },
+  {
+    "unitcode": "MKF5761",
+    "unitname": "Managing supply networks"
+  },
+  {
+    "unitcode": "MKF5801",
+    "unitname": "Customer focused innovation"
+  },
+  {
+    "unitcode": "MKF5911",
+    "unitname": "Theory and process of buyer behaviour"
+  },
+  {
+    "unitcode": "MKF5912",
+    "unitname": "Marketing research"
+  },
+  {
+    "unitcode": "MKF5917",
+    "unitname": "Understanding marketing and consumers"
+  },
+  {
+    "unitcode": "MKF5926",
+    "unitname": "Integrated marketing communication"
+  },
+  {
+    "unitcode": "MKF5955",
+    "unitname": "Marketing and the international consumer"
+  },
+  {
+    "unitcode": "MKF5981",
+    "unitname": "Retailing"
+  },
+  {
+    "unitcode": "MKM5211",
+    "unitname": "Applied business project"
+  },
+  {
+    "unitcode": "MKM5251",
+    "unitname": "Innovation and entrepreneurship"
+  },
+  {
+    "unitcode": "MKM5260",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKM5955",
+    "unitname": "Marketing and the international consumer"
+  },
+  {
+    "unitcode": "MKS1120",
+    "unitname": "Marketing theory and practice"
+  },
+  {
+    "unitcode": "MKS2402",
+    "unitname": "Consumer behaviour"
+  },
+  {
+    "unitcode": "MKS2420",
+    "unitname": "Marketing research methods"
+  },
+  {
+    "unitcode": "MKS2431",
+    "unitname": "Business marketing"
+  },
+  {
+    "unitcode": "MKS2460",
+    "unitname": "Integrated marketing communication"
+  },
+  {
+    "unitcode": "MKS3121",
+    "unitname": "Marketing planning and implementation"
+  },
+  {
+    "unitcode": "MKS3440",
+    "unitname": "Marketing strategy"
+  },
+  {
+    "unitcode": "MKS3444",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKS3631",
+    "unitname": "Marketing internship"
+  },
+  {
+    "unitcode": "MKS3881",
+    "unitname": "Electronic marketing"
+  },
+  {
+    "unitcode": "MKS5955",
+    "unitname": "Marketing and the international consumer"
+  },
+  {
+    "unitcode": "MKW1120",
+    "unitname": "Marketing theory and practice"
+  },
+  {
+    "unitcode": "MKW2402",
+    "unitname": "Consumer behaviour"
+  },
+  {
+    "unitcode": "MKW2420",
+    "unitname": "Marketing research methods"
+  },
+  {
+    "unitcode": "MKW2431",
+    "unitname": "Business marketing"
+  },
+  {
+    "unitcode": "MKW2460",
+    "unitname": "Integrated marketing communication"
+  },
+  {
+    "unitcode": "MKW2500",
+    "unitname": "Retail marketing"
+  },
+  {
+    "unitcode": "MKW3300",
+    "unitname": "Introduction to social commerce"
+  },
+  {
+    "unitcode": "MKW3301",
+    "unitname": "Services marketing"
+  },
+  {
+    "unitcode": "MKW3440",
+    "unitname": "Marketing strategy"
+  },
+  {
+    "unitcode": "MKW3444",
+    "unitname": "International marketing"
+  },
+  {
+    "unitcode": "MKW3610",
+    "unitname": "Marketing strategy and implementation"
+  },
+  {
+    "unitcode": "MKX2531",
+    "unitname": "Not for profit marketing"
+  },
+  {
+    "unitcode": "MKX3200",
+    "unitname": "Sport marketing and sponsorship"
+  },
+  {
+    "unitcode": "MKX3481",
+    "unitname": "Marketing channels"
+  },
+  {
+    "unitcode": "MKX3521",
+    "unitname": "Global study programs in marketing"
+  },
+  {
+    "unitcode": "MKX3631",
+    "unitname": "Marketing internship"
+  },
+  {
+    "unitcode": "MKX4050",
+    "unitname": "Marketing theory"
+  },
+  {
+    "unitcode": "MKX4060",
+    "unitname": "Marketing research practice"
+  },
+  {
+    "unitcode": "MKX4070",
+    "unitname": "Qualitative research methods"
+  },
+  {
+    "unitcode": "MKX4080",
+    "unitname": "Advanced business research methods"
+  },
+  {
+    "unitcode": "MKX4461",
+    "unitname": "Contemporary issues in marketing"
+  },
+  {
+    "unitcode": "MKX4900",
+    "unitname": "Honours research thesis"
+  },
+  {
+    "unitcode": "MKX5123",
+    "unitname": "Entrepreneurial innovation"
+  },
+  {
+    "unitcode": "MKX5521",
+    "unitname": "Global study programs in marketing"
+  },
+  {
+    "unitcode": "MKX5931",
+    "unitname": "International dimensions of electronic business"
+  },
+  {
+    "unitcode": "MKZ5955",
+    "unitname": "Marketing and the international consumer"
+  },
+  {
+    "unitcode": "OPM4000",
+    "unitname": "Principles of managing projects"
+  },
+  {
+    "unitcode": "OPM4001",
+    "unitname": "Managing the project context"
+  },
+  {
+    "unitcode": "OPM4002",
+    "unitname": "Techniques for managing projects"
+  },
+  {
+    "unitcode": "OPM4003",
+    "unitname": "Delivering projects"
+  },
+  {
+    "unitcode": "OPM5000",
+    "unitname": "Organising the project function"
+  },
+  {
+    "unitcode": "OPM5001",
+    "unitname": "Project as a social system"
+  },
+  {
+    "unitcode": "OPM5002",
+    "unitname": "Innovation in the project context"
+  },
+  {
+    "unitcode": "OPM5003",
+    "unitname": "Managing project knowledge"
+  }
+]
