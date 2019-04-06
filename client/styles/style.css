@@ -18,6 +18,10 @@ main {
 }
 .brand-logo {
     margin-left: 200px;
+    width: 320px;
+    height: 100px;
+    object-fit: contain;
+    vertical-align: middle;
 }
 
 .title{
@@ -38,3 +42,21 @@ main {
 .header-container{
     background-color: white;
 }
+
+.text-logo {
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+.logo-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+  .transparent {
+      height: 100px;
+  }
