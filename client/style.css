@@ -2,8 +2,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url("assets/backg.jpg");
-    background-color: white;
+    background-color: rgb(204, 204, 204);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center;  
@@ -43,5 +42,5 @@ main {
 }
 
 .header-container{
-    background-color: black;
+    background-color: white;
 }

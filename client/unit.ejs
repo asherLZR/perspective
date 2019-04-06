@@ -33,11 +33,22 @@
         </header>
         <main>
             <div class="container" id="unit">
-                <h4 id="subject-header"><%= subject %></h4>
+                <h4 id="subject-header" class="center"><%= subject %></h4>
                 <div>
-                        <ul class="collection" v-for="(item, index) in units" :key="index">
-                            <unit-card :title=index :subject=item></unit-card>
-                        </ul>
+                    <ul class="collection" v-for="item in units.slice(0,9)" :key="index">
+                        <unit-card :title=item.unitcode :subject=item.unitname></unit-card>
+                    </ul>
+                </div>
+                <div class="center header-container">
+                    <ul class="pagination">
+                        <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+                        <li class="active"><a href="#!">1</a></li>
+                        <li class="waves-effect"><a href="#!">2</a></li>
+                        <li class="waves-effect"><a href="#!">3</a></li>
+                        <li class="waves-effect"><a href="#!">4</a></li>
+                        <li class="waves-effect"><a href="#!">5</a></li>
+                        <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+                    </ul>
                 </div>
             </div>
         </main>
