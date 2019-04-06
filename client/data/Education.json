@@ -1,1 +1,1594 @@
-{"EDF1010": "Learning in a university context", "EDF1011": "Knowledge and context", "EDF1012": "Mathematics for tertiary study", "EDF1013": "Academic writing", "EDF1028": "Information and communication technologies across the curriculum", "EDF1029": "Learners with special needs in the primary classroom", "EDF1030": "English and literacy learning", "EDF1031": "Creative learning in childhood through music and the arts", "EDF1032": "Thinking mathematically from an early age", "EDF1033": "Education for environment and sustainability", "EDF1038": "Introduction to the early childhood education field", "EDF1039": "Inclusivity and partnerships in early childhood education", "EDF1051": "Early years professional experience 1A", "EDF1052": "Early years professional experience 1B", "EDF1053": "Primary professional experience 1A", "EDF1054": "Primary professional experience 1B", "EDF1055": "Secondary professional experience 1A", "EDF1056": "Secondary professional experience 1B", "EDF1071": "Introduction to health and physical education", "EDF1072": "Contemporary issues in health and physical education", "EDF1101": "Fieldwork experience 1A", "EDF1102": "Fieldwork experience 1B", "EDF1103": "Fieldwork experience in outdoor education and environmental studies 1A", "EDF1104": "Fieldwork experience in outdoor education and environmental studies 1B", "EDF1151": "Fundamentals of the English language", "EDF1152": "Reading and writing the world", "EDF1161": "Doing and learning mathematics", "EDF1162": "Subject knowledge for teaching: Number and algebra", "EDF1171": "Sociocultural foundations of health and physical education", "EDF1172": "Biophysical and behavioural foundations of health and physical education", "EDF1174": "Foundations of outdoor education and environmental studies", "EDF1175": "Ways of knowing outdoor environments", "EDF1205": "English education 1", "EDF1206": "Mathematics education 1", "EDF1303": "Understanding learning and learners", "EDF1304": "Understanding teaching for learning", "EDF1551": "Foundation to inclusive education", "EDF1552": "Using assessment to respond to diversity across the school years", "EDF2005": "Professional responsibilities, practice and relationships", "EDF2006": "Education priorities", "EDF2007": "Adolescent development and learning", "EDF2008": "Becoming a specialist teacher", "EDF2020": "English and literacies 1", "EDF2021": "Mathematics and numeracy 1", "EDF2028": "Health, wellbeing and social learning in primary contexts", "EDF2029": "Active citizenship and community connections: Local and global", "EDF2030": "Contemporary child development theories and practices", "EDF2031": "Indigenous perspectives on teaching and learning", "EDF2032": "Learning through play pedagogies", "EDF2033": "Learning with children, their families and communities", "EDF2034": "Learning about patterns, shapes and numbers through play", "EDF2035": "Health and physical wellbeing in the young child", "EDF2038": "Curriculum, assessment and documentation in education", "EDF2039": "Children and childhood across time: Policies and practices", "EDF2050": "Early years professional experience 2C", "EDF2051": "Early years professional experience 2A", "EDF2052": "Early years professional experience 2B", "EDF2053": "Primary professional experience 2A", "EDF2054": "Primary professional experience 2B", "EDF2055": "Secondary professional experience 2A", "EDF2056": "Secondary professional experience 2B", "EDF2071": "Interdisciplinary approaches to health and physical education", "EDF2072": "Social and environmental influences on health and physical education", "EDF2101": "Professional experience 2A", "EDF2102": "Professional experience 2B", "EDF2103": "Fieldwork experience in outdoor education and environmental studies 2", "EDF2151": "New literacies", "EDF2152": "Diverse literacies", "EDF2161": "Numeracy and mathematics for learning and life", "EDF2162": "Subject knowledge for teaching: Measurement and geometry", "EDF2171": "Motor control and skill acquisition", "EDF2172": "Applied movement contexts in health and physical education 1", "EDF2173": "Perspectives on health", "EDF2174": "Outdoor education, learners and contexts", "EDF2175": "Human interactions and relationships in outdoor education", "EDF2210": "Fostering positive child and adolescent behaviour and development", "EDF2211": "Classroom practice", "EDF2214": "Science education", "EDF2215": "Mathematics education 2", "EDF2551": "Understanding behaviour in classrooms and schools", "EDF2552": "Learning and teaching for students with diverse needs in various education settings", "EDF3007": "Developing multiple literacies in education", "EDF3009": "Schooling, education and equity: Local and global perspectives", "EDF3010": "Curriculum development and innovative practice", "EDF3021": "Mathematics and numeracy 2", "EDF3023": "Advanced pedagogy in the primary years A", "EDF3024": "Advanced pedagogy in the primary years B", "EDF3025": "Studies of science, environment and sustainability", "EDF3029": "Play in lifelong learning", "EDF3030": "Diversity in child development", "EDF3031": "Local and global perspectives in education policy", "EDF3032": "Children's literature, storytelling and the arts", "EDF3033": "Change and transition in children's education", "EDF3034": "Children's literacy development", "EDF3035": "Investigating our world: Science, technology and the environment", "EDF3036": "Professional studies", "EDF3037": "Contemporary theories of learning development", "EDF3038": "Professionalism, ethics and interdisciplinary work in education", "EDF3039": "Leadership and management in education contexts", "EDF3050": "Early years professional experience 3A", "EDF3051": "Early years professional experience 3A", "EDF3052": "Early years professional experience 3B", "EDF3053": "Primary professional experience 3A", "EDF3054": "Primary professional experience 3B", "EDF3055": "Secondary professional experience 3A", "EDF3056": "Secondary professional experience 3B", "EDF3057": "Secondary professional experience 3C", "EDF3058": "Early years professional experience 3C", "EDF3071": "Community development and partnerships", "EDF3072": "Leadership, policy and pedagogies in health and physical education", "EDF3073": "Health, sustainability and wellbeing", "EDF3101": "Professional experience 3A", "EDF3102": "Professional experience 3B", "EDF3103": "Fieldwork experience in outdoor education and environmental studies 3", "EDF3151": "Literacy theory, policy and practice", "EDF3152": "Leading English and literacy", "EDF3161": "Subject knowledge for teaching: Statistics and probability", "EDF3162": "Leading mathematics and numeracy", "EDF3171": "Applied movement contexts in health and physical education 2", "EDF3172": "Inclusion and diversity in movement contexts", "EDF3173": "Food, health and wellbeing", "EDF3174": "Experiencing outdoor environments", "EDF3175": "Outdoor environments, education and sustainability", "EDF3181": "Art, community and environment", "EDF3210": "Education policy and practice", "EDF3211": "Inclusive education: Teaching diverse learners", "EDF3217": "Digital technologies: Teaching, learning and the curriculum", "EDF3218": "Curriculum, assessment and evaluation", "EDF3219": "English education 2", "EDF3551": "Curriculum in inclusive education", "EDF3552": "Teaching and learning of students needing increased support", "EDF4004": "Curriculum, assessment and education policy", "EDF4006": "Transition and professional engagement", "EDF4020": "English and literacies 2", "EDF4022": "Humanities and social education in the primary years", "EDF4023": "Science and technology education in the primary years", "EDF4024": "Health and physical education for wellbeing in the primary curriculum", "EDF4026": "Arts education in the primary years", "EDF4027": "Science education in the primary years", "EDF4028": "Understanding place, space and education", "EDF4029": "Play in lifelong learning", "EDF4031": "Sociology of early childhood", "EDF4032": "Contemporary theories of learning development", "EDF4033": "Innovation in curriculum and pedagogy in schools", "EDF4034": "Educating the young mathematician", "EDF4035": "Early childhood learning through new media and technologies", "EDF4036": "Innovation in curriculum and pedagogy in schools", "EDF4037": "Thinking mathematically in primary education", "EDF4040": "Curiosity and powerful learning and teaching", "EDF4041": "Professional experience 4A", "EDF4042": "Professional experience 4B", "EDF4050": "Early years professional experience 4C", "EDF4051": "Early years professional experience 4A", "EDF4052": "Early years professional experience 4B", "EDF4053": "Primary professional experience 4A", "EDF4054": "Primary professional experience 4B", "EDF4055": "Secondary professional experience 4A", "EDF4056": "Secondary professional experience 4B", "EDF4059": "Primary professional experience 4C", "EDF4060": "Primary professional experience 4D", "EDF4100": "Researching teaching and learning", "EDF4101": "Research project in education", "EDF4107": "Researching teaching and learning", "EDF4108": "Research project in education", "EDF4120": "Learning at the heart of teaching", "EDF4121": "Teaching: The power to change", "EDF4122": "Teaching partnerships: Working with families and communities", "EDF4123": "Literacy across the years", "EDF4171": "Advanced sport and exercise science", "EDF4205": "Initiatives in health education", "EDF4251": "Creative arts education", "EDF4252": "Integrated approaches to science learning and teaching", "EDF4253": "Humanities and social sciences education in the primary and secondary years", "EDF4254": "Developing literacy and numeracy across the curriculum", "EDF4260": "Curriculum, assessment and evaluation", "EDF4266": "English education 3", "EDF4267": "Mathematics education 3", "EDF4268": "Health and physical education", "EDF4269": "Secondary pedagogy B", "EDF4511": "English as an additional language (EAL) in content areas", "EDF4512": "Gifted education", "EDF4530": "Lifespan development and counsellor identity", "EDF4531": "Counselling settings and populations", "EDF4532": "Introduction to mental health issues", "EDF4533": "Counselling children and adolescents", "EDF4536": "Counselling practice and theory", "EDF4537": "Human growth and lifespan development", "EDF4538": "Mental health issues assessment: Grief, trauma and substance abuse", "EDF4539": "Counselling in a multicultural context", "EDF4551": "Collaborative principles, partnerships and procedures", "EDF4599": "Positive psychology in professional practice", "EDF4600": "Developmental psychology and wellbeing", "EDF4601": "Ethics and professional issues", "EDF4602": "Psychological assessment", "EDF4603": "Behaviour change interventions for practitioners", "EDF4604": "Research project", "EDF4605": "Introduction to counselling psychology", "EDF4610": "Interacting with research in education contexts", "EDF4611": "Investigating education issues in global contexts", "EDF4803": "Senior secondary physical education", "EDF4804": "Senior secondary health education", "EDF5016": "Inclusive teaching", "EDF5017": "Numeracy for learners and teachers", "EDF5018": "Curriculum, assessment and reporting", "EDF5019": "Teacher as professional leader", "EDF5020": "Early years numeracy and critical thinking", "EDF5021": "Lenses on child development", "EDF5022": "Science, technology and sustainability in early years", "EDF5023": "Creative development for children", "EDF5024": "Play and pedagogy", "EDF5025": "Early childhood policy transformations", "EDF5026": "Early years wellbeing and workplace safety", "EDF5030": "Science education in the primary years", "EDF5031": "Literacy and English education in the primary years", "EDF5032": "Numeracy and mathematics education in the primary years", "EDF5033": "Humanities and social sciences education in the primary years", "EDF5034": "Arts and design education in the primary years", "EDF5035": "Health and physical education in the primary years", "EDF5036": "Arts, design and health education in the primary years", "EDF5040": "Navigating youth transitions: Learning, work, and identity", "EDF5041": "Engaging adolescent learners", "EDF5121": "Accounting education in the secondary years A", "EDF5122": "Accounting education in the secondary years B", "EDF5123": "Biology education in the secondary years A", "EDF5124": "Biology education in the secondary years B", "EDF5125": "Business management education in the secondary years A", "EDF5126": "Business management education in the secondary years B", "EDF5127": "Chemistry education in the secondary years A", "EDF5128": "Chemistry education in the secondary years B", "EDF5129": "Drama education in the secondary years A", "EDF5130": "Drama education in the secondary years B", "EDF5131": "Economics education in the secondary years A", "EDF5132": "Economics education in the secondary years B", "EDF5133": "English as an additional language (EAL) education in the secondary years A", "EDF5134": "English as an additional language (EAL) education in the secondary years B", "EDF5135": "English education in the secondary years A", "EDF5136": "English education in the secondary years B", "EDF5137": "General science education in the secondary years A", "EDF5138": "General science education in the secondary years B", "EDF5139": "Geography education in the secondary years A", "EDF5140": "Geography education in the secondary years B", "EDF5141": "Health education in the secondary years A", "EDF5142": "Health education in the secondary years B", "EDF5143": "History education in the secondary years A", "EDF5144": "History education in the secondary years B", "EDF5145": "Digital technologies in the secondary years A", "EDF5146": "Digital technologies in the secondary years B", "EDF5151": "Honours thesis part 1", "EDF5152": "Honours thesis part 2", "EDF5153": "Honours thesis extension 1", "EDF5154": "Honours thesis extension 2", "EDF5155": "Languages education in the secondary years A", "EDF5156": "Languages education in the secondary years B", "EDF5157": "Languages education A", "EDF5158": "Languages education B", "EDF5159": "Legal studies education in the secondary years A", "EDF5160": "Legal studies education in the secondary years B", "EDF5161": "Mathematics education in the secondary years A", "EDF5162": "Mathematics education in the secondary years B", "EDF5163": "Media education in the secondary years A", "EDF5164": "Media education in the secondary years B", "EDF5165": "Music education in the secondary years 1A", "EDF5166": "Music education in the secondary years 1B", "EDF5167": "Music education in the secondary years 2A", "EDF5168": "Music education in the secondary years 2B", "EDF5169": "Outdoor education in the secondary years A", "EDF5170": "Outdoor education in the secondary years B", "EDF5171": "Physical education in the secondary years A", "EDF5172": "Physical education in the secondary years B", "EDF5173": "Physics education in the secondary years A", "EDF5174": "Physics education in the secondary years B", "EDF5175": "Psychology education in the secondary years A", "EDF5176": "Psychology education in the secondary years B", "EDF5177": "Social education in the secondary years A", "EDF5178": "Social education in the secondary years B", "EDF5179": "Visual art and design education in the secondary years 1A", "EDF5180": "Visual art and design education in the secondary years 1B", "EDF5181": "Visual art and design education in the secondary years 2A", "EDF5182": "Visual art and design education in the secondary years 2B", "EDF5183": "Teaching specialism in secondary education A", "EDF5184": "Teaching specialism in secondary education B", "EDF5301": "Introduction to STEM education", "EDF5302": "Content, pedagogy and pedagogical content knowledge in STEM education", "EDF5303": "Digital foundations of STEM education", "EDF5304": "Contemporary practices of STEM education", "EDF5307": "Leading schools 1", "EDF5308": "Leading schools 2", "EDF5309": "Education leadership project", "EDF5513": "Evidence-based counselling in practice", "EDF5514": "Applied psychological assessment and psychopathology", "EDF5515": "Applied ethics and research practice", "EDF5516": "Clinical and therapeutic interventions", "EDF5517": "Professional experience in psychology", "EDF5530": "Counselling skills for individuals, couples and groups", "EDF5531": "Cognitive behaviour therapies", "EDF5532": "Ethics for counsellors", "EDF5533": "Informing practice through research", "EDF5534": "Supervised professional counselling practice", "EDF5540": "Children and adolescents counselling", "EDF5541": "Personnel and career development counselling", "EDF5542": "Counselling skills: Individuals and couples", "EDF5543": "Ethics and professional issues in counselling and psychology", "EDF5544": "Group counselling skills and psychotherapy", "EDF5545": "Cognitive behaviour therapy", "EDF5546": "Advanced personnel and career development counselling", "EDF5547": "Counselling research design, statistics and program evaluation", "EDF5550": "Advanced research project in counselling", "EDF5551": "Psychological assessment and measurement", "EDF5552": "Counselling practicum", "EDF5553": "Research project in counselling", "EDF5554": "Counselling internship", "EDF5561": "Clinical case formulation", "EDF5562": "Ethics for professional practice", "EDF5563": "Cognitive assessment", "EDF5564": "Research applications for practitioners", "EDF5565": "Psychopathology and personality", "EDF5566": "Evidence-based interventions: Cognitive behaviour therapies", "EDF5567": "Contemporary psychological practice", "EDF5568": "Professional experience in psychology", "EDF5613": "Research approaches in education", "EDF5614": "Research project in education", "EDF5620": "Leading education and work", "EDF5621": "Challenging curriculum, pedagogy and assessment", "EDF5622": "Developing learners and learning", "EDF5623": "Deepening education and sustainability", "EDF5632": "Understanding inclusion in learning communities", "EDF5635": "Leading capable organisations", "EDF5636": "Leading organisational decision making", "EDF5637": "Inner leadership: Understanding self and others", "EDF5640": "Language, culture and curriculum", "EDF5641": "Pedagogy and assessment in TESOL", "EDF5642": "Bilingualism and content-based programs", "EDF5645": "Educating the gifted", "EDF5646": "Talent development and diversity", "EDF5647": "Technology and education key issues and debates", "EDF5648": "Instructional design: Harnessing digital technologies for learning", "EDF5649": "Language and literacies across educational contexts", "EDF5650": "Literacy leadership in schools, workplaces and communities", "EDF5651": "Developing expertise in mathematics education", "EDF5652": "Understanding research and leadership in science education", "EDF5653": "Research perspectives in music education", "EDF5654": "Teaching music: Theory and practice", "EDF5655": "Expertise in teaching", "EDF5656": "Practising inclusion", "EDF5657": "Indigenous perspectives in professional practice", "EDF5658": "Young people: Culture, communities and education", "EDF5659": "Building partnerships with families and communities", "EDF5661": "Designing learning for adults", "EDF5662": "Leading local, rural and regional learning and participation", "EDF5663": "Education and globalisation in the Asian century", "EDF5664": "Learning through participation", "EDF5665": "Environmental education, design and learning for sustainability", "EDF5666": "Education, development and ecological sustainability", "EDF5667": "Positive behaviour support", "EDF5670": "Leadership studies", "EDF5671": "Leadership challenge project", "EDF5672": "Leadership in educational technology practices", "EDF5673": "Leading mathematics and numeracy education", "EDF5674": "Engaging with practices of contemporary science", "EDF5678": "Leading learning communities", "EDF5680": "Behaviour analysis: Concepts and foundations", "EDF5681": "Behaviour analysis: Implementation and experimental methods", "EDF5682": "Applications of behaviour analysis in diverse contexts", "EDF5691": "Professional project", "EDF5692": "Professional practice in special and inclusive education", "EDF5693": "Using and evaluating research evidence", "EDF5694": "Taking a stand in education debates", "EDF5695": "Self-study as professional inquiry", "EDF5696": "Professional practice for teachers of TESOL", "EDF5699": "Extended teaching practice", "EDF5720": "Developmental psychology and counselling and research", "EDF5721": "Clinical interventions in educational and developmental psychology", "EDF5722": "Cognitive, personality and educational assessment", "EDF5723": "Exceptionality: Assessment and intervention", "EDF5731": "Clinical placement in psychology 1", "EDF5732": "Clinical placement in psychology 2", "EDF5733": "Clinical placement in psychology 3", "EDF5741": "Psychology thesis part 1", "EDF5742": "Psychology thesis part 2", "EDF5743": "Psychology thesis extension", "EDF5810": "VCAL and VET at school", "EDF5814": "Creative research approaches", "EDF5904": "Children, families, communities", "EDF5905": "Early years literacy and numeracy", "EDF5925": "Early years professional experience 1", "EDF5926": "Early years professional experience 2", "EDF5927": "Early years professional experience 3", "EDF5928": "Early years professional experience 4", "EDF5931": "Primary professional experience 1", "EDF5932": "Primary professional experience 2", "EDF5933": "Primary professional experience 3", "EDF5934": "Primary professional experience 4", "EDF5935": "Primary professional experience 5", "EDF5936": "Primary professional experience 6", "EDF5941": "Secondary professional experience 1", "EDF5942": "Secondary professional experience 2", "EDF5943": "Secondary professional experience 3", "EDF5944": "Secondary professional experience 4"}
+[
+  {
+    "unitcode": "EDF1010",
+    "unitname": "Learning in a university context"
+  },
+  {
+    "unitcode": "EDF1011",
+    "unitname": "Knowledge and context"
+  },
+  {
+    "unitcode": "EDF1012",
+    "unitname": "Mathematics for tertiary study"
+  },
+  {
+    "unitcode": "EDF1013",
+    "unitname": "Academic writing"
+  },
+  {
+    "unitcode": "EDF1028",
+    "unitname": "Information and communication technologies across the curriculum"
+  },
+  {
+    "unitcode": "EDF1029",
+    "unitname": "Learners with special needs in the primary classroom"
+  },
+  {
+    "unitcode": "EDF1030",
+    "unitname": "English and literacy learning"
+  },
+  {
+    "unitcode": "EDF1031",
+    "unitname": "Creative learning in childhood through music and the arts"
+  },
+  {
+    "unitcode": "EDF1032",
+    "unitname": "Thinking mathematically from an early age"
+  },
+  {
+    "unitcode": "EDF1033",
+    "unitname": "Education for environment and sustainability"
+  },
+  {
+    "unitcode": "EDF1038",
+    "unitname": "Introduction to the early childhood education field"
+  },
+  {
+    "unitcode": "EDF1039",
+    "unitname": "Inclusivity and partnerships in early childhood education"
+  },
+  {
+    "unitcode": "EDF1051",
+    "unitname": "Early years professional experience 1A"
+  },
+  {
+    "unitcode": "EDF1052",
+    "unitname": "Early years professional experience 1B"
+  },
+  {
+    "unitcode": "EDF1053",
+    "unitname": "Primary professional experience 1A"
+  },
+  {
+    "unitcode": "EDF1054",
+    "unitname": "Primary professional experience 1B"
+  },
+  {
+    "unitcode": "EDF1055",
+    "unitname": "Secondary professional experience 1A"
+  },
+  {
+    "unitcode": "EDF1056",
+    "unitname": "Secondary professional experience 1B"
+  },
+  {
+    "unitcode": "EDF1071",
+    "unitname": "Introduction to health and physical education"
+  },
+  {
+    "unitcode": "EDF1072",
+    "unitname": "Contemporary issues in health and physical education"
+  },
+  {
+    "unitcode": "EDF1101",
+    "unitname": "Fieldwork experience 1A"
+  },
+  {
+    "unitcode": "EDF1102",
+    "unitname": "Fieldwork experience 1B"
+  },
+  {
+    "unitcode": "EDF1103",
+    "unitname": "Fieldwork experience in outdoor education and environmental studies 1A"
+  },
+  {
+    "unitcode": "EDF1104",
+    "unitname": "Fieldwork experience in outdoor education and environmental studies 1B"
+  },
+  {
+    "unitcode": "EDF1151",
+    "unitname": "Fundamentals of the English language"
+  },
+  {
+    "unitcode": "EDF1152",
+    "unitname": "Reading and writing the world"
+  },
+  {
+    "unitcode": "EDF1161",
+    "unitname": "Doing and learning mathematics"
+  },
+  {
+    "unitcode": "EDF1162",
+    "unitname": "Subject knowledge for teaching: Number and algebra"
+  },
+  {
+    "unitcode": "EDF1171",
+    "unitname": "Sociocultural foundations of health and physical education"
+  },
+  {
+    "unitcode": "EDF1172",
+    "unitname": "Biophysical and behavioural foundations of health and physical education"
+  },
+  {
+    "unitcode": "EDF1174",
+    "unitname": "Foundations of outdoor education and environmental studies"
+  },
+  {
+    "unitcode": "EDF1175",
+    "unitname": "Ways of knowing outdoor environments"
+  },
+  {
+    "unitcode": "EDF1205",
+    "unitname": "English education 1"
+  },
+  {
+    "unitcode": "EDF1206",
+    "unitname": "Mathematics education 1"
+  },
+  {
+    "unitcode": "EDF1303",
+    "unitname": "Understanding learning and learners"
+  },
+  {
+    "unitcode": "EDF1304",
+    "unitname": "Understanding teaching for learning"
+  },
+  {
+    "unitcode": "EDF1551",
+    "unitname": "Foundation to inclusive education"
+  },
+  {
+    "unitcode": "EDF1552",
+    "unitname": "Using assessment to respond to diversity across the school years"
+  },
+  {
+    "unitcode": "EDF2005",
+    "unitname": "Professional responsibilities, practice and relationships"
+  },
+  {
+    "unitcode": "EDF2006",
+    "unitname": "Education priorities"
+  },
+  {
+    "unitcode": "EDF2007",
+    "unitname": "Adolescent development and learning"
+  },
+  {
+    "unitcode": "EDF2008",
+    "unitname": "Becoming a specialist teacher"
+  },
+  {
+    "unitcode": "EDF2020",
+    "unitname": "English and literacies 1"
+  },
+  {
+    "unitcode": "EDF2021",
+    "unitname": "Mathematics and numeracy 1"
+  },
+  {
+    "unitcode": "EDF2028",
+    "unitname": "Health, wellbeing and social learning in primary contexts"
+  },
+  {
+    "unitcode": "EDF2029",
+    "unitname": "Active citizenship and community connections: Local and global"
+  },
+  {
+    "unitcode": "EDF2030",
+    "unitname": "Contemporary child development theories and practices"
+  },
+  {
+    "unitcode": "EDF2031",
+    "unitname": "Indigenous perspectives on teaching and learning"
+  },
+  {
+    "unitcode": "EDF2032",
+    "unitname": "Learning through play pedagogies"
+  },
+  {
+    "unitcode": "EDF2033",
+    "unitname": "Learning with children, their families and communities"
+  },
+  {
+    "unitcode": "EDF2034",
+    "unitname": "Learning about patterns, shapes and numbers through play"
+  },
+  {
+    "unitcode": "EDF2035",
+    "unitname": "Health and physical wellbeing in the young child"
+  },
+  {
+    "unitcode": "EDF2038",
+    "unitname": "Curriculum, assessment and documentation in education"
+  },
+  {
+    "unitcode": "EDF2039",
+    "unitname": "Children and childhood across time: Policies and practices"
+  },
+  {
+    "unitcode": "EDF2050",
+    "unitname": "Early years professional experience 2C"
+  },
+  {
+    "unitcode": "EDF2051",
+    "unitname": "Early years professional experience 2A"
+  },
+  {
+    "unitcode": "EDF2052",
+    "unitname": "Early years professional experience 2B"
+  },
+  {
+    "unitcode": "EDF2053",
+    "unitname": "Primary professional experience 2A"
+  },
+  {
+    "unitcode": "EDF2054",
+    "unitname": "Primary professional experience 2B"
+  },
+  {
+    "unitcode": "EDF2055",
+    "unitname": "Secondary professional experience 2A"
+  },
+  {
+    "unitcode": "EDF2056",
+    "unitname": "Secondary professional experience 2B"
+  },
+  {
+    "unitcode": "EDF2071",
+    "unitname": "Interdisciplinary approaches to health and physical education"
+  },
+  {
+    "unitcode": "EDF2072",
+    "unitname": "Social and environmental influences on health and physical education"
+  },
+  {
+    "unitcode": "EDF2101",
+    "unitname": "Professional experience 2A"
+  },
+  {
+    "unitcode": "EDF2102",
+    "unitname": "Professional experience 2B"
+  },
+  {
+    "unitcode": "EDF2103",
+    "unitname": "Fieldwork experience in outdoor education and environmental studies 2"
+  },
+  {
+    "unitcode": "EDF2151",
+    "unitname": "New literacies"
+  },
+  {
+    "unitcode": "EDF2152",
+    "unitname": "Diverse literacies"
+  },
+  {
+    "unitcode": "EDF2161",
+    "unitname": "Numeracy and mathematics for learning and life"
+  },
+  {
+    "unitcode": "EDF2162",
+    "unitname": "Subject knowledge for teaching: Measurement and geometry"
+  },
+  {
+    "unitcode": "EDF2171",
+    "unitname": "Motor control and skill acquisition"
+  },
+  {
+    "unitcode": "EDF2172",
+    "unitname": "Applied movement contexts in health and physical education 1"
+  },
+  {
+    "unitcode": "EDF2173",
+    "unitname": "Perspectives on health"
+  },
+  {
+    "unitcode": "EDF2174",
+    "unitname": "Outdoor education, learners and contexts"
+  },
+  {
+    "unitcode": "EDF2175",
+    "unitname": "Human interactions and relationships in outdoor education"
+  },
+  {
+    "unitcode": "EDF2210",
+    "unitname": "Fostering positive child and adolescent behaviour and development"
+  },
+  {
+    "unitcode": "EDF2211",
+    "unitname": "Classroom practice"
+  },
+  {
+    "unitcode": "EDF2214",
+    "unitname": "Science education"
+  },
+  {
+    "unitcode": "EDF2215",
+    "unitname": "Mathematics education 2"
+  },
+  {
+    "unitcode": "EDF2551",
+    "unitname": "Understanding behaviour in classrooms and schools"
+  },
+  {
+    "unitcode": "EDF2552",
+    "unitname": "Learning and teaching for students with diverse needs in various education settings"
+  },
+  {
+    "unitcode": "EDF3007",
+    "unitname": "Developing multiple literacies in education"
+  },
+  {
+    "unitcode": "EDF3009",
+    "unitname": "Schooling, education and equity: Local and global perspectives"
+  },
+  {
+    "unitcode": "EDF3010",
+    "unitname": "Curriculum development and innovative practice"
+  },
+  {
+    "unitcode": "EDF3021",
+    "unitname": "Mathematics and numeracy 2"
+  },
+  {
+    "unitcode": "EDF3023",
+    "unitname": "Advanced pedagogy in the primary years A"
+  },
+  {
+    "unitcode": "EDF3024",
+    "unitname": "Advanced pedagogy in the primary years B"
+  },
+  {
+    "unitcode": "EDF3025",
+    "unitname": "Studies of science, environment and sustainability"
+  },
+  {
+    "unitcode": "EDF3029",
+    "unitname": "Play in lifelong learning"
+  },
+  {
+    "unitcode": "EDF3030",
+    "unitname": "Diversity in child development"
+  },
+  {
+    "unitcode": "EDF3031",
+    "unitname": "Local and global perspectives in education policy"
+  },
+  {
+    "unitcode": "EDF3032",
+    "unitname": "Children's literature, storytelling and the arts"
+  },
+  {
+    "unitcode": "EDF3033",
+    "unitname": "Change and transition in children's education"
+  },
+  {
+    "unitcode": "EDF3034",
+    "unitname": "Children's literacy development"
+  },
+  {
+    "unitcode": "EDF3035",
+    "unitname": "Investigating our world: Science, technology and the environment"
+  },
+  {
+    "unitcode": "EDF3036",
+    "unitname": "Professional studies"
+  },
+  {
+    "unitcode": "EDF3037",
+    "unitname": "Contemporary theories of learning development"
+  },
+  {
+    "unitcode": "EDF3038",
+    "unitname": "Professionalism, ethics and interdisciplinary work in education"
+  },
+  {
+    "unitcode": "EDF3039",
+    "unitname": "Leadership and management in education contexts"
+  },
+  {
+    "unitcode": "EDF3050",
+    "unitname": "Early years professional experience 3A"
+  },
+  {
+    "unitcode": "EDF3051",
+    "unitname": "Early years professional experience 3A"
+  },
+  {
+    "unitcode": "EDF3052",
+    "unitname": "Early years professional experience 3B"
+  },
+  {
+    "unitcode": "EDF3053",
+    "unitname": "Primary professional experience 3A"
+  },
+  {
+    "unitcode": "EDF3054",
+    "unitname": "Primary professional experience 3B"
+  },
+  {
+    "unitcode": "EDF3055",
+    "unitname": "Secondary professional experience 3A"
+  },
+  {
+    "unitcode": "EDF3056",
+    "unitname": "Secondary professional experience 3B"
+  },
+  {
+    "unitcode": "EDF3057",
+    "unitname": "Secondary professional experience 3C"
+  },
+  {
+    "unitcode": "EDF3058",
+    "unitname": "Early years professional experience 3C"
+  },
+  {
+    "unitcode": "EDF3071",
+    "unitname": "Community development and partnerships"
+  },
+  {
+    "unitcode": "EDF3072",
+    "unitname": "Leadership, policy and pedagogies in health and physical education"
+  },
+  {
+    "unitcode": "EDF3073",
+    "unitname": "Health, sustainability and wellbeing"
+  },
+  {
+    "unitcode": "EDF3101",
+    "unitname": "Professional experience 3A"
+  },
+  {
+    "unitcode": "EDF3102",
+    "unitname": "Professional experience 3B"
+  },
+  {
+    "unitcode": "EDF3103",
+    "unitname": "Fieldwork experience in outdoor education and environmental studies 3"
+  },
+  {
+    "unitcode": "EDF3151",
+    "unitname": "Literacy theory, policy and practice"
+  },
+  {
+    "unitcode": "EDF3152",
+    "unitname": "Leading English and literacy"
+  },
+  {
+    "unitcode": "EDF3161",
+    "unitname": "Subject knowledge for teaching: Statistics and probability"
+  },
+  {
+    "unitcode": "EDF3162",
+    "unitname": "Leading mathematics and numeracy"
+  },
+  {
+    "unitcode": "EDF3171",
+    "unitname": "Applied movement contexts in health and physical education 2"
+  },
+  {
+    "unitcode": "EDF3172",
+    "unitname": "Inclusion and diversity in movement contexts"
+  },
+  {
+    "unitcode": "EDF3173",
+    "unitname": "Food, health and wellbeing"
+  },
+  {
+    "unitcode": "EDF3174",
+    "unitname": "Experiencing outdoor environments"
+  },
+  {
+    "unitcode": "EDF3175",
+    "unitname": "Outdoor environments, education and sustainability"
+  },
+  {
+    "unitcode": "EDF3181",
+    "unitname": "Art, community and environment"
+  },
+  {
+    "unitcode": "EDF3210",
+    "unitname": "Education policy and practice"
+  },
+  {
+    "unitcode": "EDF3211",
+    "unitname": "Inclusive education: Teaching diverse learners"
+  },
+  {
+    "unitcode": "EDF3217",
+    "unitname": "Digital technologies: Teaching, learning and the curriculum"
+  },
+  {
+    "unitcode": "EDF3218",
+    "unitname": "Curriculum, assessment and evaluation"
+  },
+  {
+    "unitcode": "EDF3219",
+    "unitname": "English education 2"
+  },
+  {
+    "unitcode": "EDF3551",
+    "unitname": "Curriculum in inclusive education"
+  },
+  {
+    "unitcode": "EDF3552",
+    "unitname": "Teaching and learning of students needing increased support"
+  },
+  {
+    "unitcode": "EDF4004",
+    "unitname": "Curriculum, assessment and education policy"
+  },
+  {
+    "unitcode": "EDF4006",
+    "unitname": "Transition and professional engagement"
+  },
+  {
+    "unitcode": "EDF4020",
+    "unitname": "English and literacies 2"
+  },
+  {
+    "unitcode": "EDF4022",
+    "unitname": "Humanities and social education in the primary years"
+  },
+  {
+    "unitcode": "EDF4023",
+    "unitname": "Science and technology education in the primary years"
+  },
+  {
+    "unitcode": "EDF4024",
+    "unitname": "Health and physical education for wellbeing in the primary curriculum"
+  },
+  {
+    "unitcode": "EDF4026",
+    "unitname": "Arts education in the primary years"
+  },
+  {
+    "unitcode": "EDF4027",
+    "unitname": "Science education in the primary years"
+  },
+  {
+    "unitcode": "EDF4028",
+    "unitname": "Understanding place, space and education"
+  },
+  {
+    "unitcode": "EDF4029",
+    "unitname": "Play in lifelong learning"
+  },
+  {
+    "unitcode": "EDF4031",
+    "unitname": "Sociology of early childhood"
+  },
+  {
+    "unitcode": "EDF4032",
+    "unitname": "Contemporary theories of learning development"
+  },
+  {
+    "unitcode": "EDF4033",
+    "unitname": "Innovation in curriculum and pedagogy in schools"
+  },
+  {
+    "unitcode": "EDF4034",
+    "unitname": "Educating the young mathematician"
+  },
+  {
+    "unitcode": "EDF4035",
+    "unitname": "Early childhood learning through new media and technologies"
+  },
+  {
+    "unitcode": "EDF4036",
+    "unitname": "Innovation in curriculum and pedagogy in schools"
+  },
+  {
+    "unitcode": "EDF4037",
+    "unitname": "Thinking mathematically in primary education"
+  },
+  {
+    "unitcode": "EDF4040",
+    "unitname": "Curiosity and powerful learning and teaching"
+  },
+  {
+    "unitcode": "EDF4041",
+    "unitname": "Professional experience 4A"
+  },
+  {
+    "unitcode": "EDF4042",
+    "unitname": "Professional experience 4B"
+  },
+  {
+    "unitcode": "EDF4050",
+    "unitname": "Early years professional experience 4C"
+  },
+  {
+    "unitcode": "EDF4051",
+    "unitname": "Early years professional experience 4A"
+  },
+  {
+    "unitcode": "EDF4052",
+    "unitname": "Early years professional experience 4B"
+  },
+  {
+    "unitcode": "EDF4053",
+    "unitname": "Primary professional experience 4A"
+  },
+  {
+    "unitcode": "EDF4054",
+    "unitname": "Primary professional experience 4B"
+  },
+  {
+    "unitcode": "EDF4055",
+    "unitname": "Secondary professional experience 4A"
+  },
+  {
+    "unitcode": "EDF4056",
+    "unitname": "Secondary professional experience 4B"
+  },
+  {
+    "unitcode": "EDF4059",
+    "unitname": "Primary professional experience 4C"
+  },
+  {
+    "unitcode": "EDF4060",
+    "unitname": "Primary professional experience 4D"
+  },
+  {
+    "unitcode": "EDF4100",
+    "unitname": "Researching teaching and learning"
+  },
+  {
+    "unitcode": "EDF4101",
+    "unitname": "Research project in education"
+  },
+  {
+    "unitcode": "EDF4107",
+    "unitname": "Researching teaching and learning"
+  },
+  {
+    "unitcode": "EDF4108",
+    "unitname": "Research project in education"
+  },
+  {
+    "unitcode": "EDF4120",
+    "unitname": "Learning at the heart of teaching"
+  },
+  {
+    "unitcode": "EDF4121",
+    "unitname": "Teaching: The power to change"
+  },
+  {
+    "unitcode": "EDF4122",
+    "unitname": "Teaching partnerships: Working with families and communities"
+  },
+  {
+    "unitcode": "EDF4123",
+    "unitname": "Literacy across the years"
+  },
+  {
+    "unitcode": "EDF4171",
+    "unitname": "Advanced sport and exercise science"
+  },
+  {
+    "unitcode": "EDF4205",
+    "unitname": "Initiatives in health education"
+  },
+  {
+    "unitcode": "EDF4251",
+    "unitname": "Creative arts education"
+  },
+  {
+    "unitcode": "EDF4252",
+    "unitname": "Integrated approaches to science learning and teaching"
+  },
+  {
+    "unitcode": "EDF4253",
+    "unitname": "Humanities and social sciences education in the primary and secondary years"
+  },
+  {
+    "unitcode": "EDF4254",
+    "unitname": "Developing literacy and numeracy across the curriculum"
+  },
+  {
+    "unitcode": "EDF4260",
+    "unitname": "Curriculum, assessment and evaluation"
+  },
+  {
+    "unitcode": "EDF4266",
+    "unitname": "English education 3"
+  },
+  {
+    "unitcode": "EDF4267",
+    "unitname": "Mathematics education 3"
+  },
+  {
+    "unitcode": "EDF4268",
+    "unitname": "Health and physical education"
+  },
+  {
+    "unitcode": "EDF4269",
+    "unitname": "Secondary pedagogy B"
+  },
+  {
+    "unitcode": "EDF4511",
+    "unitname": "English as an additional language (EAL) in content areas"
+  },
+  {
+    "unitcode": "EDF4512",
+    "unitname": "Gifted education"
+  },
+  {
+    "unitcode": "EDF4530",
+    "unitname": "Lifespan development and counsellor identity"
+  },
+  {
+    "unitcode": "EDF4531",
+    "unitname": "Counselling settings and populations"
+  },
+  {
+    "unitcode": "EDF4532",
+    "unitname": "Introduction to mental health issues"
+  },
+  {
+    "unitcode": "EDF4533",
+    "unitname": "Counselling children and adolescents"
+  },
+  {
+    "unitcode": "EDF4536",
+    "unitname": "Counselling practice and theory"
+  },
+  {
+    "unitcode": "EDF4537",
+    "unitname": "Human growth and lifespan development"
+  },
+  {
+    "unitcode": "EDF4538",
+    "unitname": "Mental health issues assessment: Grief, trauma and substance abuse"
+  },
+  {
+    "unitcode": "EDF4539",
+    "unitname": "Counselling in a multicultural context"
+  },
+  {
+    "unitcode": "EDF4551",
+    "unitname": "Collaborative principles, partnerships and procedures"
+  },
+  {
+    "unitcode": "EDF4599",
+    "unitname": "Positive psychology in professional practice"
+  },
+  {
+    "unitcode": "EDF4600",
+    "unitname": "Developmental psychology and wellbeing"
+  },
+  {
+    "unitcode": "EDF4601",
+    "unitname": "Ethics and professional issues"
+  },
+  {
+    "unitcode": "EDF4602",
+    "unitname": "Psychological assessment"
+  },
+  {
+    "unitcode": "EDF4603",
+    "unitname": "Behaviour change interventions for practitioners"
+  },
+  {
+    "unitcode": "EDF4604",
+    "unitname": "Research project"
+  },
+  {
+    "unitcode": "EDF4605",
+    "unitname": "Introduction to counselling psychology"
+  },
+  {
+    "unitcode": "EDF4610",
+    "unitname": "Interacting with research in education contexts"
+  },
+  {
+    "unitcode": "EDF4611",
+    "unitname": "Investigating education issues in global contexts"
+  },
+  {
+    "unitcode": "EDF4803",
+    "unitname": "Senior secondary physical education"
+  },
+  {
+    "unitcode": "EDF4804",
+    "unitname": "Senior secondary health education"
+  },
+  {
+    "unitcode": "EDF5016",
+    "unitname": "Inclusive teaching"
+  },
+  {
+    "unitcode": "EDF5017",
+    "unitname": "Numeracy for learners and teachers"
+  },
+  {
+    "unitcode": "EDF5018",
+    "unitname": "Curriculum, assessment and reporting"
+  },
+  {
+    "unitcode": "EDF5019",
+    "unitname": "Teacher as professional leader"
+  },
+  {
+    "unitcode": "EDF5020",
+    "unitname": "Early years numeracy and critical thinking"
+  },
+  {
+    "unitcode": "EDF5021",
+    "unitname": "Lenses on child development"
+  },
+  {
+    "unitcode": "EDF5022",
+    "unitname": "Science, technology and sustainability in early years"
+  },
+  {
+    "unitcode": "EDF5023",
+    "unitname": "Creative development for children"
+  },
+  {
+    "unitcode": "EDF5024",
+    "unitname": "Play and pedagogy"
+  },
+  {
+    "unitcode": "EDF5025",
+    "unitname": "Early childhood policy transformations"
+  },
+  {
+    "unitcode": "EDF5026",
+    "unitname": "Early years wellbeing and workplace safety"
+  },
+  {
+    "unitcode": "EDF5030",
+    "unitname": "Science education in the primary years"
+  },
+  {
+    "unitcode": "EDF5031",
+    "unitname": "Literacy and English education in the primary years"
+  },
+  {
+    "unitcode": "EDF5032",
+    "unitname": "Numeracy and mathematics education in the primary years"
+  },
+  {
+    "unitcode": "EDF5033",
+    "unitname": "Humanities and social sciences education in the primary years"
+  },
+  {
+    "unitcode": "EDF5034",
+    "unitname": "Arts and design education in the primary years"
+  },
+  {
+    "unitcode": "EDF5035",
+    "unitname": "Health and physical education in the primary years"
+  },
+  {
+    "unitcode": "EDF5036",
+    "unitname": "Arts, design and health education in the primary years"
+  },
+  {
+    "unitcode": "EDF5040",
+    "unitname": "Navigating youth transitions: Learning, work, and identity"
+  },
+  {
+    "unitcode": "EDF5041",
+    "unitname": "Engaging adolescent learners"
+  },
+  {
+    "unitcode": "EDF5121",
+    "unitname": "Accounting education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5122",
+    "unitname": "Accounting education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5123",
+    "unitname": "Biology education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5124",
+    "unitname": "Biology education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5125",
+    "unitname": "Business management education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5126",
+    "unitname": "Business management education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5127",
+    "unitname": "Chemistry education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5128",
+    "unitname": "Chemistry education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5129",
+    "unitname": "Drama education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5130",
+    "unitname": "Drama education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5131",
+    "unitname": "Economics education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5132",
+    "unitname": "Economics education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5133",
+    "unitname": "English as an additional language (EAL) education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5134",
+    "unitname": "English as an additional language (EAL) education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5135",
+    "unitname": "English education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5136",
+    "unitname": "English education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5137",
+    "unitname": "General science education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5138",
+    "unitname": "General science education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5139",
+    "unitname": "Geography education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5140",
+    "unitname": "Geography education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5141",
+    "unitname": "Health education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5142",
+    "unitname": "Health education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5143",
+    "unitname": "History education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5144",
+    "unitname": "History education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5145",
+    "unitname": "Digital technologies in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5146",
+    "unitname": "Digital technologies in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5151",
+    "unitname": "Honours thesis part 1"
+  },
+  {
+    "unitcode": "EDF5152",
+    "unitname": "Honours thesis part 2"
+  },
+  {
+    "unitcode": "EDF5153",
+    "unitname": "Honours thesis extension 1"
+  },
+  {
+    "unitcode": "EDF5154",
+    "unitname": "Honours thesis extension 2"
+  },
+  {
+    "unitcode": "EDF5155",
+    "unitname": "Languages education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5156",
+    "unitname": "Languages education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5157",
+    "unitname": "Languages education A"
+  },
+  {
+    "unitcode": "EDF5158",
+    "unitname": "Languages education B"
+  },
+  {
+    "unitcode": "EDF5159",
+    "unitname": "Legal studies education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5160",
+    "unitname": "Legal studies education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5161",
+    "unitname": "Mathematics education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5162",
+    "unitname": "Mathematics education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5163",
+    "unitname": "Media education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5164",
+    "unitname": "Media education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5165",
+    "unitname": "Music education in the secondary years 1A"
+  },
+  {
+    "unitcode": "EDF5166",
+    "unitname": "Music education in the secondary years 1B"
+  },
+  {
+    "unitcode": "EDF5167",
+    "unitname": "Music education in the secondary years 2A"
+  },
+  {
+    "unitcode": "EDF5168",
+    "unitname": "Music education in the secondary years 2B"
+  },
+  {
+    "unitcode": "EDF5169",
+    "unitname": "Outdoor education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5170",
+    "unitname": "Outdoor education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5171",
+    "unitname": "Physical education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5172",
+    "unitname": "Physical education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5173",
+    "unitname": "Physics education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5174",
+    "unitname": "Physics education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5175",
+    "unitname": "Psychology education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5176",
+    "unitname": "Psychology education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5177",
+    "unitname": "Social education in the secondary years A"
+  },
+  {
+    "unitcode": "EDF5178",
+    "unitname": "Social education in the secondary years B"
+  },
+  {
+    "unitcode": "EDF5179",
+    "unitname": "Visual art and design education in the secondary years 1A"
+  },
+  {
+    "unitcode": "EDF5180",
+    "unitname": "Visual art and design education in the secondary years 1B"
+  },
+  {
+    "unitcode": "EDF5181",
+    "unitname": "Visual art and design education in the secondary years 2A"
+  },
+  {
+    "unitcode": "EDF5182",
+    "unitname": "Visual art and design education in the secondary years 2B"
+  },
+  {
+    "unitcode": "EDF5183",
+    "unitname": "Teaching specialism in secondary education A"
+  },
+  {
+    "unitcode": "EDF5184",
+    "unitname": "Teaching specialism in secondary education B"
+  },
+  {
+    "unitcode": "EDF5301",
+    "unitname": "Introduction to STEM education"
+  },
+  {
+    "unitcode": "EDF5302",
+    "unitname": "Content, pedagogy and pedagogical content knowledge in STEM education"
+  },
+  {
+    "unitcode": "EDF5303",
+    "unitname": "Digital foundations of STEM education"
+  },
+  {
+    "unitcode": "EDF5304",
+    "unitname": "Contemporary practices of STEM education"
+  },
+  {
+    "unitcode": "EDF5307",
+    "unitname": "Leading schools 1"
+  },
+  {
+    "unitcode": "EDF5308",
+    "unitname": "Leading schools 2"
+  },
+  {
+    "unitcode": "EDF5309",
+    "unitname": "Education leadership project"
+  },
+  {
+    "unitcode": "EDF5513",
+    "unitname": "Evidence-based counselling in practice"
+  },
+  {
+    "unitcode": "EDF5514",
+    "unitname": "Applied psychological assessment and psychopathology"
+  },
+  {
+    "unitcode": "EDF5515",
+    "unitname": "Applied ethics and research practice"
+  },
+  {
+    "unitcode": "EDF5516",
+    "unitname": "Clinical and therapeutic interventions"
+  },
+  {
+    "unitcode": "EDF5517",
+    "unitname": "Professional experience in psychology"
+  },
+  {
+    "unitcode": "EDF5530",
+    "unitname": "Counselling skills for individuals, couples and groups"
+  },
+  {
+    "unitcode": "EDF5531",
+    "unitname": "Cognitive behaviour therapies"
+  },
+  {
+    "unitcode": "EDF5532",
+    "unitname": "Ethics for counsellors"
+  },
+  {
+    "unitcode": "EDF5533",
+    "unitname": "Informing practice through research"
+  },
+  {
+    "unitcode": "EDF5534",
+    "unitname": "Supervised professional counselling practice"
+  },
+  {
+    "unitcode": "EDF5540",
+    "unitname": "Children and adolescents counselling"
+  },
+  {
+    "unitcode": "EDF5541",
+    "unitname": "Personnel and career development counselling"
+  },
+  {
+    "unitcode": "EDF5542",
+    "unitname": "Counselling skills: Individuals and couples"
+  },
+  {
+    "unitcode": "EDF5543",
+    "unitname": "Ethics and professional issues in counselling and psychology"
+  },
+  {
+    "unitcode": "EDF5544",
+    "unitname": "Group counselling skills and psychotherapy"
+  },
+  {
+    "unitcode": "EDF5545",
+    "unitname": "Cognitive behaviour therapy"
+  },
+  {
+    "unitcode": "EDF5546",
+    "unitname": "Advanced personnel and career development counselling"
+  },
+  {
+    "unitcode": "EDF5547",
+    "unitname": "Counselling research design, statistics and program evaluation"
+  },
+  {
+    "unitcode": "EDF5550",
+    "unitname": "Advanced research project in counselling"
+  },
+  {
+    "unitcode": "EDF5551",
+    "unitname": "Psychological assessment and measurement"
+  },
+  {
+    "unitcode": "EDF5552",
+    "unitname": "Counselling practicum"
+  },
+  {
+    "unitcode": "EDF5553",
+    "unitname": "Research project in counselling"
+  },
+  {
+    "unitcode": "EDF5554",
+    "unitname": "Counselling internship"
+  },
+  {
+    "unitcode": "EDF5561",
+    "unitname": "Clinical case formulation"
+  },
+  {
+    "unitcode": "EDF5562",
+    "unitname": "Ethics for professional practice"
+  },
+  {
+    "unitcode": "EDF5563",
+    "unitname": "Cognitive assessment"
+  },
+  {
+    "unitcode": "EDF5564",
+    "unitname": "Research applications for practitioners"
+  },
+  {
+    "unitcode": "EDF5565",
+    "unitname": "Psychopathology and personality"
+  },
+  {
+    "unitcode": "EDF5566",
+    "unitname": "Evidence-based interventions: Cognitive behaviour therapies"
+  },
+  {
+    "unitcode": "EDF5567",
+    "unitname": "Contemporary psychological practice"
+  },
+  {
+    "unitcode": "EDF5568",
+    "unitname": "Professional experience in psychology"
+  },
+  {
+    "unitcode": "EDF5613",
+    "unitname": "Research approaches in education"
+  },
+  {
+    "unitcode": "EDF5614",
+    "unitname": "Research project in education"
+  },
+  {
+    "unitcode": "EDF5620",
+    "unitname": "Leading education and work"
+  },
+  {
+    "unitcode": "EDF5621",
+    "unitname": "Challenging curriculum, pedagogy and assessment"
+  },
+  {
+    "unitcode": "EDF5622",
+    "unitname": "Developing learners and learning"
+  },
+  {
+    "unitcode": "EDF5623",
+    "unitname": "Deepening education and sustainability"
+  },
+  {
+    "unitcode": "EDF5632",
+    "unitname": "Understanding inclusion in learning communities"
+  },
+  {
+    "unitcode": "EDF5635",
+    "unitname": "Leading capable organisations"
+  },
+  {
+    "unitcode": "EDF5636",
+    "unitname": "Leading organisational decision making"
+  },
+  {
+    "unitcode": "EDF5637",
+    "unitname": "Inner leadership: Understanding self and others"
+  },
+  {
+    "unitcode": "EDF5640",
+    "unitname": "Language, culture and curriculum"
+  },
+  {
+    "unitcode": "EDF5641",
+    "unitname": "Pedagogy and assessment in TESOL"
+  },
+  {
+    "unitcode": "EDF5642",
+    "unitname": "Bilingualism and content-based programs"
+  },
+  {
+    "unitcode": "EDF5645",
+    "unitname": "Educating the gifted"
+  },
+  {
+    "unitcode": "EDF5646",
+    "unitname": "Talent development and diversity"
+  },
+  {
+    "unitcode": "EDF5647",
+    "unitname": "Technology and education key issues and debates"
+  },
+  {
+    "unitcode": "EDF5648",
+    "unitname": "Instructional design: Harnessing digital technologies for learning"
+  },
+  {
+    "unitcode": "EDF5649",
+    "unitname": "Language and literacies across educational contexts"
+  },
+  {
+    "unitcode": "EDF5650",
+    "unitname": "Literacy leadership in schools, workplaces and communities"
+  },
+  {
+    "unitcode": "EDF5651",
+    "unitname": "Developing expertise in mathematics education"
+  },
+  {
+    "unitcode": "EDF5652",
+    "unitname": "Understanding research and leadership in science education"
+  },
+  {
+    "unitcode": "EDF5653",
+    "unitname": "Research perspectives in music education"
+  },
+  {
+    "unitcode": "EDF5654",
+    "unitname": "Teaching music: Theory and practice"
+  },
+  {
+    "unitcode": "EDF5655",
+    "unitname": "Expertise in teaching"
+  },
+  {
+    "unitcode": "EDF5656",
+    "unitname": "Practising inclusion"
+  },
+  {
+    "unitcode": "EDF5657",
+    "unitname": "Indigenous perspectives in professional practice"
+  },
+  {
+    "unitcode": "EDF5658",
+    "unitname": "Young people: Culture, communities and education"
+  },
+  {
+    "unitcode": "EDF5659",
+    "unitname": "Building partnerships with families and communities"
+  },
+  {
+    "unitcode": "EDF5661",
+    "unitname": "Designing learning for adults"
+  },
+  {
+    "unitcode": "EDF5662",
+    "unitname": "Leading local, rural and regional learning and participation"
+  },
+  {
+    "unitcode": "EDF5663",
+    "unitname": "Education and globalisation in the Asian century"
+  },
+  {
+    "unitcode": "EDF5664",
+    "unitname": "Learning through participation"
+  },
+  {
+    "unitcode": "EDF5665",
+    "unitname": "Environmental education, design and learning for sustainability"
+  },
+  {
+    "unitcode": "EDF5666",
+    "unitname": "Education, development and ecological sustainability"
+  },
+  {
+    "unitcode": "EDF5667",
+    "unitname": "Positive behaviour support"
+  },
+  {
+    "unitcode": "EDF5670",
+    "unitname": "Leadership studies"
+  },
+  {
+    "unitcode": "EDF5671",
+    "unitname": "Leadership challenge project"
+  },
+  {
+    "unitcode": "EDF5672",
+    "unitname": "Leadership in educational technology practices"
+  },
+  {
+    "unitcode": "EDF5673",
+    "unitname": "Leading mathematics and numeracy education"
+  },
+  {
+    "unitcode": "EDF5674",
+    "unitname": "Engaging with practices of contemporary science"
+  },
+  {
+    "unitcode": "EDF5678",
+    "unitname": "Leading learning communities"
+  },
+  {
+    "unitcode": "EDF5680",
+    "unitname": "Behaviour analysis: Concepts and foundations"
+  },
+  {
+    "unitcode": "EDF5681",
+    "unitname": "Behaviour analysis: Implementation and experimental methods"
+  },
+  {
+    "unitcode": "EDF5682",
+    "unitname": "Applications of behaviour analysis in diverse contexts"
+  },
+  {
+    "unitcode": "EDF5691",
+    "unitname": "Professional project"
+  },
+  {
+    "unitcode": "EDF5692",
+    "unitname": "Professional practice in special and inclusive education"
+  },
+  {
+    "unitcode": "EDF5693",
+    "unitname": "Using and evaluating research evidence"
+  },
+  {
+    "unitcode": "EDF5694",
+    "unitname": "Taking a stand in education debates"
+  },
+  {
+    "unitcode": "EDF5695",
+    "unitname": "Self-study as professional inquiry"
+  },
+  {
+    "unitcode": "EDF5696",
+    "unitname": "Professional practice for teachers of TESOL"
+  },
+  {
+    "unitcode": "EDF5699",
+    "unitname": "Extended teaching practice"
+  },
+  {
+    "unitcode": "EDF5720",
+    "unitname": "Developmental psychology and counselling and research"
+  },
+  {
+    "unitcode": "EDF5721",
+    "unitname": "Clinical interventions in educational and developmental psychology"
+  },
+  {
+    "unitcode": "EDF5722",
+    "unitname": "Cognitive, personality and educational assessment"
+  },
+  {
+    "unitcode": "EDF5723",
+    "unitname": "Exceptionality: Assessment and intervention"
+  },
+  {
+    "unitcode": "EDF5731",
+    "unitname": "Clinical placement in psychology 1"
+  },
+  {
+    "unitcode": "EDF5732",
+    "unitname": "Clinical placement in psychology 2"
+  },
+  {
+    "unitcode": "EDF5733",
+    "unitname": "Clinical placement in psychology 3"
+  },
+  {
+    "unitcode": "EDF5741",
+    "unitname": "Psychology thesis part 1"
+  },
+  {
+    "unitcode": "EDF5742",
+    "unitname": "Psychology thesis part 2"
+  },
+  {
+    "unitcode": "EDF5743",
+    "unitname": "Psychology thesis extension"
+  },
+  {
+    "unitcode": "EDF5810",
+    "unitname": "VCAL and VET at school"
+  },
+  {
+    "unitcode": "EDF5814",
+    "unitname": "Creative research approaches"
+  },
+  {
+    "unitcode": "EDF5904",
+    "unitname": "Children, families, communities"
+  },
+  {
+    "unitcode": "EDF5905",
+    "unitname": "Early years literacy and numeracy"
+  },
+  {
+    "unitcode": "EDF5925",
+    "unitname": "Early years professional experience 1"
+  },
+  {
+    "unitcode": "EDF5926",
+    "unitname": "Early years professional experience 2"
+  },
+  {
+    "unitcode": "EDF5927",
+    "unitname": "Early years professional experience 3"
+  },
+  {
+    "unitcode": "EDF5928",
+    "unitname": "Early years professional experience 4"
+  },
+  {
+    "unitcode": "EDF5931",
+    "unitname": "Primary professional experience 1"
+  },
+  {
+    "unitcode": "EDF5932",
+    "unitname": "Primary professional experience 2"
+  },
+  {
+    "unitcode": "EDF5933",
+    "unitname": "Primary professional experience 3"
+  },
+  {
+    "unitcode": "EDF5934",
+    "unitname": "Primary professional experience 4"
+  },
+  {
+    "unitcode": "EDF5935",
+    "unitname": "Primary professional experience 5"
+  },
+  {
+    "unitcode": "EDF5936",
+    "unitname": "Primary professional experience 6"
+  },
+  {
+    "unitcode": "EDF5941",
+    "unitname": "Secondary professional experience 1"
+  },
+  {
+    "unitcode": "EDF5942",
+    "unitname": "Secondary professional experience 2"
+  },
+  {
+    "unitcode": "EDF5943",
+    "unitname": "Secondary professional experience 3"
+  },
+  {
+    "unitcode": "EDF5944",
+    "unitname": "Secondary professional experience 4"
+  }
+]

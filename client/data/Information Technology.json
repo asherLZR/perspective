@@ -1,1 +1,826 @@
-{"FIT1003": "IT in organisations", "FIT1006": "Business information analysis", "FIT1008": "Introduction to computer science", "FIT1013": "Digital futures: IT for business", "FIT1033": "Foundations of 3D", "FIT1043": "Introduction to data science", "FIT1044": "Mobile communications 1", "FIT1045": "Algorithms and programming fundamentals in python", "FIT1046": "Interactive media foundations", "FIT1047": "Introduction to computer systems, networks and security", "FIT1048": "Fundamentals of C++", "FIT1049": "IT professional practice", "FIT1050": "Web fundamentals", "FIT1051": "Programming fundamentals in java", "FIT1052": "Digital futures: IT shaping society", "FIT1053": "Algorithms and programming in python (advanced)", "FIT1054": "Computer science (advanced)", "FIT1055": "IT professional practice and ethics", "FIT2001": "Systems development", "FIT2002": "IT project management", "FIT2004": "Algorithms and data structures", "FIT2009": "Data structures and algorithms", "FIT2014": "Theory of computation", "FIT2032": "Industry-based learning", "FIT2034": "Computer programming 2", "FIT2073": "Game design studio 1", "FIT2077": "Advanced data management", "FIT2081": "Mobile application development", "FIT2082": "Computer science research project", "FIT2083": "Innovation and research in computer science", "FIT2085": "Introduction to computer science for engineers", "FIT2086": "Modelling for data analysis", "FIT2087": "Advanced 3D", "FIT2089": "Mobile networks", "FIT2090": "Business information systems and processes", "FIT2091": "Interactive media studio 1", "FIT2092": "Interactive media studio 2", "FIT2093": "Introduction to cyber security", "FIT2094": "Databases", "FIT2095": "e-Business software technologies", "FIT2096": "Games programming 1", "FIT2097": "Games programming 2", "FIT2098": "Virtual and augmented reality", "FIT2099": "Object oriented design and implementation", "FIT2100": "Operating systems", "FIT2101": "Software engineering process and management", "FIT2102": "Programming paradigms", "FIT2104": "Web database interface", "FIT2105": "Creative computing: understanding art, science and technology", "FIT2107": "Software quality and testing", "FIT2108": "Industry based learning seminar", "FIT3003": "Business intelligence and data warehousing", "FIT3031": "Network security", "FIT3036": "Computer science project", "FIT3039": "Studio project 1", "FIT3040": "Studio project 2", "FIT3045": "Industry-based learning", "FIT3046": "Operating environments", "FIT3047": "Industry experience studio project 1", "FIT3048": "Industry experience studio project 2", "FIT3077": "Software engineering: Architecture and design", "FIT3080": "Intelligent systems", "FIT3081": "Image processing", "FIT3088": "Computer graphics", "FIT3094": "Artificial life, artificial intelligence and virtual environments", "FIT3098": "Social informatics", "FIT3134": "Entrepreneurship", "FIT3138": "Real time enterprise systems", "FIT3139": "Computational modelling and simulation", "FIT3142": "Distributed computing", "FIT3143": "Parallel computing", "FIT3145": "Game design studio 2", "FIT3146": "Maker lab", "FIT3152": "Data analytics", "FIT3153": "Research-based learning", "FIT3154": "Advanced data analysis", "FIT3155": "Advanced data structures and algorithms", "FIT3156": "Advanced visual effects", "FIT3157": "Advanced web design", "FIT3158": "Business decision modelling", "FIT3159": "Computer architecture", "FIT3160": "Mobile data management", "FIT3161": "Computer science project 1", "FIT3162": "Computer science project 2", "FIT3163": "Data science project 1", "FIT3164": "Data science project 2", "FIT3165": "Computer networks", "FIT3167": "Mobile communications 2", "FIT3168": "IT forensics", "FIT3169": "Immersive environments", "FIT3170": "Software engineering practice", "FIT3171": "Databases", "FIT3172": "Sonics", "FIT3173": "Software security", "FIT3174": "IT strategy and governance", "FIT3175": "Usability", "FIT3176": "Advanced database design", "FIT3178": "iOS app development", "FIT3179": "Data visualisation", "FIT3180": "Data management for health informatics", "FIT3181": "Deep learning", "FIT3199": "Industry work experience", "FIT4000": "Honours thesis extension", "FIT4002": "Software engineering industry experience studio project", "FIT4003": "Software engineering research project", "FIT4005": "Research methods in information technology", "FIT4007": "Advanced topics in information systems", "FIT4008": "Reading unit", "FIT4009": "Advanced topics in intelligent systems", "FIT4010": "Advanced topics in algorithms and discrete structures", "FIT4012": "Advanced topics in computational science", "FIT4039": "Android and iOS development", "FIT4042": "Industry-based learning", "FIT4165": "Computer networks", "FIT4441": "Honours thesis part 1", "FIT4442": "Honours thesis part 2", "FIT4443": "Honours thesis part 3", "FIT4444": "Honours thesis final", "FIT4448": "Honours thesis final", "FIT5000": "Minor thesis extension", "FIT5003": "Software security", "FIT5010": "Network protocols standards", "FIT5011": "Network design and performance", "FIT5032": "Internet applications development", "FIT5034": "Quality of service and network management", "FIT5037": "Network security", "FIT5042": "Enterprise application development for the web", "FIT5046": "Mobile and distributed computing systems", "FIT5047": "Intelligent systems", "FIT5057": "Project management", "FIT5083": "Network infrastructure", "FIT5086": "Organisational informatics", "FIT5088": "Information and knowledge management systems", "FIT5090": "Social informatics", "FIT5094": "IT for management decision making", "FIT5097": "Business intelligence modelling", "FIT5101": "Enterprise systems", "FIT5102": "IT strategy and governance", "FIT5104": "Information and knowledge management professional practice", "FIT5105": "Information access and use", "FIT5106": "Information organisation", "FIT5107": "Recordkeeping Informatics", "FIT5108": "Reading unit", "FIT5109": "Research topic", "FIT5120": "Industry experience studio project", "FIT5122": "Professional practice", "FIT5124": "Advanced topics in security", "FIT5125": "IT research methods", "FIT5126": "Masters thesis part 1", "FIT5127": "Masters thesis part 2", "FIT5128": "Masters thesis final", "FIT5129": "Enterprise IT security - planning, operations and management", "FIT5133": "Enterprise architecture and management", "FIT5136": "Software engineering", "FIT5137": "Database analysis and processing", "FIT5138": "Advanced software engineering", "FIT5139": "Advanced distributed and parallel systems", "FIT5140": "Advanced mobile systems", "FIT5141": "Advanced topics in information technology", "FIT5142": "Advanced data mining", "FIT5143": "IT research methods", "FIT5144": "Research strategies and skills", "FIT5145": "Introduction to data science", "FIT5146": "Data curation and management", "FIT5147": "Data exploration and visualisation", "FIT5148": "Big data management and processing", "FIT5149": "Applied data analysis", "FIT5152": "User interface design and usability", "FIT5159": "IT for financial decisions", "FIT5160": "Business process modelling, design and simulation", "FIT5163": "Information and computer security", "FIT5166": "Information retrieval systems", "FIT5170": "Programming for distributed, parallel and mobile systems", "FIT5171": "System validation and verification, quality and standards", "FIT5178": "Applied project management", "FIT5183": "Mobile and distributed computing systems", "FIT5186": "Intelligent systems", "FIT5187": "Wireless networks", "FIT5190": "Introduction to IT research methods", "FIT5191": "Network protocols and network security", "FIT5192": "Enterprise and internet applications development", "FIT5194": "Computer based global project management", "FIT5195": "Business intelligence and data warehousing", "FIT5196": "Data wrangling", "FIT5197": "Modelling for data analysis", "FIT5201": "Data analysis algorithms", "FIT5202": "Data processing for big data", "FIT5205": "Data in society", "FIT5206": "Digital continuity", "FIT5210": "Masters thesis", "FIT5211": "Algorithms and data structures", "FIT5212": "Data analysis for semi-structured data", "FIT5213": "Advanced data analytics case study", "FIT5214": "Blockchain", "FIT6021": "Advanced research methods", "FIT9123": "Introduction to business information systems", "FIT9130": "Systems analysis and design", "FIT9131": "Programming foundations in Java", "FIT9132": "Introduction to databases", "FIT9133": "Programming foundations in python", "FIT9134": "Computer architecture and operating systems", "FIT9135": "Data communications", "MAT1830": "Discrete mathematics for computer science", "MAT1841": "Continuous mathematics for computer science", "MAT9004": "Mathematical foundations for data science", "RAD5106": "Medical imaging data management and health informatics"}
+[
+  {
+    "unitcode": "FIT1003",
+    "unitname": "IT in organisations"
+  },
+  {
+    "unitcode": "FIT1006",
+    "unitname": "Business information analysis"
+  },
+  {
+    "unitcode": "FIT1008",
+    "unitname": "Introduction to computer science"
+  },
+  {
+    "unitcode": "FIT1013",
+    "unitname": "Digital futures: IT for business"
+  },
+  {
+    "unitcode": "FIT1033",
+    "unitname": "Foundations of 3D"
+  },
+  {
+    "unitcode": "FIT1043",
+    "unitname": "Introduction to data science"
+  },
+  {
+    "unitcode": "FIT1044",
+    "unitname": "Mobile communications 1"
+  },
+  {
+    "unitcode": "FIT1045",
+    "unitname": "Algorithms and programming fundamentals in python"
+  },
+  {
+    "unitcode": "FIT1046",
+    "unitname": "Interactive media foundations"
+  },
+  {
+    "unitcode": "FIT1047",
+    "unitname": "Introduction to computer systems, networks and security"
+  },
+  {
+    "unitcode": "FIT1048",
+    "unitname": "Fundamentals of C++"
+  },
+  {
+    "unitcode": "FIT1049",
+    "unitname": "IT professional practice"
+  },
+  {
+    "unitcode": "FIT1050",
+    "unitname": "Web fundamentals"
+  },
+  {
+    "unitcode": "FIT1051",
+    "unitname": "Programming fundamentals in java"
+  },
+  {
+    "unitcode": "FIT1052",
+    "unitname": "Digital futures: IT shaping society"
+  },
+  {
+    "unitcode": "FIT1053",
+    "unitname": "Algorithms and programming in python (advanced)"
+  },
+  {
+    "unitcode": "FIT1054",
+    "unitname": "Computer science (advanced)"
+  },
+  {
+    "unitcode": "FIT1055",
+    "unitname": "IT professional practice and ethics"
+  },
+  {
+    "unitcode": "FIT2001",
+    "unitname": "Systems development"
+  },
+  {
+    "unitcode": "FIT2002",
+    "unitname": "IT project management"
+  },
+  {
+    "unitcode": "FIT2004",
+    "unitname": "Algorithms and data structures"
+  },
+  {
+    "unitcode": "FIT2009",
+    "unitname": "Data structures and algorithms"
+  },
+  {
+    "unitcode": "FIT2014",
+    "unitname": "Theory of computation"
+  },
+  {
+    "unitcode": "FIT2032",
+    "unitname": "Industry-based learning"
+  },
+  {
+    "unitcode": "FIT2034",
+    "unitname": "Computer programming 2"
+  },
+  {
+    "unitcode": "FIT2073",
+    "unitname": "Game design studio 1"
+  },
+  {
+    "unitcode": "FIT2077",
+    "unitname": "Advanced data management"
+  },
+  {
+    "unitcode": "FIT2081",
+    "unitname": "Mobile application development"
+  },
+  {
+    "unitcode": "FIT2082",
+    "unitname": "Computer science research project"
+  },
+  {
+    "unitcode": "FIT2083",
+    "unitname": "Innovation and research in computer science"
+  },
+  {
+    "unitcode": "FIT2085",
+    "unitname": "Introduction to computer science for engineers"
+  },
+  {
+    "unitcode": "FIT2086",
+    "unitname": "Modelling for data analysis"
+  },
+  {
+    "unitcode": "FIT2087",
+    "unitname": "Advanced 3D"
+  },
+  {
+    "unitcode": "FIT2089",
+    "unitname": "Mobile networks"
+  },
+  {
+    "unitcode": "FIT2090",
+    "unitname": "Business information systems and processes"
+  },
+  {
+    "unitcode": "FIT2091",
+    "unitname": "Interactive media studio 1"
+  },
+  {
+    "unitcode": "FIT2092",
+    "unitname": "Interactive media studio 2"
+  },
+  {
+    "unitcode": "FIT2093",
+    "unitname": "Introduction to cyber security"
+  },
+  {
+    "unitcode": "FIT2094",
+    "unitname": "Databases"
+  },
+  {
+    "unitcode": "FIT2095",
+    "unitname": "e-Business software technologies"
+  },
+  {
+    "unitcode": "FIT2096",
+    "unitname": "Games programming 1"
+  },
+  {
+    "unitcode": "FIT2097",
+    "unitname": "Games programming 2"
+  },
+  {
+    "unitcode": "FIT2098",
+    "unitname": "Virtual and augmented reality"
+  },
+  {
+    "unitcode": "FIT2099",
+    "unitname": "Object oriented design and implementation"
+  },
+  {
+    "unitcode": "FIT2100",
+    "unitname": "Operating systems"
+  },
+  {
+    "unitcode": "FIT2101",
+    "unitname": "Software engineering process and management"
+  },
+  {
+    "unitcode": "FIT2102",
+    "unitname": "Programming paradigms"
+  },
+  {
+    "unitcode": "FIT2104",
+    "unitname": "Web database interface"
+  },
+  {
+    "unitcode": "FIT2105",
+    "unitname": "Creative computing: understanding art, science and technology"
+  },
+  {
+    "unitcode": "FIT2107",
+    "unitname": "Software quality and testing"
+  },
+  {
+    "unitcode": "FIT2108",
+    "unitname": "Industry based learning seminar"
+  },
+  {
+    "unitcode": "FIT3003",
+    "unitname": "Business intelligence and data warehousing"
+  },
+  {
+    "unitcode": "FIT3031",
+    "unitname": "Network security"
+  },
+  {
+    "unitcode": "FIT3036",
+    "unitname": "Computer science project"
+  },
+  {
+    "unitcode": "FIT3039",
+    "unitname": "Studio project 1"
+  },
+  {
+    "unitcode": "FIT3040",
+    "unitname": "Studio project 2"
+  },
+  {
+    "unitcode": "FIT3045",
+    "unitname": "Industry-based learning"
+  },
+  {
+    "unitcode": "FIT3046",
+    "unitname": "Operating environments"
+  },
+  {
+    "unitcode": "FIT3047",
+    "unitname": "Industry experience studio project 1"
+  },
+  {
+    "unitcode": "FIT3048",
+    "unitname": "Industry experience studio project 2"
+  },
+  {
+    "unitcode": "FIT3077",
+    "unitname": "Software engineering: Architecture and design"
+  },
+  {
+    "unitcode": "FIT3080",
+    "unitname": "Intelligent systems"
+  },
+  {
+    "unitcode": "FIT3081",
+    "unitname": "Image processing"
+  },
+  {
+    "unitcode": "FIT3088",
+    "unitname": "Computer graphics"
+  },
+  {
+    "unitcode": "FIT3094",
+    "unitname": "Artificial life, artificial intelligence and virtual environments"
+  },
+  {
+    "unitcode": "FIT3098",
+    "unitname": "Social informatics"
+  },
+  {
+    "unitcode": "FIT3134",
+    "unitname": "Entrepreneurship"
+  },
+  {
+    "unitcode": "FIT3138",
+    "unitname": "Real time enterprise systems"
+  },
+  {
+    "unitcode": "FIT3139",
+    "unitname": "Computational modelling and simulation"
+  },
+  {
+    "unitcode": "FIT3142",
+    "unitname": "Distributed computing"
+  },
+  {
+    "unitcode": "FIT3143",
+    "unitname": "Parallel computing"
+  },
+  {
+    "unitcode": "FIT3145",
+    "unitname": "Game design studio 2"
+  },
+  {
+    "unitcode": "FIT3146",
+    "unitname": "Maker lab"
+  },
+  {
+    "unitcode": "FIT3152",
+    "unitname": "Data analytics"
+  },
+  {
+    "unitcode": "FIT3153",
+    "unitname": "Research-based learning"
+  },
+  {
+    "unitcode": "FIT3154",
+    "unitname": "Advanced data analysis"
+  },
+  {
+    "unitcode": "FIT3155",
+    "unitname": "Advanced data structures and algorithms"
+  },
+  {
+    "unitcode": "FIT3156",
+    "unitname": "Advanced visual effects"
+  },
+  {
+    "unitcode": "FIT3157",
+    "unitname": "Advanced web design"
+  },
+  {
+    "unitcode": "FIT3158",
+    "unitname": "Business decision modelling"
+  },
+  {
+    "unitcode": "FIT3159",
+    "unitname": "Computer architecture"
+  },
+  {
+    "unitcode": "FIT3160",
+    "unitname": "Mobile data management"
+  },
+  {
+    "unitcode": "FIT3161",
+    "unitname": "Computer science project 1"
+  },
+  {
+    "unitcode": "FIT3162",
+    "unitname": "Computer science project 2"
+  },
+  {
+    "unitcode": "FIT3163",
+    "unitname": "Data science project 1"
+  },
+  {
+    "unitcode": "FIT3164",
+    "unitname": "Data science project 2"
+  },
+  {
+    "unitcode": "FIT3165",
+    "unitname": "Computer networks"
+  },
+  {
+    "unitcode": "FIT3167",
+    "unitname": "Mobile communications 2"
+  },
+  {
+    "unitcode": "FIT3168",
+    "unitname": "IT forensics"
+  },
+  {
+    "unitcode": "FIT3169",
+    "unitname": "Immersive environments"
+  },
+  {
+    "unitcode": "FIT3170",
+    "unitname": "Software engineering practice"
+  },
+  {
+    "unitcode": "FIT3171",
+    "unitname": "Databases"
+  },
+  {
+    "unitcode": "FIT3172",
+    "unitname": "Sonics"
+  },
+  {
+    "unitcode": "FIT3173",
+    "unitname": "Software security"
+  },
+  {
+    "unitcode": "FIT3174",
+    "unitname": "IT strategy and governance"
+  },
+  {
+    "unitcode": "FIT3175",
+    "unitname": "Usability"
+  },
+  {
+    "unitcode": "FIT3176",
+    "unitname": "Advanced database design"
+  },
+  {
+    "unitcode": "FIT3178",
+    "unitname": "iOS app development"
+  },
+  {
+    "unitcode": "FIT3179",
+    "unitname": "Data visualisation"
+  },
+  {
+    "unitcode": "FIT3180",
+    "unitname": "Data management for health informatics"
+  },
+  {
+    "unitcode": "FIT3181",
+    "unitname": "Deep learning"
+  },
+  {
+    "unitcode": "FIT3199",
+    "unitname": "Industry work experience"
+  },
+  {
+    "unitcode": "FIT4000",
+    "unitname": "Honours thesis extension"
+  },
+  {
+    "unitcode": "FIT4002",
+    "unitname": "Software engineering industry experience studio project"
+  },
+  {
+    "unitcode": "FIT4003",
+    "unitname": "Software engineering research project"
+  },
+  {
+    "unitcode": "FIT4005",
+    "unitname": "Research methods in information technology"
+  },
+  {
+    "unitcode": "FIT4007",
+    "unitname": "Advanced topics in information systems"
+  },
+  {
+    "unitcode": "FIT4008",
+    "unitname": "Reading unit"
+  },
+  {
+    "unitcode": "FIT4009",
+    "unitname": "Advanced topics in intelligent systems"
+  },
+  {
+    "unitcode": "FIT4010",
+    "unitname": "Advanced topics in algorithms and discrete structures"
+  },
+  {
+    "unitcode": "FIT4012",
+    "unitname": "Advanced topics in computational science"
+  },
+  {
+    "unitcode": "FIT4039",
+    "unitname": "Android and iOS development"
+  },
+  {
+    "unitcode": "FIT4042",
+    "unitname": "Industry-based learning"
+  },
+  {
+    "unitcode": "FIT4165",
+    "unitname": "Computer networks"
+  },
+  {
+    "unitcode": "FIT4441",
+    "unitname": "Honours thesis part 1"
+  },
+  {
+    "unitcode": "FIT4442",
+    "unitname": "Honours thesis part 2"
+  },
+  {
+    "unitcode": "FIT4443",
+    "unitname": "Honours thesis part 3"
+  },
+  {
+    "unitcode": "FIT4444",
+    "unitname": "Honours thesis final"
+  },
+  {
+    "unitcode": "FIT4448",
+    "unitname": "Honours thesis final"
+  },
+  {
+    "unitcode": "FIT5000",
+    "unitname": "Minor thesis extension"
+  },
+  {
+    "unitcode": "FIT5003",
+    "unitname": "Software security"
+  },
+  {
+    "unitcode": "FIT5010",
+    "unitname": "Network protocols standards"
+  },
+  {
+    "unitcode": "FIT5011",
+    "unitname": "Network design and performance"
+  },
+  {
+    "unitcode": "FIT5032",
+    "unitname": "Internet applications development"
+  },
+  {
+    "unitcode": "FIT5034",
+    "unitname": "Quality of service and network management"
+  },
+  {
+    "unitcode": "FIT5037",
+    "unitname": "Network security"
+  },
+  {
+    "unitcode": "FIT5042",
+    "unitname": "Enterprise application development for the web"
+  },
+  {
+    "unitcode": "FIT5046",
+    "unitname": "Mobile and distributed computing systems"
+  },
+  {
+    "unitcode": "FIT5047",
+    "unitname": "Intelligent systems"
+  },
+  {
+    "unitcode": "FIT5057",
+    "unitname": "Project management"
+  },
+  {
+    "unitcode": "FIT5083",
+    "unitname": "Network infrastructure"
+  },
+  {
+    "unitcode": "FIT5086",
+    "unitname": "Organisational informatics"
+  },
+  {
+    "unitcode": "FIT5088",
+    "unitname": "Information and knowledge management systems"
+  },
+  {
+    "unitcode": "FIT5090",
+    "unitname": "Social informatics"
+  },
+  {
+    "unitcode": "FIT5094",
+    "unitname": "IT for management decision making"
+  },
+  {
+    "unitcode": "FIT5097",
+    "unitname": "Business intelligence modelling"
+  },
+  {
+    "unitcode": "FIT5101",
+    "unitname": "Enterprise systems"
+  },
+  {
+    "unitcode": "FIT5102",
+    "unitname": "IT strategy and governance"
+  },
+  {
+    "unitcode": "FIT5104",
+    "unitname": "Information and knowledge management professional practice"
+  },
+  {
+    "unitcode": "FIT5105",
+    "unitname": "Information access and use"
+  },
+  {
+    "unitcode": "FIT5106",
+    "unitname": "Information organisation"
+  },
+  {
+    "unitcode": "FIT5107",
+    "unitname": "Recordkeeping Informatics"
+  },
+  {
+    "unitcode": "FIT5108",
+    "unitname": "Reading unit"
+  },
+  {
+    "unitcode": "FIT5109",
+    "unitname": "Research topic"
+  },
+  {
+    "unitcode": "FIT5120",
+    "unitname": "Industry experience studio project"
+  },
+  {
+    "unitcode": "FIT5122",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "FIT5124",
+    "unitname": "Advanced topics in security"
+  },
+  {
+    "unitcode": "FIT5125",
+    "unitname": "IT research methods"
+  },
+  {
+    "unitcode": "FIT5126",
+    "unitname": "Masters thesis part 1"
+  },
+  {
+    "unitcode": "FIT5127",
+    "unitname": "Masters thesis part 2"
+  },
+  {
+    "unitcode": "FIT5128",
+    "unitname": "Masters thesis final"
+  },
+  {
+    "unitcode": "FIT5129",
+    "unitname": "Enterprise IT security - planning, operations and management"
+  },
+  {
+    "unitcode": "FIT5133",
+    "unitname": "Enterprise architecture and management"
+  },
+  {
+    "unitcode": "FIT5136",
+    "unitname": "Software engineering"
+  },
+  {
+    "unitcode": "FIT5137",
+    "unitname": "Database analysis and processing"
+  },
+  {
+    "unitcode": "FIT5138",
+    "unitname": "Advanced software engineering"
+  },
+  {
+    "unitcode": "FIT5139",
+    "unitname": "Advanced distributed and parallel systems"
+  },
+  {
+    "unitcode": "FIT5140",
+    "unitname": "Advanced mobile systems"
+  },
+  {
+    "unitcode": "FIT5141",
+    "unitname": "Advanced topics in information technology"
+  },
+  {
+    "unitcode": "FIT5142",
+    "unitname": "Advanced data mining"
+  },
+  {
+    "unitcode": "FIT5143",
+    "unitname": "IT research methods"
+  },
+  {
+    "unitcode": "FIT5144",
+    "unitname": "Research strategies and skills"
+  },
+  {
+    "unitcode": "FIT5145",
+    "unitname": "Introduction to data science"
+  },
+  {
+    "unitcode": "FIT5146",
+    "unitname": "Data curation and management"
+  },
+  {
+    "unitcode": "FIT5147",
+    "unitname": "Data exploration and visualisation"
+  },
+  {
+    "unitcode": "FIT5148",
+    "unitname": "Big data management and processing"
+  },
+  {
+    "unitcode": "FIT5149",
+    "unitname": "Applied data analysis"
+  },
+  {
+    "unitcode": "FIT5152",
+    "unitname": "User interface design and usability"
+  },
+  {
+    "unitcode": "FIT5159",
+    "unitname": "IT for financial decisions"
+  },
+  {
+    "unitcode": "FIT5160",
+    "unitname": "Business process modelling, design and simulation"
+  },
+  {
+    "unitcode": "FIT5163",
+    "unitname": "Information and computer security"
+  },
+  {
+    "unitcode": "FIT5166",
+    "unitname": "Information retrieval systems"
+  },
+  {
+    "unitcode": "FIT5170",
+    "unitname": "Programming for distributed, parallel and mobile systems"
+  },
+  {
+    "unitcode": "FIT5171",
+    "unitname": "System validation and verification, quality and standards"
+  },
+  {
+    "unitcode": "FIT5178",
+    "unitname": "Applied project management"
+  },
+  {
+    "unitcode": "FIT5183",
+    "unitname": "Mobile and distributed computing systems"
+  },
+  {
+    "unitcode": "FIT5186",
+    "unitname": "Intelligent systems"
+  },
+  {
+    "unitcode": "FIT5187",
+    "unitname": "Wireless networks"
+  },
+  {
+    "unitcode": "FIT5190",
+    "unitname": "Introduction to IT research methods"
+  },
+  {
+    "unitcode": "FIT5191",
+    "unitname": "Network protocols and network security"
+  },
+  {
+    "unitcode": "FIT5192",
+    "unitname": "Enterprise and internet applications development"
+  },
+  {
+    "unitcode": "FIT5194",
+    "unitname": "Computer based global project management"
+  },
+  {
+    "unitcode": "FIT5195",
+    "unitname": "Business intelligence and data warehousing"
+  },
+  {
+    "unitcode": "FIT5196",
+    "unitname": "Data wrangling"
+  },
+  {
+    "unitcode": "FIT5197",
+    "unitname": "Modelling for data analysis"
+  },
+  {
+    "unitcode": "FIT5201",
+    "unitname": "Data analysis algorithms"
+  },
+  {
+    "unitcode": "FIT5202",
+    "unitname": "Data processing for big data"
+  },
+  {
+    "unitcode": "FIT5205",
+    "unitname": "Data in society"
+  },
+  {
+    "unitcode": "FIT5206",
+    "unitname": "Digital continuity"
+  },
+  {
+    "unitcode": "FIT5210",
+    "unitname": "Masters thesis"
+  },
+  {
+    "unitcode": "FIT5211",
+    "unitname": "Algorithms and data structures"
+  },
+  {
+    "unitcode": "FIT5212",
+    "unitname": "Data analysis for semi-structured data"
+  },
+  {
+    "unitcode": "FIT5213",
+    "unitname": "Advanced data analytics case study"
+  },
+  {
+    "unitcode": "FIT5214",
+    "unitname": "Blockchain"
+  },
+  {
+    "unitcode": "FIT6021",
+    "unitname": "Advanced research methods"
+  },
+  {
+    "unitcode": "FIT9123",
+    "unitname": "Introduction to business information systems"
+  },
+  {
+    "unitcode": "FIT9130",
+    "unitname": "Systems analysis and design"
+  },
+  {
+    "unitcode": "FIT9131",
+    "unitname": "Programming foundations in Java"
+  },
+  {
+    "unitcode": "FIT9132",
+    "unitname": "Introduction to databases"
+  },
+  {
+    "unitcode": "FIT9133",
+    "unitname": "Programming foundations in python"
+  },
+  {
+    "unitcode": "FIT9134",
+    "unitname": "Computer architecture and operating systems"
+  },
+  {
+    "unitcode": "FIT9135",
+    "unitname": "Data communications"
+  },
+  {
+    "unitcode": "MAT1830",
+    "unitname": "Discrete mathematics for computer science"
+  },
+  {
+    "unitcode": "MAT1841",
+    "unitname": "Continuous mathematics for computer science"
+  },
+  {
+    "unitcode": "MAT9004",
+    "unitname": "Mathematical foundations for data science"
+  },
+  {
+    "unitcode": "RAD5106",
+    "unitname": "Medical imaging data management and health informatics"
+  }
+]

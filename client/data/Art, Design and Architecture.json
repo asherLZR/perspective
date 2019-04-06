@@ -1,1 +1,1442 @@
-{"ADA1011": "Interdisciplinary studies 1", "ADA1111": "Design thinking", "ADA2001": "Interdisciplinary studio 1", "ADA2011": "Interdisciplinary studies 2", "ADA3001": "Interdisciplinary studio 2", "ADA3011": "Interdisciplinary studies 3", "ADA3111": "Design thinking", "ADA4001": "Interdisciplinary studio 3", "ADA4011": "Interdisciplinary studies 4", "ADA4111": "Design thinking advanced", "ADA4500": "Design thinking approaches", "ADA5001": "Interdisciplinary studio 4", "ADA5011": "Interdisciplinary studies 5", "ADA5111": "Design thinking for business", "ADD5091": "Research methods 1", "ADD5092": "Research methods 2", "ADD6093": "Research documentation", "ADM5001": "Research methods", "ADM5002": "Theory workshop", "AHT1101": "Introduction to visual culture in art, design and architecture", "AHT1102": "Modernism and the avant-garde", "AHT2001": "Art writing and criticism", "AHT2011": "Baroque to enlightenment: European art before modernism", "AHT2025": "The body in contemporary art", "AHT2031": "World Art", "AHT2102": "International art 1945-1990", "AHT2105": "Contemporary international art", "AHT2120": "Art and social change", "AHT2130": "Renaissance to Baroque: Italian art and architecture in context", "AHT2136": "Contemporary art fieldwork: context and site", "AHT2137": "Art and the moving image", "AHT2138": "Space, place and society", "AHT2207": "Popular culture", "AHT2301": "Indigenous Australian art, practice and ways of knowing", "AHT2440": "Photography: History and theory", "AHT2530": "Neo-Baroque aesthetics: History and theory", "AHT2602": "Art criticism and curatorship", "AHT2712": "Curating: Histories and theories", "AHT2722": "Curating: Practices", "AHT2740": "Australian art", "AHT2801": "The medium in contemporary art", "AHT3001": "Art writing and criticism", "AHT3011": "Baroque to enlightenment: European art before modernism", "AHT3025": "The body in contemporary art", "AHT3102": "International art 1945-1990", "AHT3105": "Contemporary international art", "AHT3109": "Constructing art in Australia: Colonialism to postcolonialism", "AHT3120": "Art and social change", "AHT3130": "Renaissance to Baroque: Italian art and architecture in context", "AHT3137": "Art and the moving image", "AHT3138": "Space, place and society", "AHT3150": "Project studies", "AHT3207": "Popular culture", "AHT3301": "Indigenous Australian art, practice and ways of knowing", "AHT3440": "Photography: History and theory", "AHT3530": "Neo-Baroque aesthetics: History and theory", "AHT3602": "Art criticism and curatorship", "AHT3712": "Curating: Histories and theories", "AHT3722": "Curating: Practices", "AHT3740": "Australian art", "AHT3801": "The medium in contemporary art", "AHT4002": "B) Minor thesis part 2", "AHT4012": "Visual culture and its theories", "AHT4025": "Visual culture internship", "AHT4111": "Project studies. Art history and theory honours", "AHT4112": "Major project - Art history and theory honours", "AHT4406": "Curating internship", "AHT4503": "Advanced art theory", "AHT4504": "Art theory research seminar", "ARC1001": "Foundation studio 1", "ARC1002": "Foundation studio 2", "ARC1102": "Technologies and environments 1", "ARC1301": "Architecture communications 1", "ARC2001": "Architecture design studio 3", "ARC2002": "Architecture design studio 4", "ARC2101": "Technologies and environments 2", "ARC2301": "Architecture communications 2", "ARC2401": "Contemporary architecture", "ARC2402": "19th and 20th century architecture", "ARC3001": "Architecture design studio 5", "ARC3002": "Architecture design studio 6", "ARC3101": "Technologies and environments 3", "ARC3102": "Integrated technologies, environments and professional studies", "ARC3401": "Architecture and the city", "ARC3501": "Advanced studies in architecture A", "ARC3502": "Advanced studies in architecture B", "ARC4001": "Advanced architecture project 1", "ARC4002": "Advanced architecture project 2", "ARC4031": "Transition architecture studio 1", "ARC4032": "Transition architecture studio 2", "ARC4101": "Integrated project- technologies, environments and professional practices", "ARC4130": "Technologies and environments", "ARC4201": "Professional studies 1", "ARC4501": "Advanced architecture studies 1", "ARC4502": "Advanced architecture studies 2", "ARC5001": "Advanced architecture project 3", "ARC5002": "Final architecture project", "ARC5201": "Professional practices", "ARC5401": "Architecture research", "ARC5501": "Advanced architecture studies 3", "ARC5502": "Advanced studies in architecture 4", "CDS1001": "Communication design studio 1", "CDS1002": "Communication design studio 2", "CDS1511": "Photographic art direction", "CDS1531": "Illustration for narrative", "CDS2001": "Communication design studio 3", "CDS2002": "Communication design elective studio", "CDS2511": "Branding for designers", "CDS2512": "Packaging design", "CDS2521": "Creative coding", "CDS2522": "Creative expression through physical computing", "CDS2523": "Creative visualisation", "CDS2524": "Unconventional publishing", "CDS2531": "Illustration for animation", "CDS3001": "Communication design studio 4", "CDS3002": "Communication design studio 5", "CDS4001": "Major project (communication design) part 1", "CDS4002": "Major project (communication design) part 2", "COL1001": "Collaborative design studio 1", "DGN1001": "Design studio 1", "DGN1104": "Interdisciplinary design studio 2", "DGN2000": "Interdisciplinary Design", "DGN2003": "Interdisciplinary design studio 3", "DGN2004": "Interdisciplinary design studio 4", "DGN3103": "Expansion studies in design", "DGN3105": "Interdisciplinary design studio 5", "DGN3106": "Interdisciplinary design studio 6", "DGN3107": "Digital humanities in action", "DGN3108": "Design for social impact", "DGN4001": "Major project (design) part 1", "DGN4002": "Major project (design) part 2", "DGN5103": "Design practice as research", "DGN5203": "Design for culture and heritage", "DGN5204": "Design for social impact", "DIS1103": "Digital processes for art and design 1", "DIS1704": "Web design", "DIS1911": "3D design and visualisation", "DIS2105": "Digital imaging", "DIS2601": "Digital audio/video", "DIS2904": "3D modelling", "DIS2906": "Design for multimedia", "DIS2907": "3D animation", "DIS2909": "Electronic design", "DIS3904": "Digital imaging studio", "DIS3905": "Digital audio video - advanced production", "DIS3906": "Digital publication", "DIS4201": "3D modelling and virtual space", "DIS4604": "Digital audio/video", "DIS5201": "3D animation", "DIS5604": "Digital audio/video 2", "DWG1201": "Drawing 1", "DWG2501": "Drawing: Landscape, space and environment", "DWG2504": "Drawing: Advanced studies 1", "DWG2506": "Drawing: Social based strategies", "DWG2507": "Drawing Conceptual studies 1", "DWG2508": "Drawing Conceptual studies 2", "DWG2509": "Drawing: The body 1", "DWG2511": "Drawing: Anatomy 1", "DWG2784": "Visual investigation", "DWG3511": "Drawing: Contemporary practice", "DWG3516": "Drawing: Anatomy 2", "DWG3518": "Drawing: Advanced studies 2", "DWG3519": "Drawing: The Body 2", "FNA1111": "Introduction to contemporary practices 1", "FNA1112": "Introduction to contemporary practices 2", "FNA2003": "3D digital modelling for artists", "FNA2111": "Contemporary practices 3", "FNA2112": "Contemporary practices 4", "FNA2903": "Art and design in film", "FNA3111": "Contemporary practices 5", "FNA3112": "Contemporary practices 6", "FNA3903": "Film practice", "FNA4001": "Project studies (fine art honours)", "FNA4002": "Major project (fine art honours)", "FNA4011": "Studio methodology", "GLS1211": "Contemporary glass practices", "GLS1231": "Contemporary glass blowing practices", "GLS2213": "Contemporary glass sculpture", "GLS2223": "Contemporary blown and sculpted glass", "IAR1113": "Interior architecture studio 1", "IAR1114": "Interior architecture studio 2", "IAR1411": "Communication and media", "IAR1602": "Constructions and environments 1", "IAR2115": "Interior architecture studio 3", "IAR2116": "Interior architecture studio 4", "IAR2411": "Contemporary interior architecture", "IAR2601": "Constructions and environments 2", "IAR2602": "Constructions and environments 3", "IAR3117": "Interior architecture studio 5", "IAR3118": "Interior architecture studio 6", "IAR3303": "Folio and reflection", "IAR3401": "Interior architecture history and theory", "IAR3501": "Studies in interior architecture", "IAR4117": "Interior architecture studio 7", "IAR4118": "Interior architecture studio 8", "IAR4119": "Interior architecture studio 7", "IAR4120": "Interior architecture design research project", "IAR4406": "Industrial experience", "IAR4500": "Research: Questions and processes", "IAR4501": "Interior architecture design research documentation", "IDE1502": "Modelmaking and workshop practice", "IDE1602": "Product drawing", "IDE1802": "Materials and manufacturing 1", "IDE2113": "Industrial design studio 3", "IDE2114": "Industrial design studio 4", "IDE2120": "Designing for sustainability", "IDE2211": "Engineering drawing", "IDE2303": "Ergonomics", "IDE2701": "Product interface design", "IDE2810": "Furniture 1", "IDE2811": "Mechanics and electronics for industrial design", "IDE3115": "Industrial design studio 5", "IDE3116": "Industrial design studio 6", "IDE3812": "Mobility design 1", "IDE3813": "Mobility design 2", "IDE3814": "Materials and manufacturing 2", "IDE3815": "Furniture design 2", "IDE4117": "Industrial design studio 7 (major project 1)", "IDE4118": "Industrial design studio 8 (major project 2)", "IDE4809": "Mobility design 3", "IDN1001": "Industrial design studio 1", "IDN1002": "Industrial design studio 2", "IDN2001": "Industrial design studio 3", "IDN2101": "Concept art for design", "IDN2102": "Service design studio", "IDN3001": "Industrial design studio 4", "IDN3002": "Industrial design studio 5", "IDN4001": "Major project (industrial design) part 1", "IDN4002": "Major project (industrial design) part 2", "IDN4406": "Industry placement for design", "JWL1311": "Contemporary jewellery practice 1", "JWL1312": "Contemporary jewellery practice 2", "JWL2313": "Contemporary jewellery practice 3", "JWL2314": "Contemporary jewellery practice 4", "MDC4000": "Design project (part 1)", "MDC4001": "Design project (part 1)", "MDC4002": "Design project (part 2)", "MDC4010": "Advanced design communication", "MDC4100": "Design project (part 1)", "MDC4110": "Interaction design studio 1", "MDC4120": "Multimedia design studio 1", "MDC4130": "Collaborative design studio 1", "MDC4201": "Fundamental interaction design studio 1", "MDC4202": "Fundamental interaction design studio 2", "MDC4215": "Interaction design lab 1", "MDC4216": "Interaction design lab 2", "MDC4500": "Design fundamentals studio", "MDC4550": "Design technologies and processes", "MDC5000": "Major design project", "MDC5001": "Design project (part 3)", "MDC5010": "Advanced design communication", "MDC5020": "Design studio practice", "MDC5100": "Major design project", "MDC5201": "Fundamental interaction design studio 3", "MDC5202": "Interaction design research project", "MDC5210": "Interaction design studio 2", "MDC5215": "Interaction design lab 3", "MDC5220": "Multimedia design studio 2", "MDC5230": "Collaborative design studio 2", "MDC5310": "Interaction design studio 3", "MDC5320": "Multimedia design studio 3", "MDC5330": "Collaborative design studio 3", "MDC5340": "Advanced studies in design", "MDS5022": "Design theory workshop", "MDS5031": "Research methods in design", "MMD3305": "Multimedia studio 5A", "MMD3307": "Digital arts studio 5A", "MMD3308": "Digital arts studio 6A", "MMD4001": "Multimedia design studio 1", "MMD5002": "Multimedia design studio 2", "MMD5003": "Multimedia design studio 3", "OHS1000": "Introduction to art and design health and safety", "PHO1203": "Photography 1", "PHO1204": "Digital imaging for contemporary art", "PHO2202": "Advanced photography", "PHO2204": "Video art and the moving image 1", "PHO2207": "Photographic processes", "PHO2208": "Photographic lighting studio", "PPR3102": "Professional practice for interior architecture", "PPR3103": "Project planning and professional practice for design and multimedia", "PPR4002": "Professional practice and business planning for design", "PPR4102": "Professional practice and business planning for design", "PPR5500": "Design management and entrepreneurship", "PRM1001": "The contemporary print: Etching and relief printmaking", "PRM1511": "Artists' books", "PRM2401": "Screenprinting and the contemporary poster", "PRM2512": "Artists' books 2", "PTG1001": "Painting introduction: materials and methods", "PTG2031": "Abstraction and non-objective painting", "PTG2032": "Painting: Installation and the expanded field", "PTG2033": "Representational painting: Narrative and figuration", "PTG2034": "Sound in the space of art", "PTG2035": "Interventions: Feminist and conceptual practices", "SCU1021": "Contemporary casting", "SCU1022": "Sculptural construction: wood and metal working", "SCU2021": "Advanced moulding and casting", "SCU2022": "Site specificity: Sculptural and installation interventions", "SDN1002": "Spatial design studio 2", "SDN2001": "Spatial design studio 3", "SDN3001": "Spatial design studio 4", "SDN3002": "Spatial design studio 5", "TAD2214": "Critical issues in design", "TAD3214": "Contemporary discourse in design", "TAD4503": "Advanced art theory", "TAD4504": "Art theory research seminar", "TAD4523": "Design research methods and seminar", "TAD4541": "Research methods in design", "TAD4542": "Research seminar in design", "TAD4793": "Issues for multimedia practice", "TAD4794": "Multimedia and society", "TAD5500": "Exegesis", "TDN1002": "Design and the avant-garde", "TDN2001": "Sociologies of design", "TDN2002": "Communication design theory", "TDN2703": "Fashion interfaces: communication and the interior", "TDN2704": "Home and away: design and the city", "TDN3001": "Research for design", "TDN3002": "Design strategy and professional practice", "TDN3003": "Design criticism", "TDN4001": "Research methods in industrial design", "TDN4101": "Design research methods", "TDN4102": "Design research documentation", "TDN4401": "Human factors for interaction design", "TDN5001": "Research methods in industrial design", "UPD4001": "Planning project 1: the compact city", "UPD4002": "Planning project 2: the ecological city", "UPD4101": "Applied professional practice: planning capabilities and competencies", "UPD4201": "Planning study 1: regulating the city", "UPD4202": "Planning study 2: economics and the city", "UPD5001": "Planning project 3: The sprawling city", "UPD5002": "Planning project 4: The inclusive city", "UPD5102": "Applied Professional Practice: Urban planning and design research methods", "UPD5201": "Planning study 3: History and theory of planning and urban design", "UPD5202": "Planning study 4: Democratic engagement", "UPD5500": "Independent Research Project", "VCM4029": "Designing interactive systems", "VCM4101": "Introduction to multimedia imaging", "VCM4601": "Design principles for multimedia 1", "VCM4602": "Design principles for multimedia 2", "VCM4604": "Information design for interactive media", "VCO1203": "Introduction to contemporary illustration", "VCO1302": "Typography 1", "VCO1303": "The language of graphic design", "VCO2204": "Illustration as design", "VCO2304": "Typography 2", "VCO2402": "Advertising design 1", "VCO2904": "Image, communication and location", "VCO3206": "Conceptual illustration", "VCO3305": "Digital font design", "VCO3307": "Typography 3", "VCO3403": "Advertising design 2", "VPR1011": "Visual practices 1", "VPR1012": "Visual practices 2", "VPR1113": "Research practices", "VPR2011": "Research practices advanced", "VPR2012": "Professional practice", "VPR3001": "Visual practices 5", "VPR3002": "Visual practices 6", "VPR3011": "Professional practice advanced", "VPR3012": "Visual practices 3"}
+[
+  {
+    "unitcode": "ADA1011",
+    "unitname": "Interdisciplinary studies 1"
+  },
+  {
+    "unitcode": "ADA1111",
+    "unitname": "Design thinking"
+  },
+  {
+    "unitcode": "ADA2001",
+    "unitname": "Interdisciplinary studio 1"
+  },
+  {
+    "unitcode": "ADA2011",
+    "unitname": "Interdisciplinary studies 2"
+  },
+  {
+    "unitcode": "ADA3001",
+    "unitname": "Interdisciplinary studio 2"
+  },
+  {
+    "unitcode": "ADA3011",
+    "unitname": "Interdisciplinary studies 3"
+  },
+  {
+    "unitcode": "ADA3111",
+    "unitname": "Design thinking"
+  },
+  {
+    "unitcode": "ADA4001",
+    "unitname": "Interdisciplinary studio 3"
+  },
+  {
+    "unitcode": "ADA4011",
+    "unitname": "Interdisciplinary studies 4"
+  },
+  {
+    "unitcode": "ADA4111",
+    "unitname": "Design thinking advanced"
+  },
+  {
+    "unitcode": "ADA4500",
+    "unitname": "Design thinking approaches"
+  },
+  {
+    "unitcode": "ADA5001",
+    "unitname": "Interdisciplinary studio 4"
+  },
+  {
+    "unitcode": "ADA5011",
+    "unitname": "Interdisciplinary studies 5"
+  },
+  {
+    "unitcode": "ADA5111",
+    "unitname": "Design thinking for business"
+  },
+  {
+    "unitcode": "ADD5091",
+    "unitname": "Research methods 1"
+  },
+  {
+    "unitcode": "ADD5092",
+    "unitname": "Research methods 2"
+  },
+  {
+    "unitcode": "ADD6093",
+    "unitname": "Research documentation"
+  },
+  {
+    "unitcode": "ADM5001",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "ADM5002",
+    "unitname": "Theory workshop"
+  },
+  {
+    "unitcode": "AHT1101",
+    "unitname": "Introduction to visual culture in art, design and architecture"
+  },
+  {
+    "unitcode": "AHT1102",
+    "unitname": "Modernism and the avant-garde"
+  },
+  {
+    "unitcode": "AHT2001",
+    "unitname": "Art writing and criticism"
+  },
+  {
+    "unitcode": "AHT2011",
+    "unitname": "Baroque to enlightenment: European art before modernism"
+  },
+  {
+    "unitcode": "AHT2025",
+    "unitname": "The body in contemporary art"
+  },
+  {
+    "unitcode": "AHT2031",
+    "unitname": "World Art"
+  },
+  {
+    "unitcode": "AHT2102",
+    "unitname": "International art 1945-1990"
+  },
+  {
+    "unitcode": "AHT2105",
+    "unitname": "Contemporary international art"
+  },
+  {
+    "unitcode": "AHT2120",
+    "unitname": "Art and social change"
+  },
+  {
+    "unitcode": "AHT2130",
+    "unitname": "Renaissance to Baroque: Italian art and architecture in context"
+  },
+  {
+    "unitcode": "AHT2136",
+    "unitname": "Contemporary art fieldwork: context and site"
+  },
+  {
+    "unitcode": "AHT2137",
+    "unitname": "Art and the moving image"
+  },
+  {
+    "unitcode": "AHT2138",
+    "unitname": "Space, place and society"
+  },
+  {
+    "unitcode": "AHT2207",
+    "unitname": "Popular culture"
+  },
+  {
+    "unitcode": "AHT2301",
+    "unitname": "Indigenous Australian art, practice and ways of knowing"
+  },
+  {
+    "unitcode": "AHT2440",
+    "unitname": "Photography: History and theory"
+  },
+  {
+    "unitcode": "AHT2530",
+    "unitname": "Neo-Baroque aesthetics: History and theory"
+  },
+  {
+    "unitcode": "AHT2602",
+    "unitname": "Art criticism and curatorship"
+  },
+  {
+    "unitcode": "AHT2712",
+    "unitname": "Curating: Histories and theories"
+  },
+  {
+    "unitcode": "AHT2722",
+    "unitname": "Curating: Practices"
+  },
+  {
+    "unitcode": "AHT2740",
+    "unitname": "Australian art"
+  },
+  {
+    "unitcode": "AHT2801",
+    "unitname": "The medium in contemporary art"
+  },
+  {
+    "unitcode": "AHT3001",
+    "unitname": "Art writing and criticism"
+  },
+  {
+    "unitcode": "AHT3011",
+    "unitname": "Baroque to enlightenment: European art before modernism"
+  },
+  {
+    "unitcode": "AHT3025",
+    "unitname": "The body in contemporary art"
+  },
+  {
+    "unitcode": "AHT3102",
+    "unitname": "International art 1945-1990"
+  },
+  {
+    "unitcode": "AHT3105",
+    "unitname": "Contemporary international art"
+  },
+  {
+    "unitcode": "AHT3109",
+    "unitname": "Constructing art in Australia: Colonialism to postcolonialism"
+  },
+  {
+    "unitcode": "AHT3120",
+    "unitname": "Art and social change"
+  },
+  {
+    "unitcode": "AHT3130",
+    "unitname": "Renaissance to Baroque: Italian art and architecture in context"
+  },
+  {
+    "unitcode": "AHT3137",
+    "unitname": "Art and the moving image"
+  },
+  {
+    "unitcode": "AHT3138",
+    "unitname": "Space, place and society"
+  },
+  {
+    "unitcode": "AHT3150",
+    "unitname": "Project studies"
+  },
+  {
+    "unitcode": "AHT3207",
+    "unitname": "Popular culture"
+  },
+  {
+    "unitcode": "AHT3301",
+    "unitname": "Indigenous Australian art, practice and ways of knowing"
+  },
+  {
+    "unitcode": "AHT3440",
+    "unitname": "Photography: History and theory"
+  },
+  {
+    "unitcode": "AHT3530",
+    "unitname": "Neo-Baroque aesthetics: History and theory"
+  },
+  {
+    "unitcode": "AHT3602",
+    "unitname": "Art criticism and curatorship"
+  },
+  {
+    "unitcode": "AHT3712",
+    "unitname": "Curating: Histories and theories"
+  },
+  {
+    "unitcode": "AHT3722",
+    "unitname": "Curating: Practices"
+  },
+  {
+    "unitcode": "AHT3740",
+    "unitname": "Australian art"
+  },
+  {
+    "unitcode": "AHT3801",
+    "unitname": "The medium in contemporary art"
+  },
+  {
+    "unitcode": "AHT4002",
+    "unitname": "B) Minor thesis part 2"
+  },
+  {
+    "unitcode": "AHT4012",
+    "unitname": "Visual culture and its theories"
+  },
+  {
+    "unitcode": "AHT4025",
+    "unitname": "Visual culture internship"
+  },
+  {
+    "unitcode": "AHT4111",
+    "unitname": "Project studies. Art history and theory honours"
+  },
+  {
+    "unitcode": "AHT4112",
+    "unitname": "Major project - Art history and theory honours"
+  },
+  {
+    "unitcode": "AHT4406",
+    "unitname": "Curating internship"
+  },
+  {
+    "unitcode": "AHT4503",
+    "unitname": "Advanced art theory"
+  },
+  {
+    "unitcode": "AHT4504",
+    "unitname": "Art theory research seminar"
+  },
+  {
+    "unitcode": "ARC1001",
+    "unitname": "Foundation studio 1"
+  },
+  {
+    "unitcode": "ARC1002",
+    "unitname": "Foundation studio 2"
+  },
+  {
+    "unitcode": "ARC1102",
+    "unitname": "Technologies and environments 1"
+  },
+  {
+    "unitcode": "ARC1301",
+    "unitname": "Architecture communications 1"
+  },
+  {
+    "unitcode": "ARC2001",
+    "unitname": "Architecture design studio 3"
+  },
+  {
+    "unitcode": "ARC2002",
+    "unitname": "Architecture design studio 4"
+  },
+  {
+    "unitcode": "ARC2101",
+    "unitname": "Technologies and environments 2"
+  },
+  {
+    "unitcode": "ARC2301",
+    "unitname": "Architecture communications 2"
+  },
+  {
+    "unitcode": "ARC2401",
+    "unitname": "Contemporary architecture"
+  },
+  {
+    "unitcode": "ARC2402",
+    "unitname": "19th and 20th century architecture"
+  },
+  {
+    "unitcode": "ARC3001",
+    "unitname": "Architecture design studio 5"
+  },
+  {
+    "unitcode": "ARC3002",
+    "unitname": "Architecture design studio 6"
+  },
+  {
+    "unitcode": "ARC3101",
+    "unitname": "Technologies and environments 3"
+  },
+  {
+    "unitcode": "ARC3102",
+    "unitname": "Integrated technologies, environments and professional studies"
+  },
+  {
+    "unitcode": "ARC3401",
+    "unitname": "Architecture and the city"
+  },
+  {
+    "unitcode": "ARC3501",
+    "unitname": "Advanced studies in architecture A"
+  },
+  {
+    "unitcode": "ARC3502",
+    "unitname": "Advanced studies in architecture B"
+  },
+  {
+    "unitcode": "ARC4001",
+    "unitname": "Advanced architecture project 1"
+  },
+  {
+    "unitcode": "ARC4002",
+    "unitname": "Advanced architecture project 2"
+  },
+  {
+    "unitcode": "ARC4031",
+    "unitname": "Transition architecture studio 1"
+  },
+  {
+    "unitcode": "ARC4032",
+    "unitname": "Transition architecture studio 2"
+  },
+  {
+    "unitcode": "ARC4101",
+    "unitname": "Integrated project- technologies, environments and professional practices"
+  },
+  {
+    "unitcode": "ARC4130",
+    "unitname": "Technologies and environments"
+  },
+  {
+    "unitcode": "ARC4201",
+    "unitname": "Professional studies 1"
+  },
+  {
+    "unitcode": "ARC4501",
+    "unitname": "Advanced architecture studies 1"
+  },
+  {
+    "unitcode": "ARC4502",
+    "unitname": "Advanced architecture studies 2"
+  },
+  {
+    "unitcode": "ARC5001",
+    "unitname": "Advanced architecture project 3"
+  },
+  {
+    "unitcode": "ARC5002",
+    "unitname": "Final architecture project"
+  },
+  {
+    "unitcode": "ARC5201",
+    "unitname": "Professional practices"
+  },
+  {
+    "unitcode": "ARC5401",
+    "unitname": "Architecture research"
+  },
+  {
+    "unitcode": "ARC5501",
+    "unitname": "Advanced architecture studies 3"
+  },
+  {
+    "unitcode": "ARC5502",
+    "unitname": "Advanced studies in architecture 4"
+  },
+  {
+    "unitcode": "CDS1001",
+    "unitname": "Communication design studio 1"
+  },
+  {
+    "unitcode": "CDS1002",
+    "unitname": "Communication design studio 2"
+  },
+  {
+    "unitcode": "CDS1511",
+    "unitname": "Photographic art direction"
+  },
+  {
+    "unitcode": "CDS1531",
+    "unitname": "Illustration for narrative"
+  },
+  {
+    "unitcode": "CDS2001",
+    "unitname": "Communication design studio 3"
+  },
+  {
+    "unitcode": "CDS2002",
+    "unitname": "Communication design elective studio"
+  },
+  {
+    "unitcode": "CDS2511",
+    "unitname": "Branding for designers"
+  },
+  {
+    "unitcode": "CDS2512",
+    "unitname": "Packaging design"
+  },
+  {
+    "unitcode": "CDS2521",
+    "unitname": "Creative coding"
+  },
+  {
+    "unitcode": "CDS2522",
+    "unitname": "Creative expression through physical computing"
+  },
+  {
+    "unitcode": "CDS2523",
+    "unitname": "Creative visualisation"
+  },
+  {
+    "unitcode": "CDS2524",
+    "unitname": "Unconventional publishing"
+  },
+  {
+    "unitcode": "CDS2531",
+    "unitname": "Illustration for animation"
+  },
+  {
+    "unitcode": "CDS3001",
+    "unitname": "Communication design studio 4"
+  },
+  {
+    "unitcode": "CDS3002",
+    "unitname": "Communication design studio 5"
+  },
+  {
+    "unitcode": "CDS4001",
+    "unitname": "Major project (communication design) part 1"
+  },
+  {
+    "unitcode": "CDS4002",
+    "unitname": "Major project (communication design) part 2"
+  },
+  {
+    "unitcode": "COL1001",
+    "unitname": "Collaborative design studio 1"
+  },
+  {
+    "unitcode": "DGN1001",
+    "unitname": "Design studio 1"
+  },
+  {
+    "unitcode": "DGN1104",
+    "unitname": "Interdisciplinary design studio 2"
+  },
+  {
+    "unitcode": "DGN2000",
+    "unitname": "Interdisciplinary Design"
+  },
+  {
+    "unitcode": "DGN2003",
+    "unitname": "Interdisciplinary design studio 3"
+  },
+  {
+    "unitcode": "DGN2004",
+    "unitname": "Interdisciplinary design studio 4"
+  },
+  {
+    "unitcode": "DGN3103",
+    "unitname": "Expansion studies in design"
+  },
+  {
+    "unitcode": "DGN3105",
+    "unitname": "Interdisciplinary design studio 5"
+  },
+  {
+    "unitcode": "DGN3106",
+    "unitname": "Interdisciplinary design studio 6"
+  },
+  {
+    "unitcode": "DGN3107",
+    "unitname": "Digital humanities in action"
+  },
+  {
+    "unitcode": "DGN3108",
+    "unitname": "Design for social impact"
+  },
+  {
+    "unitcode": "DGN4001",
+    "unitname": "Major project (design) part 1"
+  },
+  {
+    "unitcode": "DGN4002",
+    "unitname": "Major project (design) part 2"
+  },
+  {
+    "unitcode": "DGN5103",
+    "unitname": "Design practice as research"
+  },
+  {
+    "unitcode": "DGN5203",
+    "unitname": "Design for culture and heritage"
+  },
+  {
+    "unitcode": "DGN5204",
+    "unitname": "Design for social impact"
+  },
+  {
+    "unitcode": "DIS1103",
+    "unitname": "Digital processes for art and design 1"
+  },
+  {
+    "unitcode": "DIS1704",
+    "unitname": "Web design"
+  },
+  {
+    "unitcode": "DIS1911",
+    "unitname": "3D design and visualisation"
+  },
+  {
+    "unitcode": "DIS2105",
+    "unitname": "Digital imaging"
+  },
+  {
+    "unitcode": "DIS2601",
+    "unitname": "Digital audio/video"
+  },
+  {
+    "unitcode": "DIS2904",
+    "unitname": "3D modelling"
+  },
+  {
+    "unitcode": "DIS2906",
+    "unitname": "Design for multimedia"
+  },
+  {
+    "unitcode": "DIS2907",
+    "unitname": "3D animation"
+  },
+  {
+    "unitcode": "DIS2909",
+    "unitname": "Electronic design"
+  },
+  {
+    "unitcode": "DIS3904",
+    "unitname": "Digital imaging studio"
+  },
+  {
+    "unitcode": "DIS3905",
+    "unitname": "Digital audio video - advanced production"
+  },
+  {
+    "unitcode": "DIS3906",
+    "unitname": "Digital publication"
+  },
+  {
+    "unitcode": "DIS4201",
+    "unitname": "3D modelling and virtual space"
+  },
+  {
+    "unitcode": "DIS4604",
+    "unitname": "Digital audio/video"
+  },
+  {
+    "unitcode": "DIS5201",
+    "unitname": "3D animation"
+  },
+  {
+    "unitcode": "DIS5604",
+    "unitname": "Digital audio/video 2"
+  },
+  {
+    "unitcode": "DWG1201",
+    "unitname": "Drawing 1"
+  },
+  {
+    "unitcode": "DWG2501",
+    "unitname": "Drawing: Landscape, space and environment"
+  },
+  {
+    "unitcode": "DWG2504",
+    "unitname": "Drawing: Advanced studies 1"
+  },
+  {
+    "unitcode": "DWG2506",
+    "unitname": "Drawing: Social based strategies"
+  },
+  {
+    "unitcode": "DWG2507",
+    "unitname": "Drawing Conceptual studies 1"
+  },
+  {
+    "unitcode": "DWG2508",
+    "unitname": "Drawing Conceptual studies 2"
+  },
+  {
+    "unitcode": "DWG2509",
+    "unitname": "Drawing: The body 1"
+  },
+  {
+    "unitcode": "DWG2511",
+    "unitname": "Drawing: Anatomy 1"
+  },
+  {
+    "unitcode": "DWG2784",
+    "unitname": "Visual investigation"
+  },
+  {
+    "unitcode": "DWG3511",
+    "unitname": "Drawing: Contemporary practice"
+  },
+  {
+    "unitcode": "DWG3516",
+    "unitname": "Drawing: Anatomy 2"
+  },
+  {
+    "unitcode": "DWG3518",
+    "unitname": "Drawing: Advanced studies 2"
+  },
+  {
+    "unitcode": "DWG3519",
+    "unitname": "Drawing: The Body 2"
+  },
+  {
+    "unitcode": "FNA1111",
+    "unitname": "Introduction to contemporary practices 1"
+  },
+  {
+    "unitcode": "FNA1112",
+    "unitname": "Introduction to contemporary practices 2"
+  },
+  {
+    "unitcode": "FNA2003",
+    "unitname": "3D digital modelling for artists"
+  },
+  {
+    "unitcode": "FNA2111",
+    "unitname": "Contemporary practices 3"
+  },
+  {
+    "unitcode": "FNA2112",
+    "unitname": "Contemporary practices 4"
+  },
+  {
+    "unitcode": "FNA2903",
+    "unitname": "Art and design in film"
+  },
+  {
+    "unitcode": "FNA3111",
+    "unitname": "Contemporary practices 5"
+  },
+  {
+    "unitcode": "FNA3112",
+    "unitname": "Contemporary practices 6"
+  },
+  {
+    "unitcode": "FNA3903",
+    "unitname": "Film practice"
+  },
+  {
+    "unitcode": "FNA4001",
+    "unitname": "Project studies (fine art honours)"
+  },
+  {
+    "unitcode": "FNA4002",
+    "unitname": "Major project (fine art honours)"
+  },
+  {
+    "unitcode": "FNA4011",
+    "unitname": "Studio methodology"
+  },
+  {
+    "unitcode": "GLS1211",
+    "unitname": "Contemporary glass practices"
+  },
+  {
+    "unitcode": "GLS1231",
+    "unitname": "Contemporary glass blowing practices"
+  },
+  {
+    "unitcode": "GLS2213",
+    "unitname": "Contemporary glass sculpture"
+  },
+  {
+    "unitcode": "GLS2223",
+    "unitname": "Contemporary blown and sculpted glass"
+  },
+  {
+    "unitcode": "IAR1113",
+    "unitname": "Interior architecture studio 1"
+  },
+  {
+    "unitcode": "IAR1114",
+    "unitname": "Interior architecture studio 2"
+  },
+  {
+    "unitcode": "IAR1411",
+    "unitname": "Communication and media"
+  },
+  {
+    "unitcode": "IAR1602",
+    "unitname": "Constructions and environments 1"
+  },
+  {
+    "unitcode": "IAR2115",
+    "unitname": "Interior architecture studio 3"
+  },
+  {
+    "unitcode": "IAR2116",
+    "unitname": "Interior architecture studio 4"
+  },
+  {
+    "unitcode": "IAR2411",
+    "unitname": "Contemporary interior architecture"
+  },
+  {
+    "unitcode": "IAR2601",
+    "unitname": "Constructions and environments 2"
+  },
+  {
+    "unitcode": "IAR2602",
+    "unitname": "Constructions and environments 3"
+  },
+  {
+    "unitcode": "IAR3117",
+    "unitname": "Interior architecture studio 5"
+  },
+  {
+    "unitcode": "IAR3118",
+    "unitname": "Interior architecture studio 6"
+  },
+  {
+    "unitcode": "IAR3303",
+    "unitname": "Folio and reflection"
+  },
+  {
+    "unitcode": "IAR3401",
+    "unitname": "Interior architecture history and theory"
+  },
+  {
+    "unitcode": "IAR3501",
+    "unitname": "Studies in interior architecture"
+  },
+  {
+    "unitcode": "IAR4117",
+    "unitname": "Interior architecture studio 7"
+  },
+  {
+    "unitcode": "IAR4118",
+    "unitname": "Interior architecture studio 8"
+  },
+  {
+    "unitcode": "IAR4119",
+    "unitname": "Interior architecture studio 7"
+  },
+  {
+    "unitcode": "IAR4120",
+    "unitname": "Interior architecture design research project"
+  },
+  {
+    "unitcode": "IAR4406",
+    "unitname": "Industrial experience"
+  },
+  {
+    "unitcode": "IAR4500",
+    "unitname": "Research: Questions and processes"
+  },
+  {
+    "unitcode": "IAR4501",
+    "unitname": "Interior architecture design research documentation"
+  },
+  {
+    "unitcode": "IDE1502",
+    "unitname": "Modelmaking and workshop practice"
+  },
+  {
+    "unitcode": "IDE1602",
+    "unitname": "Product drawing"
+  },
+  {
+    "unitcode": "IDE1802",
+    "unitname": "Materials and manufacturing 1"
+  },
+  {
+    "unitcode": "IDE2113",
+    "unitname": "Industrial design studio 3"
+  },
+  {
+    "unitcode": "IDE2114",
+    "unitname": "Industrial design studio 4"
+  },
+  {
+    "unitcode": "IDE2120",
+    "unitname": "Designing for sustainability"
+  },
+  {
+    "unitcode": "IDE2211",
+    "unitname": "Engineering drawing"
+  },
+  {
+    "unitcode": "IDE2303",
+    "unitname": "Ergonomics"
+  },
+  {
+    "unitcode": "IDE2701",
+    "unitname": "Product interface design"
+  },
+  {
+    "unitcode": "IDE2810",
+    "unitname": "Furniture 1"
+  },
+  {
+    "unitcode": "IDE2811",
+    "unitname": "Mechanics and electronics for industrial design"
+  },
+  {
+    "unitcode": "IDE3115",
+    "unitname": "Industrial design studio 5"
+  },
+  {
+    "unitcode": "IDE3116",
+    "unitname": "Industrial design studio 6"
+  },
+  {
+    "unitcode": "IDE3812",
+    "unitname": "Mobility design 1"
+  },
+  {
+    "unitcode": "IDE3813",
+    "unitname": "Mobility design 2"
+  },
+  {
+    "unitcode": "IDE3814",
+    "unitname": "Materials and manufacturing 2"
+  },
+  {
+    "unitcode": "IDE3815",
+    "unitname": "Furniture design 2"
+  },
+  {
+    "unitcode": "IDE4117",
+    "unitname": "Industrial design studio 7 (major project 1)"
+  },
+  {
+    "unitcode": "IDE4118",
+    "unitname": "Industrial design studio 8 (major project 2)"
+  },
+  {
+    "unitcode": "IDE4809",
+    "unitname": "Mobility design 3"
+  },
+  {
+    "unitcode": "IDN1001",
+    "unitname": "Industrial design studio 1"
+  },
+  {
+    "unitcode": "IDN1002",
+    "unitname": "Industrial design studio 2"
+  },
+  {
+    "unitcode": "IDN2001",
+    "unitname": "Industrial design studio 3"
+  },
+  {
+    "unitcode": "IDN2101",
+    "unitname": "Concept art for design"
+  },
+  {
+    "unitcode": "IDN2102",
+    "unitname": "Service design studio"
+  },
+  {
+    "unitcode": "IDN3001",
+    "unitname": "Industrial design studio 4"
+  },
+  {
+    "unitcode": "IDN3002",
+    "unitname": "Industrial design studio 5"
+  },
+  {
+    "unitcode": "IDN4001",
+    "unitname": "Major project (industrial design) part 1"
+  },
+  {
+    "unitcode": "IDN4002",
+    "unitname": "Major project (industrial design) part 2"
+  },
+  {
+    "unitcode": "IDN4406",
+    "unitname": "Industry placement for design"
+  },
+  {
+    "unitcode": "JWL1311",
+    "unitname": "Contemporary jewellery practice 1"
+  },
+  {
+    "unitcode": "JWL1312",
+    "unitname": "Contemporary jewellery practice 2"
+  },
+  {
+    "unitcode": "JWL2313",
+    "unitname": "Contemporary jewellery practice 3"
+  },
+  {
+    "unitcode": "JWL2314",
+    "unitname": "Contemporary jewellery practice 4"
+  },
+  {
+    "unitcode": "MDC4000",
+    "unitname": "Design project (part 1)"
+  },
+  {
+    "unitcode": "MDC4001",
+    "unitname": "Design project (part 1)"
+  },
+  {
+    "unitcode": "MDC4002",
+    "unitname": "Design project (part 2)"
+  },
+  {
+    "unitcode": "MDC4010",
+    "unitname": "Advanced design communication"
+  },
+  {
+    "unitcode": "MDC4100",
+    "unitname": "Design project (part 1)"
+  },
+  {
+    "unitcode": "MDC4110",
+    "unitname": "Interaction design studio 1"
+  },
+  {
+    "unitcode": "MDC4120",
+    "unitname": "Multimedia design studio 1"
+  },
+  {
+    "unitcode": "MDC4130",
+    "unitname": "Collaborative design studio 1"
+  },
+  {
+    "unitcode": "MDC4201",
+    "unitname": "Fundamental interaction design studio 1"
+  },
+  {
+    "unitcode": "MDC4202",
+    "unitname": "Fundamental interaction design studio 2"
+  },
+  {
+    "unitcode": "MDC4215",
+    "unitname": "Interaction design lab 1"
+  },
+  {
+    "unitcode": "MDC4216",
+    "unitname": "Interaction design lab 2"
+  },
+  {
+    "unitcode": "MDC4500",
+    "unitname": "Design fundamentals studio"
+  },
+  {
+    "unitcode": "MDC4550",
+    "unitname": "Design technologies and processes"
+  },
+  {
+    "unitcode": "MDC5000",
+    "unitname": "Major design project"
+  },
+  {
+    "unitcode": "MDC5001",
+    "unitname": "Design project (part 3)"
+  },
+  {
+    "unitcode": "MDC5010",
+    "unitname": "Advanced design communication"
+  },
+  {
+    "unitcode": "MDC5020",
+    "unitname": "Design studio practice"
+  },
+  {
+    "unitcode": "MDC5100",
+    "unitname": "Major design project"
+  },
+  {
+    "unitcode": "MDC5201",
+    "unitname": "Fundamental interaction design studio 3"
+  },
+  {
+    "unitcode": "MDC5202",
+    "unitname": "Interaction design research project"
+  },
+  {
+    "unitcode": "MDC5210",
+    "unitname": "Interaction design studio 2"
+  },
+  {
+    "unitcode": "MDC5215",
+    "unitname": "Interaction design lab 3"
+  },
+  {
+    "unitcode": "MDC5220",
+    "unitname": "Multimedia design studio 2"
+  },
+  {
+    "unitcode": "MDC5230",
+    "unitname": "Collaborative design studio 2"
+  },
+  {
+    "unitcode": "MDC5310",
+    "unitname": "Interaction design studio 3"
+  },
+  {
+    "unitcode": "MDC5320",
+    "unitname": "Multimedia design studio 3"
+  },
+  {
+    "unitcode": "MDC5330",
+    "unitname": "Collaborative design studio 3"
+  },
+  {
+    "unitcode": "MDC5340",
+    "unitname": "Advanced studies in design"
+  },
+  {
+    "unitcode": "MDS5022",
+    "unitname": "Design theory workshop"
+  },
+  {
+    "unitcode": "MDS5031",
+    "unitname": "Research methods in design"
+  },
+  {
+    "unitcode": "MMD3305",
+    "unitname": "Multimedia studio 5A"
+  },
+  {
+    "unitcode": "MMD3307",
+    "unitname": "Digital arts studio 5A"
+  },
+  {
+    "unitcode": "MMD3308",
+    "unitname": "Digital arts studio 6A"
+  },
+  {
+    "unitcode": "MMD4001",
+    "unitname": "Multimedia design studio 1"
+  },
+  {
+    "unitcode": "MMD5002",
+    "unitname": "Multimedia design studio 2"
+  },
+  {
+    "unitcode": "MMD5003",
+    "unitname": "Multimedia design studio 3"
+  },
+  {
+    "unitcode": "OHS1000",
+    "unitname": "Introduction to art and design health and safety"
+  },
+  {
+    "unitcode": "PHO1203",
+    "unitname": "Photography 1"
+  },
+  {
+    "unitcode": "PHO1204",
+    "unitname": "Digital imaging for contemporary art"
+  },
+  {
+    "unitcode": "PHO2202",
+    "unitname": "Advanced photography"
+  },
+  {
+    "unitcode": "PHO2204",
+    "unitname": "Video art and the moving image 1"
+  },
+  {
+    "unitcode": "PHO2207",
+    "unitname": "Photographic processes"
+  },
+  {
+    "unitcode": "PHO2208",
+    "unitname": "Photographic lighting studio"
+  },
+  {
+    "unitcode": "PPR3102",
+    "unitname": "Professional practice for interior architecture"
+  },
+  {
+    "unitcode": "PPR3103",
+    "unitname": "Project planning and professional practice for design and multimedia"
+  },
+  {
+    "unitcode": "PPR4002",
+    "unitname": "Professional practice and business planning for design"
+  },
+  {
+    "unitcode": "PPR4102",
+    "unitname": "Professional practice and business planning for design"
+  },
+  {
+    "unitcode": "PPR5500",
+    "unitname": "Design management and entrepreneurship"
+  },
+  {
+    "unitcode": "PRM1001",
+    "unitname": "The contemporary print: Etching and relief printmaking"
+  },
+  {
+    "unitcode": "PRM1511",
+    "unitname": "Artists' books"
+  },
+  {
+    "unitcode": "PRM2401",
+    "unitname": "Screenprinting and the contemporary poster"
+  },
+  {
+    "unitcode": "PRM2512",
+    "unitname": "Artists' books 2"
+  },
+  {
+    "unitcode": "PTG1001",
+    "unitname": "Painting introduction: materials and methods"
+  },
+  {
+    "unitcode": "PTG2031",
+    "unitname": "Abstraction and non-objective painting"
+  },
+  {
+    "unitcode": "PTG2032",
+    "unitname": "Painting: Installation and the expanded field"
+  },
+  {
+    "unitcode": "PTG2033",
+    "unitname": "Representational painting: Narrative and figuration"
+  },
+  {
+    "unitcode": "PTG2034",
+    "unitname": "Sound in the space of art"
+  },
+  {
+    "unitcode": "PTG2035",
+    "unitname": "Interventions: Feminist and conceptual practices"
+  },
+  {
+    "unitcode": "SCU1021",
+    "unitname": "Contemporary casting"
+  },
+  {
+    "unitcode": "SCU1022",
+    "unitname": "Sculptural construction: wood and metal working"
+  },
+  {
+    "unitcode": "SCU2021",
+    "unitname": "Advanced moulding and casting"
+  },
+  {
+    "unitcode": "SCU2022",
+    "unitname": "Site specificity: Sculptural and installation interventions"
+  },
+  {
+    "unitcode": "SDN1002",
+    "unitname": "Spatial design studio 2"
+  },
+  {
+    "unitcode": "SDN2001",
+    "unitname": "Spatial design studio 3"
+  },
+  {
+    "unitcode": "SDN3001",
+    "unitname": "Spatial design studio 4"
+  },
+  {
+    "unitcode": "SDN3002",
+    "unitname": "Spatial design studio 5"
+  },
+  {
+    "unitcode": "TAD2214",
+    "unitname": "Critical issues in design"
+  },
+  {
+    "unitcode": "TAD3214",
+    "unitname": "Contemporary discourse in design"
+  },
+  {
+    "unitcode": "TAD4503",
+    "unitname": "Advanced art theory"
+  },
+  {
+    "unitcode": "TAD4504",
+    "unitname": "Art theory research seminar"
+  },
+  {
+    "unitcode": "TAD4523",
+    "unitname": "Design research methods and seminar"
+  },
+  {
+    "unitcode": "TAD4541",
+    "unitname": "Research methods in design"
+  },
+  {
+    "unitcode": "TAD4542",
+    "unitname": "Research seminar in design"
+  },
+  {
+    "unitcode": "TAD4793",
+    "unitname": "Issues for multimedia practice"
+  },
+  {
+    "unitcode": "TAD4794",
+    "unitname": "Multimedia and society"
+  },
+  {
+    "unitcode": "TAD5500",
+    "unitname": "Exegesis"
+  },
+  {
+    "unitcode": "TDN1002",
+    "unitname": "Design and the avant-garde"
+  },
+  {
+    "unitcode": "TDN2001",
+    "unitname": "Sociologies of design"
+  },
+  {
+    "unitcode": "TDN2002",
+    "unitname": "Communication design theory"
+  },
+  {
+    "unitcode": "TDN2703",
+    "unitname": "Fashion interfaces: communication and the interior"
+  },
+  {
+    "unitcode": "TDN2704",
+    "unitname": "Home and away: design and the city"
+  },
+  {
+    "unitcode": "TDN3001",
+    "unitname": "Research for design"
+  },
+  {
+    "unitcode": "TDN3002",
+    "unitname": "Design strategy and professional practice"
+  },
+  {
+    "unitcode": "TDN3003",
+    "unitname": "Design criticism"
+  },
+  {
+    "unitcode": "TDN4001",
+    "unitname": "Research methods in industrial design"
+  },
+  {
+    "unitcode": "TDN4101",
+    "unitname": "Design research methods"
+  },
+  {
+    "unitcode": "TDN4102",
+    "unitname": "Design research documentation"
+  },
+  {
+    "unitcode": "TDN4401",
+    "unitname": "Human factors for interaction design"
+  },
+  {
+    "unitcode": "TDN5001",
+    "unitname": "Research methods in industrial design"
+  },
+  {
+    "unitcode": "UPD4001",
+    "unitname": "Planning project 1: the compact city"
+  },
+  {
+    "unitcode": "UPD4002",
+    "unitname": "Planning project 2: the ecological city"
+  },
+  {
+    "unitcode": "UPD4101",
+    "unitname": "Applied professional practice: planning capabilities and competencies"
+  },
+  {
+    "unitcode": "UPD4201",
+    "unitname": "Planning study 1: regulating the city"
+  },
+  {
+    "unitcode": "UPD4202",
+    "unitname": "Planning study 2: economics and the city"
+  },
+  {
+    "unitcode": "UPD5001",
+    "unitname": "Planning project 3: The sprawling city"
+  },
+  {
+    "unitcode": "UPD5002",
+    "unitname": "Planning project 4: The inclusive city"
+  },
+  {
+    "unitcode": "UPD5102",
+    "unitname": "Applied Professional Practice: Urban planning and design research methods"
+  },
+  {
+    "unitcode": "UPD5201",
+    "unitname": "Planning study 3: History and theory of planning and urban design"
+  },
+  {
+    "unitcode": "UPD5202",
+    "unitname": "Planning study 4: Democratic engagement"
+  },
+  {
+    "unitcode": "UPD5500",
+    "unitname": "Independent Research Project"
+  },
+  {
+    "unitcode": "VCM4029",
+    "unitname": "Designing interactive systems"
+  },
+  {
+    "unitcode": "VCM4101",
+    "unitname": "Introduction to multimedia imaging"
+  },
+  {
+    "unitcode": "VCM4601",
+    "unitname": "Design principles for multimedia 1"
+  },
+  {
+    "unitcode": "VCM4602",
+    "unitname": "Design principles for multimedia 2"
+  },
+  {
+    "unitcode": "VCM4604",
+    "unitname": "Information design for interactive media"
+  },
+  {
+    "unitcode": "VCO1203",
+    "unitname": "Introduction to contemporary illustration"
+  },
+  {
+    "unitcode": "VCO1302",
+    "unitname": "Typography 1"
+  },
+  {
+    "unitcode": "VCO1303",
+    "unitname": "The language of graphic design"
+  },
+  {
+    "unitcode": "VCO2204",
+    "unitname": "Illustration as design"
+  },
+  {
+    "unitcode": "VCO2304",
+    "unitname": "Typography 2"
+  },
+  {
+    "unitcode": "VCO2402",
+    "unitname": "Advertising design 1"
+  },
+  {
+    "unitcode": "VCO2904",
+    "unitname": "Image, communication and location"
+  },
+  {
+    "unitcode": "VCO3206",
+    "unitname": "Conceptual illustration"
+  },
+  {
+    "unitcode": "VCO3305",
+    "unitname": "Digital font design"
+  },
+  {
+    "unitcode": "VCO3307",
+    "unitname": "Typography 3"
+  },
+  {
+    "unitcode": "VCO3403",
+    "unitname": "Advertising design 2"
+  },
+  {
+    "unitcode": "VPR1011",
+    "unitname": "Visual practices 1"
+  },
+  {
+    "unitcode": "VPR1012",
+    "unitname": "Visual practices 2"
+  },
+  {
+    "unitcode": "VPR1113",
+    "unitname": "Research practices"
+  },
+  {
+    "unitcode": "VPR2011",
+    "unitname": "Research practices advanced"
+  },
+  {
+    "unitcode": "VPR2012",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "VPR3001",
+    "unitname": "Visual practices 5"
+  },
+  {
+    "unitcode": "VPR3002",
+    "unitname": "Visual practices 6"
+  },
+  {
+    "unitcode": "VPR3011",
+    "unitname": "Professional practice advanced"
+  },
+  {
+    "unitcode": "VPR3012",
+    "unitname": "Visual practices 3"
+  }
+]

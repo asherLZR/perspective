@@ -1,1 +1,3226 @@
-{"ASC5001": "Addiction science: A biopsychosocial overview", "ASC5002": "Socio-cultural perspectives of addiction", "ASC5003": "Addiction policies, prevention and public health", "ASC5004": "Addiction assessment and treatment: Practice and innovation", "ASC5007": "Recovery principles", "ASC5008": "Co-occurring disorders in mental health and addiction", "ASC5009": "Developmental factors: Children and families, youth and early interventions", "ASC5010": "Gambling and other process addictions", "AVM5001": "Aviation physiology", "AVM5002": "Hazards of aviation environment", "AVM5003": "Clinical aviation medicine", "BEH1041": "Human development and health across the lifespan", "BEH1042": "Law, ethics and professionalism", "BEH2141": "The paramedic in the community", "BEH3022": "Research and contemporary challenges in community based emergency health", "BEH4100": "Honours literature review", "BEH4200": "Honours research proposal", "BEH4300": "Honours research report", "BMA1011": "Foundations of anatomy and physiology for health practice 1", "BMA1012": "Foundations of anatomy and physiology for health practice 2", "BMA1901": "Human structure and function 1", "BMA1902": "Human structure and function 2", "BMA5011": "Introduction to human bioscience for engineering", "BME2032": "Biomedical industry based learning", "BME3032": "Introduction to the health system", "BME3082": "Fetal and neonatal development", "BMS1011": "Biomedical chemistry", "BMS1021": "Cells, tissues and organisms", "BMS1031": "Medical biophysics", "BMS1042": "Public health and preventive medicine", "BMS1052": "Human neurobiology", "BMS1062": "Molecular biology", "BMS2011": "Structure of the human body: An evolutionary and functional perspective", "BMS2021": "Human molecular cell biology", "BMS2031": "Body systems", "BMS2042": "Human genetics", "BMS2052": "Microbes in health and disease", "BMS2062": "Introduction to bioinformatics", "BMS3031": "Molecular mechanisms of disease", "BMS3052": "Biomedical basis and epidemiology of human disease", "BMS3930": "Action in biomedical science major research project", "BMS3940": "Major research project in biomedical science", "BMS3990": "Action in biomedical science minor research project", "BMS4100": "Biomedical science research project", "BMS4200": "Advanced studies in biomedical science", "BMS4301": "Advanced studies in biomedical science", "BMS4302": "Biomedical science research project", "BMS5001": "Research training: Critical thinking and communication skills", "BMS5002": "Research techniques: Tissues, organs and systems", "BMS5003": "Infectious diseases and population health", "BMS5004": "Advanced neuroscience", "BMS5005": "Regenerative medicine and stem cells", "BMS5006": "Cardiovascular biology and disease", "BMS5007": "Biotechnology: Commercialising biomedical science", "BMS5008": "Research project and thesis", "BMS5009": "Industry training and internship", "BMS5012": "Cancer biology and therapeutics", "BMS5013": "Research training: Ethics and integrity, biostatistics and critical thinking", "BMS5014": "Research techniques: Molecular and cellular techniques", "BND3101": "Evidence based management", "BND3102": "Introduction to dietetic practice", "BND3202": "Food for dietetic practice", "BND3302": "Dietetic practice 1", "BND4082": "Improving the population's nutrition", "BND4092": "Practice and research in public health nutrition", "BND4102": "Practice and research in dietetics", "BND4402": "Dietetic practice 2", "BRM5011": "Foundations for medical biotechnology and its applications", "BRM5012": "Techniques in medical biotechnology: genomics, proteomics and bioinformatics", "BRM5013": "Techniques in medical biotechnology: Imaging, iPS cells, cell and gene therapies", "BRM5014": "Therapeutic approaches and biotechnology", "BRM5021": "Biotechnology research project", "BRM5022": "Biotechnology work-integrated learning", "CCS5100": "Research project in medical science", "CCS5200": "Advanced studies in medical science", "CMH5001": "Mental health practice essentials", "CMH5002": "The context for mental health practice", "CMH5003": "Concepts in mental health illness", "CMH5004": "Recovery oriented mental health practice", "CMH5005": "Mental health of the elderly", "CMH5006": "Transcultural mental health", "CMH5011": "Contemporary research and practice in family violence", "CMH5012": "Psychopharmacology and physical treatments in mental health care", "CPS5001": "Psychoanalytic and developmental theories 1", "CPS5002": "Normal developmental observation", "CPS5003": "Psychoanalytic and developmental theories 2", "CPS5004": "Psychodynamic assessment of children and adolescents", "CPS5005": "Principles of child psychotherapy", "CPS5006": "Principles of adolescent psychotherapy", "CPS5007": "Principles of short term therapy", "CPS5008": "Principles of working with parents", "CPS5009": "Contemporary issues and controversies in child psychotherapy", "DPH6005": "Doctor of public health: Public health practice", "DPSY510": " Clinical developmental psychology", "DPSY516": " Neuroanatomy for the clinical neuropsychologist", "DPSY520": " Theories and techniques of intervention part 1", "DPSY526": " Neuropsychological syndromes", "DPSY529": " Introductory practicum", "DPSY610": " Health psychology and behavioural medicine", "DPSY616": " Case analysis and professional practice in neuropsychology 2", "DPSY619": " Intermediate practicum", "DPSY620": " Clinical neuropsychology", "DPSY626": " Recovery of function and rehabilitation after brain injury", "DPSY629": " Advanced practicum", "DPSY639": " Specialised clinical practicum", "DPSY713": " Advanced clinical psychology: General", "DPSY714": " Advanced clinical psychology: Child, adolescent and family", "DPSY719": " Advanced specialised practicum", "EPM5001": "Health indicators and health surveys", "EPM5002": "Mathematical background for biostatistics", "EPM5003": "Principles of statistical inference", "EPM5004": "Linear models", "EPM5005": "Data management and statistical computing", "EPM5006": "Clinical biostatistics", "EPM5007": "Design of randomised controlled trials", "EPM5008": "Longitudinal and correlated data analysis", "EPM5009": "Categorical data and generalised linear models", "EPM5010": "Survival analysis", "EPM5011": "Biostatistics practical project: double unit", "EPM5012": "Bioinformatics", "EPM5013": "Bayesian statistical methods", "EPM5014": "Probability and distribution theory", "EPM5015": "Biostatistics practical project: single unit", "EPM5023": "Foundations of international health", "EPP2032": "Paramedic clinical practice", "FBS5001": "Fundamentals of forensic behavioural science", "FBS5002": "The role of mental health in criminal offending", "FBS5004": "Developmental aspects of forensic behavioural science", "FBS5005": "The assessment and management of problem behaviours", "FOR3001": "Principles of forensic medicine and science", "FOR4001": "Medical evidence", "FOR4002": "Injury interpretation", "FOR4003": "Ethics, medicine and the law", "FOR4004": "Elements of the forensic sciences", "FOR5005": "Adult sexual assault", "FOR5006": "Traffic medicine", "FOR5007": "Elements of forensic toxicology", "FOR5008": "Custodial medicine", "FOR5009": "Advanced issues in sexual violence", "FOR5010": "Project in forensic medicine", "FOR5011": "Advanced issues in non-accidental injury of children", "FOR5012": "Child and adolescent sexual abuse", "FOR5013": "Non accidental injury in childhood", "FOR5014": "Elements of forensic odontology", "FOR5015": "Post mortem dental identification: Principles and methods", "FOR5016": "Clinical forensic odontology", "FOR5017": "Disaster victim identification (DVI): Principles and methods", "FOR5018": "Elements of forensic anthropology", "FOR5020": "Post mortem CT imaging", "FOR5021": "Mortuary technical science", "FOR5022": "Advanced methods in forensic science: emerging trends and issues", "FOR5023": "Quality management in the forensic sciences", "FOR5025": "Forensic pharmacology", "FPA5004": "Autopsy practice", "FPA5007": "Death investigation", "GHS5841": "Research and evidence for practice", "GHS5850": "Nursing leadership and management", "GMA1010": "Foundations of medical practice", "GMA2100": "Foundations of medical practice", "GMA2200": "Principles of medicine", "GRS4100": "Laboratory skills in reproductive science", "GRS4101": "Reproductive endocrinology", "GRS4102": "Gonadal development and function", "GRS4103": "Pregnancy and parturition", "GRS4104": "Reproductive health and fertility regulations", "GRS4110": "Research skills in reproductive science", "GRS4201": "Comparative reproduction and conservation", "GRS4202": "Assisted reproductive and genetic technologies", "HCS5100": "Foundations of health professions education: Clinical Simulation", "HPE5003": "Assessment in health professions education", "HPE5011": "Educational research methods for the health professions", "HPE5015": "Leadership and innovations in health professions education", "HPE5100": "Foundations of health professions education", "HSC1100": "Introduction to research and evidence", "HSC1200": "Introduction to public health", "HSC1300": "Human health and disease", "HSC1400": "The Australian healthcare system", "HSC2100": "Emerging challenges in health", "HSC2200": "Health and the human lifespan", "HSC2300": "Health promotion and disease prevention", "HSC4001": "Health science research project 1", "HSC4002": "Health science research project 2", "HSC4011": "Advanced studies in public health research", "IPE1011": "Foundations of health in primary clinical care", "IRD5000": "Master of biomedical science (Part 1): Monash Institute of Medical Research", "MAP1000": "Indigenous healing ways", "MAP4200": "Improving indigenous equity in professional practice", "MAP5000": "Research in advanced health professional practice", "MAP5001": "Preparatory minor thesis", "MAP5002": "Minor thesis", "MAP5003": "Essentials of advanced health care practice and research", "MAP5010": "Advanced health practice research project", "MAP5101": "Advanced critical care skills", "MAP5104": "Emergency medicine skills", "MAP5105": "Trauma skills", "MCE5100": "Biology of reproduction", "MCE5101": "Infertility treatment strategies", "MCE5103": "Theory: ART laboratory processes (embryology)", "MCE5105": "Theory: ART laboratory processes (andrology)", "MCE5112": "Practical: ART laboratory processes (embryology/andrology)", "MCE5200": "ART laboratory operations and management", "MCE5201": "Practical: ART laboratory processes (advanced embryology)", "MCE5205": "Research in ART (designing and applying)", "MCE5212": "Genetic testing in ART", "MCE5213": "Regulation and ethics in assisted reproductive technologies", "MED1011": "Medicine 1", "MED1022": "Medicine 2", "MED1100": "Introduction to medical practice", "MED1200": "Principles of medicine 1", "MED2031": "Medicine 3", "MED2042": "Medicine 4", "MED2100": "Foundations of medical practice", "MED2200": "Principles of medicine 2", "MED3010": "Research methods in medicine", "MED3062": "Medicine and surgery 2", "MED3100": "Medicine and surgery", "MED3200": "Foundation clinical studies", "MED4000": "Year 3B and 4C final grade", "MED4190": "Specialty clinical practices", "MED4200": "Integrated clinical studies", "MED4301": "Medical science honours research skills", "MED4302": "Medical science honours research project", "MED5091": "Advanced clinical practice 1", "MED5092": "Advanced clinical practice 2", "MED5100": "Final MBBS grade", "MED5101": "Applied studies in medical research and professional practice", "MED5102": "Contemporary developments in clinical practice: Patient safety", "MEH5050": "Emergency health project", "MID1000": "Introduction to Midwifery", "MID2000": "Foundations for midwifery practice", "MID2010": "Working with birthing women", "MID2110": "Complementary therapies: An evidence based approach", "MID3000": "Theory and practice of complex midwifery", "MID3103": "Childbearing obstacles", "MID3104": "Navigating childbearing challenges", "MID3105": "Women's health: Women's business", "MID3110": "Professional midwifery practice", "MID3202": "Supporting the newborn infant", "MID3222": "Safety in midwifery and nursing contexts", "MID4001": "Preparation for practice (midwifery)", "MID5001": "Woman midwife partnerships and normal childbearing", "MID5002": "Woman midwife partnerships and complex childbearing", "MID5003": "Midwifery and maternity in context", "MID5004": "Becoming a midwife", "MID5005": "Advancing midwifery practice", "MID5006": "Public and primary health care in midwifery", "MID5007": "Contextual and professional issues in midwifery", "MIMR500": " Master of biomedical science (Part 1): Monash Institute of Medical Research PT", "MMT5002": "Medicine minor thesis extension unit", "MMT5004": "Medicine minor thesis extension unit", "MPH5002": "Foundations of health promotion and program planning", "MPH5020": "Introduction to epidemiology and biostatistics", "MPH5022": "Evaluating public health programs", "MPH5040": "Introductory epidemiology", "MPH5041": "Introductory biostatistics", "MPH5042": "Climate change and public health", "MPH5200": "Regression methods for epidemiology", "MPH5203": "Environmental influences on health", "MPH5207": "Chronic disease: Epidemiology and prevention", "MPH5213": "Research methods", "MPH5214": "Demographic methods", "MPH5218": "Infectious diseases: Epidemiology and prevention", "MPH5222": "Assessment and control of workplace hazards", "MPH5231": "Research design and project proposal", "MPH5232": "Research conduct, analysis, write-up and submission", "MPH5236": "Clinical trials", "MPH5239": "Systematic reviews and meta-analysis", "MPH5241": "Introduction to occupational health and safety", "MPH5242": "Psychosocial work environment", "MPH5243": "Chemical and biological hazards", "MPH5244": "Ergonomic and physical hazards", "MPH5248": "Primary health care and global health", "MPH5249": "Field methods for global health planning and evaluation", "MPH5250": "Women's and children's health: A global perspective", "MPH5251": "Infectious diseases and global health", "MPH5252": "Global health care delivery: principles and challenges", "MPH5253": "Public health in refugee settings", "MPH5254": "Nutrition in developing countries", "MPH5255": "Health and human rights", "MPH5256": "Injury epidemiology and prevention", "MPH5260": "Health policy and prevention in a global world", "MPH5265": "Law for health systems", "MPH5266": "Clinical leadership and management", "MPH5267": "Principles of health care quality improvement", "MPH5268": "Economics and financial management in health care", "MPH5269": "Foundations of health policy", "MPH5270": "Advanced statistical methods for clinical research", "MPH5271": "Implementation and innovation in health care", "MPH5272": "Principles of health systems", "MPH5273": "Case study in health services management", "MPH5276": "Safety management systems", "MPH5277": "Practical data management", "MPH5281": "Management theory and practice", "MPH5282": "Health communications and training", "MPH5283": "Ethics, good research practice and practical research methods", "MPH5286": "Applying and practicing the principles of patient safety and quality improvement", "MPH5287": "Alcohol and other drugs in society: A national and global perspective", "MPH5288": "Introduction and challenges in public health", "MPH5289": "Professional practice development", "MPH5301": "Health systems and policy", "MPH5302": "Biostatistics: Concepts and applications", "MPH5303": "Epidemiology of infectious diseases", "MPH5304": "Leading and managing in public health and health care", "MPH5305": "Epidemiology: Concepts and applications", "MPH5306": "Evaluation in public health", "MPH5307": "Introduction to health law principles", "MPH5308": "Developing health systems", "MPH5309": "Occupational health and safety", "MPH5310": "Introduction to environmental health", "MPH5311": "Safety and quality in health care", "MPH5312": "Advances in managing patient care processes", "MPH5313": "Challenges in public health", "MPH5314": "Epidemiology of chronic disease", "MPH5315": "Introduction to management", "MPH6040": "Introductory epidemiology", "MPH6041": "Introductory biostatistics", "MSM5100": "Research project - Master of Biomedical Science MUM", "MSM5101": "Research project - Master of Biomedical Science MUM (part-time)", "MSM5200": "Advanced studies in biomedical sciences MUM", "MSM5201": "Advanced studies in biomedical sciences MUM (part-time)", "NEH4012": "Interprofessional practice in community and hospital settings", "NUR1010": "Foundations of nursing and midwifery practice", "NUR1013": "Indigenous health for nursing and midwifery practice", "NUR1102": "Health assessment in clinical practice", "NUR1105": "Foundations of leadership and professional practice", "NUR1110": "Communication and scholarship in nursing and midwifery", "NUR1111": "Global health and cultural competence in nursing and midwifery practice", "NUR1112": "Fundamental skills and knowledge for nursing and midwifery practice 1", "NUR1113": "Law, ethics and leadership in nursing and midwifery", "NUR1114": "Fundamental skills and knowledge for nursing and midwifery practice 2", "NUR1202": "Legal issues and concepts", "NUR1205": "Population and socio-cultural health research", "NUR2005": "Introduction to maternity and paediatric nursing", "NUR2007": "Introduction to palliative care", "NUR2106": "Integrated nursing practice 1", "NUR2203": "Health promotion", "NUR2204": "Working with families across the lifespan", "NUR2206": "Integrated nursing practice 2", "NUR2207": "Mental health clinical practice", "NUR2223": "Safety in healthcare contexts", "NUR2225": "Mental health nursing practice contexts", "NUR2226": "Nursing practice contexts 1", "NUR2227": "Primary health care and health promotion in nursing and midwifery contexts", "NUR2228": "Nursing practice contexts 2", "NUR2229": "Nursing practice contexts 3", "NUR2445": "Clinical assessment in nursing", "NUR2447": "Clinical concepts", "NUR3001": "Evidence based health care", "NUR3002": "Integrated nursing practice 3", "NUR3003": "Education for clinical practice", "NUR3004": "Preparing for practice", "NUR3005": "Chronic illness management in primary care", "NUR3009": "Transition to professional practice", "NUR3022": "Integrated nursing practice 4", "NUR3106": "Introduction to high acuity nursing", "NUR3204": "Integrated community care", "NUR3310": "Translation of nursing knowledge to complex acute care practice", "NUR3312": "Translation of nursing knowledge in preparation for professional practice", "NUR4111": "Translation of nursing knowledge for primary care practice", "NUR4113": "Translation of nursing knowledge for leadership in practice", "NUR4401": "Clinical honours thesis 1: Applied research methods and skills", "NUR4402": "Clinical honours thesis 2: Framing a research proposal", "NUR4403": "Clinical honours thesis 3: Conducting a research project", "NUR4404": "Clinical honours thesis 4: Analysing and reporting research", "NUR5002": "Contemporary nursing practice 2", "NUR5003": "Contemporary nursing practice 3", "NUR5004": "Contemporary nursing practice 4", "NUR5008": "Contemporary psychotherapies for nurses", "NUR5011": "Contemporary nursing in context 1", "NUR5022": "Contemporary nursing in context 2", "NUR5033": "Contemporary nursing in context 3", "NUR5111": "Contemporary nursing practice 1", "NUR5112": "Nursing practice in the Australian healthcare context", "NUR5113": "Nursing in the Australian context", "NUR5202": "Nursing informatics", "NUR5203": "Palliative care practice", "NUR5204": "Education in health care practice", "NUR5208": "Therapeutic medication management", "NUR5209": "Education program development", "NUR5210": "Disaster and emergency nursing management", "NUR5214": "Advanced therapeutic interaction in nursing", "NUR5215": "Mental health nursing concepts and practice", "NUR5217": "Advanced paediatric nursing", "NUR5218": "Advanced clinical decision making", "NUR5227": "Integrated mental health care", "NUR5228": "Theories and philosophies of mental health nursing", "NUR5229": "Challenges and controversies in mental health nursing practice", "NUR5315": "Advanced practice in context", "NUR5325": "Clinical leadership in nursing", "NUR5326": "Leading improvement and innovation in the quality and safety of nursing and health care", "NUR5327": "Management and leadership of professional nursing practice", "NUR5405": "Explorations in child and family nursing", "NUR5411": "Advanced clinical assessment and diagnostic reasoning", "NUR5600": "Nurse practitioner essentials", "NUR5703": "Pathophysiology for advanced clinical nursing", "NUR5704": "Pathophysiology for advanced paediatric clinical nursing", "NUR5705": "Perioperative nursing 1", "NUR5706": "Perioperative nursing 2", "NUR5708": "Specialist nursing practice", "NUR5833": "Refugee health and wellbeing", "NUR5844": "Population health and health promotion", "NUR5850": "Working cross-culturally in contemporary health care", "NUR5860": "Health education theory and practice", "NUR5870": "End of life care in nursing contexts", "NUR5923": "Intensive care nursing 1", "NUR5924": "Intensive care nursing 2", "NUR5925": "Emergency nursing 1", "NUR5926": "Emergency nursing 2", "NUR5927": "Advanced medical/surgical nursing practice 1", "NUR5928": "Advanced medical/surgical nursing practice 2", "NUT1001": "Personal and professional perspectives in nutrition", "NUT1002": "Evaluating the evidence: Nutrition and population health", "NUT1010": "Human nutrition: An introduction to nutrients", "NUT1011": "Human nutrition: An introduction to nutrients", "NUT1101": "Science foundations", "NUT1102": "Food science", "NUT1103": "Human biology for nutrition", "NUT2001": "Health across the lifespan", "NUT2002": "Applied research methods in nutrition", "NUT2102": "Food: Science, composition and skills", "NUT2103": "Integrated science systems", "NUT2104": "Nutritional biochemistry", "NUT3001": "Evidence based nutrition", "NUT3002": "Nutrition, activity and health in chronic diseases", "NUT3003": "Exercise physiology and sports nutrition", "NUT3004": "Nutrition controversies", "NUT3005": "Nutrition assessment", "NUT3006": "Food sustainability systems", "NUT3007": "Work placement", "NUT3008": "Biochemistry, genetics and molecular nutrition", "NUT3082": "Public health nutrition", "NUT4001": "Foundations of dietetic practice", "NUT4111": "Research skills", "NUT4121": "Honours research project 1", "NUT4122": "Honours research project 2", "NUT5001": "Introduction to dietetic skills", "NUT5002": "Practice and research in public health nutrition", "NUT5003": "Dietetic practice 1", "NUT5004": "Food for dietetic practice", "NUT5005": "Dietetic practice 2", "NUT5006": "Practice and research in dietetics", "OCC1011": "Professional issues", "OCC1012": "Occupational science", "OCC1021": "Psychology for occupational therapy", "OCC1022": "Foundations of occupational therapy practice", "OCC1032": "Occupational development across the lifespan", "OCC2012": "Foundation clinical sciences for occupational therapy", "OCC2013": "Introduction to occupational therapy professional practice", "OCC2014": "Occupational performance, capabilities and components", "OCC2020": "Enabling occupation: Performance challenges 1A", "OCC2022": "Skills for evidence based practice 1", "OCC3000": "Enabling occupation: Fieldwork experience 1B", "OCC3031": "Enabling occupation: Performance challenges 1B", "OCC3041": "Skills for evidence based practice 2", "OCC3052": "Enabling occupation 2: Performance challenges in population health", "OCC3061": "Health promotion in occupational therapy", "OCC3062": "Participation community practice 1: Development", "OCC3072": "Occupational therapy honours research project 1", "OCC4010": "Foundations of occupational therapy", "OCC4020": "Humans as occupational beings", "OCC4030": "Occupational performance, capabilities and components", "OCC4040": "Enabling occupation 1", "OCC4051": "Contemporary advances in occupational therapy practice", "OCC4071": "Participatory community practice 2: Implementation", "OCC4081": "Transition to practice 1", "OCC4082": "Advanced professional practice", "OCC4091": "Occupational therapy honours research project 2", "OCC4092": "Transition to practice 2", "OCC4121": "Adaptive and assistive technology", "OCC4131": "Assessment of children: Methods, policy, ethics and issues", "OCC4141": "Occupational therapy for children with a disability and their families", "OCC5050": "Enabling occupation 2", "OCC5060": "Enabling occupation 3", "OCC5070": "Transition to practice", "OCC5080": "Advanced professional practice", "OCC5121": "Advanced adaptive and assistive technology", "OCC5131": "Advanced assessment of children: Methods, policy, ethics and issues", "OCC5141": "Occupational therapy for children with a disability and their families", "OCC5161": "Human occupation and health", "PAR1011": "Foundations of paramedic practice 1", "PAR1012": "Foundations of paramedic practice 2", "PAR1021": "Introduction to paramedic research and evidence", "PAR1022": "Health and disease across the lifespan", "PAR1031": "Professionalism in paramedic practice", "PAR1032": "Paramedicine in the Australian health care system", "PAR2011": "Paramedic advanced life support", "PAR2012": "Paramedic management of respiratory conditions", "PAR2020": "Foundation paramedic clinical practice", "PAR2021": "Paramedic management of cardiovascular conditions", "PAR2022": "Paramedic management of trauma conditions", "PAR2031": "Pharmacotherapy in paramedic practice", "PAR2032": "Paramedic management of mental health", "PAR3011": "Paramedic management of medical conditions", "PAR3012": "Extended paramedic care", "PAR3021": "Paramedic emergency management", "PAR3022": "Clinical education and leadership in paramedic research and practice", "PAR3031": "Paramedic management of maternal and neonatal health", "PAR3032": "Paramedic management of acute conditions effecting special populations", "PAR3033": "Integrated clinical practice", "PAR5200": "Introduction to aeromedical and retrieval concepts", "PAR5210": "Aeromedical and retrieval professional practice", "PAR5220": "Aeromedical and retrieval clinical 1: Advanced life support/critical care", "PAR5230": "Aeromedical and retrieval coordination", "PAR5240": "Aeromedical retrieval rescue", "PAR5250": "Aeromedical and retrieval clinical 2: Intensive care", "PAR5320": "Extended care paramedicine 1", "PAR5330": "Extended care paramedicine 2", "PAR5400": "Principles of advanced care paramedic practice", "PAR5410": "Pharmacotherapy and clinical toxicology in advanced care paramedic practice", "PAR5420": "Intensive care management of cardiac conditions", "PAR5430": "Intensive care management of respiratory conditions", "PAR5440": "Intensive care management of trauma and environmental conditions", "PAR5450": "Advanced care paramedic management of paediatric and obstetric patients", "PAR5460": "Transition to practice in the intensive care simulated environment", "PAR5470": "Transition to intensive care clinical practicum", "PAR5480": "Intensive care management of medical conditions", "PBH1101": "Introduction to qualitative research", "PBH1102": "Introduction to communicating health", "PBH1104": "Global health: Opportunities and challenges", "PBH2001": "Foundations of epidemiology", "PBH2002": "Foundations of biostatistics", "PBH2003": "Culture, society and health", "PBH2004": "Health, law and ethics", "PBH2005": "Health program planning", "PBH2006": "Treatment and technologies", "PBH2008": "Introduction to health policy and politics", "PBH2107": "Public health and ethics short international program", "PBH3001": "Public health and clinical research methods", "PBH3002": "Disease prevention and control", "PBH3003": "Environmental determinants of health and disease", "PBH3004": "Health program evaluation", "PBH3005": "Social and behavioural sciences in public health", "PBH3006": "Public health research practicum", "PBH3007": "Health promotion practicum", "PBH3008": "Case studies in global and public health", "PBH3009": "Chronic disease epidemiology and control", "PBH3010": "Health data management", "PBH3011": "Advanced biostatistics for public health", "PBH3012": "Translating research into practice", "PHC5012": "Community based palliative care for health practitioners", "PHC5301": "Preventative health and management of chronic disease", "PHC5302": "Common problems in primary care", "PHH1052": "Health care systems: Global and local", "PHH1061": "Data, evidence and critical thinking in health", "PHH1081": "Foundations of public health", "PHH1101": "Biological bases of health and disease 1", "PHH1102": "Biological bases of health and disease 2", "PHH1112": "Global health: Opportunities and challenges", "PHH2022": "Culture, society and health", "PHH2051": "Health program planning", "PHH2101": "Health promotion: Global and local", "PHH2111": "Treatments and technologies", "PHH2141": "Analysing patterns of health and disease", "PHH2142": "Research methods in the health sciences", "PHH3001": "Health, law and ethics", "PHH3002": "Health for all in a global world", "PHH3011": "Contemporary health challenges", "PHH3041": "Disease prevention and control", "PHH3061": "Health program evaluation", "PHH3072": "Health policy and politics", "PHH3082": "Health promotion practicum", "PHH4101": "Public health research proposal", "PHH4102": "Contemporary and global public health issues", "PHH4201": "Public health research report", "PIT5001": "Foundations of psychiatry 1", "PIT5002": "Foundations of psychiatry 2", "PIT5003": "Foundations of psychiatry 3", "PIT5005": "Psychiatry of the medically ill", "PIT5006": "Child and adolescent psychiatry", "PIT5008": "Fundamentals of forensic psychiatry", "PIT5010": "Ethics of mental health care", "PIT5012": "Contemporary issues and controversies in psychiatry", "PMH1011": "Mental health in the community", "PMH3110": "Psychology impact internship", "POM5001": "Perioperative management of the cardiac patient", "POM5002": "Acute perioperative medicine", "POM5003": "Organ dysfunction 1", "POM5004": "Organ dysfunction 2", "POM5005": "Human factors for patient safety", "POM5101": "Perioperative medicine and cardiorespiratory disease", "POM5102": "Acute perioperative care", "POM5103": "Perioperative medicine and co-existing conditions", "POM5104": "Key topics in perioperative medicine", "PSY1011": "Psychology 1A", "PSY1022": "Psychology 1B", "PSY2042": "Personality and social psychology", "PSY2061": "Biological psychology", "PSY2071": "Developmental psychology", "PSY2112": "Organisational psychology", "PSY3032": "Abnormal psychology", "PSY3041": "Psychological testing, theories of ability and ethics", "PSY3051": "Perception and cognitive psychology", "PSY3062": "Research methods and theory", "PSY3120": "Introduction to counselling", "PSY3130": "Health psychology", "PSY3150": "Contemporary social psychology", "PSY3180": "Human neuropsychology: Developmental and neurodegenerative disorders", "PSY3190": "Addiction studies", "PSY3250": "Positive psychology", "PSY3270": "Neuroscience of cognition and behaviour", "PSY3280": "The neuronal basis of consciousness", "PSY3310": "Introduction to computational neuroscience", "PSY3320": "Sleep and circadian rhythms", "PSY4032": "Abnormal psychology", "PSY4041": "Psychological testing and ethics", "PSY4051": "Research design and analysis", "PSY4062": "Research methods and theory", "PSY4081": "Perception and cognition", "PSY4100": "Psychology honours: Research project", "PSY4110": "Psychology in society", "PSY4111": "Psychology 1A", "PSY4120": "Mental health and illness", "PSY4122": "Psychology 1B", "PSY4130": "Developmental psychology and clinical neuroscience", "PSY4131": "Developmental and biological psychology", "PSY4140": "Introduction to counselling", "PSY4151": "Personality and social psychology", "PSY4170": "Neuroscience of cognition and behaviour", "PSY4210": "Statistics and research design for professional psychology", "PSY4220": "Ethics, legal and professional issues in psychology", "PSY4270": "Psychological assessment and intervention", "PSY4400": "Psychology research project: final grade", "PSY4401": "Psychology research project: Statistics and research design for professional psychology", "PSY4402": "Psychology research project: Literature review", "PSY4403": "Psychology research project: Methodology and data collection", "PSY4404": "Psychology research project: results and discussion", "PSY4405": "Ethical and professional issues in psychology", "PSY4406": "Psychological assessment and intervention", "PSY4407": "Psychology in industry: Pathways to employment", "PSY4408": "Perspectives in clinical and developmental neuroscience", "PSY4409": "21st century applications of psychology", "PSY6101": "Psychopathology", "PSY6102": "Psychological assessment", "PSY6103": "Legal and ethical principles in clinical psychology practice and research", "PSY6104": "Cognitive behaviour therapies: processes and applications", "PSY6105": "Clinical development psychology", "PSY6161": "Legal and ethical principles in clinical neuropsychology practice and research", "PSY6162": "Neuroanatomy and models of cognition for the clinical neuropsychologist", "PSY6163": "Neuropsychological assessment and neuropsychological syndromes", "PSY6164": "Developmental Neuropsychology", "PSY6201": "Psychopathology and theories and techniques of intervention", "PSY6202": "Psychopharmacology and advanced psychopathology", "PSY6203": "Recovery of function and rehabilitation after brain injury", "PSY6204": "Clinical neuropsychology", "PSY6205": "Introductory placement and case analysis (clinical psychology)", "PSY6206": "Intermediate placement and case analysis (clinical psychology)", "PSY6207": "Health psychology and behavioural medicine", "PSY6208": "Introductory placement and case analysis (clinical neuropsychology)", "PSY6209": "Intermediate placement and case analysis (clinical neuropsychology)", "PSY6301": "Advanced placement and case analysis (clinical psychology)", "PSY6302": "Advanced placement and case analysis (clinical neuropsychology)", "PTY1011": "Physiotherapy 1", "PTY1022": "Physiotherapy 2", "PTY2031": "Physiotherapy 3", "PTY2042": "Physiotherapy 4", "PTY3051": "Physiotherapy 5", "PTY3162": "Physiotherapy 6A: Clinical", "PTY3262": "Physiotherapy 6B: Clinical", "PTY3362": "Physiotherapy 6C: Clinical", "PTY3462": "Clinical placement", "PTY4000": "Honours thesis", "PTY4010": "Honours systematic review", "PTY4020": "Honours research proposal", "PTY4030": "Honours thesis", "PTY4171": "Physiotherapy 7A: Clinical", "PTY4172": "Physiotherapy 7B: Clinical", "PTY4281": "Physiotherapy 8A: Clinical", "PTY4282": "Physiotherapy 8B: Clinical", "PTY4283": "Physiotherapy 8C: Campus", "PTY5100": "Enhancing skills in paediatric physiotherapy", "PTY5101": "Advancing skills in paediatric physiotherapy: Cerebral palsy", "PTY5102": "Advancing skills in paediatric physiotherapy: Neonates and infants", "PTY5103": "Principles of paediatric physiotherapy", "PTY5104": "Advancing skills in paediatric physiotherapy: Complex and chronic conditions", "PTY5105": "Advanced physiotherapy clinical skills and project", "RAD1012": "Radiographic science and practice 2", "RAD1021": "Radiologic physics and radiation protection", "RAD1022": "Medical radiation science: Physical principles", "RAD1031": "Radiologic biology 1", "RAD1061": "Radiographic science and practice 1", "RAD1082": "Radiologic biology 2", "RAD2001": "Medical imaging science: Radiographic principles", "RAD2002": "Medical imaging anatomy", "RAD2003": "Medical imaging science: Nuclear medicine", "RAD2004": "Pathophysiology for medical radiation science 1", "RAD2005": "Medical radiation science: Professional skills 1", "RAD2006": "Pathophysiology for medical radiation science 2", "RAD2007": "Medical radiation science: Professional skills 2", "RAD2012": "Radiographic science and practice 4", "RAD2051": "Radiographic science and practice 3", "RAD2061": "Radiologic biology 3", "RAD2092": "Radiologic biology 4 and sectional anatomy", "RAD3002": "Medical imaging science: Computed tomography and digital image processing", "RAD3004": "Neuroimaging for neuroscience research", "RAD3042": "Medical imaging science and practice 2", "RAD3051": "Medical imaging science and practice 1", "RAD3061": "Medical imaging science (ultrasound)", "RAD3092": "Magnetic resonance imaging (physics and technology)", "RAD4000": "Radiography and medical imaging work experience", "RAD4070": "Research in medical imaging", "RAD4080": "Selected topics in medical imaging", "RAD4160": "Advanced medical imaging", "RAD4501": "MRI imaging and evidence based practice", "RAD4502": "Principles of general radiography image interpretation", "RAD4503": "Magnetic resonance imaging: Physics, instrumentation and safety", "RAD5105": "Pathology for imaging", "RAD5107": "Hybrid and molecular imaging", "RAD5108": "Musculoskeletal x-ray interpretation 1", "RAD5109": "Musculoskeletal x-ray interpretation 2", "RAD5110": "Advanced CT and clinical decision making 1", "RAD5111": "Advanced CT and clinical decision making 2", "RAD5112": "Advanced MRI clinical decision making", "RAD5114": "X-ray interpretation of the chest and abdomen", "RAD5201": "Emergency image interpretation 1", "RAD5202": "Emergency image interpretation 2", "RAD5500": "Multislice CT and clinical decision making", "RAD5504": "Magnetic resonance imaging: Musculoskeletal system", "RAD5505": "Magnetic resonance imaging: Head, spine abdomen and pelvis", "RAD5506": "Magnetic resonance imaging: Advanced imaging techniques", "RTP4101": "Professional issues in radiation therapy 1", "RTP4102": "Professional issues in radiation therapy 2", "RTP4103": "Specialised techniques in radiation therapy", "RTP5101": "Patient care and assessment in radiation therapy", "RTP5102": "Current issues in radiation therapy and oncology", "RTP5103": "Contemporary approaches to radiation therapy of the breast", "RTP5104": "Advanced imaging for radiation therapy", "RTS2001": "Professional practice in radiation therapy", "RTS2101": "Fundamentals of cancer and its management", "RTS4101": "Radiation therapy science 1", "RTS4102": "Radiation therapy science 2", "RTS4103": "Radiation therapy science 3", "RTS4104": "Radiation therapy principles and practice 1", "RTS4105": "Radiation therapy principles and practice 2", "RTS5101": "Radiation therapy science 4", "RTS5102": "Radiation therapy science 5", "RTS5103": "Radiation therapy science 6", "RTS5104": "Radiation therapy science 7", "RTS5105": "Radiation therapy science 8", "RTS5110": "Radiation therapy science and practice 1", "RTS5120": "Radiation therapy science and practice 2", "SON4000": "Physics of medical ultrasound and instrumentation", "SON4010": "Embryology, anatomy and pathophysiology", "SON5000": "Ultrasound research", "SON5020": "Sonographic professional skills and sonography of the breast and thyroid", "SON5021": "Sonographic abdominal imaging", "SON5022": "Sonographic imaging of the reproductive system", "SON5023": "Obstetric sonography", "SON5024": "Musculoskeletal, neonatal and paediatric sonography", "SON5025": "Sonographic vascular and postoperative imaging", "SRH3001": "Health and health care planning for communities", "SRH5000": "Health and health care planning for communities", "SRH5001": "Research methods for health", "SRH5003": "Designing and conducting health research", "SRH5032": "Applied research for health practitioners", "SWK1011": "Introduction to human services practice", "SWK2001": "Introduction to the Australian welfare state", "SWK2110": "Social welfare and the law", "SWK2140": "Social welfare and practice with communities", "SWK3080": "Planning for supervised professional practice placement 1", "SWK3180": "Supervised professional practice 1", "SWK3220": "Social work: Orientation to practice", "SWK3230": "Social work research", "SWK3310": "Social welfare practice and research", "SWK3400": "Critical social work 1: Individuals and families (context and practice)", "SWK3410": "Critical social work 2: Community work, context and practice", "SWK3440": "Leadership in social work and human services", "SWK4001": "Honours research methods", "SWK4002": "Honours project seminar", "SWK4030": "Human rights, legal and ethics knowledge for social work practice", "SWK4031": "Working with complexity", "SWK4032": "Working with complexity: Honours", "SWK4060": "Planning for supervised professional practice placement 2", "SWK4400": "Critical social work 3: Group work and community engagement (context and practice)", "SWK4401": "Critical social work 4: Individual, health and society (context and practice)", "SWK4450": "Social policy and social justice", "SWK4451": "Social policy and social justice: Honours", "SWK4560": "Supervised professional practice 2", "SWM5003": "Planning for supervised professional practice placement 1", "SWM5008": "Planning for supervised professional practice placement 2", "SWM5100": "Social work: Fields of practice", "SWM5101": "Human rights, law and ethics contexts for social work practice", "SWM5102": "Critical social work 1: Frameworks for practice with children and families", "SWM5103": "Supervised professional practice 1", "SWM5104": "Critical social work 2: Frameworks for practice in health and mental health", "SWM5105": "Social work practice and research", "SWM5106": "Critical social work 3: Community engagement group project", "SWM5108": "Supervised professional practice 2", "SWM5109": "Critical social work 4: Social policy, social change and community practice", "SWM5111": "Leadership in social work and human services", "SWM5112": "Research for social work practice", "SWM5113": "Critical social work 3: Group work and social work leadership", "SWM5120": "Criminology and social work", "SWM5160": "The child in society: Promoting children's wellbeing and responding to child maltreatment", "SWM5170": "Applied research study", "SWM5180": "Management of human resources in the social services", "SWM5190": "Social work research", "SWM5200": "Social work in a hospital context", "SWM5220": "Longevity and social work", "SWM5225": "Family violence and social work practice", "SWM5235": "Family violence and professional practice", "SWM5241": "Mental health practice", "SWM5260": "Social work in post disaster sites", "TRM4001": "Introduction to clinical trials", "TRM4002": "Translational research", "TRM6001": "Introduction to clinical trials", "TRM6002": "Translational research: pathways to the clinic"}
+[
+  {
+    "unitcode": "ASC5001",
+    "unitname": "Addiction science: A biopsychosocial overview"
+  },
+  {
+    "unitcode": "ASC5002",
+    "unitname": "Socio-cultural perspectives of addiction"
+  },
+  {
+    "unitcode": "ASC5003",
+    "unitname": "Addiction policies, prevention and public health"
+  },
+  {
+    "unitcode": "ASC5004",
+    "unitname": "Addiction assessment and treatment: Practice and innovation"
+  },
+  {
+    "unitcode": "ASC5007",
+    "unitname": "Recovery principles"
+  },
+  {
+    "unitcode": "ASC5008",
+    "unitname": "Co-occurring disorders in mental health and addiction"
+  },
+  {
+    "unitcode": "ASC5009",
+    "unitname": "Developmental factors: Children and families, youth and early interventions"
+  },
+  {
+    "unitcode": "ASC5010",
+    "unitname": "Gambling and other process addictions"
+  },
+  {
+    "unitcode": "AVM5001",
+    "unitname": "Aviation physiology"
+  },
+  {
+    "unitcode": "AVM5002",
+    "unitname": "Hazards of aviation environment"
+  },
+  {
+    "unitcode": "AVM5003",
+    "unitname": "Clinical aviation medicine"
+  },
+  {
+    "unitcode": "BEH1041",
+    "unitname": "Human development and health across the lifespan"
+  },
+  {
+    "unitcode": "BEH1042",
+    "unitname": "Law, ethics and professionalism"
+  },
+  {
+    "unitcode": "BEH2141",
+    "unitname": "The paramedic in the community"
+  },
+  {
+    "unitcode": "BEH3022",
+    "unitname": "Research and contemporary challenges in community based emergency health"
+  },
+  {
+    "unitcode": "BEH4100",
+    "unitname": "Honours literature review"
+  },
+  {
+    "unitcode": "BEH4200",
+    "unitname": "Honours research proposal"
+  },
+  {
+    "unitcode": "BEH4300",
+    "unitname": "Honours research report"
+  },
+  {
+    "unitcode": "BMA1011",
+    "unitname": "Foundations of anatomy and physiology for health practice 1"
+  },
+  {
+    "unitcode": "BMA1012",
+    "unitname": "Foundations of anatomy and physiology for health practice 2"
+  },
+  {
+    "unitcode": "BMA1901",
+    "unitname": "Human structure and function 1"
+  },
+  {
+    "unitcode": "BMA1902",
+    "unitname": "Human structure and function 2"
+  },
+  {
+    "unitcode": "BMA5011",
+    "unitname": "Introduction to human bioscience for engineering"
+  },
+  {
+    "unitcode": "BME2032",
+    "unitname": "Biomedical industry based learning"
+  },
+  {
+    "unitcode": "BME3032",
+    "unitname": "Introduction to the health system"
+  },
+  {
+    "unitcode": "BME3082",
+    "unitname": "Fetal and neonatal development"
+  },
+  {
+    "unitcode": "BMS1011",
+    "unitname": "Biomedical chemistry"
+  },
+  {
+    "unitcode": "BMS1021",
+    "unitname": "Cells, tissues and organisms"
+  },
+  {
+    "unitcode": "BMS1031",
+    "unitname": "Medical biophysics"
+  },
+  {
+    "unitcode": "BMS1042",
+    "unitname": "Public health and preventive medicine"
+  },
+  {
+    "unitcode": "BMS1052",
+    "unitname": "Human neurobiology"
+  },
+  {
+    "unitcode": "BMS1062",
+    "unitname": "Molecular biology"
+  },
+  {
+    "unitcode": "BMS2011",
+    "unitname": "Structure of the human body: An evolutionary and functional perspective"
+  },
+  {
+    "unitcode": "BMS2021",
+    "unitname": "Human molecular cell biology"
+  },
+  {
+    "unitcode": "BMS2031",
+    "unitname": "Body systems"
+  },
+  {
+    "unitcode": "BMS2042",
+    "unitname": "Human genetics"
+  },
+  {
+    "unitcode": "BMS2052",
+    "unitname": "Microbes in health and disease"
+  },
+  {
+    "unitcode": "BMS2062",
+    "unitname": "Introduction to bioinformatics"
+  },
+  {
+    "unitcode": "BMS3031",
+    "unitname": "Molecular mechanisms of disease"
+  },
+  {
+    "unitcode": "BMS3052",
+    "unitname": "Biomedical basis and epidemiology of human disease"
+  },
+  {
+    "unitcode": "BMS3930",
+    "unitname": "Action in biomedical science major research project"
+  },
+  {
+    "unitcode": "BMS3940",
+    "unitname": "Major research project in biomedical science"
+  },
+  {
+    "unitcode": "BMS3990",
+    "unitname": "Action in biomedical science minor research project"
+  },
+  {
+    "unitcode": "BMS4100",
+    "unitname": "Biomedical science research project"
+  },
+  {
+    "unitcode": "BMS4200",
+    "unitname": "Advanced studies in biomedical science"
+  },
+  {
+    "unitcode": "BMS4301",
+    "unitname": "Advanced studies in biomedical science"
+  },
+  {
+    "unitcode": "BMS4302",
+    "unitname": "Biomedical science research project"
+  },
+  {
+    "unitcode": "BMS5001",
+    "unitname": "Research training: Critical thinking and communication skills"
+  },
+  {
+    "unitcode": "BMS5002",
+    "unitname": "Research techniques: Tissues, organs and systems"
+  },
+  {
+    "unitcode": "BMS5003",
+    "unitname": "Infectious diseases and population health"
+  },
+  {
+    "unitcode": "BMS5004",
+    "unitname": "Advanced neuroscience"
+  },
+  {
+    "unitcode": "BMS5005",
+    "unitname": "Regenerative medicine and stem cells"
+  },
+  {
+    "unitcode": "BMS5006",
+    "unitname": "Cardiovascular biology and disease"
+  },
+  {
+    "unitcode": "BMS5007",
+    "unitname": "Biotechnology: Commercialising biomedical science"
+  },
+  {
+    "unitcode": "BMS5008",
+    "unitname": "Research project and thesis"
+  },
+  {
+    "unitcode": "BMS5009",
+    "unitname": "Industry training and internship"
+  },
+  {
+    "unitcode": "BMS5012",
+    "unitname": "Cancer biology and therapeutics"
+  },
+  {
+    "unitcode": "BMS5013",
+    "unitname": "Research training: Ethics and integrity, biostatistics and critical thinking"
+  },
+  {
+    "unitcode": "BMS5014",
+    "unitname": "Research techniques: Molecular and cellular techniques"
+  },
+  {
+    "unitcode": "BND3101",
+    "unitname": "Evidence based management"
+  },
+  {
+    "unitcode": "BND3102",
+    "unitname": "Introduction to dietetic practice"
+  },
+  {
+    "unitcode": "BND3202",
+    "unitname": "Food for dietetic practice"
+  },
+  {
+    "unitcode": "BND3302",
+    "unitname": "Dietetic practice 1"
+  },
+  {
+    "unitcode": "BND4082",
+    "unitname": "Improving the population's nutrition"
+  },
+  {
+    "unitcode": "BND4092",
+    "unitname": "Practice and research in public health nutrition"
+  },
+  {
+    "unitcode": "BND4102",
+    "unitname": "Practice and research in dietetics"
+  },
+  {
+    "unitcode": "BND4402",
+    "unitname": "Dietetic practice 2"
+  },
+  {
+    "unitcode": "BRM5011",
+    "unitname": "Foundations for medical biotechnology and its applications"
+  },
+  {
+    "unitcode": "BRM5012",
+    "unitname": "Techniques in medical biotechnology: genomics, proteomics and bioinformatics"
+  },
+  {
+    "unitcode": "BRM5013",
+    "unitname": "Techniques in medical biotechnology: Imaging, iPS cells, cell and gene therapies"
+  },
+  {
+    "unitcode": "BRM5014",
+    "unitname": "Therapeutic approaches and biotechnology"
+  },
+  {
+    "unitcode": "BRM5021",
+    "unitname": "Biotechnology research project"
+  },
+  {
+    "unitcode": "BRM5022",
+    "unitname": "Biotechnology work-integrated learning"
+  },
+  {
+    "unitcode": "CCS5100",
+    "unitname": "Research project in medical science"
+  },
+  {
+    "unitcode": "CCS5200",
+    "unitname": "Advanced studies in medical science"
+  },
+  {
+    "unitcode": "CMH5001",
+    "unitname": "Mental health practice essentials"
+  },
+  {
+    "unitcode": "CMH5002",
+    "unitname": "The context for mental health practice"
+  },
+  {
+    "unitcode": "CMH5003",
+    "unitname": "Concepts in mental health illness"
+  },
+  {
+    "unitcode": "CMH5004",
+    "unitname": "Recovery oriented mental health practice"
+  },
+  {
+    "unitcode": "CMH5005",
+    "unitname": "Mental health of the elderly"
+  },
+  {
+    "unitcode": "CMH5006",
+    "unitname": "Transcultural mental health"
+  },
+  {
+    "unitcode": "CMH5011",
+    "unitname": "Contemporary research and practice in family violence"
+  },
+  {
+    "unitcode": "CMH5012",
+    "unitname": "Psychopharmacology and physical treatments in mental health care"
+  },
+  {
+    "unitcode": "CPS5001",
+    "unitname": "Psychoanalytic and developmental theories 1"
+  },
+  {
+    "unitcode": "CPS5002",
+    "unitname": "Normal developmental observation"
+  },
+  {
+    "unitcode": "CPS5003",
+    "unitname": "Psychoanalytic and developmental theories 2"
+  },
+  {
+    "unitcode": "CPS5004",
+    "unitname": "Psychodynamic assessment of children and adolescents"
+  },
+  {
+    "unitcode": "CPS5005",
+    "unitname": "Principles of child psychotherapy"
+  },
+  {
+    "unitcode": "CPS5006",
+    "unitname": "Principles of adolescent psychotherapy"
+  },
+  {
+    "unitcode": "CPS5007",
+    "unitname": "Principles of short term therapy"
+  },
+  {
+    "unitcode": "CPS5008",
+    "unitname": "Principles of working with parents"
+  },
+  {
+    "unitcode": "CPS5009",
+    "unitname": "Contemporary issues and controversies in child psychotherapy"
+  },
+  {
+    "unitcode": "DPH6005",
+    "unitname": "Doctor of public health: Public health practice"
+  },
+  {
+    "unitcode": "DPSY510",
+    "unitname": " Clinical developmental psychology"
+  },
+  {
+    "unitcode": "DPSY516",
+    "unitname": " Neuroanatomy for the clinical neuropsychologist"
+  },
+  {
+    "unitcode": "DPSY520",
+    "unitname": " Theories and techniques of intervention part 1"
+  },
+  {
+    "unitcode": "DPSY526",
+    "unitname": " Neuropsychological syndromes"
+  },
+  {
+    "unitcode": "DPSY529",
+    "unitname": " Introductory practicum"
+  },
+  {
+    "unitcode": "DPSY610",
+    "unitname": " Health psychology and behavioural medicine"
+  },
+  {
+    "unitcode": "DPSY616",
+    "unitname": " Case analysis and professional practice in neuropsychology 2"
+  },
+  {
+    "unitcode": "DPSY619",
+    "unitname": " Intermediate practicum"
+  },
+  {
+    "unitcode": "DPSY620",
+    "unitname": " Clinical neuropsychology"
+  },
+  {
+    "unitcode": "DPSY626",
+    "unitname": " Recovery of function and rehabilitation after brain injury"
+  },
+  {
+    "unitcode": "DPSY629",
+    "unitname": " Advanced practicum"
+  },
+  {
+    "unitcode": "DPSY639",
+    "unitname": " Specialised clinical practicum"
+  },
+  {
+    "unitcode": "DPSY713",
+    "unitname": " Advanced clinical psychology: General"
+  },
+  {
+    "unitcode": "DPSY714",
+    "unitname": " Advanced clinical psychology: Child, adolescent and family"
+  },
+  {
+    "unitcode": "DPSY719",
+    "unitname": " Advanced specialised practicum"
+  },
+  {
+    "unitcode": "EPM5001",
+    "unitname": "Health indicators and health surveys"
+  },
+  {
+    "unitcode": "EPM5002",
+    "unitname": "Mathematical background for biostatistics"
+  },
+  {
+    "unitcode": "EPM5003",
+    "unitname": "Principles of statistical inference"
+  },
+  {
+    "unitcode": "EPM5004",
+    "unitname": "Linear models"
+  },
+  {
+    "unitcode": "EPM5005",
+    "unitname": "Data management and statistical computing"
+  },
+  {
+    "unitcode": "EPM5006",
+    "unitname": "Clinical biostatistics"
+  },
+  {
+    "unitcode": "EPM5007",
+    "unitname": "Design of randomised controlled trials"
+  },
+  {
+    "unitcode": "EPM5008",
+    "unitname": "Longitudinal and correlated data analysis"
+  },
+  {
+    "unitcode": "EPM5009",
+    "unitname": "Categorical data and generalised linear models"
+  },
+  {
+    "unitcode": "EPM5010",
+    "unitname": "Survival analysis"
+  },
+  {
+    "unitcode": "EPM5011",
+    "unitname": "Biostatistics practical project: double unit"
+  },
+  {
+    "unitcode": "EPM5012",
+    "unitname": "Bioinformatics"
+  },
+  {
+    "unitcode": "EPM5013",
+    "unitname": "Bayesian statistical methods"
+  },
+  {
+    "unitcode": "EPM5014",
+    "unitname": "Probability and distribution theory"
+  },
+  {
+    "unitcode": "EPM5015",
+    "unitname": "Biostatistics practical project: single unit"
+  },
+  {
+    "unitcode": "EPM5023",
+    "unitname": "Foundations of international health"
+  },
+  {
+    "unitcode": "EPP2032",
+    "unitname": "Paramedic clinical practice"
+  },
+  {
+    "unitcode": "FBS5001",
+    "unitname": "Fundamentals of forensic behavioural science"
+  },
+  {
+    "unitcode": "FBS5002",
+    "unitname": "The role of mental health in criminal offending"
+  },
+  {
+    "unitcode": "FBS5004",
+    "unitname": "Developmental aspects of forensic behavioural science"
+  },
+  {
+    "unitcode": "FBS5005",
+    "unitname": "The assessment and management of problem behaviours"
+  },
+  {
+    "unitcode": "FOR3001",
+    "unitname": "Principles of forensic medicine and science"
+  },
+  {
+    "unitcode": "FOR4001",
+    "unitname": "Medical evidence"
+  },
+  {
+    "unitcode": "FOR4002",
+    "unitname": "Injury interpretation"
+  },
+  {
+    "unitcode": "FOR4003",
+    "unitname": "Ethics, medicine and the law"
+  },
+  {
+    "unitcode": "FOR4004",
+    "unitname": "Elements of the forensic sciences"
+  },
+  {
+    "unitcode": "FOR5005",
+    "unitname": "Adult sexual assault"
+  },
+  {
+    "unitcode": "FOR5006",
+    "unitname": "Traffic medicine"
+  },
+  {
+    "unitcode": "FOR5007",
+    "unitname": "Elements of forensic toxicology"
+  },
+  {
+    "unitcode": "FOR5008",
+    "unitname": "Custodial medicine"
+  },
+  {
+    "unitcode": "FOR5009",
+    "unitname": "Advanced issues in sexual violence"
+  },
+  {
+    "unitcode": "FOR5010",
+    "unitname": "Project in forensic medicine"
+  },
+  {
+    "unitcode": "FOR5011",
+    "unitname": "Advanced issues in non-accidental injury of children"
+  },
+  {
+    "unitcode": "FOR5012",
+    "unitname": "Child and adolescent sexual abuse"
+  },
+  {
+    "unitcode": "FOR5013",
+    "unitname": "Non accidental injury in childhood"
+  },
+  {
+    "unitcode": "FOR5014",
+    "unitname": "Elements of forensic odontology"
+  },
+  {
+    "unitcode": "FOR5015",
+    "unitname": "Post mortem dental identification: Principles and methods"
+  },
+  {
+    "unitcode": "FOR5016",
+    "unitname": "Clinical forensic odontology"
+  },
+  {
+    "unitcode": "FOR5017",
+    "unitname": "Disaster victim identification (DVI): Principles and methods"
+  },
+  {
+    "unitcode": "FOR5018",
+    "unitname": "Elements of forensic anthropology"
+  },
+  {
+    "unitcode": "FOR5020",
+    "unitname": "Post mortem CT imaging"
+  },
+  {
+    "unitcode": "FOR5021",
+    "unitname": "Mortuary technical science"
+  },
+  {
+    "unitcode": "FOR5022",
+    "unitname": "Advanced methods in forensic science: emerging trends and issues"
+  },
+  {
+    "unitcode": "FOR5023",
+    "unitname": "Quality management in the forensic sciences"
+  },
+  {
+    "unitcode": "FOR5025",
+    "unitname": "Forensic pharmacology"
+  },
+  {
+    "unitcode": "FPA5004",
+    "unitname": "Autopsy practice"
+  },
+  {
+    "unitcode": "FPA5007",
+    "unitname": "Death investigation"
+  },
+  {
+    "unitcode": "GHS5841",
+    "unitname": "Research and evidence for practice"
+  },
+  {
+    "unitcode": "GHS5850",
+    "unitname": "Nursing leadership and management"
+  },
+  {
+    "unitcode": "GMA1010",
+    "unitname": "Foundations of medical practice"
+  },
+  {
+    "unitcode": "GMA2100",
+    "unitname": "Foundations of medical practice"
+  },
+  {
+    "unitcode": "GMA2200",
+    "unitname": "Principles of medicine"
+  },
+  {
+    "unitcode": "GRS4100",
+    "unitname": "Laboratory skills in reproductive science"
+  },
+  {
+    "unitcode": "GRS4101",
+    "unitname": "Reproductive endocrinology"
+  },
+  {
+    "unitcode": "GRS4102",
+    "unitname": "Gonadal development and function"
+  },
+  {
+    "unitcode": "GRS4103",
+    "unitname": "Pregnancy and parturition"
+  },
+  {
+    "unitcode": "GRS4104",
+    "unitname": "Reproductive health and fertility regulations"
+  },
+  {
+    "unitcode": "GRS4110",
+    "unitname": "Research skills in reproductive science"
+  },
+  {
+    "unitcode": "GRS4201",
+    "unitname": "Comparative reproduction and conservation"
+  },
+  {
+    "unitcode": "GRS4202",
+    "unitname": "Assisted reproductive and genetic technologies"
+  },
+  {
+    "unitcode": "HCS5100",
+    "unitname": "Foundations of health professions education: Clinical Simulation"
+  },
+  {
+    "unitcode": "HPE5003",
+    "unitname": "Assessment in health professions education"
+  },
+  {
+    "unitcode": "HPE5011",
+    "unitname": "Educational research methods for the health professions"
+  },
+  {
+    "unitcode": "HPE5015",
+    "unitname": "Leadership and innovations in health professions education"
+  },
+  {
+    "unitcode": "HPE5100",
+    "unitname": "Foundations of health professions education"
+  },
+  {
+    "unitcode": "HSC1100",
+    "unitname": "Introduction to research and evidence"
+  },
+  {
+    "unitcode": "HSC1200",
+    "unitname": "Introduction to public health"
+  },
+  {
+    "unitcode": "HSC1300",
+    "unitname": "Human health and disease"
+  },
+  {
+    "unitcode": "HSC1400",
+    "unitname": "The Australian healthcare system"
+  },
+  {
+    "unitcode": "HSC2100",
+    "unitname": "Emerging challenges in health"
+  },
+  {
+    "unitcode": "HSC2200",
+    "unitname": "Health and the human lifespan"
+  },
+  {
+    "unitcode": "HSC2300",
+    "unitname": "Health promotion and disease prevention"
+  },
+  {
+    "unitcode": "HSC4001",
+    "unitname": "Health science research project 1"
+  },
+  {
+    "unitcode": "HSC4002",
+    "unitname": "Health science research project 2"
+  },
+  {
+    "unitcode": "HSC4011",
+    "unitname": "Advanced studies in public health research"
+  },
+  {
+    "unitcode": "IPE1011",
+    "unitname": "Foundations of health in primary clinical care"
+  },
+  {
+    "unitcode": "IRD5000",
+    "unitname": "Master of biomedical science (Part 1): Monash Institute of Medical Research"
+  },
+  {
+    "unitcode": "MAP1000",
+    "unitname": "Indigenous healing ways"
+  },
+  {
+    "unitcode": "MAP4200",
+    "unitname": "Improving indigenous equity in professional practice"
+  },
+  {
+    "unitcode": "MAP5000",
+    "unitname": "Research in advanced health professional practice"
+  },
+  {
+    "unitcode": "MAP5001",
+    "unitname": "Preparatory minor thesis"
+  },
+  {
+    "unitcode": "MAP5002",
+    "unitname": "Minor thesis"
+  },
+  {
+    "unitcode": "MAP5003",
+    "unitname": "Essentials of advanced health care practice and research"
+  },
+  {
+    "unitcode": "MAP5010",
+    "unitname": "Advanced health practice research project"
+  },
+  {
+    "unitcode": "MAP5101",
+    "unitname": "Advanced critical care skills"
+  },
+  {
+    "unitcode": "MAP5104",
+    "unitname": "Emergency medicine skills"
+  },
+  {
+    "unitcode": "MAP5105",
+    "unitname": "Trauma skills"
+  },
+  {
+    "unitcode": "MCE5100",
+    "unitname": "Biology of reproduction"
+  },
+  {
+    "unitcode": "MCE5101",
+    "unitname": "Infertility treatment strategies"
+  },
+  {
+    "unitcode": "MCE5103",
+    "unitname": "Theory: ART laboratory processes (embryology)"
+  },
+  {
+    "unitcode": "MCE5105",
+    "unitname": "Theory: ART laboratory processes (andrology)"
+  },
+  {
+    "unitcode": "MCE5112",
+    "unitname": "Practical: ART laboratory processes (embryology/andrology)"
+  },
+  {
+    "unitcode": "MCE5200",
+    "unitname": "ART laboratory operations and management"
+  },
+  {
+    "unitcode": "MCE5201",
+    "unitname": "Practical: ART laboratory processes (advanced embryology)"
+  },
+  {
+    "unitcode": "MCE5205",
+    "unitname": "Research in ART (designing and applying)"
+  },
+  {
+    "unitcode": "MCE5212",
+    "unitname": "Genetic testing in ART"
+  },
+  {
+    "unitcode": "MCE5213",
+    "unitname": "Regulation and ethics in assisted reproductive technologies"
+  },
+  {
+    "unitcode": "MED1011",
+    "unitname": "Medicine 1"
+  },
+  {
+    "unitcode": "MED1022",
+    "unitname": "Medicine 2"
+  },
+  {
+    "unitcode": "MED1100",
+    "unitname": "Introduction to medical practice"
+  },
+  {
+    "unitcode": "MED1200",
+    "unitname": "Principles of medicine 1"
+  },
+  {
+    "unitcode": "MED2031",
+    "unitname": "Medicine 3"
+  },
+  {
+    "unitcode": "MED2042",
+    "unitname": "Medicine 4"
+  },
+  {
+    "unitcode": "MED2100",
+    "unitname": "Foundations of medical practice"
+  },
+  {
+    "unitcode": "MED2200",
+    "unitname": "Principles of medicine 2"
+  },
+  {
+    "unitcode": "MED3010",
+    "unitname": "Research methods in medicine"
+  },
+  {
+    "unitcode": "MED3062",
+    "unitname": "Medicine and surgery 2"
+  },
+  {
+    "unitcode": "MED3100",
+    "unitname": "Medicine and surgery"
+  },
+  {
+    "unitcode": "MED3200",
+    "unitname": "Foundation clinical studies"
+  },
+  {
+    "unitcode": "MED4000",
+    "unitname": "Year 3B and 4C final grade"
+  },
+  {
+    "unitcode": "MED4190",
+    "unitname": "Specialty clinical practices"
+  },
+  {
+    "unitcode": "MED4200",
+    "unitname": "Integrated clinical studies"
+  },
+  {
+    "unitcode": "MED4301",
+    "unitname": "Medical science honours research skills"
+  },
+  {
+    "unitcode": "MED4302",
+    "unitname": "Medical science honours research project"
+  },
+  {
+    "unitcode": "MED5091",
+    "unitname": "Advanced clinical practice 1"
+  },
+  {
+    "unitcode": "MED5092",
+    "unitname": "Advanced clinical practice 2"
+  },
+  {
+    "unitcode": "MED5100",
+    "unitname": "Final MBBS grade"
+  },
+  {
+    "unitcode": "MED5101",
+    "unitname": "Applied studies in medical research and professional practice"
+  },
+  {
+    "unitcode": "MED5102",
+    "unitname": "Contemporary developments in clinical practice: Patient safety"
+  },
+  {
+    "unitcode": "MEH5050",
+    "unitname": "Emergency health project"
+  },
+  {
+    "unitcode": "MID1000",
+    "unitname": "Introduction to Midwifery"
+  },
+  {
+    "unitcode": "MID2000",
+    "unitname": "Foundations for midwifery practice"
+  },
+  {
+    "unitcode": "MID2010",
+    "unitname": "Working with birthing women"
+  },
+  {
+    "unitcode": "MID2110",
+    "unitname": "Complementary therapies: An evidence based approach"
+  },
+  {
+    "unitcode": "MID3000",
+    "unitname": "Theory and practice of complex midwifery"
+  },
+  {
+    "unitcode": "MID3103",
+    "unitname": "Childbearing obstacles"
+  },
+  {
+    "unitcode": "MID3104",
+    "unitname": "Navigating childbearing challenges"
+  },
+  {
+    "unitcode": "MID3105",
+    "unitname": "Women's health: Women's business"
+  },
+  {
+    "unitcode": "MID3110",
+    "unitname": "Professional midwifery practice"
+  },
+  {
+    "unitcode": "MID3202",
+    "unitname": "Supporting the newborn infant"
+  },
+  {
+    "unitcode": "MID3222",
+    "unitname": "Safety in midwifery and nursing contexts"
+  },
+  {
+    "unitcode": "MID4001",
+    "unitname": "Preparation for practice (midwifery)"
+  },
+  {
+    "unitcode": "MID5001",
+    "unitname": "Woman midwife partnerships and normal childbearing"
+  },
+  {
+    "unitcode": "MID5002",
+    "unitname": "Woman midwife partnerships and complex childbearing"
+  },
+  {
+    "unitcode": "MID5003",
+    "unitname": "Midwifery and maternity in context"
+  },
+  {
+    "unitcode": "MID5004",
+    "unitname": "Becoming a midwife"
+  },
+  {
+    "unitcode": "MID5005",
+    "unitname": "Advancing midwifery practice"
+  },
+  {
+    "unitcode": "MID5006",
+    "unitname": "Public and primary health care in midwifery"
+  },
+  {
+    "unitcode": "MID5007",
+    "unitname": "Contextual and professional issues in midwifery"
+  },
+  {
+    "unitcode": "MIMR500",
+    "unitname": " Master of biomedical science (Part 1): Monash Institute of Medical Research PT"
+  },
+  {
+    "unitcode": "MMT5002",
+    "unitname": "Medicine minor thesis extension unit"
+  },
+  {
+    "unitcode": "MMT5004",
+    "unitname": "Medicine minor thesis extension unit"
+  },
+  {
+    "unitcode": "MPH5002",
+    "unitname": "Foundations of health promotion and program planning"
+  },
+  {
+    "unitcode": "MPH5020",
+    "unitname": "Introduction to epidemiology and biostatistics"
+  },
+  {
+    "unitcode": "MPH5022",
+    "unitname": "Evaluating public health programs"
+  },
+  {
+    "unitcode": "MPH5040",
+    "unitname": "Introductory epidemiology"
+  },
+  {
+    "unitcode": "MPH5041",
+    "unitname": "Introductory biostatistics"
+  },
+  {
+    "unitcode": "MPH5042",
+    "unitname": "Climate change and public health"
+  },
+  {
+    "unitcode": "MPH5200",
+    "unitname": "Regression methods for epidemiology"
+  },
+  {
+    "unitcode": "MPH5203",
+    "unitname": "Environmental influences on health"
+  },
+  {
+    "unitcode": "MPH5207",
+    "unitname": "Chronic disease: Epidemiology and prevention"
+  },
+  {
+    "unitcode": "MPH5213",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "MPH5214",
+    "unitname": "Demographic methods"
+  },
+  {
+    "unitcode": "MPH5218",
+    "unitname": "Infectious diseases: Epidemiology and prevention"
+  },
+  {
+    "unitcode": "MPH5222",
+    "unitname": "Assessment and control of workplace hazards"
+  },
+  {
+    "unitcode": "MPH5231",
+    "unitname": "Research design and project proposal"
+  },
+  {
+    "unitcode": "MPH5232",
+    "unitname": "Research conduct, analysis, write-up and submission"
+  },
+  {
+    "unitcode": "MPH5236",
+    "unitname": "Clinical trials"
+  },
+  {
+    "unitcode": "MPH5239",
+    "unitname": "Systematic reviews and meta-analysis"
+  },
+  {
+    "unitcode": "MPH5241",
+    "unitname": "Introduction to occupational health and safety"
+  },
+  {
+    "unitcode": "MPH5242",
+    "unitname": "Psychosocial work environment"
+  },
+  {
+    "unitcode": "MPH5243",
+    "unitname": "Chemical and biological hazards"
+  },
+  {
+    "unitcode": "MPH5244",
+    "unitname": "Ergonomic and physical hazards"
+  },
+  {
+    "unitcode": "MPH5248",
+    "unitname": "Primary health care and global health"
+  },
+  {
+    "unitcode": "MPH5249",
+    "unitname": "Field methods for global health planning and evaluation"
+  },
+  {
+    "unitcode": "MPH5250",
+    "unitname": "Women's and children's health: A global perspective"
+  },
+  {
+    "unitcode": "MPH5251",
+    "unitname": "Infectious diseases and global health"
+  },
+  {
+    "unitcode": "MPH5252",
+    "unitname": "Global health care delivery: principles and challenges"
+  },
+  {
+    "unitcode": "MPH5253",
+    "unitname": "Public health in refugee settings"
+  },
+  {
+    "unitcode": "MPH5254",
+    "unitname": "Nutrition in developing countries"
+  },
+  {
+    "unitcode": "MPH5255",
+    "unitname": "Health and human rights"
+  },
+  {
+    "unitcode": "MPH5256",
+    "unitname": "Injury epidemiology and prevention"
+  },
+  {
+    "unitcode": "MPH5260",
+    "unitname": "Health policy and prevention in a global world"
+  },
+  {
+    "unitcode": "MPH5265",
+    "unitname": "Law for health systems"
+  },
+  {
+    "unitcode": "MPH5266",
+    "unitname": "Clinical leadership and management"
+  },
+  {
+    "unitcode": "MPH5267",
+    "unitname": "Principles of health care quality improvement"
+  },
+  {
+    "unitcode": "MPH5268",
+    "unitname": "Economics and financial management in health care"
+  },
+  {
+    "unitcode": "MPH5269",
+    "unitname": "Foundations of health policy"
+  },
+  {
+    "unitcode": "MPH5270",
+    "unitname": "Advanced statistical methods for clinical research"
+  },
+  {
+    "unitcode": "MPH5271",
+    "unitname": "Implementation and innovation in health care"
+  },
+  {
+    "unitcode": "MPH5272",
+    "unitname": "Principles of health systems"
+  },
+  {
+    "unitcode": "MPH5273",
+    "unitname": "Case study in health services management"
+  },
+  {
+    "unitcode": "MPH5276",
+    "unitname": "Safety management systems"
+  },
+  {
+    "unitcode": "MPH5277",
+    "unitname": "Practical data management"
+  },
+  {
+    "unitcode": "MPH5281",
+    "unitname": "Management theory and practice"
+  },
+  {
+    "unitcode": "MPH5282",
+    "unitname": "Health communications and training"
+  },
+  {
+    "unitcode": "MPH5283",
+    "unitname": "Ethics, good research practice and practical research methods"
+  },
+  {
+    "unitcode": "MPH5286",
+    "unitname": "Applying and practicing the principles of patient safety and quality improvement"
+  },
+  {
+    "unitcode": "MPH5287",
+    "unitname": "Alcohol and other drugs in society: A national and global perspective"
+  },
+  {
+    "unitcode": "MPH5288",
+    "unitname": "Introduction and challenges in public health"
+  },
+  {
+    "unitcode": "MPH5289",
+    "unitname": "Professional practice development"
+  },
+  {
+    "unitcode": "MPH5301",
+    "unitname": "Health systems and policy"
+  },
+  {
+    "unitcode": "MPH5302",
+    "unitname": "Biostatistics: Concepts and applications"
+  },
+  {
+    "unitcode": "MPH5303",
+    "unitname": "Epidemiology of infectious diseases"
+  },
+  {
+    "unitcode": "MPH5304",
+    "unitname": "Leading and managing in public health and health care"
+  },
+  {
+    "unitcode": "MPH5305",
+    "unitname": "Epidemiology: Concepts and applications"
+  },
+  {
+    "unitcode": "MPH5306",
+    "unitname": "Evaluation in public health"
+  },
+  {
+    "unitcode": "MPH5307",
+    "unitname": "Introduction to health law principles"
+  },
+  {
+    "unitcode": "MPH5308",
+    "unitname": "Developing health systems"
+  },
+  {
+    "unitcode": "MPH5309",
+    "unitname": "Occupational health and safety"
+  },
+  {
+    "unitcode": "MPH5310",
+    "unitname": "Introduction to environmental health"
+  },
+  {
+    "unitcode": "MPH5311",
+    "unitname": "Safety and quality in health care"
+  },
+  {
+    "unitcode": "MPH5312",
+    "unitname": "Advances in managing patient care processes"
+  },
+  {
+    "unitcode": "MPH5313",
+    "unitname": "Challenges in public health"
+  },
+  {
+    "unitcode": "MPH5314",
+    "unitname": "Epidemiology of chronic disease"
+  },
+  {
+    "unitcode": "MPH5315",
+    "unitname": "Introduction to management"
+  },
+  {
+    "unitcode": "MPH6040",
+    "unitname": "Introductory epidemiology"
+  },
+  {
+    "unitcode": "MPH6041",
+    "unitname": "Introductory biostatistics"
+  },
+  {
+    "unitcode": "MSM5100",
+    "unitname": "Research project - Master of Biomedical Science MUM"
+  },
+  {
+    "unitcode": "MSM5101",
+    "unitname": "Research project - Master of Biomedical Science MUM (part-time)"
+  },
+  {
+    "unitcode": "MSM5200",
+    "unitname": "Advanced studies in biomedical sciences MUM"
+  },
+  {
+    "unitcode": "MSM5201",
+    "unitname": "Advanced studies in biomedical sciences MUM (part-time)"
+  },
+  {
+    "unitcode": "NEH4012",
+    "unitname": "Interprofessional practice in community and hospital settings"
+  },
+  {
+    "unitcode": "NUR1010",
+    "unitname": "Foundations of nursing and midwifery practice"
+  },
+  {
+    "unitcode": "NUR1013",
+    "unitname": "Indigenous health for nursing and midwifery practice"
+  },
+  {
+    "unitcode": "NUR1102",
+    "unitname": "Health assessment in clinical practice"
+  },
+  {
+    "unitcode": "NUR1105",
+    "unitname": "Foundations of leadership and professional practice"
+  },
+  {
+    "unitcode": "NUR1110",
+    "unitname": "Communication and scholarship in nursing and midwifery"
+  },
+  {
+    "unitcode": "NUR1111",
+    "unitname": "Global health and cultural competence in nursing and midwifery practice"
+  },
+  {
+    "unitcode": "NUR1112",
+    "unitname": "Fundamental skills and knowledge for nursing and midwifery practice 1"
+  },
+  {
+    "unitcode": "NUR1113",
+    "unitname": "Law, ethics and leadership in nursing and midwifery"
+  },
+  {
+    "unitcode": "NUR1114",
+    "unitname": "Fundamental skills and knowledge for nursing and midwifery practice 2"
+  },
+  {
+    "unitcode": "NUR1202",
+    "unitname": "Legal issues and concepts"
+  },
+  {
+    "unitcode": "NUR1205",
+    "unitname": "Population and socio-cultural health research"
+  },
+  {
+    "unitcode": "NUR2005",
+    "unitname": "Introduction to maternity and paediatric nursing"
+  },
+  {
+    "unitcode": "NUR2007",
+    "unitname": "Introduction to palliative care"
+  },
+  {
+    "unitcode": "NUR2106",
+    "unitname": "Integrated nursing practice 1"
+  },
+  {
+    "unitcode": "NUR2203",
+    "unitname": "Health promotion"
+  },
+  {
+    "unitcode": "NUR2204",
+    "unitname": "Working with families across the lifespan"
+  },
+  {
+    "unitcode": "NUR2206",
+    "unitname": "Integrated nursing practice 2"
+  },
+  {
+    "unitcode": "NUR2207",
+    "unitname": "Mental health clinical practice"
+  },
+  {
+    "unitcode": "NUR2223",
+    "unitname": "Safety in healthcare contexts"
+  },
+  {
+    "unitcode": "NUR2225",
+    "unitname": "Mental health nursing practice contexts"
+  },
+  {
+    "unitcode": "NUR2226",
+    "unitname": "Nursing practice contexts 1"
+  },
+  {
+    "unitcode": "NUR2227",
+    "unitname": "Primary health care and health promotion in nursing and midwifery contexts"
+  },
+  {
+    "unitcode": "NUR2228",
+    "unitname": "Nursing practice contexts 2"
+  },
+  {
+    "unitcode": "NUR2229",
+    "unitname": "Nursing practice contexts 3"
+  },
+  {
+    "unitcode": "NUR2445",
+    "unitname": "Clinical assessment in nursing"
+  },
+  {
+    "unitcode": "NUR2447",
+    "unitname": "Clinical concepts"
+  },
+  {
+    "unitcode": "NUR3001",
+    "unitname": "Evidence based health care"
+  },
+  {
+    "unitcode": "NUR3002",
+    "unitname": "Integrated nursing practice 3"
+  },
+  {
+    "unitcode": "NUR3003",
+    "unitname": "Education for clinical practice"
+  },
+  {
+    "unitcode": "NUR3004",
+    "unitname": "Preparing for practice"
+  },
+  {
+    "unitcode": "NUR3005",
+    "unitname": "Chronic illness management in primary care"
+  },
+  {
+    "unitcode": "NUR3009",
+    "unitname": "Transition to professional practice"
+  },
+  {
+    "unitcode": "NUR3022",
+    "unitname": "Integrated nursing practice 4"
+  },
+  {
+    "unitcode": "NUR3106",
+    "unitname": "Introduction to high acuity nursing"
+  },
+  {
+    "unitcode": "NUR3204",
+    "unitname": "Integrated community care"
+  },
+  {
+    "unitcode": "NUR3310",
+    "unitname": "Translation of nursing knowledge to complex acute care practice"
+  },
+  {
+    "unitcode": "NUR3312",
+    "unitname": "Translation of nursing knowledge in preparation for professional practice"
+  },
+  {
+    "unitcode": "NUR4111",
+    "unitname": "Translation of nursing knowledge for primary care practice"
+  },
+  {
+    "unitcode": "NUR4113",
+    "unitname": "Translation of nursing knowledge for leadership in practice"
+  },
+  {
+    "unitcode": "NUR4401",
+    "unitname": "Clinical honours thesis 1: Applied research methods and skills"
+  },
+  {
+    "unitcode": "NUR4402",
+    "unitname": "Clinical honours thesis 2: Framing a research proposal"
+  },
+  {
+    "unitcode": "NUR4403",
+    "unitname": "Clinical honours thesis 3: Conducting a research project"
+  },
+  {
+    "unitcode": "NUR4404",
+    "unitname": "Clinical honours thesis 4: Analysing and reporting research"
+  },
+  {
+    "unitcode": "NUR5002",
+    "unitname": "Contemporary nursing practice 2"
+  },
+  {
+    "unitcode": "NUR5003",
+    "unitname": "Contemporary nursing practice 3"
+  },
+  {
+    "unitcode": "NUR5004",
+    "unitname": "Contemporary nursing practice 4"
+  },
+  {
+    "unitcode": "NUR5008",
+    "unitname": "Contemporary psychotherapies for nurses"
+  },
+  {
+    "unitcode": "NUR5011",
+    "unitname": "Contemporary nursing in context 1"
+  },
+  {
+    "unitcode": "NUR5022",
+    "unitname": "Contemporary nursing in context 2"
+  },
+  {
+    "unitcode": "NUR5033",
+    "unitname": "Contemporary nursing in context 3"
+  },
+  {
+    "unitcode": "NUR5111",
+    "unitname": "Contemporary nursing practice 1"
+  },
+  {
+    "unitcode": "NUR5112",
+    "unitname": "Nursing practice in the Australian healthcare context"
+  },
+  {
+    "unitcode": "NUR5113",
+    "unitname": "Nursing in the Australian context"
+  },
+  {
+    "unitcode": "NUR5202",
+    "unitname": "Nursing informatics"
+  },
+  {
+    "unitcode": "NUR5203",
+    "unitname": "Palliative care practice"
+  },
+  {
+    "unitcode": "NUR5204",
+    "unitname": "Education in health care practice"
+  },
+  {
+    "unitcode": "NUR5208",
+    "unitname": "Therapeutic medication management"
+  },
+  {
+    "unitcode": "NUR5209",
+    "unitname": "Education program development"
+  },
+  {
+    "unitcode": "NUR5210",
+    "unitname": "Disaster and emergency nursing management"
+  },
+  {
+    "unitcode": "NUR5214",
+    "unitname": "Advanced therapeutic interaction in nursing"
+  },
+  {
+    "unitcode": "NUR5215",
+    "unitname": "Mental health nursing concepts and practice"
+  },
+  {
+    "unitcode": "NUR5217",
+    "unitname": "Advanced paediatric nursing"
+  },
+  {
+    "unitcode": "NUR5218",
+    "unitname": "Advanced clinical decision making"
+  },
+  {
+    "unitcode": "NUR5227",
+    "unitname": "Integrated mental health care"
+  },
+  {
+    "unitcode": "NUR5228",
+    "unitname": "Theories and philosophies of mental health nursing"
+  },
+  {
+    "unitcode": "NUR5229",
+    "unitname": "Challenges and controversies in mental health nursing practice"
+  },
+  {
+    "unitcode": "NUR5315",
+    "unitname": "Advanced practice in context"
+  },
+  {
+    "unitcode": "NUR5325",
+    "unitname": "Clinical leadership in nursing"
+  },
+  {
+    "unitcode": "NUR5326",
+    "unitname": "Leading improvement and innovation in the quality and safety of nursing and health care"
+  },
+  {
+    "unitcode": "NUR5327",
+    "unitname": "Management and leadership of professional nursing practice"
+  },
+  {
+    "unitcode": "NUR5405",
+    "unitname": "Explorations in child and family nursing"
+  },
+  {
+    "unitcode": "NUR5411",
+    "unitname": "Advanced clinical assessment and diagnostic reasoning"
+  },
+  {
+    "unitcode": "NUR5600",
+    "unitname": "Nurse practitioner essentials"
+  },
+  {
+    "unitcode": "NUR5703",
+    "unitname": "Pathophysiology for advanced clinical nursing"
+  },
+  {
+    "unitcode": "NUR5704",
+    "unitname": "Pathophysiology for advanced paediatric clinical nursing"
+  },
+  {
+    "unitcode": "NUR5705",
+    "unitname": "Perioperative nursing 1"
+  },
+  {
+    "unitcode": "NUR5706",
+    "unitname": "Perioperative nursing 2"
+  },
+  {
+    "unitcode": "NUR5708",
+    "unitname": "Specialist nursing practice"
+  },
+  {
+    "unitcode": "NUR5833",
+    "unitname": "Refugee health and wellbeing"
+  },
+  {
+    "unitcode": "NUR5844",
+    "unitname": "Population health and health promotion"
+  },
+  {
+    "unitcode": "NUR5850",
+    "unitname": "Working cross-culturally in contemporary health care"
+  },
+  {
+    "unitcode": "NUR5860",
+    "unitname": "Health education theory and practice"
+  },
+  {
+    "unitcode": "NUR5870",
+    "unitname": "End of life care in nursing contexts"
+  },
+  {
+    "unitcode": "NUR5923",
+    "unitname": "Intensive care nursing 1"
+  },
+  {
+    "unitcode": "NUR5924",
+    "unitname": "Intensive care nursing 2"
+  },
+  {
+    "unitcode": "NUR5925",
+    "unitname": "Emergency nursing 1"
+  },
+  {
+    "unitcode": "NUR5926",
+    "unitname": "Emergency nursing 2"
+  },
+  {
+    "unitcode": "NUR5927",
+    "unitname": "Advanced medical/surgical nursing practice 1"
+  },
+  {
+    "unitcode": "NUR5928",
+    "unitname": "Advanced medical/surgical nursing practice 2"
+  },
+  {
+    "unitcode": "NUT1001",
+    "unitname": "Personal and professional perspectives in nutrition"
+  },
+  {
+    "unitcode": "NUT1002",
+    "unitname": "Evaluating the evidence: Nutrition and population health"
+  },
+  {
+    "unitcode": "NUT1010",
+    "unitname": "Human nutrition: An introduction to nutrients"
+  },
+  {
+    "unitcode": "NUT1011",
+    "unitname": "Human nutrition: An introduction to nutrients"
+  },
+  {
+    "unitcode": "NUT1101",
+    "unitname": "Science foundations"
+  },
+  {
+    "unitcode": "NUT1102",
+    "unitname": "Food science"
+  },
+  {
+    "unitcode": "NUT1103",
+    "unitname": "Human biology for nutrition"
+  },
+  {
+    "unitcode": "NUT2001",
+    "unitname": "Health across the lifespan"
+  },
+  {
+    "unitcode": "NUT2002",
+    "unitname": "Applied research methods in nutrition"
+  },
+  {
+    "unitcode": "NUT2102",
+    "unitname": "Food: Science, composition and skills"
+  },
+  {
+    "unitcode": "NUT2103",
+    "unitname": "Integrated science systems"
+  },
+  {
+    "unitcode": "NUT2104",
+    "unitname": "Nutritional biochemistry"
+  },
+  {
+    "unitcode": "NUT3001",
+    "unitname": "Evidence based nutrition"
+  },
+  {
+    "unitcode": "NUT3002",
+    "unitname": "Nutrition, activity and health in chronic diseases"
+  },
+  {
+    "unitcode": "NUT3003",
+    "unitname": "Exercise physiology and sports nutrition"
+  },
+  {
+    "unitcode": "NUT3004",
+    "unitname": "Nutrition controversies"
+  },
+  {
+    "unitcode": "NUT3005",
+    "unitname": "Nutrition assessment"
+  },
+  {
+    "unitcode": "NUT3006",
+    "unitname": "Food sustainability systems"
+  },
+  {
+    "unitcode": "NUT3007",
+    "unitname": "Work placement"
+  },
+  {
+    "unitcode": "NUT3008",
+    "unitname": "Biochemistry, genetics and molecular nutrition"
+  },
+  {
+    "unitcode": "NUT3082",
+    "unitname": "Public health nutrition"
+  },
+  {
+    "unitcode": "NUT4001",
+    "unitname": "Foundations of dietetic practice"
+  },
+  {
+    "unitcode": "NUT4111",
+    "unitname": "Research skills"
+  },
+  {
+    "unitcode": "NUT4121",
+    "unitname": "Honours research project 1"
+  },
+  {
+    "unitcode": "NUT4122",
+    "unitname": "Honours research project 2"
+  },
+  {
+    "unitcode": "NUT5001",
+    "unitname": "Introduction to dietetic skills"
+  },
+  {
+    "unitcode": "NUT5002",
+    "unitname": "Practice and research in public health nutrition"
+  },
+  {
+    "unitcode": "NUT5003",
+    "unitname": "Dietetic practice 1"
+  },
+  {
+    "unitcode": "NUT5004",
+    "unitname": "Food for dietetic practice"
+  },
+  {
+    "unitcode": "NUT5005",
+    "unitname": "Dietetic practice 2"
+  },
+  {
+    "unitcode": "NUT5006",
+    "unitname": "Practice and research in dietetics"
+  },
+  {
+    "unitcode": "OCC1011",
+    "unitname": "Professional issues"
+  },
+  {
+    "unitcode": "OCC1012",
+    "unitname": "Occupational science"
+  },
+  {
+    "unitcode": "OCC1021",
+    "unitname": "Psychology for occupational therapy"
+  },
+  {
+    "unitcode": "OCC1022",
+    "unitname": "Foundations of occupational therapy practice"
+  },
+  {
+    "unitcode": "OCC1032",
+    "unitname": "Occupational development across the lifespan"
+  },
+  {
+    "unitcode": "OCC2012",
+    "unitname": "Foundation clinical sciences for occupational therapy"
+  },
+  {
+    "unitcode": "OCC2013",
+    "unitname": "Introduction to occupational therapy professional practice"
+  },
+  {
+    "unitcode": "OCC2014",
+    "unitname": "Occupational performance, capabilities and components"
+  },
+  {
+    "unitcode": "OCC2020",
+    "unitname": "Enabling occupation: Performance challenges 1A"
+  },
+  {
+    "unitcode": "OCC2022",
+    "unitname": "Skills for evidence based practice 1"
+  },
+  {
+    "unitcode": "OCC3000",
+    "unitname": "Enabling occupation: Fieldwork experience 1B"
+  },
+  {
+    "unitcode": "OCC3031",
+    "unitname": "Enabling occupation: Performance challenges 1B"
+  },
+  {
+    "unitcode": "OCC3041",
+    "unitname": "Skills for evidence based practice 2"
+  },
+  {
+    "unitcode": "OCC3052",
+    "unitname": "Enabling occupation 2: Performance challenges in population health"
+  },
+  {
+    "unitcode": "OCC3061",
+    "unitname": "Health promotion in occupational therapy"
+  },
+  {
+    "unitcode": "OCC3062",
+    "unitname": "Participation community practice 1: Development"
+  },
+  {
+    "unitcode": "OCC3072",
+    "unitname": "Occupational therapy honours research project 1"
+  },
+  {
+    "unitcode": "OCC4010",
+    "unitname": "Foundations of occupational therapy"
+  },
+  {
+    "unitcode": "OCC4020",
+    "unitname": "Humans as occupational beings"
+  },
+  {
+    "unitcode": "OCC4030",
+    "unitname": "Occupational performance, capabilities and components"
+  },
+  {
+    "unitcode": "OCC4040",
+    "unitname": "Enabling occupation 1"
+  },
+  {
+    "unitcode": "OCC4051",
+    "unitname": "Contemporary advances in occupational therapy practice"
+  },
+  {
+    "unitcode": "OCC4071",
+    "unitname": "Participatory community practice 2: Implementation"
+  },
+  {
+    "unitcode": "OCC4081",
+    "unitname": "Transition to practice 1"
+  },
+  {
+    "unitcode": "OCC4082",
+    "unitname": "Advanced professional practice"
+  },
+  {
+    "unitcode": "OCC4091",
+    "unitname": "Occupational therapy honours research project 2"
+  },
+  {
+    "unitcode": "OCC4092",
+    "unitname": "Transition to practice 2"
+  },
+  {
+    "unitcode": "OCC4121",
+    "unitname": "Adaptive and assistive technology"
+  },
+  {
+    "unitcode": "OCC4131",
+    "unitname": "Assessment of children: Methods, policy, ethics and issues"
+  },
+  {
+    "unitcode": "OCC4141",
+    "unitname": "Occupational therapy for children with a disability and their families"
+  },
+  {
+    "unitcode": "OCC5050",
+    "unitname": "Enabling occupation 2"
+  },
+  {
+    "unitcode": "OCC5060",
+    "unitname": "Enabling occupation 3"
+  },
+  {
+    "unitcode": "OCC5070",
+    "unitname": "Transition to practice"
+  },
+  {
+    "unitcode": "OCC5080",
+    "unitname": "Advanced professional practice"
+  },
+  {
+    "unitcode": "OCC5121",
+    "unitname": "Advanced adaptive and assistive technology"
+  },
+  {
+    "unitcode": "OCC5131",
+    "unitname": "Advanced assessment of children: Methods, policy, ethics and issues"
+  },
+  {
+    "unitcode": "OCC5141",
+    "unitname": "Occupational therapy for children with a disability and their families"
+  },
+  {
+    "unitcode": "OCC5161",
+    "unitname": "Human occupation and health"
+  },
+  {
+    "unitcode": "PAR1011",
+    "unitname": "Foundations of paramedic practice 1"
+  },
+  {
+    "unitcode": "PAR1012",
+    "unitname": "Foundations of paramedic practice 2"
+  },
+  {
+    "unitcode": "PAR1021",
+    "unitname": "Introduction to paramedic research and evidence"
+  },
+  {
+    "unitcode": "PAR1022",
+    "unitname": "Health and disease across the lifespan"
+  },
+  {
+    "unitcode": "PAR1031",
+    "unitname": "Professionalism in paramedic practice"
+  },
+  {
+    "unitcode": "PAR1032",
+    "unitname": "Paramedicine in the Australian health care system"
+  },
+  {
+    "unitcode": "PAR2011",
+    "unitname": "Paramedic advanced life support"
+  },
+  {
+    "unitcode": "PAR2012",
+    "unitname": "Paramedic management of respiratory conditions"
+  },
+  {
+    "unitcode": "PAR2020",
+    "unitname": "Foundation paramedic clinical practice"
+  },
+  {
+    "unitcode": "PAR2021",
+    "unitname": "Paramedic management of cardiovascular conditions"
+  },
+  {
+    "unitcode": "PAR2022",
+    "unitname": "Paramedic management of trauma conditions"
+  },
+  {
+    "unitcode": "PAR2031",
+    "unitname": "Pharmacotherapy in paramedic practice"
+  },
+  {
+    "unitcode": "PAR2032",
+    "unitname": "Paramedic management of mental health"
+  },
+  {
+    "unitcode": "PAR3011",
+    "unitname": "Paramedic management of medical conditions"
+  },
+  {
+    "unitcode": "PAR3012",
+    "unitname": "Extended paramedic care"
+  },
+  {
+    "unitcode": "PAR3021",
+    "unitname": "Paramedic emergency management"
+  },
+  {
+    "unitcode": "PAR3022",
+    "unitname": "Clinical education and leadership in paramedic research and practice"
+  },
+  {
+    "unitcode": "PAR3031",
+    "unitname": "Paramedic management of maternal and neonatal health"
+  },
+  {
+    "unitcode": "PAR3032",
+    "unitname": "Paramedic management of acute conditions effecting special populations"
+  },
+  {
+    "unitcode": "PAR3033",
+    "unitname": "Integrated clinical practice"
+  },
+  {
+    "unitcode": "PAR5200",
+    "unitname": "Introduction to aeromedical and retrieval concepts"
+  },
+  {
+    "unitcode": "PAR5210",
+    "unitname": "Aeromedical and retrieval professional practice"
+  },
+  {
+    "unitcode": "PAR5220",
+    "unitname": "Aeromedical and retrieval clinical 1: Advanced life support/critical care"
+  },
+  {
+    "unitcode": "PAR5230",
+    "unitname": "Aeromedical and retrieval coordination"
+  },
+  {
+    "unitcode": "PAR5240",
+    "unitname": "Aeromedical retrieval rescue"
+  },
+  {
+    "unitcode": "PAR5250",
+    "unitname": "Aeromedical and retrieval clinical 2: Intensive care"
+  },
+  {
+    "unitcode": "PAR5320",
+    "unitname": "Extended care paramedicine 1"
+  },
+  {
+    "unitcode": "PAR5330",
+    "unitname": "Extended care paramedicine 2"
+  },
+  {
+    "unitcode": "PAR5400",
+    "unitname": "Principles of advanced care paramedic practice"
+  },
+  {
+    "unitcode": "PAR5410",
+    "unitname": "Pharmacotherapy and clinical toxicology in advanced care paramedic practice"
+  },
+  {
+    "unitcode": "PAR5420",
+    "unitname": "Intensive care management of cardiac conditions"
+  },
+  {
+    "unitcode": "PAR5430",
+    "unitname": "Intensive care management of respiratory conditions"
+  },
+  {
+    "unitcode": "PAR5440",
+    "unitname": "Intensive care management of trauma and environmental conditions"
+  },
+  {
+    "unitcode": "PAR5450",
+    "unitname": "Advanced care paramedic management of paediatric and obstetric patients"
+  },
+  {
+    "unitcode": "PAR5460",
+    "unitname": "Transition to practice in the intensive care simulated environment"
+  },
+  {
+    "unitcode": "PAR5470",
+    "unitname": "Transition to intensive care clinical practicum"
+  },
+  {
+    "unitcode": "PAR5480",
+    "unitname": "Intensive care management of medical conditions"
+  },
+  {
+    "unitcode": "PBH1101",
+    "unitname": "Introduction to qualitative research"
+  },
+  {
+    "unitcode": "PBH1102",
+    "unitname": "Introduction to communicating health"
+  },
+  {
+    "unitcode": "PBH1104",
+    "unitname": "Global health: Opportunities and challenges"
+  },
+  {
+    "unitcode": "PBH2001",
+    "unitname": "Foundations of epidemiology"
+  },
+  {
+    "unitcode": "PBH2002",
+    "unitname": "Foundations of biostatistics"
+  },
+  {
+    "unitcode": "PBH2003",
+    "unitname": "Culture, society and health"
+  },
+  {
+    "unitcode": "PBH2004",
+    "unitname": "Health, law and ethics"
+  },
+  {
+    "unitcode": "PBH2005",
+    "unitname": "Health program planning"
+  },
+  {
+    "unitcode": "PBH2006",
+    "unitname": "Treatment and technologies"
+  },
+  {
+    "unitcode": "PBH2008",
+    "unitname": "Introduction to health policy and politics"
+  },
+  {
+    "unitcode": "PBH2107",
+    "unitname": "Public health and ethics short international program"
+  },
+  {
+    "unitcode": "PBH3001",
+    "unitname": "Public health and clinical research methods"
+  },
+  {
+    "unitcode": "PBH3002",
+    "unitname": "Disease prevention and control"
+  },
+  {
+    "unitcode": "PBH3003",
+    "unitname": "Environmental determinants of health and disease"
+  },
+  {
+    "unitcode": "PBH3004",
+    "unitname": "Health program evaluation"
+  },
+  {
+    "unitcode": "PBH3005",
+    "unitname": "Social and behavioural sciences in public health"
+  },
+  {
+    "unitcode": "PBH3006",
+    "unitname": "Public health research practicum"
+  },
+  {
+    "unitcode": "PBH3007",
+    "unitname": "Health promotion practicum"
+  },
+  {
+    "unitcode": "PBH3008",
+    "unitname": "Case studies in global and public health"
+  },
+  {
+    "unitcode": "PBH3009",
+    "unitname": "Chronic disease epidemiology and control"
+  },
+  {
+    "unitcode": "PBH3010",
+    "unitname": "Health data management"
+  },
+  {
+    "unitcode": "PBH3011",
+    "unitname": "Advanced biostatistics for public health"
+  },
+  {
+    "unitcode": "PBH3012",
+    "unitname": "Translating research into practice"
+  },
+  {
+    "unitcode": "PHC5012",
+    "unitname": "Community based palliative care for health practitioners"
+  },
+  {
+    "unitcode": "PHC5301",
+    "unitname": "Preventative health and management of chronic disease"
+  },
+  {
+    "unitcode": "PHC5302",
+    "unitname": "Common problems in primary care"
+  },
+  {
+    "unitcode": "PHH1052",
+    "unitname": "Health care systems: Global and local"
+  },
+  {
+    "unitcode": "PHH1061",
+    "unitname": "Data, evidence and critical thinking in health"
+  },
+  {
+    "unitcode": "PHH1081",
+    "unitname": "Foundations of public health"
+  },
+  {
+    "unitcode": "PHH1101",
+    "unitname": "Biological bases of health and disease 1"
+  },
+  {
+    "unitcode": "PHH1102",
+    "unitname": "Biological bases of health and disease 2"
+  },
+  {
+    "unitcode": "PHH1112",
+    "unitname": "Global health: Opportunities and challenges"
+  },
+  {
+    "unitcode": "PHH2022",
+    "unitname": "Culture, society and health"
+  },
+  {
+    "unitcode": "PHH2051",
+    "unitname": "Health program planning"
+  },
+  {
+    "unitcode": "PHH2101",
+    "unitname": "Health promotion: Global and local"
+  },
+  {
+    "unitcode": "PHH2111",
+    "unitname": "Treatments and technologies"
+  },
+  {
+    "unitcode": "PHH2141",
+    "unitname": "Analysing patterns of health and disease"
+  },
+  {
+    "unitcode": "PHH2142",
+    "unitname": "Research methods in the health sciences"
+  },
+  {
+    "unitcode": "PHH3001",
+    "unitname": "Health, law and ethics"
+  },
+  {
+    "unitcode": "PHH3002",
+    "unitname": "Health for all in a global world"
+  },
+  {
+    "unitcode": "PHH3011",
+    "unitname": "Contemporary health challenges"
+  },
+  {
+    "unitcode": "PHH3041",
+    "unitname": "Disease prevention and control"
+  },
+  {
+    "unitcode": "PHH3061",
+    "unitname": "Health program evaluation"
+  },
+  {
+    "unitcode": "PHH3072",
+    "unitname": "Health policy and politics"
+  },
+  {
+    "unitcode": "PHH3082",
+    "unitname": "Health promotion practicum"
+  },
+  {
+    "unitcode": "PHH4101",
+    "unitname": "Public health research proposal"
+  },
+  {
+    "unitcode": "PHH4102",
+    "unitname": "Contemporary and global public health issues"
+  },
+  {
+    "unitcode": "PHH4201",
+    "unitname": "Public health research report"
+  },
+  {
+    "unitcode": "PIT5001",
+    "unitname": "Foundations of psychiatry 1"
+  },
+  {
+    "unitcode": "PIT5002",
+    "unitname": "Foundations of psychiatry 2"
+  },
+  {
+    "unitcode": "PIT5003",
+    "unitname": "Foundations of psychiatry 3"
+  },
+  {
+    "unitcode": "PIT5005",
+    "unitname": "Psychiatry of the medically ill"
+  },
+  {
+    "unitcode": "PIT5006",
+    "unitname": "Child and adolescent psychiatry"
+  },
+  {
+    "unitcode": "PIT5008",
+    "unitname": "Fundamentals of forensic psychiatry"
+  },
+  {
+    "unitcode": "PIT5010",
+    "unitname": "Ethics of mental health care"
+  },
+  {
+    "unitcode": "PIT5012",
+    "unitname": "Contemporary issues and controversies in psychiatry"
+  },
+  {
+    "unitcode": "PMH1011",
+    "unitname": "Mental health in the community"
+  },
+  {
+    "unitcode": "PMH3110",
+    "unitname": "Psychology impact internship"
+  },
+  {
+    "unitcode": "POM5001",
+    "unitname": "Perioperative management of the cardiac patient"
+  },
+  {
+    "unitcode": "POM5002",
+    "unitname": "Acute perioperative medicine"
+  },
+  {
+    "unitcode": "POM5003",
+    "unitname": "Organ dysfunction 1"
+  },
+  {
+    "unitcode": "POM5004",
+    "unitname": "Organ dysfunction 2"
+  },
+  {
+    "unitcode": "POM5005",
+    "unitname": "Human factors for patient safety"
+  },
+  {
+    "unitcode": "POM5101",
+    "unitname": "Perioperative medicine and cardiorespiratory disease"
+  },
+  {
+    "unitcode": "POM5102",
+    "unitname": "Acute perioperative care"
+  },
+  {
+    "unitcode": "POM5103",
+    "unitname": "Perioperative medicine and co-existing conditions"
+  },
+  {
+    "unitcode": "POM5104",
+    "unitname": "Key topics in perioperative medicine"
+  },
+  {
+    "unitcode": "PSY1011",
+    "unitname": "Psychology 1A"
+  },
+  {
+    "unitcode": "PSY1022",
+    "unitname": "Psychology 1B"
+  },
+  {
+    "unitcode": "PSY2042",
+    "unitname": "Personality and social psychology"
+  },
+  {
+    "unitcode": "PSY2061",
+    "unitname": "Biological psychology"
+  },
+  {
+    "unitcode": "PSY2071",
+    "unitname": "Developmental psychology"
+  },
+  {
+    "unitcode": "PSY2112",
+    "unitname": "Organisational psychology"
+  },
+  {
+    "unitcode": "PSY3032",
+    "unitname": "Abnormal psychology"
+  },
+  {
+    "unitcode": "PSY3041",
+    "unitname": "Psychological testing, theories of ability and ethics"
+  },
+  {
+    "unitcode": "PSY3051",
+    "unitname": "Perception and cognitive psychology"
+  },
+  {
+    "unitcode": "PSY3062",
+    "unitname": "Research methods and theory"
+  },
+  {
+    "unitcode": "PSY3120",
+    "unitname": "Introduction to counselling"
+  },
+  {
+    "unitcode": "PSY3130",
+    "unitname": "Health psychology"
+  },
+  {
+    "unitcode": "PSY3150",
+    "unitname": "Contemporary social psychology"
+  },
+  {
+    "unitcode": "PSY3180",
+    "unitname": "Human neuropsychology: Developmental and neurodegenerative disorders"
+  },
+  {
+    "unitcode": "PSY3190",
+    "unitname": "Addiction studies"
+  },
+  {
+    "unitcode": "PSY3250",
+    "unitname": "Positive psychology"
+  },
+  {
+    "unitcode": "PSY3270",
+    "unitname": "Neuroscience of cognition and behaviour"
+  },
+  {
+    "unitcode": "PSY3280",
+    "unitname": "The neuronal basis of consciousness"
+  },
+  {
+    "unitcode": "PSY3310",
+    "unitname": "Introduction to computational neuroscience"
+  },
+  {
+    "unitcode": "PSY3320",
+    "unitname": "Sleep and circadian rhythms"
+  },
+  {
+    "unitcode": "PSY4032",
+    "unitname": "Abnormal psychology"
+  },
+  {
+    "unitcode": "PSY4041",
+    "unitname": "Psychological testing and ethics"
+  },
+  {
+    "unitcode": "PSY4051",
+    "unitname": "Research design and analysis"
+  },
+  {
+    "unitcode": "PSY4062",
+    "unitname": "Research methods and theory"
+  },
+  {
+    "unitcode": "PSY4081",
+    "unitname": "Perception and cognition"
+  },
+  {
+    "unitcode": "PSY4100",
+    "unitname": "Psychology honours: Research project"
+  },
+  {
+    "unitcode": "PSY4110",
+    "unitname": "Psychology in society"
+  },
+  {
+    "unitcode": "PSY4111",
+    "unitname": "Psychology 1A"
+  },
+  {
+    "unitcode": "PSY4120",
+    "unitname": "Mental health and illness"
+  },
+  {
+    "unitcode": "PSY4122",
+    "unitname": "Psychology 1B"
+  },
+  {
+    "unitcode": "PSY4130",
+    "unitname": "Developmental psychology and clinical neuroscience"
+  },
+  {
+    "unitcode": "PSY4131",
+    "unitname": "Developmental and biological psychology"
+  },
+  {
+    "unitcode": "PSY4140",
+    "unitname": "Introduction to counselling"
+  },
+  {
+    "unitcode": "PSY4151",
+    "unitname": "Personality and social psychology"
+  },
+  {
+    "unitcode": "PSY4170",
+    "unitname": "Neuroscience of cognition and behaviour"
+  },
+  {
+    "unitcode": "PSY4210",
+    "unitname": "Statistics and research design for professional psychology"
+  },
+  {
+    "unitcode": "PSY4220",
+    "unitname": "Ethics, legal and professional issues in psychology"
+  },
+  {
+    "unitcode": "PSY4270",
+    "unitname": "Psychological assessment and intervention"
+  },
+  {
+    "unitcode": "PSY4400",
+    "unitname": "Psychology research project: final grade"
+  },
+  {
+    "unitcode": "PSY4401",
+    "unitname": "Psychology research project: Statistics and research design for professional psychology"
+  },
+  {
+    "unitcode": "PSY4402",
+    "unitname": "Psychology research project: Literature review"
+  },
+  {
+    "unitcode": "PSY4403",
+    "unitname": "Psychology research project: Methodology and data collection"
+  },
+  {
+    "unitcode": "PSY4404",
+    "unitname": "Psychology research project: results and discussion"
+  },
+  {
+    "unitcode": "PSY4405",
+    "unitname": "Ethical and professional issues in psychology"
+  },
+  {
+    "unitcode": "PSY4406",
+    "unitname": "Psychological assessment and intervention"
+  },
+  {
+    "unitcode": "PSY4407",
+    "unitname": "Psychology in industry: Pathways to employment"
+  },
+  {
+    "unitcode": "PSY4408",
+    "unitname": "Perspectives in clinical and developmental neuroscience"
+  },
+  {
+    "unitcode": "PSY4409",
+    "unitname": "21st century applications of psychology"
+  },
+  {
+    "unitcode": "PSY6101",
+    "unitname": "Psychopathology"
+  },
+  {
+    "unitcode": "PSY6102",
+    "unitname": "Psychological assessment"
+  },
+  {
+    "unitcode": "PSY6103",
+    "unitname": "Legal and ethical principles in clinical psychology practice and research"
+  },
+  {
+    "unitcode": "PSY6104",
+    "unitname": "Cognitive behaviour therapies: processes and applications"
+  },
+  {
+    "unitcode": "PSY6105",
+    "unitname": "Clinical development psychology"
+  },
+  {
+    "unitcode": "PSY6161",
+    "unitname": "Legal and ethical principles in clinical neuropsychology practice and research"
+  },
+  {
+    "unitcode": "PSY6162",
+    "unitname": "Neuroanatomy and models of cognition for the clinical neuropsychologist"
+  },
+  {
+    "unitcode": "PSY6163",
+    "unitname": "Neuropsychological assessment and neuropsychological syndromes"
+  },
+  {
+    "unitcode": "PSY6164",
+    "unitname": "Developmental Neuropsychology"
+  },
+  {
+    "unitcode": "PSY6201",
+    "unitname": "Psychopathology and theories and techniques of intervention"
+  },
+  {
+    "unitcode": "PSY6202",
+    "unitname": "Psychopharmacology and advanced psychopathology"
+  },
+  {
+    "unitcode": "PSY6203",
+    "unitname": "Recovery of function and rehabilitation after brain injury"
+  },
+  {
+    "unitcode": "PSY6204",
+    "unitname": "Clinical neuropsychology"
+  },
+  {
+    "unitcode": "PSY6205",
+    "unitname": "Introductory placement and case analysis (clinical psychology)"
+  },
+  {
+    "unitcode": "PSY6206",
+    "unitname": "Intermediate placement and case analysis (clinical psychology)"
+  },
+  {
+    "unitcode": "PSY6207",
+    "unitname": "Health psychology and behavioural medicine"
+  },
+  {
+    "unitcode": "PSY6208",
+    "unitname": "Introductory placement and case analysis (clinical neuropsychology)"
+  },
+  {
+    "unitcode": "PSY6209",
+    "unitname": "Intermediate placement and case analysis (clinical neuropsychology)"
+  },
+  {
+    "unitcode": "PSY6301",
+    "unitname": "Advanced placement and case analysis (clinical psychology)"
+  },
+  {
+    "unitcode": "PSY6302",
+    "unitname": "Advanced placement and case analysis (clinical neuropsychology)"
+  },
+  {
+    "unitcode": "PTY1011",
+    "unitname": "Physiotherapy 1"
+  },
+  {
+    "unitcode": "PTY1022",
+    "unitname": "Physiotherapy 2"
+  },
+  {
+    "unitcode": "PTY2031",
+    "unitname": "Physiotherapy 3"
+  },
+  {
+    "unitcode": "PTY2042",
+    "unitname": "Physiotherapy 4"
+  },
+  {
+    "unitcode": "PTY3051",
+    "unitname": "Physiotherapy 5"
+  },
+  {
+    "unitcode": "PTY3162",
+    "unitname": "Physiotherapy 6A: Clinical"
+  },
+  {
+    "unitcode": "PTY3262",
+    "unitname": "Physiotherapy 6B: Clinical"
+  },
+  {
+    "unitcode": "PTY3362",
+    "unitname": "Physiotherapy 6C: Clinical"
+  },
+  {
+    "unitcode": "PTY3462",
+    "unitname": "Clinical placement"
+  },
+  {
+    "unitcode": "PTY4000",
+    "unitname": "Honours thesis"
+  },
+  {
+    "unitcode": "PTY4010",
+    "unitname": "Honours systematic review"
+  },
+  {
+    "unitcode": "PTY4020",
+    "unitname": "Honours research proposal"
+  },
+  {
+    "unitcode": "PTY4030",
+    "unitname": "Honours thesis"
+  },
+  {
+    "unitcode": "PTY4171",
+    "unitname": "Physiotherapy 7A: Clinical"
+  },
+  {
+    "unitcode": "PTY4172",
+    "unitname": "Physiotherapy 7B: Clinical"
+  },
+  {
+    "unitcode": "PTY4281",
+    "unitname": "Physiotherapy 8A: Clinical"
+  },
+  {
+    "unitcode": "PTY4282",
+    "unitname": "Physiotherapy 8B: Clinical"
+  },
+  {
+    "unitcode": "PTY4283",
+    "unitname": "Physiotherapy 8C: Campus"
+  },
+  {
+    "unitcode": "PTY5100",
+    "unitname": "Enhancing skills in paediatric physiotherapy"
+  },
+  {
+    "unitcode": "PTY5101",
+    "unitname": "Advancing skills in paediatric physiotherapy: Cerebral palsy"
+  },
+  {
+    "unitcode": "PTY5102",
+    "unitname": "Advancing skills in paediatric physiotherapy: Neonates and infants"
+  },
+  {
+    "unitcode": "PTY5103",
+    "unitname": "Principles of paediatric physiotherapy"
+  },
+  {
+    "unitcode": "PTY5104",
+    "unitname": "Advancing skills in paediatric physiotherapy: Complex and chronic conditions"
+  },
+  {
+    "unitcode": "PTY5105",
+    "unitname": "Advanced physiotherapy clinical skills and project"
+  },
+  {
+    "unitcode": "RAD1012",
+    "unitname": "Radiographic science and practice 2"
+  },
+  {
+    "unitcode": "RAD1021",
+    "unitname": "Radiologic physics and radiation protection"
+  },
+  {
+    "unitcode": "RAD1022",
+    "unitname": "Medical radiation science: Physical principles"
+  },
+  {
+    "unitcode": "RAD1031",
+    "unitname": "Radiologic biology 1"
+  },
+  {
+    "unitcode": "RAD1061",
+    "unitname": "Radiographic science and practice 1"
+  },
+  {
+    "unitcode": "RAD1082",
+    "unitname": "Radiologic biology 2"
+  },
+  {
+    "unitcode": "RAD2001",
+    "unitname": "Medical imaging science: Radiographic principles"
+  },
+  {
+    "unitcode": "RAD2002",
+    "unitname": "Medical imaging anatomy"
+  },
+  {
+    "unitcode": "RAD2003",
+    "unitname": "Medical imaging science: Nuclear medicine"
+  },
+  {
+    "unitcode": "RAD2004",
+    "unitname": "Pathophysiology for medical radiation science 1"
+  },
+  {
+    "unitcode": "RAD2005",
+    "unitname": "Medical radiation science: Professional skills 1"
+  },
+  {
+    "unitcode": "RAD2006",
+    "unitname": "Pathophysiology for medical radiation science 2"
+  },
+  {
+    "unitcode": "RAD2007",
+    "unitname": "Medical radiation science: Professional skills 2"
+  },
+  {
+    "unitcode": "RAD2012",
+    "unitname": "Radiographic science and practice 4"
+  },
+  {
+    "unitcode": "RAD2051",
+    "unitname": "Radiographic science and practice 3"
+  },
+  {
+    "unitcode": "RAD2061",
+    "unitname": "Radiologic biology 3"
+  },
+  {
+    "unitcode": "RAD2092",
+    "unitname": "Radiologic biology 4 and sectional anatomy"
+  },
+  {
+    "unitcode": "RAD3002",
+    "unitname": "Medical imaging science: Computed tomography and digital image processing"
+  },
+  {
+    "unitcode": "RAD3004",
+    "unitname": "Neuroimaging for neuroscience research"
+  },
+  {
+    "unitcode": "RAD3042",
+    "unitname": "Medical imaging science and practice 2"
+  },
+  {
+    "unitcode": "RAD3051",
+    "unitname": "Medical imaging science and practice 1"
+  },
+  {
+    "unitcode": "RAD3061",
+    "unitname": "Medical imaging science (ultrasound)"
+  },
+  {
+    "unitcode": "RAD3092",
+    "unitname": "Magnetic resonance imaging (physics and technology)"
+  },
+  {
+    "unitcode": "RAD4000",
+    "unitname": "Radiography and medical imaging work experience"
+  },
+  {
+    "unitcode": "RAD4070",
+    "unitname": "Research in medical imaging"
+  },
+  {
+    "unitcode": "RAD4080",
+    "unitname": "Selected topics in medical imaging"
+  },
+  {
+    "unitcode": "RAD4160",
+    "unitname": "Advanced medical imaging"
+  },
+  {
+    "unitcode": "RAD4501",
+    "unitname": "MRI imaging and evidence based practice"
+  },
+  {
+    "unitcode": "RAD4502",
+    "unitname": "Principles of general radiography image interpretation"
+  },
+  {
+    "unitcode": "RAD4503",
+    "unitname": "Magnetic resonance imaging: Physics, instrumentation and safety"
+  },
+  {
+    "unitcode": "RAD5105",
+    "unitname": "Pathology for imaging"
+  },
+  {
+    "unitcode": "RAD5107",
+    "unitname": "Hybrid and molecular imaging"
+  },
+  {
+    "unitcode": "RAD5108",
+    "unitname": "Musculoskeletal x-ray interpretation 1"
+  },
+  {
+    "unitcode": "RAD5109",
+    "unitname": "Musculoskeletal x-ray interpretation 2"
+  },
+  {
+    "unitcode": "RAD5110",
+    "unitname": "Advanced CT and clinical decision making 1"
+  },
+  {
+    "unitcode": "RAD5111",
+    "unitname": "Advanced CT and clinical decision making 2"
+  },
+  {
+    "unitcode": "RAD5112",
+    "unitname": "Advanced MRI clinical decision making"
+  },
+  {
+    "unitcode": "RAD5114",
+    "unitname": "X-ray interpretation of the chest and abdomen"
+  },
+  {
+    "unitcode": "RAD5201",
+    "unitname": "Emergency image interpretation 1"
+  },
+  {
+    "unitcode": "RAD5202",
+    "unitname": "Emergency image interpretation 2"
+  },
+  {
+    "unitcode": "RAD5500",
+    "unitname": "Multislice CT and clinical decision making"
+  },
+  {
+    "unitcode": "RAD5504",
+    "unitname": "Magnetic resonance imaging: Musculoskeletal system"
+  },
+  {
+    "unitcode": "RAD5505",
+    "unitname": "Magnetic resonance imaging: Head, spine abdomen and pelvis"
+  },
+  {
+    "unitcode": "RAD5506",
+    "unitname": "Magnetic resonance imaging: Advanced imaging techniques"
+  },
+  {
+    "unitcode": "RTP4101",
+    "unitname": "Professional issues in radiation therapy 1"
+  },
+  {
+    "unitcode": "RTP4102",
+    "unitname": "Professional issues in radiation therapy 2"
+  },
+  {
+    "unitcode": "RTP4103",
+    "unitname": "Specialised techniques in radiation therapy"
+  },
+  {
+    "unitcode": "RTP5101",
+    "unitname": "Patient care and assessment in radiation therapy"
+  },
+  {
+    "unitcode": "RTP5102",
+    "unitname": "Current issues in radiation therapy and oncology"
+  },
+  {
+    "unitcode": "RTP5103",
+    "unitname": "Contemporary approaches to radiation therapy of the breast"
+  },
+  {
+    "unitcode": "RTP5104",
+    "unitname": "Advanced imaging for radiation therapy"
+  },
+  {
+    "unitcode": "RTS2001",
+    "unitname": "Professional practice in radiation therapy"
+  },
+  {
+    "unitcode": "RTS2101",
+    "unitname": "Fundamentals of cancer and its management"
+  },
+  {
+    "unitcode": "RTS4101",
+    "unitname": "Radiation therapy science 1"
+  },
+  {
+    "unitcode": "RTS4102",
+    "unitname": "Radiation therapy science 2"
+  },
+  {
+    "unitcode": "RTS4103",
+    "unitname": "Radiation therapy science 3"
+  },
+  {
+    "unitcode": "RTS4104",
+    "unitname": "Radiation therapy principles and practice 1"
+  },
+  {
+    "unitcode": "RTS4105",
+    "unitname": "Radiation therapy principles and practice 2"
+  },
+  {
+    "unitcode": "RTS5101",
+    "unitname": "Radiation therapy science 4"
+  },
+  {
+    "unitcode": "RTS5102",
+    "unitname": "Radiation therapy science 5"
+  },
+  {
+    "unitcode": "RTS5103",
+    "unitname": "Radiation therapy science 6"
+  },
+  {
+    "unitcode": "RTS5104",
+    "unitname": "Radiation therapy science 7"
+  },
+  {
+    "unitcode": "RTS5105",
+    "unitname": "Radiation therapy science 8"
+  },
+  {
+    "unitcode": "RTS5110",
+    "unitname": "Radiation therapy science and practice 1"
+  },
+  {
+    "unitcode": "RTS5120",
+    "unitname": "Radiation therapy science and practice 2"
+  },
+  {
+    "unitcode": "SON4000",
+    "unitname": "Physics of medical ultrasound and instrumentation"
+  },
+  {
+    "unitcode": "SON4010",
+    "unitname": "Embryology, anatomy and pathophysiology"
+  },
+  {
+    "unitcode": "SON5000",
+    "unitname": "Ultrasound research"
+  },
+  {
+    "unitcode": "SON5020",
+    "unitname": "Sonographic professional skills and sonography of the breast and thyroid"
+  },
+  {
+    "unitcode": "SON5021",
+    "unitname": "Sonographic abdominal imaging"
+  },
+  {
+    "unitcode": "SON5022",
+    "unitname": "Sonographic imaging of the reproductive system"
+  },
+  {
+    "unitcode": "SON5023",
+    "unitname": "Obstetric sonography"
+  },
+  {
+    "unitcode": "SON5024",
+    "unitname": "Musculoskeletal, neonatal and paediatric sonography"
+  },
+  {
+    "unitcode": "SON5025",
+    "unitname": "Sonographic vascular and postoperative imaging"
+  },
+  {
+    "unitcode": "SRH3001",
+    "unitname": "Health and health care planning for communities"
+  },
+  {
+    "unitcode": "SRH5000",
+    "unitname": "Health and health care planning for communities"
+  },
+  {
+    "unitcode": "SRH5001",
+    "unitname": "Research methods for health"
+  },
+  {
+    "unitcode": "SRH5003",
+    "unitname": "Designing and conducting health research"
+  },
+  {
+    "unitcode": "SRH5032",
+    "unitname": "Applied research for health practitioners"
+  },
+  {
+    "unitcode": "SWK1011",
+    "unitname": "Introduction to human services practice"
+  },
+  {
+    "unitcode": "SWK2001",
+    "unitname": "Introduction to the Australian welfare state"
+  },
+  {
+    "unitcode": "SWK2110",
+    "unitname": "Social welfare and the law"
+  },
+  {
+    "unitcode": "SWK2140",
+    "unitname": "Social welfare and practice with communities"
+  },
+  {
+    "unitcode": "SWK3080",
+    "unitname": "Planning for supervised professional practice placement 1"
+  },
+  {
+    "unitcode": "SWK3180",
+    "unitname": "Supervised professional practice 1"
+  },
+  {
+    "unitcode": "SWK3220",
+    "unitname": "Social work: Orientation to practice"
+  },
+  {
+    "unitcode": "SWK3230",
+    "unitname": "Social work research"
+  },
+  {
+    "unitcode": "SWK3310",
+    "unitname": "Social welfare practice and research"
+  },
+  {
+    "unitcode": "SWK3400",
+    "unitname": "Critical social work 1: Individuals and families (context and practice)"
+  },
+  {
+    "unitcode": "SWK3410",
+    "unitname": "Critical social work 2: Community work, context and practice"
+  },
+  {
+    "unitcode": "SWK3440",
+    "unitname": "Leadership in social work and human services"
+  },
+  {
+    "unitcode": "SWK4001",
+    "unitname": "Honours research methods"
+  },
+  {
+    "unitcode": "SWK4002",
+    "unitname": "Honours project seminar"
+  },
+  {
+    "unitcode": "SWK4030",
+    "unitname": "Human rights, legal and ethics knowledge for social work practice"
+  },
+  {
+    "unitcode": "SWK4031",
+    "unitname": "Working with complexity"
+  },
+  {
+    "unitcode": "SWK4032",
+    "unitname": "Working with complexity: Honours"
+  },
+  {
+    "unitcode": "SWK4060",
+    "unitname": "Planning for supervised professional practice placement 2"
+  },
+  {
+    "unitcode": "SWK4400",
+    "unitname": "Critical social work 3: Group work and community engagement (context and practice)"
+  },
+  {
+    "unitcode": "SWK4401",
+    "unitname": "Critical social work 4: Individual, health and society (context and practice)"
+  },
+  {
+    "unitcode": "SWK4450",
+    "unitname": "Social policy and social justice"
+  },
+  {
+    "unitcode": "SWK4451",
+    "unitname": "Social policy and social justice: Honours"
+  },
+  {
+    "unitcode": "SWK4560",
+    "unitname": "Supervised professional practice 2"
+  },
+  {
+    "unitcode": "SWM5003",
+    "unitname": "Planning for supervised professional practice placement 1"
+  },
+  {
+    "unitcode": "SWM5008",
+    "unitname": "Planning for supervised professional practice placement 2"
+  },
+  {
+    "unitcode": "SWM5100",
+    "unitname": "Social work: Fields of practice"
+  },
+  {
+    "unitcode": "SWM5101",
+    "unitname": "Human rights, law and ethics contexts for social work practice"
+  },
+  {
+    "unitcode": "SWM5102",
+    "unitname": "Critical social work 1: Frameworks for practice with children and families"
+  },
+  {
+    "unitcode": "SWM5103",
+    "unitname": "Supervised professional practice 1"
+  },
+  {
+    "unitcode": "SWM5104",
+    "unitname": "Critical social work 2: Frameworks for practice in health and mental health"
+  },
+  {
+    "unitcode": "SWM5105",
+    "unitname": "Social work practice and research"
+  },
+  {
+    "unitcode": "SWM5106",
+    "unitname": "Critical social work 3: Community engagement group project"
+  },
+  {
+    "unitcode": "SWM5108",
+    "unitname": "Supervised professional practice 2"
+  },
+  {
+    "unitcode": "SWM5109",
+    "unitname": "Critical social work 4: Social policy, social change and community practice"
+  },
+  {
+    "unitcode": "SWM5111",
+    "unitname": "Leadership in social work and human services"
+  },
+  {
+    "unitcode": "SWM5112",
+    "unitname": "Research for social work practice"
+  },
+  {
+    "unitcode": "SWM5113",
+    "unitname": "Critical social work 3: Group work and social work leadership"
+  },
+  {
+    "unitcode": "SWM5120",
+    "unitname": "Criminology and social work"
+  },
+  {
+    "unitcode": "SWM5160",
+    "unitname": "The child in society: Promoting children's wellbeing and responding to child maltreatment"
+  },
+  {
+    "unitcode": "SWM5170",
+    "unitname": "Applied research study"
+  },
+  {
+    "unitcode": "SWM5180",
+    "unitname": "Management of human resources in the social services"
+  },
+  {
+    "unitcode": "SWM5190",
+    "unitname": "Social work research"
+  },
+  {
+    "unitcode": "SWM5200",
+    "unitname": "Social work in a hospital context"
+  },
+  {
+    "unitcode": "SWM5220",
+    "unitname": "Longevity and social work"
+  },
+  {
+    "unitcode": "SWM5225",
+    "unitname": "Family violence and social work practice"
+  },
+  {
+    "unitcode": "SWM5235",
+    "unitname": "Family violence and professional practice"
+  },
+  {
+    "unitcode": "SWM5241",
+    "unitname": "Mental health practice"
+  },
+  {
+    "unitcode": "SWM5260",
+    "unitname": "Social work in post disaster sites"
+  },
+  {
+    "unitcode": "TRM4001",
+    "unitname": "Introduction to clinical trials"
+  },
+  {
+    "unitcode": "TRM4002",
+    "unitname": "Translational research"
+  },
+  {
+    "unitcode": "TRM6001",
+    "unitname": "Introduction to clinical trials"
+  },
+  {
+    "unitcode": "TRM6002",
+    "unitname": "Translational research: pathways to the clinic"
+  }
+]

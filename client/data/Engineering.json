@@ -1,1 +1,1550 @@
-{"CEM6881": "Scanning electron microscopy", "CEM6882": "Transmission electron microscopy", "CHE1010": "Grand challenges in chemical engineering: Delivering sustainable food, water and energy", "CHE2161": "Mechanics of fluids", "CHE2162": "Material and energy balances", "CHE2163": "Heat and mass transfer", "CHE2164": "Thermodynamics 1", "CHE2166": "Introduction to process simulation", "CHE2167": "Process material selection", "CHE2871": "Biochemistry for engineers", "CHE2873": "Introduction to chemical processes", "CHE3161": "Chemistry and chemical thermodynamics", "CHE3162": "Process control", "CHE3163": "Sustainable processing 1", "CHE3164": "Reaction engineering", "CHE3165": "Separation processes", "CHE3166": "Process design", "CHE3167": "Transport phenomena and numerical methods", "CHE3171": "Bioprocess technology", "CHE3172": "Nanotechnology and materials 1", "CHE4161": "Engineer in society", "CHE4162": "Particle technology", "CHE4164": "Integrated industrial project", "CHE4170": "Design project", "CHE4171": "Biochemical engineering", "CHE4172": "Nanotechnology and materials 2", "CHE4173": "Sustainable processing 2", "CHE4180": "Chemical engineering project", "CHE5001": "Data analysis", "CHE5002": "Industrial entrepreneurship", "CHE5881": "Advanced reaction engineering", "CHE5882": "Biomass and biorefineries", "CHE5883": "Nanostructured membranes for separation and energy production", "CHE5884": "Process modelling and optimisation", "CHE5885": "Principles and practices for sustainable development", "CHE5886": "Advanced biopolymers", "CHE5888": "Sustainability and innovation", "CHE5889": "Food engineering and processing", "CHE6410": "Research practice in chemical engineering", "CHE6881": "Advanced reaction engineering", "CHE6882": "Biomass and biorefineries", "CHE6883": "Nanostructured membranes for separation and energy production", "CHE6884": "Process modelling and optimisation", "CHE6885": "Principles and practices for sustainable development", "CHM1752": "Chemistry for engineering", "CIV2206": "Structural mechanics", "CIV2207": "Computing and water systems modelling", "CIV2225": "Design of steel and timber structures", "CIV2242": "Geomechanics 1", "CIV2263": "Water systems", "CIV2282": "Transport and traffic engineering", "CIV2283": "Civil engineering construction", "CIV3204": "Engineering investigation", "CIV3221": "Building structures and technology", "CIV3247": "Geomechanics 2", "CIV3248": "Groundwater and environmental geomechanics", "CIV3284": "Design of concrete and masonry structures", "CIV3285": "Engineering hydrology", "CIV4210": "Project A", "CIV4211": "Project B", "CIV4212": "Civil and environmental engineering practice", "CIV4234": "Advanced structural analysis", "CIV4235": "Advanced structural design", "CIV4248": "Ground hazards engineering", "CIV4249": "Foundation engineering", "CIV4261": "Integrated urban water management", "CIV4268": "Water resources management", "CIV4280": "Bridge design and assessment", "CIV4283": "Transport planning", "CIV4284": "Traffic systems", "CIV4286": "Project management for civil engineers", "CIV4287": "Road engineering", "CIV4288": "Water treatment", "CIV5301": "Advanced traffic engineering", "CIV5302": "Traffic engineering and management", "CIV5303": "Applied transport data analysis", "CIV5304": "Intelligent transport systems", "CIV5305": "Travel demand modelling", "CIV5308": "Transport and traffic systems project", "CIV5309": "Transport and traffic data", "CIV5310": "Infrastructure project and policy evaluation", "CIV5312": "Asset management 1", "CIV5313": "Asset management", "CIV5314": "Planning urban mobility futures", "CIV5315": "Applied transport economics", "CIV5316": "Fundamentals of urban public transport", "CIV5318": "Intelligent transportation systems: engineering and management", "CIV5319": "Quantitative methods for transportation systems analysis", "CIV5320": "Case studies in transportation systems", "CIV5321": "Sustainable transportation systems planning", "CIV5322": "Urban public transportation systems", "CIV5406": "Modelling transportation systems", "CIV5801": "Green building", "CIV5881": "Ground water hydraulics", "CIV5882": "Flood hydraulics and hydrology", "CIV5883": "Surface water hydrology", "CIV5884": "Water sensitive stormwater design", "CIV5885": "Infrastructure dynamics", "CIV5886": "Infrastructure geomechanics", "CIV5887": "Infrastructure rehabilitation and monitoring", "CIV5888": "Advanced computational methods", "CIV5889": "Infrastructure project", "CIV5899": "Infrastructure information management", "CIV5901": "Geotechnical analysis and design", "CIV5902": "Geotechnical engineering and construction", "CIV6301": "Advanced traffic engineering", "CIV6302": "Traffic engineering and management", "CIV6305": "Travel demand modelling", "CIV6314": "Planning urban mobility futures", "CIV6410": "Research practice in civil engineering", "CIV6881": "Ground water hydraulics", "CIV6882": "Flood hydraulics and hydrology", "CIV6883": "Surface water hydrology", "CIV6884": "Water sensitive stormwater design", "CIV6885": "Infrastructure dynamics", "CIV6886": "Infrastructure geomechanics", "CIV6887": "Infrastructure rehabilitation and monitoring", "CIV6888": "Advanced computational methods", "ECE2011": "Signal processing", "ECE2031": "Circuits and control", "ECE2041": "Telecommunications", "ECE2071": "Computer organisation and programming", "ECE2072": "Digital systems", "ECE2111": "Signals and systems", "ECE2131": "Electrical circuits", "ECE2191": "Probability models in engineering", "ECE3022": "Wireless and guided EM", "ECE3031": "Control systems", "ECE3051": "Electrical energy systems", "ECE3062": "Electronic systems and control", "ECE3073": "Computer systems", "ECE3091": "Engineering design", "ECE3093": "Optimisation estimation and numerical methods", "ECE3121": "Engineering electromagnetics", "ECE3141": "Information and networks", "ECE3161": "Analogue electronics", "ECE4012": "Applied digital signal processing", "ECE4023": "Radio frequency electronics", "ECE4024": "Wireless communications", "ECE4032": "Advanced control", "ECE4033": "Industrial instrumentation and measurement technologies", "ECE4042": "Communications theory", "ECE4043": "Optical communications", "ECE4044": "Telecommunications protocols", "ECE4045": "Network performance", "ECE4053": "Electrical energy - generation and supply", "ECE4054": "Electrical energy - power converters and motor control", "ECE4055": "Electrical energy - power electronic applications", "ECE4058": "Electrical energy - high voltage engineering", "ECE4063": "Large scale digital design", "ECE4064": "Electronic test technology", "ECE4074": "Advanced computer architecture", "ECE4075": "Real time embedded systems", "ECE4076": "Computer vision", "ECE4077": "Advanced computing techniques", "ECE4078": "Intelligent robotics", "ECE4081": "Medical instrumentation", "ECE4084": "Biomechanics of human musculoskeletal systems", "ECE4086": "Medical imaging technology", "ECE4087": "Medical technology innovation", "ECE4094": "Project A", "ECE4095": "Project B", "ECE4099": "Professional practice", "ECE4122": "Advanced electromagnetics", "ECE4132": "Control system design", "ECE4146": "Multimedia Technologies", "ECE4179": "Neural networks and deep learning", "ECE4808": "Organic electronics and micro devices", "ECE4809": "Solid state lighting", "ECE5881": "Real-time system design", "ECE5882": "Advanced electronics design", "ECE5883": "Advanced signal processing", "ECE5884": "Wireless communications", "ECE5886": "Smart grids", "ECE6410": "Research practice in electrical and computer systems engineering", "ECE6881": "Real-time system design", "ECE6882": "Advanced electronics design", "ECE6883": "Advanced signal processing", "ECE6884": "Wireless communications", "ECE6885": "Energy efficient lighting", "ECE6886": "Smart grids", "ENE1621": "Environmental engineering", "ENE2021": "Energy and the environment", "ENE2503": "Materials properties and recycling", "ENE3606": "The air environment", "ENE3608": "Environmental impact assessment and management systems", "ENE4607": "Environmental risk assessment", "ENG1001": "Engineering design: Lighter, faster, stronger", "ENG1002": "Engineering design: Cleaner, safer, smarter", "ENG1003": "Engineering mobile apps", "ENG1005": "Engineering mathematics", "ENG1021": "Spatial communication in engineering", "ENG1051": "Materials for energy and sustainability", "ENG1060": "Computing for engineers", "ENG1081": "Physics for engineering", "ENG1090": "Foundation mathematics", "ENG1210": "Introduction to structural engineering", "ENG1211": "Introduction to engineering systems", "ENG2005": "Advanced engineering mathematics", "ENG2202": "Steel structures", "ENG2203": "Concrete structures", "ENG2204": "Water systems", "ENG2206": "Introduction to geoengineering", "ENG2207": "Waterway engineering", "ENG2801": "Leadership and innovation", "ENG4001": "Special studies in engineering 1", "ENG4002": "Special studies in engineering 2", "ENG4700": "Engineering technology for biomedical imaging and sensing", "ENG5001": "Advanced engineering data analysis", "ENG5002": "Engineering entrepreneurship", "ENG5003": "Advanced design project A", "ENG5004": "Advanced design project B", "ENG5005": "Research methods", "ENG5006": "Research practice", "ENG5007": "Translation and commercialisation of medical technologies", "ENG5008": "Work integrated learning", "ENG5881": "Minor project", "ENG6001": "Advanced engineering data analysis", "ENG6002": "Engineering entrepreneurship", "ENG6007": "Translation and commercialisation of medical technologies", "ENG6009": "Communicating research in engineering", "ENG6410": "Research practice in engineering", "ENV2792": "Mathematical models of the environment", "MAE2401": "Aircraft structures 1", "MAE2402": "Thermodynamics and heat transfer", "MAE2403": "Aerospace computational mechanics", "MAE2404": "Aerodynamics 1", "MAE2405": "Aircraft performance", "MAE2406": "Orbital mechanics and spaceflight dynamics", "MAE3401": "Aerodynamics 2", "MAE3402": "Aerospace design project", "MAE3404": "Flight vehicle dynamics", "MAE3405": "Flight vehicle propulsion", "MAE3406": "Aerospace materials", "MAE3407": "Aircraft structures 2", "MAE3408": "Aerospace control", "MAE3426": "Computer-aided design", "MAE3456": "Aerospace computational mechanics", "MAE4404": "Aerospace practices", "MAE4407": "Instrumentation and avionics", "MAE4408": "Damage tolerance and airworthiness", "MAE4409": "Wing design", "MAE4410": "Flight vehicle design", "MAE4411": "Aircraft structures 2", "MAE4904": "Minor research project", "MAE4965": "Advanced aerodynamics and turbulence", "MAE4980": "Aircraft engines", "MAT2731": "Multivariate analysis", "MAT2742": "Mathematical modelling of the environment", "MEC2401": "Dynamics 1", "MEC2402": "Engineering design 1", "MEC2403": "Mechanics of materials", "MEC2404": "Mechanics of fluids", "MEC2405": "Thermodynamics", "MEC2407": "Electromechanics", "MEC2408": "Advanced engineering technologies", "MEC2456": "Engineering computational analysis", "MEC3010": "Micro and nanotechnologies: Fabrication and applications", "MEC3416": "Engineering design 2", "MEC3448": "Engineering technologies", "MEC3451": "Fluid mechanics 2", "MEC3453": "Dynamics 2", "MEC3454": "Thermodynamics and heat transfer", "MEC3455": "Solid mechanics", "MEC3456": "Engineering computational analysis", "MEC3457": "Systems and control", "MEC3458": "Experimental project", "MEC3459": "Materials selection for engineering design", "MEC4401": "Final year project", "MEC4402": "Final year project - Thesis", "MEC4404": "Professional practice", "MEC4407": "Engineering design 3", "MEC4408": "Thermodynamics and heat transfer", "MEC4416": "Momentum, energy & mass transport in engineering systems", "MEC4417": "Refrigeration and air conditioning", "MEC4418": "Control systems", "MEC4425": "Micro/nano solid and fluid mechanics", "MEC4426": "Computer-aided design", "MEC4428": "Advanced dynamics", "MEC4444": "Industrial noise and control", "MEC4446": "Composite structures", "MEC4447": "Computers in fluids and energy", "MEC4456": "Robotics", "MEC4459": "Wind engineering", "MEC4801": "Non-destructive testing and inspection", "MEC4802": "Sustainable engineering and design with nanomaterials", "MEC4803": "Internal combustion engines", "MEC4804": "Clean energy materials", "MEC5881": "Engineering systems performance analysis", "MEC5882": "Instrumentation, sensing and monitoring", "MEC5883": "Mechanical systems design", "MEC5884": "Sustainable engineering systems", "MEC5885": "Energy efficiency and sustainability engineering", "MEC5886": "Sustainable energy technologies", "MEC5887": "Environmental and air pollution control", "MEC5888": "Renewable energy systems", "MEC5889": "Medical device technologies", "MEC5891": "Design for additive manufacturing", "MEC6410": "Research practices", "MEC6881": "Engineering systems performance analysis", "MEC6882": "Instrumentation, sensing and monitoring", "MEC6883": "Mechanical systems design", "MEC6884": "Sustainable engineering systems", "MEC6885": "Energy efficiency and sustainability engineering", "MEC6886": "Sustainable energy technologies", "MEC6887": "Environmental and air pollution control", "MEC6888": "Renewable energy systems", "MEC6889": "Medical device technologies", "MEC6891": "Design for additive manufacturing", "MNE4070": "Research project 3", "MRE5002": "Maintenance management", "MRE5102": "Understanding reliability", "MTE2541": "Crystal structures, thermodynamics and phase equilibria", "MTE2542": "Microstructural development", "MTE2544": "Functional materials", "MTE2545": "Polymers and ceramics 1", "MTE2546": "Mechanics of materials", "MTE2548": "Biomaterials 1", "MTE3541": "Materials durability", "MTE3542": "Microstructural design in structural materials", "MTE3543": "Microstructure to applications: the mechanics of materials", "MTE3544": "Management and practice in materials engineering", "MTE3545": "Functional materials and devices", "MTE3546": "Polymers and ceramics 2", "MTE3547": "Materials characterisation and modelling", "MTE3548": "Structure-property relationships in materials", "MTE4525": "Project 1", "MTE4526": "Project 2", "MTE4571": "Materials engineering design and practice", "MTE4572": "Polymer and composite processing and engineering", "MTE4573": "Processing and engineering of metals and ceramics", "MTE4590": "Modelling of materials", "MTE4592": "Advanced ceramics and applications", "MTE4593": "Materials and sustainability", "MTE4594": "Engineering alloy design, processing and selection", "MTE4595": "Corrosion mechanisms and protection methods", "MTE4596": "Biomaterials 2", "MTE4597": "Engineering with nanomaterials", "MTE4598": "Electron microscopy", "MTE5881": "Applied crystallography in advanced materials characterisation", "MTE5882": "Advanced polymeric materials", "MTE5883": "Environmental durability and protection of metals and engineering materials", "MTE5884": "Advanced photovoltaics and energy storage", "MTE5885": "Biomaterials and biomechanics", "MTE5886": "Additive manufacturing of metallic materials", "MTE5887": "Additive manufacturing of polymeric and functional materials", "MTE6410": "Research practice in materials science and engineering", "MTE6881": "Applied crystallography in advanced materials characterisation", "MTE6882": "Advanced polymeric materials", "MTE6883": "Environmental durability and protection of metals and engineering materials", "MTE6884": "Advanced photovoltaics and energy storage", "MTE6885": "Biomaterials and biomechanics", "MTE6886": "Additive manufacturing of metallic materials", "MTE6887": "Additive manufacturing of polymeric and functional materials", "PHS1711": "Applied physics", "RSE1010": "Natural resources engineering", "RSE2010": "Fixed plant engineering and project management", "RSE3010": "Mine geotechnical engineering", "RSE3020": "Resource estimation", "RSE3030": "Mine ventilation", "RSE3040": "Mining systems", "RSE3060": "Blasting and fragmentation", "RSE3141": "Solar energy", "RSE3241": "Hydropower", "RSE3242": "Geothermal energy", "RSE4010": "Mine planning and scheduling", "RSE4020": "Mine design and feasibility project", "RSE4040": "Mineral processing", "RSE4111": "Numerical modelling", "RSE4120": "Instrumentation, automation and asset management", "TRC2001": "Introduction to systems engineering", "TRC2200": "Thermo-fluids and power systems", "TRC2201": "Mechanics", "TRC3000": "Mechatronics project 2", "TRC3200": "Dynamical systems", "TRC3500": "Sensors and artificial perception", "TRC3600": "Modelling and control", "TRC3801": "Mechatronics and manufacturing", "TRC4000": "Mechatronics final year project 1", "TRC4001": "Mechatronics final year project 2", "TRC4002": "Professional practice", "TRC4100": "Bio-interfacing devices", "TRC4200": "Engineering cyber-physical systems", "TRC4800": "Robotics", "TRC4802": "Thermo-fluids and power systems", "TRC4901": "Artificial intelligence for engineers", "TRC4902": "Mechatronics and manufacturing"}
+[
+  {
+    "unitcode": "CEM6881",
+    "unitname": "Scanning electron microscopy"
+  },
+  {
+    "unitcode": "CEM6882",
+    "unitname": "Transmission electron microscopy"
+  },
+  {
+    "unitcode": "CHE1010",
+    "unitname": "Grand challenges in chemical engineering: Delivering sustainable food, water and energy"
+  },
+  {
+    "unitcode": "CHE2161",
+    "unitname": "Mechanics of fluids"
+  },
+  {
+    "unitcode": "CHE2162",
+    "unitname": "Material and energy balances"
+  },
+  {
+    "unitcode": "CHE2163",
+    "unitname": "Heat and mass transfer"
+  },
+  {
+    "unitcode": "CHE2164",
+    "unitname": "Thermodynamics 1"
+  },
+  {
+    "unitcode": "CHE2166",
+    "unitname": "Introduction to process simulation"
+  },
+  {
+    "unitcode": "CHE2167",
+    "unitname": "Process material selection"
+  },
+  {
+    "unitcode": "CHE2871",
+    "unitname": "Biochemistry for engineers"
+  },
+  {
+    "unitcode": "CHE2873",
+    "unitname": "Introduction to chemical processes"
+  },
+  {
+    "unitcode": "CHE3161",
+    "unitname": "Chemistry and chemical thermodynamics"
+  },
+  {
+    "unitcode": "CHE3162",
+    "unitname": "Process control"
+  },
+  {
+    "unitcode": "CHE3163",
+    "unitname": "Sustainable processing 1"
+  },
+  {
+    "unitcode": "CHE3164",
+    "unitname": "Reaction engineering"
+  },
+  {
+    "unitcode": "CHE3165",
+    "unitname": "Separation processes"
+  },
+  {
+    "unitcode": "CHE3166",
+    "unitname": "Process design"
+  },
+  {
+    "unitcode": "CHE3167",
+    "unitname": "Transport phenomena and numerical methods"
+  },
+  {
+    "unitcode": "CHE3171",
+    "unitname": "Bioprocess technology"
+  },
+  {
+    "unitcode": "CHE3172",
+    "unitname": "Nanotechnology and materials 1"
+  },
+  {
+    "unitcode": "CHE4161",
+    "unitname": "Engineer in society"
+  },
+  {
+    "unitcode": "CHE4162",
+    "unitname": "Particle technology"
+  },
+  {
+    "unitcode": "CHE4164",
+    "unitname": "Integrated industrial project"
+  },
+  {
+    "unitcode": "CHE4170",
+    "unitname": "Design project"
+  },
+  {
+    "unitcode": "CHE4171",
+    "unitname": "Biochemical engineering"
+  },
+  {
+    "unitcode": "CHE4172",
+    "unitname": "Nanotechnology and materials 2"
+  },
+  {
+    "unitcode": "CHE4173",
+    "unitname": "Sustainable processing 2"
+  },
+  {
+    "unitcode": "CHE4180",
+    "unitname": "Chemical engineering project"
+  },
+  {
+    "unitcode": "CHE5001",
+    "unitname": "Data analysis"
+  },
+  {
+    "unitcode": "CHE5002",
+    "unitname": "Industrial entrepreneurship"
+  },
+  {
+    "unitcode": "CHE5881",
+    "unitname": "Advanced reaction engineering"
+  },
+  {
+    "unitcode": "CHE5882",
+    "unitname": "Biomass and biorefineries"
+  },
+  {
+    "unitcode": "CHE5883",
+    "unitname": "Nanostructured membranes for separation and energy production"
+  },
+  {
+    "unitcode": "CHE5884",
+    "unitname": "Process modelling and optimisation"
+  },
+  {
+    "unitcode": "CHE5885",
+    "unitname": "Principles and practices for sustainable development"
+  },
+  {
+    "unitcode": "CHE5886",
+    "unitname": "Advanced biopolymers"
+  },
+  {
+    "unitcode": "CHE5888",
+    "unitname": "Sustainability and innovation"
+  },
+  {
+    "unitcode": "CHE5889",
+    "unitname": "Food engineering and processing"
+  },
+  {
+    "unitcode": "CHE6410",
+    "unitname": "Research practice in chemical engineering"
+  },
+  {
+    "unitcode": "CHE6881",
+    "unitname": "Advanced reaction engineering"
+  },
+  {
+    "unitcode": "CHE6882",
+    "unitname": "Biomass and biorefineries"
+  },
+  {
+    "unitcode": "CHE6883",
+    "unitname": "Nanostructured membranes for separation and energy production"
+  },
+  {
+    "unitcode": "CHE6884",
+    "unitname": "Process modelling and optimisation"
+  },
+  {
+    "unitcode": "CHE6885",
+    "unitname": "Principles and practices for sustainable development"
+  },
+  {
+    "unitcode": "CHM1752",
+    "unitname": "Chemistry for engineering"
+  },
+  {
+    "unitcode": "CIV2206",
+    "unitname": "Structural mechanics"
+  },
+  {
+    "unitcode": "CIV2207",
+    "unitname": "Computing and water systems modelling"
+  },
+  {
+    "unitcode": "CIV2225",
+    "unitname": "Design of steel and timber structures"
+  },
+  {
+    "unitcode": "CIV2242",
+    "unitname": "Geomechanics 1"
+  },
+  {
+    "unitcode": "CIV2263",
+    "unitname": "Water systems"
+  },
+  {
+    "unitcode": "CIV2282",
+    "unitname": "Transport and traffic engineering"
+  },
+  {
+    "unitcode": "CIV2283",
+    "unitname": "Civil engineering construction"
+  },
+  {
+    "unitcode": "CIV3204",
+    "unitname": "Engineering investigation"
+  },
+  {
+    "unitcode": "CIV3221",
+    "unitname": "Building structures and technology"
+  },
+  {
+    "unitcode": "CIV3247",
+    "unitname": "Geomechanics 2"
+  },
+  {
+    "unitcode": "CIV3248",
+    "unitname": "Groundwater and environmental geomechanics"
+  },
+  {
+    "unitcode": "CIV3284",
+    "unitname": "Design of concrete and masonry structures"
+  },
+  {
+    "unitcode": "CIV3285",
+    "unitname": "Engineering hydrology"
+  },
+  {
+    "unitcode": "CIV4210",
+    "unitname": "Project A"
+  },
+  {
+    "unitcode": "CIV4211",
+    "unitname": "Project B"
+  },
+  {
+    "unitcode": "CIV4212",
+    "unitname": "Civil and environmental engineering practice"
+  },
+  {
+    "unitcode": "CIV4234",
+    "unitname": "Advanced structural analysis"
+  },
+  {
+    "unitcode": "CIV4235",
+    "unitname": "Advanced structural design"
+  },
+  {
+    "unitcode": "CIV4248",
+    "unitname": "Ground hazards engineering"
+  },
+  {
+    "unitcode": "CIV4249",
+    "unitname": "Foundation engineering"
+  },
+  {
+    "unitcode": "CIV4261",
+    "unitname": "Integrated urban water management"
+  },
+  {
+    "unitcode": "CIV4268",
+    "unitname": "Water resources management"
+  },
+  {
+    "unitcode": "CIV4280",
+    "unitname": "Bridge design and assessment"
+  },
+  {
+    "unitcode": "CIV4283",
+    "unitname": "Transport planning"
+  },
+  {
+    "unitcode": "CIV4284",
+    "unitname": "Traffic systems"
+  },
+  {
+    "unitcode": "CIV4286",
+    "unitname": "Project management for civil engineers"
+  },
+  {
+    "unitcode": "CIV4287",
+    "unitname": "Road engineering"
+  },
+  {
+    "unitcode": "CIV4288",
+    "unitname": "Water treatment"
+  },
+  {
+    "unitcode": "CIV5301",
+    "unitname": "Advanced traffic engineering"
+  },
+  {
+    "unitcode": "CIV5302",
+    "unitname": "Traffic engineering and management"
+  },
+  {
+    "unitcode": "CIV5303",
+    "unitname": "Applied transport data analysis"
+  },
+  {
+    "unitcode": "CIV5304",
+    "unitname": "Intelligent transport systems"
+  },
+  {
+    "unitcode": "CIV5305",
+    "unitname": "Travel demand modelling"
+  },
+  {
+    "unitcode": "CIV5308",
+    "unitname": "Transport and traffic systems project"
+  },
+  {
+    "unitcode": "CIV5309",
+    "unitname": "Transport and traffic data"
+  },
+  {
+    "unitcode": "CIV5310",
+    "unitname": "Infrastructure project and policy evaluation"
+  },
+  {
+    "unitcode": "CIV5312",
+    "unitname": "Asset management 1"
+  },
+  {
+    "unitcode": "CIV5313",
+    "unitname": "Asset management"
+  },
+  {
+    "unitcode": "CIV5314",
+    "unitname": "Planning urban mobility futures"
+  },
+  {
+    "unitcode": "CIV5315",
+    "unitname": "Applied transport economics"
+  },
+  {
+    "unitcode": "CIV5316",
+    "unitname": "Fundamentals of urban public transport"
+  },
+  {
+    "unitcode": "CIV5318",
+    "unitname": "Intelligent transportation systems: engineering and management"
+  },
+  {
+    "unitcode": "CIV5319",
+    "unitname": "Quantitative methods for transportation systems analysis"
+  },
+  {
+    "unitcode": "CIV5320",
+    "unitname": "Case studies in transportation systems"
+  },
+  {
+    "unitcode": "CIV5321",
+    "unitname": "Sustainable transportation systems planning"
+  },
+  {
+    "unitcode": "CIV5322",
+    "unitname": "Urban public transportation systems"
+  },
+  {
+    "unitcode": "CIV5406",
+    "unitname": "Modelling transportation systems"
+  },
+  {
+    "unitcode": "CIV5801",
+    "unitname": "Green building"
+  },
+  {
+    "unitcode": "CIV5881",
+    "unitname": "Ground water hydraulics"
+  },
+  {
+    "unitcode": "CIV5882",
+    "unitname": "Flood hydraulics and hydrology"
+  },
+  {
+    "unitcode": "CIV5883",
+    "unitname": "Surface water hydrology"
+  },
+  {
+    "unitcode": "CIV5884",
+    "unitname": "Water sensitive stormwater design"
+  },
+  {
+    "unitcode": "CIV5885",
+    "unitname": "Infrastructure dynamics"
+  },
+  {
+    "unitcode": "CIV5886",
+    "unitname": "Infrastructure geomechanics"
+  },
+  {
+    "unitcode": "CIV5887",
+    "unitname": "Infrastructure rehabilitation and monitoring"
+  },
+  {
+    "unitcode": "CIV5888",
+    "unitname": "Advanced computational methods"
+  },
+  {
+    "unitcode": "CIV5889",
+    "unitname": "Infrastructure project"
+  },
+  {
+    "unitcode": "CIV5899",
+    "unitname": "Infrastructure information management"
+  },
+  {
+    "unitcode": "CIV5901",
+    "unitname": "Geotechnical analysis and design"
+  },
+  {
+    "unitcode": "CIV5902",
+    "unitname": "Geotechnical engineering and construction"
+  },
+  {
+    "unitcode": "CIV6301",
+    "unitname": "Advanced traffic engineering"
+  },
+  {
+    "unitcode": "CIV6302",
+    "unitname": "Traffic engineering and management"
+  },
+  {
+    "unitcode": "CIV6305",
+    "unitname": "Travel demand modelling"
+  },
+  {
+    "unitcode": "CIV6314",
+    "unitname": "Planning urban mobility futures"
+  },
+  {
+    "unitcode": "CIV6410",
+    "unitname": "Research practice in civil engineering"
+  },
+  {
+    "unitcode": "CIV6881",
+    "unitname": "Ground water hydraulics"
+  },
+  {
+    "unitcode": "CIV6882",
+    "unitname": "Flood hydraulics and hydrology"
+  },
+  {
+    "unitcode": "CIV6883",
+    "unitname": "Surface water hydrology"
+  },
+  {
+    "unitcode": "CIV6884",
+    "unitname": "Water sensitive stormwater design"
+  },
+  {
+    "unitcode": "CIV6885",
+    "unitname": "Infrastructure dynamics"
+  },
+  {
+    "unitcode": "CIV6886",
+    "unitname": "Infrastructure geomechanics"
+  },
+  {
+    "unitcode": "CIV6887",
+    "unitname": "Infrastructure rehabilitation and monitoring"
+  },
+  {
+    "unitcode": "CIV6888",
+    "unitname": "Advanced computational methods"
+  },
+  {
+    "unitcode": "ECE2011",
+    "unitname": "Signal processing"
+  },
+  {
+    "unitcode": "ECE2031",
+    "unitname": "Circuits and control"
+  },
+  {
+    "unitcode": "ECE2041",
+    "unitname": "Telecommunications"
+  },
+  {
+    "unitcode": "ECE2071",
+    "unitname": "Computer organisation and programming"
+  },
+  {
+    "unitcode": "ECE2072",
+    "unitname": "Digital systems"
+  },
+  {
+    "unitcode": "ECE2111",
+    "unitname": "Signals and systems"
+  },
+  {
+    "unitcode": "ECE2131",
+    "unitname": "Electrical circuits"
+  },
+  {
+    "unitcode": "ECE2191",
+    "unitname": "Probability models in engineering"
+  },
+  {
+    "unitcode": "ECE3022",
+    "unitname": "Wireless and guided EM"
+  },
+  {
+    "unitcode": "ECE3031",
+    "unitname": "Control systems"
+  },
+  {
+    "unitcode": "ECE3051",
+    "unitname": "Electrical energy systems"
+  },
+  {
+    "unitcode": "ECE3062",
+    "unitname": "Electronic systems and control"
+  },
+  {
+    "unitcode": "ECE3073",
+    "unitname": "Computer systems"
+  },
+  {
+    "unitcode": "ECE3091",
+    "unitname": "Engineering design"
+  },
+  {
+    "unitcode": "ECE3093",
+    "unitname": "Optimisation estimation and numerical methods"
+  },
+  {
+    "unitcode": "ECE3121",
+    "unitname": "Engineering electromagnetics"
+  },
+  {
+    "unitcode": "ECE3141",
+    "unitname": "Information and networks"
+  },
+  {
+    "unitcode": "ECE3161",
+    "unitname": "Analogue electronics"
+  },
+  {
+    "unitcode": "ECE4012",
+    "unitname": "Applied digital signal processing"
+  },
+  {
+    "unitcode": "ECE4023",
+    "unitname": "Radio frequency electronics"
+  },
+  {
+    "unitcode": "ECE4024",
+    "unitname": "Wireless communications"
+  },
+  {
+    "unitcode": "ECE4032",
+    "unitname": "Advanced control"
+  },
+  {
+    "unitcode": "ECE4033",
+    "unitname": "Industrial instrumentation and measurement technologies"
+  },
+  {
+    "unitcode": "ECE4042",
+    "unitname": "Communications theory"
+  },
+  {
+    "unitcode": "ECE4043",
+    "unitname": "Optical communications"
+  },
+  {
+    "unitcode": "ECE4044",
+    "unitname": "Telecommunications protocols"
+  },
+  {
+    "unitcode": "ECE4045",
+    "unitname": "Network performance"
+  },
+  {
+    "unitcode": "ECE4053",
+    "unitname": "Electrical energy - generation and supply"
+  },
+  {
+    "unitcode": "ECE4054",
+    "unitname": "Electrical energy - power converters and motor control"
+  },
+  {
+    "unitcode": "ECE4055",
+    "unitname": "Electrical energy - power electronic applications"
+  },
+  {
+    "unitcode": "ECE4058",
+    "unitname": "Electrical energy - high voltage engineering"
+  },
+  {
+    "unitcode": "ECE4063",
+    "unitname": "Large scale digital design"
+  },
+  {
+    "unitcode": "ECE4064",
+    "unitname": "Electronic test technology"
+  },
+  {
+    "unitcode": "ECE4074",
+    "unitname": "Advanced computer architecture"
+  },
+  {
+    "unitcode": "ECE4075",
+    "unitname": "Real time embedded systems"
+  },
+  {
+    "unitcode": "ECE4076",
+    "unitname": "Computer vision"
+  },
+  {
+    "unitcode": "ECE4077",
+    "unitname": "Advanced computing techniques"
+  },
+  {
+    "unitcode": "ECE4078",
+    "unitname": "Intelligent robotics"
+  },
+  {
+    "unitcode": "ECE4081",
+    "unitname": "Medical instrumentation"
+  },
+  {
+    "unitcode": "ECE4084",
+    "unitname": "Biomechanics of human musculoskeletal systems"
+  },
+  {
+    "unitcode": "ECE4086",
+    "unitname": "Medical imaging technology"
+  },
+  {
+    "unitcode": "ECE4087",
+    "unitname": "Medical technology innovation"
+  },
+  {
+    "unitcode": "ECE4094",
+    "unitname": "Project A"
+  },
+  {
+    "unitcode": "ECE4095",
+    "unitname": "Project B"
+  },
+  {
+    "unitcode": "ECE4099",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "ECE4122",
+    "unitname": "Advanced electromagnetics"
+  },
+  {
+    "unitcode": "ECE4132",
+    "unitname": "Control system design"
+  },
+  {
+    "unitcode": "ECE4146",
+    "unitname": "Multimedia Technologies"
+  },
+  {
+    "unitcode": "ECE4179",
+    "unitname": "Neural networks and deep learning"
+  },
+  {
+    "unitcode": "ECE4808",
+    "unitname": "Organic electronics and micro devices"
+  },
+  {
+    "unitcode": "ECE4809",
+    "unitname": "Solid state lighting"
+  },
+  {
+    "unitcode": "ECE5881",
+    "unitname": "Real-time system design"
+  },
+  {
+    "unitcode": "ECE5882",
+    "unitname": "Advanced electronics design"
+  },
+  {
+    "unitcode": "ECE5883",
+    "unitname": "Advanced signal processing"
+  },
+  {
+    "unitcode": "ECE5884",
+    "unitname": "Wireless communications"
+  },
+  {
+    "unitcode": "ECE5886",
+    "unitname": "Smart grids"
+  },
+  {
+    "unitcode": "ECE6410",
+    "unitname": "Research practice in electrical and computer systems engineering"
+  },
+  {
+    "unitcode": "ECE6881",
+    "unitname": "Real-time system design"
+  },
+  {
+    "unitcode": "ECE6882",
+    "unitname": "Advanced electronics design"
+  },
+  {
+    "unitcode": "ECE6883",
+    "unitname": "Advanced signal processing"
+  },
+  {
+    "unitcode": "ECE6884",
+    "unitname": "Wireless communications"
+  },
+  {
+    "unitcode": "ECE6885",
+    "unitname": "Energy efficient lighting"
+  },
+  {
+    "unitcode": "ECE6886",
+    "unitname": "Smart grids"
+  },
+  {
+    "unitcode": "ENE1621",
+    "unitname": "Environmental engineering"
+  },
+  {
+    "unitcode": "ENE2021",
+    "unitname": "Energy and the environment"
+  },
+  {
+    "unitcode": "ENE2503",
+    "unitname": "Materials properties and recycling"
+  },
+  {
+    "unitcode": "ENE3606",
+    "unitname": "The air environment"
+  },
+  {
+    "unitcode": "ENE3608",
+    "unitname": "Environmental impact assessment and management systems"
+  },
+  {
+    "unitcode": "ENE4607",
+    "unitname": "Environmental risk assessment"
+  },
+  {
+    "unitcode": "ENG1001",
+    "unitname": "Engineering design: Lighter, faster, stronger"
+  },
+  {
+    "unitcode": "ENG1002",
+    "unitname": "Engineering design: Cleaner, safer, smarter"
+  },
+  {
+    "unitcode": "ENG1003",
+    "unitname": "Engineering mobile apps"
+  },
+  {
+    "unitcode": "ENG1005",
+    "unitname": "Engineering mathematics"
+  },
+  {
+    "unitcode": "ENG1021",
+    "unitname": "Spatial communication in engineering"
+  },
+  {
+    "unitcode": "ENG1051",
+    "unitname": "Materials for energy and sustainability"
+  },
+  {
+    "unitcode": "ENG1060",
+    "unitname": "Computing for engineers"
+  },
+  {
+    "unitcode": "ENG1081",
+    "unitname": "Physics for engineering"
+  },
+  {
+    "unitcode": "ENG1090",
+    "unitname": "Foundation mathematics"
+  },
+  {
+    "unitcode": "ENG1210",
+    "unitname": "Introduction to structural engineering"
+  },
+  {
+    "unitcode": "ENG1211",
+    "unitname": "Introduction to engineering systems"
+  },
+  {
+    "unitcode": "ENG2005",
+    "unitname": "Advanced engineering mathematics"
+  },
+  {
+    "unitcode": "ENG2202",
+    "unitname": "Steel structures"
+  },
+  {
+    "unitcode": "ENG2203",
+    "unitname": "Concrete structures"
+  },
+  {
+    "unitcode": "ENG2204",
+    "unitname": "Water systems"
+  },
+  {
+    "unitcode": "ENG2206",
+    "unitname": "Introduction to geoengineering"
+  },
+  {
+    "unitcode": "ENG2207",
+    "unitname": "Waterway engineering"
+  },
+  {
+    "unitcode": "ENG2801",
+    "unitname": "Leadership and innovation"
+  },
+  {
+    "unitcode": "ENG4001",
+    "unitname": "Special studies in engineering 1"
+  },
+  {
+    "unitcode": "ENG4002",
+    "unitname": "Special studies in engineering 2"
+  },
+  {
+    "unitcode": "ENG4700",
+    "unitname": "Engineering technology for biomedical imaging and sensing"
+  },
+  {
+    "unitcode": "ENG5001",
+    "unitname": "Advanced engineering data analysis"
+  },
+  {
+    "unitcode": "ENG5002",
+    "unitname": "Engineering entrepreneurship"
+  },
+  {
+    "unitcode": "ENG5003",
+    "unitname": "Advanced design project A"
+  },
+  {
+    "unitcode": "ENG5004",
+    "unitname": "Advanced design project B"
+  },
+  {
+    "unitcode": "ENG5005",
+    "unitname": "Research methods"
+  },
+  {
+    "unitcode": "ENG5006",
+    "unitname": "Research practice"
+  },
+  {
+    "unitcode": "ENG5007",
+    "unitname": "Translation and commercialisation of medical technologies"
+  },
+  {
+    "unitcode": "ENG5008",
+    "unitname": "Work integrated learning"
+  },
+  {
+    "unitcode": "ENG5881",
+    "unitname": "Minor project"
+  },
+  {
+    "unitcode": "ENG6001",
+    "unitname": "Advanced engineering data analysis"
+  },
+  {
+    "unitcode": "ENG6002",
+    "unitname": "Engineering entrepreneurship"
+  },
+  {
+    "unitcode": "ENG6007",
+    "unitname": "Translation and commercialisation of medical technologies"
+  },
+  {
+    "unitcode": "ENG6009",
+    "unitname": "Communicating research in engineering"
+  },
+  {
+    "unitcode": "ENG6410",
+    "unitname": "Research practice in engineering"
+  },
+  {
+    "unitcode": "ENV2792",
+    "unitname": "Mathematical models of the environment"
+  },
+  {
+    "unitcode": "MAE2401",
+    "unitname": "Aircraft structures 1"
+  },
+  {
+    "unitcode": "MAE2402",
+    "unitname": "Thermodynamics and heat transfer"
+  },
+  {
+    "unitcode": "MAE2403",
+    "unitname": "Aerospace computational mechanics"
+  },
+  {
+    "unitcode": "MAE2404",
+    "unitname": "Aerodynamics 1"
+  },
+  {
+    "unitcode": "MAE2405",
+    "unitname": "Aircraft performance"
+  },
+  {
+    "unitcode": "MAE2406",
+    "unitname": "Orbital mechanics and spaceflight dynamics"
+  },
+  {
+    "unitcode": "MAE3401",
+    "unitname": "Aerodynamics 2"
+  },
+  {
+    "unitcode": "MAE3402",
+    "unitname": "Aerospace design project"
+  },
+  {
+    "unitcode": "MAE3404",
+    "unitname": "Flight vehicle dynamics"
+  },
+  {
+    "unitcode": "MAE3405",
+    "unitname": "Flight vehicle propulsion"
+  },
+  {
+    "unitcode": "MAE3406",
+    "unitname": "Aerospace materials"
+  },
+  {
+    "unitcode": "MAE3407",
+    "unitname": "Aircraft structures 2"
+  },
+  {
+    "unitcode": "MAE3408",
+    "unitname": "Aerospace control"
+  },
+  {
+    "unitcode": "MAE3426",
+    "unitname": "Computer-aided design"
+  },
+  {
+    "unitcode": "MAE3456",
+    "unitname": "Aerospace computational mechanics"
+  },
+  {
+    "unitcode": "MAE4404",
+    "unitname": "Aerospace practices"
+  },
+  {
+    "unitcode": "MAE4407",
+    "unitname": "Instrumentation and avionics"
+  },
+  {
+    "unitcode": "MAE4408",
+    "unitname": "Damage tolerance and airworthiness"
+  },
+  {
+    "unitcode": "MAE4409",
+    "unitname": "Wing design"
+  },
+  {
+    "unitcode": "MAE4410",
+    "unitname": "Flight vehicle design"
+  },
+  {
+    "unitcode": "MAE4411",
+    "unitname": "Aircraft structures 2"
+  },
+  {
+    "unitcode": "MAE4904",
+    "unitname": "Minor research project"
+  },
+  {
+    "unitcode": "MAE4965",
+    "unitname": "Advanced aerodynamics and turbulence"
+  },
+  {
+    "unitcode": "MAE4980",
+    "unitname": "Aircraft engines"
+  },
+  {
+    "unitcode": "MAT2731",
+    "unitname": "Multivariate analysis"
+  },
+  {
+    "unitcode": "MAT2742",
+    "unitname": "Mathematical modelling of the environment"
+  },
+  {
+    "unitcode": "MEC2401",
+    "unitname": "Dynamics 1"
+  },
+  {
+    "unitcode": "MEC2402",
+    "unitname": "Engineering design 1"
+  },
+  {
+    "unitcode": "MEC2403",
+    "unitname": "Mechanics of materials"
+  },
+  {
+    "unitcode": "MEC2404",
+    "unitname": "Mechanics of fluids"
+  },
+  {
+    "unitcode": "MEC2405",
+    "unitname": "Thermodynamics"
+  },
+  {
+    "unitcode": "MEC2407",
+    "unitname": "Electromechanics"
+  },
+  {
+    "unitcode": "MEC2408",
+    "unitname": "Advanced engineering technologies"
+  },
+  {
+    "unitcode": "MEC2456",
+    "unitname": "Engineering computational analysis"
+  },
+  {
+    "unitcode": "MEC3010",
+    "unitname": "Micro and nanotechnologies: Fabrication and applications"
+  },
+  {
+    "unitcode": "MEC3416",
+    "unitname": "Engineering design 2"
+  },
+  {
+    "unitcode": "MEC3448",
+    "unitname": "Engineering technologies"
+  },
+  {
+    "unitcode": "MEC3451",
+    "unitname": "Fluid mechanics 2"
+  },
+  {
+    "unitcode": "MEC3453",
+    "unitname": "Dynamics 2"
+  },
+  {
+    "unitcode": "MEC3454",
+    "unitname": "Thermodynamics and heat transfer"
+  },
+  {
+    "unitcode": "MEC3455",
+    "unitname": "Solid mechanics"
+  },
+  {
+    "unitcode": "MEC3456",
+    "unitname": "Engineering computational analysis"
+  },
+  {
+    "unitcode": "MEC3457",
+    "unitname": "Systems and control"
+  },
+  {
+    "unitcode": "MEC3458",
+    "unitname": "Experimental project"
+  },
+  {
+    "unitcode": "MEC3459",
+    "unitname": "Materials selection for engineering design"
+  },
+  {
+    "unitcode": "MEC4401",
+    "unitname": "Final year project"
+  },
+  {
+    "unitcode": "MEC4402",
+    "unitname": "Final year project - Thesis"
+  },
+  {
+    "unitcode": "MEC4404",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "MEC4407",
+    "unitname": "Engineering design 3"
+  },
+  {
+    "unitcode": "MEC4408",
+    "unitname": "Thermodynamics and heat transfer"
+  },
+  {
+    "unitcode": "MEC4416",
+    "unitname": "Momentum, energy & mass transport in engineering systems"
+  },
+  {
+    "unitcode": "MEC4417",
+    "unitname": "Refrigeration and air conditioning"
+  },
+  {
+    "unitcode": "MEC4418",
+    "unitname": "Control systems"
+  },
+  {
+    "unitcode": "MEC4425",
+    "unitname": "Micro/nano solid and fluid mechanics"
+  },
+  {
+    "unitcode": "MEC4426",
+    "unitname": "Computer-aided design"
+  },
+  {
+    "unitcode": "MEC4428",
+    "unitname": "Advanced dynamics"
+  },
+  {
+    "unitcode": "MEC4444",
+    "unitname": "Industrial noise and control"
+  },
+  {
+    "unitcode": "MEC4446",
+    "unitname": "Composite structures"
+  },
+  {
+    "unitcode": "MEC4447",
+    "unitname": "Computers in fluids and energy"
+  },
+  {
+    "unitcode": "MEC4456",
+    "unitname": "Robotics"
+  },
+  {
+    "unitcode": "MEC4459",
+    "unitname": "Wind engineering"
+  },
+  {
+    "unitcode": "MEC4801",
+    "unitname": "Non-destructive testing and inspection"
+  },
+  {
+    "unitcode": "MEC4802",
+    "unitname": "Sustainable engineering and design with nanomaterials"
+  },
+  {
+    "unitcode": "MEC4803",
+    "unitname": "Internal combustion engines"
+  },
+  {
+    "unitcode": "MEC4804",
+    "unitname": "Clean energy materials"
+  },
+  {
+    "unitcode": "MEC5881",
+    "unitname": "Engineering systems performance analysis"
+  },
+  {
+    "unitcode": "MEC5882",
+    "unitname": "Instrumentation, sensing and monitoring"
+  },
+  {
+    "unitcode": "MEC5883",
+    "unitname": "Mechanical systems design"
+  },
+  {
+    "unitcode": "MEC5884",
+    "unitname": "Sustainable engineering systems"
+  },
+  {
+    "unitcode": "MEC5885",
+    "unitname": "Energy efficiency and sustainability engineering"
+  },
+  {
+    "unitcode": "MEC5886",
+    "unitname": "Sustainable energy technologies"
+  },
+  {
+    "unitcode": "MEC5887",
+    "unitname": "Environmental and air pollution control"
+  },
+  {
+    "unitcode": "MEC5888",
+    "unitname": "Renewable energy systems"
+  },
+  {
+    "unitcode": "MEC5889",
+    "unitname": "Medical device technologies"
+  },
+  {
+    "unitcode": "MEC5891",
+    "unitname": "Design for additive manufacturing"
+  },
+  {
+    "unitcode": "MEC6410",
+    "unitname": "Research practices"
+  },
+  {
+    "unitcode": "MEC6881",
+    "unitname": "Engineering systems performance analysis"
+  },
+  {
+    "unitcode": "MEC6882",
+    "unitname": "Instrumentation, sensing and monitoring"
+  },
+  {
+    "unitcode": "MEC6883",
+    "unitname": "Mechanical systems design"
+  },
+  {
+    "unitcode": "MEC6884",
+    "unitname": "Sustainable engineering systems"
+  },
+  {
+    "unitcode": "MEC6885",
+    "unitname": "Energy efficiency and sustainability engineering"
+  },
+  {
+    "unitcode": "MEC6886",
+    "unitname": "Sustainable energy technologies"
+  },
+  {
+    "unitcode": "MEC6887",
+    "unitname": "Environmental and air pollution control"
+  },
+  {
+    "unitcode": "MEC6888",
+    "unitname": "Renewable energy systems"
+  },
+  {
+    "unitcode": "MEC6889",
+    "unitname": "Medical device technologies"
+  },
+  {
+    "unitcode": "MEC6891",
+    "unitname": "Design for additive manufacturing"
+  },
+  {
+    "unitcode": "MNE4070",
+    "unitname": "Research project 3"
+  },
+  {
+    "unitcode": "MRE5002",
+    "unitname": "Maintenance management"
+  },
+  {
+    "unitcode": "MRE5102",
+    "unitname": "Understanding reliability"
+  },
+  {
+    "unitcode": "MTE2541",
+    "unitname": "Crystal structures, thermodynamics and phase equilibria"
+  },
+  {
+    "unitcode": "MTE2542",
+    "unitname": "Microstructural development"
+  },
+  {
+    "unitcode": "MTE2544",
+    "unitname": "Functional materials"
+  },
+  {
+    "unitcode": "MTE2545",
+    "unitname": "Polymers and ceramics 1"
+  },
+  {
+    "unitcode": "MTE2546",
+    "unitname": "Mechanics of materials"
+  },
+  {
+    "unitcode": "MTE2548",
+    "unitname": "Biomaterials 1"
+  },
+  {
+    "unitcode": "MTE3541",
+    "unitname": "Materials durability"
+  },
+  {
+    "unitcode": "MTE3542",
+    "unitname": "Microstructural design in structural materials"
+  },
+  {
+    "unitcode": "MTE3543",
+    "unitname": "Microstructure to applications: the mechanics of materials"
+  },
+  {
+    "unitcode": "MTE3544",
+    "unitname": "Management and practice in materials engineering"
+  },
+  {
+    "unitcode": "MTE3545",
+    "unitname": "Functional materials and devices"
+  },
+  {
+    "unitcode": "MTE3546",
+    "unitname": "Polymers and ceramics 2"
+  },
+  {
+    "unitcode": "MTE3547",
+    "unitname": "Materials characterisation and modelling"
+  },
+  {
+    "unitcode": "MTE3548",
+    "unitname": "Structure-property relationships in materials"
+  },
+  {
+    "unitcode": "MTE4525",
+    "unitname": "Project 1"
+  },
+  {
+    "unitcode": "MTE4526",
+    "unitname": "Project 2"
+  },
+  {
+    "unitcode": "MTE4571",
+    "unitname": "Materials engineering design and practice"
+  },
+  {
+    "unitcode": "MTE4572",
+    "unitname": "Polymer and composite processing and engineering"
+  },
+  {
+    "unitcode": "MTE4573",
+    "unitname": "Processing and engineering of metals and ceramics"
+  },
+  {
+    "unitcode": "MTE4590",
+    "unitname": "Modelling of materials"
+  },
+  {
+    "unitcode": "MTE4592",
+    "unitname": "Advanced ceramics and applications"
+  },
+  {
+    "unitcode": "MTE4593",
+    "unitname": "Materials and sustainability"
+  },
+  {
+    "unitcode": "MTE4594",
+    "unitname": "Engineering alloy design, processing and selection"
+  },
+  {
+    "unitcode": "MTE4595",
+    "unitname": "Corrosion mechanisms and protection methods"
+  },
+  {
+    "unitcode": "MTE4596",
+    "unitname": "Biomaterials 2"
+  },
+  {
+    "unitcode": "MTE4597",
+    "unitname": "Engineering with nanomaterials"
+  },
+  {
+    "unitcode": "MTE4598",
+    "unitname": "Electron microscopy"
+  },
+  {
+    "unitcode": "MTE5881",
+    "unitname": "Applied crystallography in advanced materials characterisation"
+  },
+  {
+    "unitcode": "MTE5882",
+    "unitname": "Advanced polymeric materials"
+  },
+  {
+    "unitcode": "MTE5883",
+    "unitname": "Environmental durability and protection of metals and engineering materials"
+  },
+  {
+    "unitcode": "MTE5884",
+    "unitname": "Advanced photovoltaics and energy storage"
+  },
+  {
+    "unitcode": "MTE5885",
+    "unitname": "Biomaterials and biomechanics"
+  },
+  {
+    "unitcode": "MTE5886",
+    "unitname": "Additive manufacturing of metallic materials"
+  },
+  {
+    "unitcode": "MTE5887",
+    "unitname": "Additive manufacturing of polymeric and functional materials"
+  },
+  {
+    "unitcode": "MTE6410",
+    "unitname": "Research practice in materials science and engineering"
+  },
+  {
+    "unitcode": "MTE6881",
+    "unitname": "Applied crystallography in advanced materials characterisation"
+  },
+  {
+    "unitcode": "MTE6882",
+    "unitname": "Advanced polymeric materials"
+  },
+  {
+    "unitcode": "MTE6883",
+    "unitname": "Environmental durability and protection of metals and engineering materials"
+  },
+  {
+    "unitcode": "MTE6884",
+    "unitname": "Advanced photovoltaics and energy storage"
+  },
+  {
+    "unitcode": "MTE6885",
+    "unitname": "Biomaterials and biomechanics"
+  },
+  {
+    "unitcode": "MTE6886",
+    "unitname": "Additive manufacturing of metallic materials"
+  },
+  {
+    "unitcode": "MTE6887",
+    "unitname": "Additive manufacturing of polymeric and functional materials"
+  },
+  {
+    "unitcode": "PHS1711",
+    "unitname": "Applied physics"
+  },
+  {
+    "unitcode": "RSE1010",
+    "unitname": "Natural resources engineering"
+  },
+  {
+    "unitcode": "RSE2010",
+    "unitname": "Fixed plant engineering and project management"
+  },
+  {
+    "unitcode": "RSE3010",
+    "unitname": "Mine geotechnical engineering"
+  },
+  {
+    "unitcode": "RSE3020",
+    "unitname": "Resource estimation"
+  },
+  {
+    "unitcode": "RSE3030",
+    "unitname": "Mine ventilation"
+  },
+  {
+    "unitcode": "RSE3040",
+    "unitname": "Mining systems"
+  },
+  {
+    "unitcode": "RSE3060",
+    "unitname": "Blasting and fragmentation"
+  },
+  {
+    "unitcode": "RSE3141",
+    "unitname": "Solar energy"
+  },
+  {
+    "unitcode": "RSE3241",
+    "unitname": "Hydropower"
+  },
+  {
+    "unitcode": "RSE3242",
+    "unitname": "Geothermal energy"
+  },
+  {
+    "unitcode": "RSE4010",
+    "unitname": "Mine planning and scheduling"
+  },
+  {
+    "unitcode": "RSE4020",
+    "unitname": "Mine design and feasibility project"
+  },
+  {
+    "unitcode": "RSE4040",
+    "unitname": "Mineral processing"
+  },
+  {
+    "unitcode": "RSE4111",
+    "unitname": "Numerical modelling"
+  },
+  {
+    "unitcode": "RSE4120",
+    "unitname": "Instrumentation, automation and asset management"
+  },
+  {
+    "unitcode": "TRC2001",
+    "unitname": "Introduction to systems engineering"
+  },
+  {
+    "unitcode": "TRC2200",
+    "unitname": "Thermo-fluids and power systems"
+  },
+  {
+    "unitcode": "TRC2201",
+    "unitname": "Mechanics"
+  },
+  {
+    "unitcode": "TRC3000",
+    "unitname": "Mechatronics project 2"
+  },
+  {
+    "unitcode": "TRC3200",
+    "unitname": "Dynamical systems"
+  },
+  {
+    "unitcode": "TRC3500",
+    "unitname": "Sensors and artificial perception"
+  },
+  {
+    "unitcode": "TRC3600",
+    "unitname": "Modelling and control"
+  },
+  {
+    "unitcode": "TRC3801",
+    "unitname": "Mechatronics and manufacturing"
+  },
+  {
+    "unitcode": "TRC4000",
+    "unitname": "Mechatronics final year project 1"
+  },
+  {
+    "unitcode": "TRC4001",
+    "unitname": "Mechatronics final year project 2"
+  },
+  {
+    "unitcode": "TRC4002",
+    "unitname": "Professional practice"
+  },
+  {
+    "unitcode": "TRC4100",
+    "unitname": "Bio-interfacing devices"
+  },
+  {
+    "unitcode": "TRC4200",
+    "unitname": "Engineering cyber-physical systems"
+  },
+  {
+    "unitcode": "TRC4800",
+    "unitname": "Robotics"
+  },
+  {
+    "unitcode": "TRC4802",
+    "unitname": "Thermo-fluids and power systems"
+  },
+  {
+    "unitcode": "TRC4901",
+    "unitname": "Artificial intelligence for engineers"
+  },
+  {
+    "unitcode": "TRC4902",
+    "unitname": "Mechatronics and manufacturing"
+  }
+]

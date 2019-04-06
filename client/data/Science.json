@@ -1,1 +1,1766 @@
-{"ANT1800": "Introduction to anatomy and medical terminology", "ASP1010": "Earth to cosmos - introductory astronomy", "ASP1022": "Life in the universe - astrobiology", "ASP2011": "Astronomy", "ASP2062": "Introduction to astrophysics", "ASP3012": "Stars and galaxies", "ASP3051": "Relativity and cosmology", "ASP3162": "Computational astrophysics and the extreme universe", "ASP3231": "Observational astronomy", "ASP4000": "Astrophysics research project", "ASP4001": "Astrophysics research project A", "ASP4002": "Astrophysics research project B", "ASP4020": "Astrophysics coursework A", "ASP4021": "Astrophysics coursework B", "ASP4100": "Astrophysics honours research project", "ASP4110": "Astrophysics honours research project A", "ASP4120": "Astrophysics honours research project B", "ASP4200": "Astrophysics honours coursework", "ASP4210": "Astrophysics honours coursework A", "ASP4220": "Astrophysics honours coursework B", "ASP5000": "Advanced astrophysics research project", "ASP5001": "Advanced astrophysics research project A", "ASP5020": "Advanced astrophysics coursework A", "ASP5021": "Advanced astrophysics coursework B", "BCH2011": "Structure and function of cellular biomolecules", "BCH2022": "Metabolic basis of human diseases", "BCH3021": "Cellular organisation: Organelle structure and function in health and disease", "BCH3031": "Functional genomics and molecular medicine", "BCH3042": "Cell signal transduction: Role in cancer and human disease", "BCH3052": "Protein biology: From sequence to structure and disease", "BCH3990": "Action in biochemistry research project", "BIO1011": "Blueprints for life", "BIO1022": "Life on Earth", "BIO1042": "Life in the environment", "BIO1062": "Biology 2", "BIO2011": "Ecology and biodiversity", "BIO2022": "Evolutionary ecology", "BIO2040": "Conservation biology", "BIO2181": "Evolution of plant diversity", "BIO2231": "Animal diversity", "BIO2242": "Animal structure and function", "BIO2810": "Tropical ecology", "BIO3011": "Research methods in biology", "BIO3021": "Marine biology", "BIO3052": "Animal behaviour", "BIO3070": "Trends in ecology", "BIO3082": "Global change biology", "BIO3091": "Biology of Australian vegetation", "BIO3111": "Applied ecology", "BIO3132": "Biology of Australian vertebrates", "BIO3800": "Tropical environmental management", "BIO3810": "Tropical aquatic biology", "BIO3820": "Tropical terrestrial biology", "BIO3990": "Biology in action research project", "BIO4100": "Biology research project", "BIO4180": "Tropical environmental biology research project", "BIO4200": "Advanced coursework in biology", "BIO4280": "Honours coursework in tropical environmental biology", "BMH4100": "Biomedicine research project", "BMH4110": "Biomedicine research project part-time A", "BMH4120": "Biomedicine research project part-time B", "BMH4200": "Advanced studies in biomedicine", "BMH4210": "Advanced studies in biomedicine part-time A", "BMH4220": "Advanced studies in biomedicine part-time B", "BTH1802": "Fundamentals of biotechnology", "BTH2732": "Recombinant DNA technology", "BTH2741": "Biochemistry", "BTH2752": "Cellular metabolism", "BTH2820": "Crop science", "BTH2830": "Fundamentals of microbiology", "BTH3722": "Medical microbiology", "BTH3732": "Environmental microbiology", "BTH3741": "Medical cell biology", "BTH3752": "Molecular biology and biotechnology", "BTH3820": "Plant biotechnology", "BTH3960": "Interdisciplinary advanced practical in pharmacology and chemistry", "BTH4100": "Biotechnology research project", "BTH4200": "The practice of biotechnology", "BTH4280": "Honours coursework in biotechnology", "CHM1011": "Chemistry 1", "CHM1022": "Chemistry 2", "CHM1051": "Chemistry 1 advanced", "CHM1052": "Chemistry 2 advanced", "CHM2911": "Inorganic and organic chemistry", "CHM2922": "Spectroscopy and analytical chemistry", "CHM2942": "Biological chemistry", "CHM2951": "Environmental chemistry - water", "CHM2962": "Food chemistry", "CHM2990": "Introductory chemical research project", "CHM3180": "Materials chemistry", "CHM3911": "Advanced physical chemistry", "CHM3922": "Advanced organic chemistry", "CHM3930": "Medicinal chemistry", "CHM3941": "Advanced inorganic chemistry", "CHM3952": "Advanced analytical chemistry", "CHM3960": "Environmental chemistry", "CHM3972": "Sustainable chemistry", "CHM3980": "Chemistry study abroad", "CHM3990": "Chemistry project", "CHM4100": "Chemistry research project", "CHM4110": "Chemistry research project part-time A", "CHM4120": "Chemistry research project part-time B", "CHM4180": "Medicinal chemistry research project", "CHM4201": "Chemistry honours coursework", "CHM4211": "Chemistry honours coursework part-time A", "CHM4221": "Chemistry honours coursework part-time B", "CHM4280": "Honours coursework in medicinal chemistry", "DEV2011": "Early human development from cells to tissues", "DEV2022": "Human anatomy and development: Tissues and body systems", "DEV3011": "Fundamentals of developmental processes", "DEV3022": "Developmental and anatomical basis of human health and disease", "DEV3032": "Stem cells and the foundations of life", "DEV3990": "Action in anatomy and developmental biology research project", "EAE1011": "Earth, atmosphere and environment 1", "EAE1022": "Earth, atmosphere and environment 2", "EAE2011": "Environmental problem solving and visualisation", "EAE2111": "Introduction to climate science", "EAE2122": "Introduction to atmospheric physics and dynamics", "EAE2322": "Environmental earth science", "EAE2511": "Deep earth processes", "EAE2522": "Sediments and basins", "EAE2532": "Field geology and geological mapping", "EAE3000": "Earth, atmosphere and environment research project", "EAE3010": "Earth, atmosphere and environment: Special topics", "EAE3012": "Geographical information systems and remote sensing", "EAE3022": "Hydrogeology", "EAE3051": "Palaeoclimatology: Discovering Earth's past climate", "EAE3111": "Climate dynamics", "EAE3121": "Physical meteorology", "EAE3132": "Future climates: Projections, impacts and adaptation", "EAE3142": "Tropical meteorology", "EAE3152": "Dynamical meteorology", "EAE3311": "Physical environments", "EAE3321": "Soils and land management", "EAE3331": "Catchment hydrology", "EAE3342": "Environmental cycles on our living planet", "EAE3511": "Deformation of the crust", "EAE3521": "Earth and planetary petrology", "EAE3532": "Physics of the solid earth", "EAE3540": "Geology in the field", "EAE3552": "Evolution of life through geological time", "EAE3562": "Ore deposit geology", "EAE3581": "Geochemistry", "EAE3591": "Applied geophysics", "EAE3900": "Landscape, environment and sustainability in Italy", "EAE4000": "Atmospheric science research project A", "EAE4001": "Atmospheric science research project B", "EAE4010": "Earth science research project A", "EAE4011": "Earth science research project B", "EAE4020": "Statistics for climate dynamics", "EAE4021": "Advanced dynamical meteorology", "EAE4022": "General circulation of the atmosphere", "EAE4025": "Ocean circulation and dynamics", "EAE4060": "Advanced field geology", "EAE4061": "Geology and tectonics of New Zealand", "EAE4062": "Applied analytical geochemistry", "EAE4063": "Mineral exploration simulation", "EAE4064": "Contemporary environmental earth science problems", "EAE4065": "Drones and digital mapping in earth science", "EAE4066": "Applied geophysics and earth imaging", "EAE4067": "Remote sensing", "EAE4068": "Spatial data analysis", "EAE4069": "3D data analytics, geological and resource modelling", "EAE4100": "Earth, atmosphere and environment honours research project", "EAE4110": "Earth, atmosphere and environment honours research project part-time A", "EAE4120": "Earth, atmosphere and environment honours research project part-time B", "EAE4200": "Earth, atmosphere and environment honours coursework", "EAE4210": "Earth, atmosphere and environment honours coursework part-time A", "EAE4220": "Earth, atmosphere and environment honours coursework part-time B", "EAE5000": "Advanced atmospheric science research project A", "EAE5001": "Advanced atmospheric science research project B", "EAE5010": "Advanced earth science research project A", "EAE5011": "Advanced earth science research project B", "EAE5020": "Statistics for climate dynamics", "EAE5021": "Advanced dynamical meteorology", "EAE5022": "General circulation of the atmosphere", "EAE5024": "Boundary layer meteorology", "EAE5025": "Ocean circulation and dynamics", "EAE5060": "Advanced field geology", "EAE5061": "Geology and tectonics of New Zealand", "EAE5062": "Applied analytical geochemistry", "EAE5063": "Mineral exploration simulation", "EAE5064": "Contemporary environmental earth science problems", "EAE5065": "Drones and digital mapping in earth science", "EAE5066": "Applied geophysics and earth imaging", "EAE5067": "Remote sensing", "EAE5068": "Spatial data analysis", "EAE5069": "3D data analytics, geological and resource modelling", "EAE5258": "Geographical information systems (GIS) for environmental science", "EAE5900": "Landscape, environment and sustainability in Italy", "ENS5010": "Global challenges and sustainability", "ENS5020": "Perspectives on sustainability", "ENS5310": "Securing biodiversity and ecosystems", "ENS5320": "Climate change, energy and human security", "ENS5330": "Water security and environmental pollution", "ENS5510": "Processes to influence change", "ENS5520": "Understanding human behaviour to influence change", "ENS5530": "Leading change for sustainable development", "ENS5900": "Research thesis in environment and sustainability", "ENS5901": "Research thesis in environment and sustainability A", "ENS5902": "Research thesis in environment and sustainability B", "ENS5910": "Interdisciplinary industry project for sustainable development solutions", "ENS5920": "Environment and sustainability project", "ENS5930": "Sustainability internship", "ENV1800": "Environmental science: A Southeast Asian perspective", "ENV2022": "Environmental field skills and monitoring", "ENV2726": "Ecosystems and bioresources", "ENV3022": "Environmental technology", "FST1800": "Fundamentals of food and sensory science", "FST1911": "Introduction to nutrition", "FST2810": "Food bioprocess technology", "FST3711": "Food and industrial microbiology", "FST3800": "Food science internship", "FST3810": "Human nutrition", "FST3820": "Food preservation", "FST3830": "Functional foods", "FST3840": "Food processing", "FST3850": "Food product development", "FST4100": "Food science and technology research project", "FST4280": "Honours coursework in food science and technology", "GEN2041": "Foundations of genetics", "GEN2052": "Genomics and population genetics", "GEN3030": "Molecular, cellular and developmental genetics", "GEN3040": "Genomics and its applications", "GEN3051": "Medical and forensic genetics", "GEN3062": "Evolutionary and ecological genetics", "GEN3990": "Genetics in action research project", "GEN5010": "Advanced genetics and biotechnology", "HUP3011": "Human pathology 1: Understanding disease processes", "HUP3022": "Human pathology 2: Pathology of human diseases", "HUP3810": "Principles of pathology 1", "HUP3820": "Principles of pathology 2", "HUP3990": "Human pathology in action research project", "IBL2030": "Industry based learning: Science", "IMM2011": "Basic immunology: The body's defence system", "IMM2022": "Immunology in health and disease", "IMM3031": "Molecular and cellular immunology", "IMM3042": "Clinical immunopathology", "IMM3051": "Principles of applied immunology", "IMM3062": "Clinical and research laboratory immunology", "IMM3802": "Essentials of applied immunology", "IMM3990": "Immunology in action research project", "MBS3800": "Medical bioscience internship", "MBS4100": "Medical bioscience research project", "MBS4280": "Honours coursework in medical bioscience", "MCB2011": "Molecular biology and the cell", "MCB2022": "The dynamic cell", "MIC2011": "Introduction to microbiology and microbial biotechnology", "MIC2022": "Microbes in health and disease", "MIC3011": "Molecular microbiology", "MIC3022": "Molecular virology and viral pathogenesis", "MIC3032": "Pathogenesis of bacterial infectious diseases", "MIC3041": "Medical microbiology", "MIC3990": "Action in microbiology research project", "MIS4100": "Regenerative medicine research project", "MIS4200": "Advanced studies in regenerative medicine", "MSC4100": "Materials science project", "MSC4110": "Materials science project part-time A", "MSC4120": "Materials science project part-time B", "MSC4200": "Advanced materials science", "MSC4210": "Materials applications part-time A", "MSC4220": "Materials applications part-time B", "MTH1010": "Functions and their applications", "MTH1020": "Analysis of change", "MTH1030": "Techniques for modelling", "MTH1035": "Techniques for modelling (advanced)", "MTH2010": "Multivariable calculus", "MTH2015": "Multivariable calculus (advanced)", "MTH2021": "Linear algebra with applications", "MTH2025": "Linear algebra (advanced)", "MTH2032": "Differential equations with modelling", "MTH2040": "Mathematical modelling", "MTH2051": "Introduction to computational mathematics", "MTH2121": "Algebra and number theory", "MTH2132": "The nature and beauty of mathematics", "MTH2140": "Real analysis", "MTH2222": "Mathematics of uncertainty", "MTH2232": "Mathematical statistics", "MTH3000": "Mathematics research project level 3", "MTH3011": "Partial differential equations", "MTH3020": "Complex analysis and integral transforms", "MTH3051": "Introduction to computational mathematics", "MTH3060": "Advanced ordinary differential equations", "MTH3110": "Differential geometry", "MTH3121": "Algebra and number theory", "MTH3130": "Topology: The mathematics of shape", "MTH3140": "Real analysis", "MTH3150": "Algebra and number theory 2", "MTH3160": "Metric spaces, Banach spaces, Hilbert spaces", "MTH3170": "Network mathematics", "MTH3230": "Time series and random processes in linear systems", "MTH3241": "Random processes in the sciences and engineering", "MTH3251": "Financial mathematics", "MTH3260": "Statistics of stochastic processes", "MTH3310": "Applied mathematical modelling", "MTH3320": "Computational linear algebra", "MTH3330": "Optimisation and operations research", "MTH3360": "Fluid dynamics", "MTH3401": "Special topics in mathematics 1", "MTH3402": "Special topics in mathematics 2", "MTH4010": "Mathematics honours topic A", "MTH4020": "Mathematics honours topic B", "MTH4030": "Mathematics honours topic C", "MTH4040": "Mathematics honours topic D", "MTH4089": "Computational statistical inference", "MTH4099": "Measure theory", "MTH4100": "Mathematics research studies", "MTH4111": "Differential geometry", "MTH4113": "Low-dimensional topology", "MTH4115": "Algebraic topology", "MTH4121": "Analysis on manifolds", "MTH4123": "Partial differential equations", "MTH4141": "Computational group theory", "MTH4151": "Advanced graph theory", "MTH4153": "Combinatorics", "MTH4200": "Advanced studies in mathematics", "MTH4311": "Methods of applied mathematics", "MTH4321": "Methods of computational mathematics", "MTH4323": "Numerical analysis and control of differential equations", "MTH4331": "Optimisation for data analytics", "MTH4333": "Discrete optimisation", "MTH4341": "Fluid dynamics and turbulence", "MTH4343": "Magnetohydrodynamics and visualisation of scientific data", "MTH4351": "Mathematical biology", "MTH5000": "Mathematics master project", "MTH5010": "Special topics in advanced mathematics 1", "MTH5020": "Special topics in advanced mathematics 2", "MTH5089": "Computational statistical inference", "MTH5099": "Measure theory", "MTH5111": "Differential geometry", "MTH5112": "Partial differential equations in finance", "MTH5113": "Low-dimensional topology", "MTH5115": "Algebraic topology", "MTH5121": "Analysis on manifolds", "MTH5123": "Partial differential equations", "MTH5141": "Computational group theory", "MTH5151": "Advanced graph theory", "MTH5153": "Combinatorics", "MTH5210": "Stochastic calculus and mathematical finance", "MTH5220": "The theory of martingales in discrete time", "MTH5230": "Markov chains and random walks", "MTH5311": "Methods of applied mathematics", "MTH5321": "Methods of computational mathematics", "MTH5323": "Numerical analysis and control of differential equations", "MTH5331": "Optimisation for data analytics", "MTH5333": "Discrete optimisation", "MTH5341": "Fluid dynamics and turbulence", "MTH5343": "Magnetohydrodynamics and visualisation of scientific data", "MTH5351": "Mathematical biology", "MTH5510": "Quantitative risk management", "MTH5520": "Interest rate modelling", "MTH5530": "Computational methods in finance", "MTH5540": "Statistical learning in finance", "MTH5550": "Quantitative trading and market microstructure", "MTH5810": "Industry research project", "MTH5820": "Minor industry research project", "MTH5830": "Industry placement", "MTH5840": "Minor industry placement", "PHA2022": "Drugs and society", "PHA3011": "Principles of drug action", "PHA3021": "Drugs in health and disease", "PHA3032": "Neuro and endocrine pharmacology", "PHA3042": "Modern drug development", "PHA3800": "Fundamentals of toxicology", "PHA3801": "Principles of pharmacology", "PHA3990": "Action in pharmacology research project", "PHS1001": "Foundation physics", "PHS1002": "Physics for engineering", "PHS1011": "Classical physics and relativity", "PHS1022": "Fields and quantum physics", "PHS1031": "Physics for the living world", "PHS2061": "Quantum and thermal physics", "PHS2062": "Electromagnetism and optics", "PHS2081": "Atomic, nuclear and condensed matter physics", "PHS2350": "Physics and astronomy introductory research project 1", "PHS2360": "Physics and astronomy introductory research project 2", "PHS3000": "Experimental physics", "PHS3101": "Quantum mechanics", "PHS3102": "Statistical and condensed matter physics", "PHS3201": "Classical dynamics and field theory", "PHS3202": "Wave optics and atomic physics", "PHS3302": "Relativity and particle physics", "PHS3350": "Physics and astronomy research project 1", "PHS3360": "Physics and astronomy research project 2", "PHS4000": "Physics research project", "PHS4001": "Physics research project A", "PHS4002": "Physics research project B", "PHS4020": "Physics coursework A", "PHS4021": "Physics coursework B", "PHS4100": "Physics honours research project", "PHS4110": "Physics honours research project A", "PHS4120": "Physics honours research project B", "PHS4200": "Physics honours coursework", "PHS4210": "Physics honours coursework A", "PHS4220": "Physics honours coursework B", "PHS5000": "Advanced physics research project", "PHS5001": "Advanced physics research project A", "PHS5020": "Advanced physics coursework A", "PHS5021": "Advanced physics coursework B", "PHY2011": "Neuroscience of communication, sensory and control systems", "PHY2032": "Endocrine control systems", "PHY2042": "Body systems physiology", "PHY2810": "Physiology of human body systems", "PHY2820": "Physiology of human health", "PHY3012": "Integrative neuroscience", "PHY3072": "Exercise physiology and metabolism", "PHY3102": "Nutrition, metabolism and body weight", "PHY3111": "Sensory and cognitive neuroscience", "PHY3171": "Clinical and experimental cardiovascular physiology", "PHY3181": "Hormones and reproduction", "PHY3990": "Action in physiology research project", "SCI1020": "Introduction to statistical reasoning", "SCI1200": "Humans, evolution and modern society", "SCI1300": "Climate change: From science to society", "SCI1501": "Impact through science 1A", "SCI1502": "Impact through science 1B", "SCI1800": "The sustainable planet", "SCI2010": "Scientific practice and communication", "SCI2015": "Scientific practice and communication (advanced)", "SCI2400": "From Galileo to GPS: How astronomy shapes our lives", "SCI2501": "Impact through science 2A", "SCI2502": "Impact through science 2B", "SCI3501": "Impact through science 3A", "SCI3502": "Impact through science 3B", "SCI3716": "Laboratory and workplace management", "SCI3800": "Science internship", "SCI3910": "Schools science project", "SCI3920": "Science internship", "SCI3930": "Career skills for scientists", "SCI3990": "Science in action research project", "SCI4100": "Science honours project", "SCI4110": "Science honours project", "SCI4120": "Science honours project", "SCI4210": "Science honours coursework", "SCI4220": "Science honours coursework", "SCI4230": "Science honours coursework", "SCI4240": "Science honours coursework", "SCI4501": "Impact through science 4A: Research", "SCI4502": "Impact through science 4B: Professional practice", "STA1010": "Statistical methods for science", "STA2216": "Data analysis for science"}
+[
+  {
+    "unitcode": "ANT1800",
+    "unitname": "Introduction to anatomy and medical terminology"
+  },
+  {
+    "unitcode": "ASP1010",
+    "unitname": "Earth to cosmos - introductory astronomy"
+  },
+  {
+    "unitcode": "ASP1022",
+    "unitname": "Life in the universe - astrobiology"
+  },
+  {
+    "unitcode": "ASP2011",
+    "unitname": "Astronomy"
+  },
+  {
+    "unitcode": "ASP2062",
+    "unitname": "Introduction to astrophysics"
+  },
+  {
+    "unitcode": "ASP3012",
+    "unitname": "Stars and galaxies"
+  },
+  {
+    "unitcode": "ASP3051",
+    "unitname": "Relativity and cosmology"
+  },
+  {
+    "unitcode": "ASP3162",
+    "unitname": "Computational astrophysics and the extreme universe"
+  },
+  {
+    "unitcode": "ASP3231",
+    "unitname": "Observational astronomy"
+  },
+  {
+    "unitcode": "ASP4000",
+    "unitname": "Astrophysics research project"
+  },
+  {
+    "unitcode": "ASP4001",
+    "unitname": "Astrophysics research project A"
+  },
+  {
+    "unitcode": "ASP4002",
+    "unitname": "Astrophysics research project B"
+  },
+  {
+    "unitcode": "ASP4020",
+    "unitname": "Astrophysics coursework A"
+  },
+  {
+    "unitcode": "ASP4021",
+    "unitname": "Astrophysics coursework B"
+  },
+  {
+    "unitcode": "ASP4100",
+    "unitname": "Astrophysics honours research project"
+  },
+  {
+    "unitcode": "ASP4110",
+    "unitname": "Astrophysics honours research project A"
+  },
+  {
+    "unitcode": "ASP4120",
+    "unitname": "Astrophysics honours research project B"
+  },
+  {
+    "unitcode": "ASP4200",
+    "unitname": "Astrophysics honours coursework"
+  },
+  {
+    "unitcode": "ASP4210",
+    "unitname": "Astrophysics honours coursework A"
+  },
+  {
+    "unitcode": "ASP4220",
+    "unitname": "Astrophysics honours coursework B"
+  },
+  {
+    "unitcode": "ASP5000",
+    "unitname": "Advanced astrophysics research project"
+  },
+  {
+    "unitcode": "ASP5001",
+    "unitname": "Advanced astrophysics research project A"
+  },
+  {
+    "unitcode": "ASP5020",
+    "unitname": "Advanced astrophysics coursework A"
+  },
+  {
+    "unitcode": "ASP5021",
+    "unitname": "Advanced astrophysics coursework B"
+  },
+  {
+    "unitcode": "BCH2011",
+    "unitname": "Structure and function of cellular biomolecules"
+  },
+  {
+    "unitcode": "BCH2022",
+    "unitname": "Metabolic basis of human diseases"
+  },
+  {
+    "unitcode": "BCH3021",
+    "unitname": "Cellular organisation: Organelle structure and function in health and disease"
+  },
+  {
+    "unitcode": "BCH3031",
+    "unitname": "Functional genomics and molecular medicine"
+  },
+  {
+    "unitcode": "BCH3042",
+    "unitname": "Cell signal transduction: Role in cancer and human disease"
+  },
+  {
+    "unitcode": "BCH3052",
+    "unitname": "Protein biology: From sequence to structure and disease"
+  },
+  {
+    "unitcode": "BCH3990",
+    "unitname": "Action in biochemistry research project"
+  },
+  {
+    "unitcode": "BIO1011",
+    "unitname": "Blueprints for life"
+  },
+  {
+    "unitcode": "BIO1022",
+    "unitname": "Life on Earth"
+  },
+  {
+    "unitcode": "BIO1042",
+    "unitname": "Life in the environment"
+  },
+  {
+    "unitcode": "BIO1062",
+    "unitname": "Biology 2"
+  },
+  {
+    "unitcode": "BIO2011",
+    "unitname": "Ecology and biodiversity"
+  },
+  {
+    "unitcode": "BIO2022",
+    "unitname": "Evolutionary ecology"
+  },
+  {
+    "unitcode": "BIO2040",
+    "unitname": "Conservation biology"
+  },
+  {
+    "unitcode": "BIO2181",
+    "unitname": "Evolution of plant diversity"
+  },
+  {
+    "unitcode": "BIO2231",
+    "unitname": "Animal diversity"
+  },
+  {
+    "unitcode": "BIO2242",
+    "unitname": "Animal structure and function"
+  },
+  {
+    "unitcode": "BIO2810",
+    "unitname": "Tropical ecology"
+  },
+  {
+    "unitcode": "BIO3011",
+    "unitname": "Research methods in biology"
+  },
+  {
+    "unitcode": "BIO3021",
+    "unitname": "Marine biology"
+  },
+  {
+    "unitcode": "BIO3052",
+    "unitname": "Animal behaviour"
+  },
+  {
+    "unitcode": "BIO3070",
+    "unitname": "Trends in ecology"
+  },
+  {
+    "unitcode": "BIO3082",
+    "unitname": "Global change biology"
+  },
+  {
+    "unitcode": "BIO3091",
+    "unitname": "Biology of Australian vegetation"
+  },
+  {
+    "unitcode": "BIO3111",
+    "unitname": "Applied ecology"
+  },
+  {
+    "unitcode": "BIO3132",
+    "unitname": "Biology of Australian vertebrates"
+  },
+  {
+    "unitcode": "BIO3800",
+    "unitname": "Tropical environmental management"
+  },
+  {
+    "unitcode": "BIO3810",
+    "unitname": "Tropical aquatic biology"
+  },
+  {
+    "unitcode": "BIO3820",
+    "unitname": "Tropical terrestrial biology"
+  },
+  {
+    "unitcode": "BIO3990",
+    "unitname": "Biology in action research project"
+  },
+  {
+    "unitcode": "BIO4100",
+    "unitname": "Biology research project"
+  },
+  {
+    "unitcode": "BIO4180",
+    "unitname": "Tropical environmental biology research project"
+  },
+  {
+    "unitcode": "BIO4200",
+    "unitname": "Advanced coursework in biology"
+  },
+  {
+    "unitcode": "BIO4280",
+    "unitname": "Honours coursework in tropical environmental biology"
+  },
+  {
+    "unitcode": "BMH4100",
+    "unitname": "Biomedicine research project"
+  },
+  {
+    "unitcode": "BMH4110",
+    "unitname": "Biomedicine research project part-time A"
+  },
+  {
+    "unitcode": "BMH4120",
+    "unitname": "Biomedicine research project part-time B"
+  },
+  {
+    "unitcode": "BMH4200",
+    "unitname": "Advanced studies in biomedicine"
+  },
+  {
+    "unitcode": "BMH4210",
+    "unitname": "Advanced studies in biomedicine part-time A"
+  },
+  {
+    "unitcode": "BMH4220",
+    "unitname": "Advanced studies in biomedicine part-time B"
+  },
+  {
+    "unitcode": "BTH1802",
+    "unitname": "Fundamentals of biotechnology"
+  },
+  {
+    "unitcode": "BTH2732",
+    "unitname": "Recombinant DNA technology"
+  },
+  {
+    "unitcode": "BTH2741",
+    "unitname": "Biochemistry"
+  },
+  {
+    "unitcode": "BTH2752",
+    "unitname": "Cellular metabolism"
+  },
+  {
+    "unitcode": "BTH2820",
+    "unitname": "Crop science"
+  },
+  {
+    "unitcode": "BTH2830",
+    "unitname": "Fundamentals of microbiology"
+  },
+  {
+    "unitcode": "BTH3722",
+    "unitname": "Medical microbiology"
+  },
+  {
+    "unitcode": "BTH3732",
+    "unitname": "Environmental microbiology"
+  },
+  {
+    "unitcode": "BTH3741",
+    "unitname": "Medical cell biology"
+  },
+  {
+    "unitcode": "BTH3752",
+    "unitname": "Molecular biology and biotechnology"
+  },
+  {
+    "unitcode": "BTH3820",
+    "unitname": "Plant biotechnology"
+  },
+  {
+    "unitcode": "BTH3960",
+    "unitname": "Interdisciplinary advanced practical in pharmacology and chemistry"
+  },
+  {
+    "unitcode": "BTH4100",
+    "unitname": "Biotechnology research project"
+  },
+  {
+    "unitcode": "BTH4200",
+    "unitname": "The practice of biotechnology"
+  },
+  {
+    "unitcode": "BTH4280",
+    "unitname": "Honours coursework in biotechnology"
+  },
+  {
+    "unitcode": "CHM1011",
+    "unitname": "Chemistry 1"
+  },
+  {
+    "unitcode": "CHM1022",
+    "unitname": "Chemistry 2"
+  },
+  {
+    "unitcode": "CHM1051",
+    "unitname": "Chemistry 1 advanced"
+  },
+  {
+    "unitcode": "CHM1052",
+    "unitname": "Chemistry 2 advanced"
+  },
+  {
+    "unitcode": "CHM2911",
+    "unitname": "Inorganic and organic chemistry"
+  },
+  {
+    "unitcode": "CHM2922",
+    "unitname": "Spectroscopy and analytical chemistry"
+  },
+  {
+    "unitcode": "CHM2942",
+    "unitname": "Biological chemistry"
+  },
+  {
+    "unitcode": "CHM2951",
+    "unitname": "Environmental chemistry - water"
+  },
+  {
+    "unitcode": "CHM2962",
+    "unitname": "Food chemistry"
+  },
+  {
+    "unitcode": "CHM2990",
+    "unitname": "Introductory chemical research project"
+  },
+  {
+    "unitcode": "CHM3180",
+    "unitname": "Materials chemistry"
+  },
+  {
+    "unitcode": "CHM3911",
+    "unitname": "Advanced physical chemistry"
+  },
+  {
+    "unitcode": "CHM3922",
+    "unitname": "Advanced organic chemistry"
+  },
+  {
+    "unitcode": "CHM3930",
+    "unitname": "Medicinal chemistry"
+  },
+  {
+    "unitcode": "CHM3941",
+    "unitname": "Advanced inorganic chemistry"
+  },
+  {
+    "unitcode": "CHM3952",
+    "unitname": "Advanced analytical chemistry"
+  },
+  {
+    "unitcode": "CHM3960",
+    "unitname": "Environmental chemistry"
+  },
+  {
+    "unitcode": "CHM3972",
+    "unitname": "Sustainable chemistry"
+  },
+  {
+    "unitcode": "CHM3980",
+    "unitname": "Chemistry study abroad"
+  },
+  {
+    "unitcode": "CHM3990",
+    "unitname": "Chemistry project"
+  },
+  {
+    "unitcode": "CHM4100",
+    "unitname": "Chemistry research project"
+  },
+  {
+    "unitcode": "CHM4110",
+    "unitname": "Chemistry research project part-time A"
+  },
+  {
+    "unitcode": "CHM4120",
+    "unitname": "Chemistry research project part-time B"
+  },
+  {
+    "unitcode": "CHM4180",
+    "unitname": "Medicinal chemistry research project"
+  },
+  {
+    "unitcode": "CHM4201",
+    "unitname": "Chemistry honours coursework"
+  },
+  {
+    "unitcode": "CHM4211",
+    "unitname": "Chemistry honours coursework part-time A"
+  },
+  {
+    "unitcode": "CHM4221",
+    "unitname": "Chemistry honours coursework part-time B"
+  },
+  {
+    "unitcode": "CHM4280",
+    "unitname": "Honours coursework in medicinal chemistry"
+  },
+  {
+    "unitcode": "DEV2011",
+    "unitname": "Early human development from cells to tissues"
+  },
+  {
+    "unitcode": "DEV2022",
+    "unitname": "Human anatomy and development: Tissues and body systems"
+  },
+  {
+    "unitcode": "DEV3011",
+    "unitname": "Fundamentals of developmental processes"
+  },
+  {
+    "unitcode": "DEV3022",
+    "unitname": "Developmental and anatomical basis of human health and disease"
+  },
+  {
+    "unitcode": "DEV3032",
+    "unitname": "Stem cells and the foundations of life"
+  },
+  {
+    "unitcode": "DEV3990",
+    "unitname": "Action in anatomy and developmental biology research project"
+  },
+  {
+    "unitcode": "EAE1011",
+    "unitname": "Earth, atmosphere and environment 1"
+  },
+  {
+    "unitcode": "EAE1022",
+    "unitname": "Earth, atmosphere and environment 2"
+  },
+  {
+    "unitcode": "EAE2011",
+    "unitname": "Environmental problem solving and visualisation"
+  },
+  {
+    "unitcode": "EAE2111",
+    "unitname": "Introduction to climate science"
+  },
+  {
+    "unitcode": "EAE2122",
+    "unitname": "Introduction to atmospheric physics and dynamics"
+  },
+  {
+    "unitcode": "EAE2322",
+    "unitname": "Environmental earth science"
+  },
+  {
+    "unitcode": "EAE2511",
+    "unitname": "Deep earth processes"
+  },
+  {
+    "unitcode": "EAE2522",
+    "unitname": "Sediments and basins"
+  },
+  {
+    "unitcode": "EAE2532",
+    "unitname": "Field geology and geological mapping"
+  },
+  {
+    "unitcode": "EAE3000",
+    "unitname": "Earth, atmosphere and environment research project"
+  },
+  {
+    "unitcode": "EAE3010",
+    "unitname": "Earth, atmosphere and environment: Special topics"
+  },
+  {
+    "unitcode": "EAE3012",
+    "unitname": "Geographical information systems and remote sensing"
+  },
+  {
+    "unitcode": "EAE3022",
+    "unitname": "Hydrogeology"
+  },
+  {
+    "unitcode": "EAE3051",
+    "unitname": "Palaeoclimatology: Discovering Earth's past climate"
+  },
+  {
+    "unitcode": "EAE3111",
+    "unitname": "Climate dynamics"
+  },
+  {
+    "unitcode": "EAE3121",
+    "unitname": "Physical meteorology"
+  },
+  {
+    "unitcode": "EAE3132",
+    "unitname": "Future climates: Projections, impacts and adaptation"
+  },
+  {
+    "unitcode": "EAE3142",
+    "unitname": "Tropical meteorology"
+  },
+  {
+    "unitcode": "EAE3152",
+    "unitname": "Dynamical meteorology"
+  },
+  {
+    "unitcode": "EAE3311",
+    "unitname": "Physical environments"
+  },
+  {
+    "unitcode": "EAE3321",
+    "unitname": "Soils and land management"
+  },
+  {
+    "unitcode": "EAE3331",
+    "unitname": "Catchment hydrology"
+  },
+  {
+    "unitcode": "EAE3342",
+    "unitname": "Environmental cycles on our living planet"
+  },
+  {
+    "unitcode": "EAE3511",
+    "unitname": "Deformation of the crust"
+  },
+  {
+    "unitcode": "EAE3521",
+    "unitname": "Earth and planetary petrology"
+  },
+  {
+    "unitcode": "EAE3532",
+    "unitname": "Physics of the solid earth"
+  },
+  {
+    "unitcode": "EAE3540",
+    "unitname": "Geology in the field"
+  },
+  {
+    "unitcode": "EAE3552",
+    "unitname": "Evolution of life through geological time"
+  },
+  {
+    "unitcode": "EAE3562",
+    "unitname": "Ore deposit geology"
+  },
+  {
+    "unitcode": "EAE3581",
+    "unitname": "Geochemistry"
+  },
+  {
+    "unitcode": "EAE3591",
+    "unitname": "Applied geophysics"
+  },
+  {
+    "unitcode": "EAE3900",
+    "unitname": "Landscape, environment and sustainability in Italy"
+  },
+  {
+    "unitcode": "EAE4000",
+    "unitname": "Atmospheric science research project A"
+  },
+  {
+    "unitcode": "EAE4001",
+    "unitname": "Atmospheric science research project B"
+  },
+  {
+    "unitcode": "EAE4010",
+    "unitname": "Earth science research project A"
+  },
+  {
+    "unitcode": "EAE4011",
+    "unitname": "Earth science research project B"
+  },
+  {
+    "unitcode": "EAE4020",
+    "unitname": "Statistics for climate dynamics"
+  },
+  {
+    "unitcode": "EAE4021",
+    "unitname": "Advanced dynamical meteorology"
+  },
+  {
+    "unitcode": "EAE4022",
+    "unitname": "General circulation of the atmosphere"
+  },
+  {
+    "unitcode": "EAE4025",
+    "unitname": "Ocean circulation and dynamics"
+  },
+  {
+    "unitcode": "EAE4060",
+    "unitname": "Advanced field geology"
+  },
+  {
+    "unitcode": "EAE4061",
+    "unitname": "Geology and tectonics of New Zealand"
+  },
+  {
+    "unitcode": "EAE4062",
+    "unitname": "Applied analytical geochemistry"
+  },
+  {
+    "unitcode": "EAE4063",
+    "unitname": "Mineral exploration simulation"
+  },
+  {
+    "unitcode": "EAE4064",
+    "unitname": "Contemporary environmental earth science problems"
+  },
+  {
+    "unitcode": "EAE4065",
+    "unitname": "Drones and digital mapping in earth science"
+  },
+  {
+    "unitcode": "EAE4066",
+    "unitname": "Applied geophysics and earth imaging"
+  },
+  {
+    "unitcode": "EAE4067",
+    "unitname": "Remote sensing"
+  },
+  {
+    "unitcode": "EAE4068",
+    "unitname": "Spatial data analysis"
+  },
+  {
+    "unitcode": "EAE4069",
+    "unitname": "3D data analytics, geological and resource modelling"
+  },
+  {
+    "unitcode": "EAE4100",
+    "unitname": "Earth, atmosphere and environment honours research project"
+  },
+  {
+    "unitcode": "EAE4110",
+    "unitname": "Earth, atmosphere and environment honours research project part-time A"
+  },
+  {
+    "unitcode": "EAE4120",
+    "unitname": "Earth, atmosphere and environment honours research project part-time B"
+  },
+  {
+    "unitcode": "EAE4200",
+    "unitname": "Earth, atmosphere and environment honours coursework"
+  },
+  {
+    "unitcode": "EAE4210",
+    "unitname": "Earth, atmosphere and environment honours coursework part-time A"
+  },
+  {
+    "unitcode": "EAE4220",
+    "unitname": "Earth, atmosphere and environment honours coursework part-time B"
+  },
+  {
+    "unitcode": "EAE5000",
+    "unitname": "Advanced atmospheric science research project A"
+  },
+  {
+    "unitcode": "EAE5001",
+    "unitname": "Advanced atmospheric science research project B"
+  },
+  {
+    "unitcode": "EAE5010",
+    "unitname": "Advanced earth science research project A"
+  },
+  {
+    "unitcode": "EAE5011",
+    "unitname": "Advanced earth science research project B"
+  },
+  {
+    "unitcode": "EAE5020",
+    "unitname": "Statistics for climate dynamics"
+  },
+  {
+    "unitcode": "EAE5021",
+    "unitname": "Advanced dynamical meteorology"
+  },
+  {
+    "unitcode": "EAE5022",
+    "unitname": "General circulation of the atmosphere"
+  },
+  {
+    "unitcode": "EAE5024",
+    "unitname": "Boundary layer meteorology"
+  },
+  {
+    "unitcode": "EAE5025",
+    "unitname": "Ocean circulation and dynamics"
+  },
+  {
+    "unitcode": "EAE5060",
+    "unitname": "Advanced field geology"
+  },
+  {
+    "unitcode": "EAE5061",
+    "unitname": "Geology and tectonics of New Zealand"
+  },
+  {
+    "unitcode": "EAE5062",
+    "unitname": "Applied analytical geochemistry"
+  },
+  {
+    "unitcode": "EAE5063",
+    "unitname": "Mineral exploration simulation"
+  },
+  {
+    "unitcode": "EAE5064",
+    "unitname": "Contemporary environmental earth science problems"
+  },
+  {
+    "unitcode": "EAE5065",
+    "unitname": "Drones and digital mapping in earth science"
+  },
+  {
+    "unitcode": "EAE5066",
+    "unitname": "Applied geophysics and earth imaging"
+  },
+  {
+    "unitcode": "EAE5067",
+    "unitname": "Remote sensing"
+  },
+  {
+    "unitcode": "EAE5068",
+    "unitname": "Spatial data analysis"
+  },
+  {
+    "unitcode": "EAE5069",
+    "unitname": "3D data analytics, geological and resource modelling"
+  },
+  {
+    "unitcode": "EAE5258",
+    "unitname": "Geographical information systems (GIS) for environmental science"
+  },
+  {
+    "unitcode": "EAE5900",
+    "unitname": "Landscape, environment and sustainability in Italy"
+  },
+  {
+    "unitcode": "ENS5010",
+    "unitname": "Global challenges and sustainability"
+  },
+  {
+    "unitcode": "ENS5020",
+    "unitname": "Perspectives on sustainability"
+  },
+  {
+    "unitcode": "ENS5310",
+    "unitname": "Securing biodiversity and ecosystems"
+  },
+  {
+    "unitcode": "ENS5320",
+    "unitname": "Climate change, energy and human security"
+  },
+  {
+    "unitcode": "ENS5330",
+    "unitname": "Water security and environmental pollution"
+  },
+  {
+    "unitcode": "ENS5510",
+    "unitname": "Processes to influence change"
+  },
+  {
+    "unitcode": "ENS5520",
+    "unitname": "Understanding human behaviour to influence change"
+  },
+  {
+    "unitcode": "ENS5530",
+    "unitname": "Leading change for sustainable development"
+  },
+  {
+    "unitcode": "ENS5900",
+    "unitname": "Research thesis in environment and sustainability"
+  },
+  {
+    "unitcode": "ENS5901",
+    "unitname": "Research thesis in environment and sustainability A"
+  },
+  {
+    "unitcode": "ENS5902",
+    "unitname": "Research thesis in environment and sustainability B"
+  },
+  {
+    "unitcode": "ENS5910",
+    "unitname": "Interdisciplinary industry project for sustainable development solutions"
+  },
+  {
+    "unitcode": "ENS5920",
+    "unitname": "Environment and sustainability project"
+  },
+  {
+    "unitcode": "ENS5930",
+    "unitname": "Sustainability internship"
+  },
+  {
+    "unitcode": "ENV1800",
+    "unitname": "Environmental science: A Southeast Asian perspective"
+  },
+  {
+    "unitcode": "ENV2022",
+    "unitname": "Environmental field skills and monitoring"
+  },
+  {
+    "unitcode": "ENV2726",
+    "unitname": "Ecosystems and bioresources"
+  },
+  {
+    "unitcode": "ENV3022",
+    "unitname": "Environmental technology"
+  },
+  {
+    "unitcode": "FST1800",
+    "unitname": "Fundamentals of food and sensory science"
+  },
+  {
+    "unitcode": "FST1911",
+    "unitname": "Introduction to nutrition"
+  },
+  {
+    "unitcode": "FST2810",
+    "unitname": "Food bioprocess technology"
+  },
+  {
+    "unitcode": "FST3711",
+    "unitname": "Food and industrial microbiology"
+  },
+  {
+    "unitcode": "FST3800",
+    "unitname": "Food science internship"
+  },
+  {
+    "unitcode": "FST3810",
+    "unitname": "Human nutrition"
+  },
+  {
+    "unitcode": "FST3820",
+    "unitname": "Food preservation"
+  },
+  {
+    "unitcode": "FST3830",
+    "unitname": "Functional foods"
+  },
+  {
+    "unitcode": "FST3840",
+    "unitname": "Food processing"
+  },
+  {
+    "unitcode": "FST3850",
+    "unitname": "Food product development"
+  },
+  {
+    "unitcode": "FST4100",
+    "unitname": "Food science and technology research project"
+  },
+  {
+    "unitcode": "FST4280",
+    "unitname": "Honours coursework in food science and technology"
+  },
+  {
+    "unitcode": "GEN2041",
+    "unitname": "Foundations of genetics"
+  },
+  {
+    "unitcode": "GEN2052",
+    "unitname": "Genomics and population genetics"
+  },
+  {
+    "unitcode": "GEN3030",
+    "unitname": "Molecular, cellular and developmental genetics"
+  },
+  {
+    "unitcode": "GEN3040",
+    "unitname": "Genomics and its applications"
+  },
+  {
+    "unitcode": "GEN3051",
+    "unitname": "Medical and forensic genetics"
+  },
+  {
+    "unitcode": "GEN3062",
+    "unitname": "Evolutionary and ecological genetics"
+  },
+  {
+    "unitcode": "GEN3990",
+    "unitname": "Genetics in action research project"
+  },
+  {
+    "unitcode": "GEN5010",
+    "unitname": "Advanced genetics and biotechnology"
+  },
+  {
+    "unitcode": "HUP3011",
+    "unitname": "Human pathology 1: Understanding disease processes"
+  },
+  {
+    "unitcode": "HUP3022",
+    "unitname": "Human pathology 2: Pathology of human diseases"
+  },
+  {
+    "unitcode": "HUP3810",
+    "unitname": "Principles of pathology 1"
+  },
+  {
+    "unitcode": "HUP3820",
+    "unitname": "Principles of pathology 2"
+  },
+  {
+    "unitcode": "HUP3990",
+    "unitname": "Human pathology in action research project"
+  },
+  {
+    "unitcode": "IBL2030",
+    "unitname": "Industry based learning: Science"
+  },
+  {
+    "unitcode": "IMM2011",
+    "unitname": "Basic immunology: The body's defence system"
+  },
+  {
+    "unitcode": "IMM2022",
+    "unitname": "Immunology in health and disease"
+  },
+  {
+    "unitcode": "IMM3031",
+    "unitname": "Molecular and cellular immunology"
+  },
+  {
+    "unitcode": "IMM3042",
+    "unitname": "Clinical immunopathology"
+  },
+  {
+    "unitcode": "IMM3051",
+    "unitname": "Principles of applied immunology"
+  },
+  {
+    "unitcode": "IMM3062",
+    "unitname": "Clinical and research laboratory immunology"
+  },
+  {
+    "unitcode": "IMM3802",
+    "unitname": "Essentials of applied immunology"
+  },
+  {
+    "unitcode": "IMM3990",
+    "unitname": "Immunology in action research project"
+  },
+  {
+    "unitcode": "MBS3800",
+    "unitname": "Medical bioscience internship"
+  },
+  {
+    "unitcode": "MBS4100",
+    "unitname": "Medical bioscience research project"
+  },
+  {
+    "unitcode": "MBS4280",
+    "unitname": "Honours coursework in medical bioscience"
+  },
+  {
+    "unitcode": "MCB2011",
+    "unitname": "Molecular biology and the cell"
+  },
+  {
+    "unitcode": "MCB2022",
+    "unitname": "The dynamic cell"
+  },
+  {
+    "unitcode": "MIC2011",
+    "unitname": "Introduction to microbiology and microbial biotechnology"
+  },
+  {
+    "unitcode": "MIC2022",
+    "unitname": "Microbes in health and disease"
+  },
+  {
+    "unitcode": "MIC3011",
+    "unitname": "Molecular microbiology"
+  },
+  {
+    "unitcode": "MIC3022",
+    "unitname": "Molecular virology and viral pathogenesis"
+  },
+  {
+    "unitcode": "MIC3032",
+    "unitname": "Pathogenesis of bacterial infectious diseases"
+  },
+  {
+    "unitcode": "MIC3041",
+    "unitname": "Medical microbiology"
+  },
+  {
+    "unitcode": "MIC3990",
+    "unitname": "Action in microbiology research project"
+  },
+  {
+    "unitcode": "MIS4100",
+    "unitname": "Regenerative medicine research project"
+  },
+  {
+    "unitcode": "MIS4200",
+    "unitname": "Advanced studies in regenerative medicine"
+  },
+  {
+    "unitcode": "MSC4100",
+    "unitname": "Materials science project"
+  },
+  {
+    "unitcode": "MSC4110",
+    "unitname": "Materials science project part-time A"
+  },
+  {
+    "unitcode": "MSC4120",
+    "unitname": "Materials science project part-time B"
+  },
+  {
+    "unitcode": "MSC4200",
+    "unitname": "Advanced materials science"
+  },
+  {
+    "unitcode": "MSC4210",
+    "unitname": "Materials applications part-time A"
+  },
+  {
+    "unitcode": "MSC4220",
+    "unitname": "Materials applications part-time B"
+  },
+  {
+    "unitcode": "MTH1010",
+    "unitname": "Functions and their applications"
+  },
+  {
+    "unitcode": "MTH1020",
+    "unitname": "Analysis of change"
+  },
+  {
+    "unitcode": "MTH1030",
+    "unitname": "Techniques for modelling"
+  },
+  {
+    "unitcode": "MTH1035",
+    "unitname": "Techniques for modelling (advanced)"
+  },
+  {
+    "unitcode": "MTH2010",
+    "unitname": "Multivariable calculus"
+  },
+  {
+    "unitcode": "MTH2015",
+    "unitname": "Multivariable calculus (advanced)"
+  },
+  {
+    "unitcode": "MTH2021",
+    "unitname": "Linear algebra with applications"
+  },
+  {
+    "unitcode": "MTH2025",
+    "unitname": "Linear algebra (advanced)"
+  },
+  {
+    "unitcode": "MTH2032",
+    "unitname": "Differential equations with modelling"
+  },
+  {
+    "unitcode": "MTH2040",
+    "unitname": "Mathematical modelling"
+  },
+  {
+    "unitcode": "MTH2051",
+    "unitname": "Introduction to computational mathematics"
+  },
+  {
+    "unitcode": "MTH2121",
+    "unitname": "Algebra and number theory"
+  },
+  {
+    "unitcode": "MTH2132",
+    "unitname": "The nature and beauty of mathematics"
+  },
+  {
+    "unitcode": "MTH2140",
+    "unitname": "Real analysis"
+  },
+  {
+    "unitcode": "MTH2222",
+    "unitname": "Mathematics of uncertainty"
+  },
+  {
+    "unitcode": "MTH2232",
+    "unitname": "Mathematical statistics"
+  },
+  {
+    "unitcode": "MTH3000",
+    "unitname": "Mathematics research project level 3"
+  },
+  {
+    "unitcode": "MTH3011",
+    "unitname": "Partial differential equations"
+  },
+  {
+    "unitcode": "MTH3020",
+    "unitname": "Complex analysis and integral transforms"
+  },
+  {
+    "unitcode": "MTH3051",
+    "unitname": "Introduction to computational mathematics"
+  },
+  {
+    "unitcode": "MTH3060",
+    "unitname": "Advanced ordinary differential equations"
+  },
+  {
+    "unitcode": "MTH3110",
+    "unitname": "Differential geometry"
+  },
+  {
+    "unitcode": "MTH3121",
+    "unitname": "Algebra and number theory"
+  },
+  {
+    "unitcode": "MTH3130",
+    "unitname": "Topology: The mathematics of shape"
+  },
+  {
+    "unitcode": "MTH3140",
+    "unitname": "Real analysis"
+  },
+  {
+    "unitcode": "MTH3150",
+    "unitname": "Algebra and number theory 2"
+  },
+  {
+    "unitcode": "MTH3160",
+    "unitname": "Metric spaces, Banach spaces, Hilbert spaces"
+  },
+  {
+    "unitcode": "MTH3170",
+    "unitname": "Network mathematics"
+  },
+  {
+    "unitcode": "MTH3230",
+    "unitname": "Time series and random processes in linear systems"
+  },
+  {
+    "unitcode": "MTH3241",
+    "unitname": "Random processes in the sciences and engineering"
+  },
+  {
+    "unitcode": "MTH3251",
+    "unitname": "Financial mathematics"
+  },
+  {
+    "unitcode": "MTH3260",
+    "unitname": "Statistics of stochastic processes"
+  },
+  {
+    "unitcode": "MTH3310",
+    "unitname": "Applied mathematical modelling"
+  },
+  {
+    "unitcode": "MTH3320",
+    "unitname": "Computational linear algebra"
+  },
+  {
+    "unitcode": "MTH3330",
+    "unitname": "Optimisation and operations research"
+  },
+  {
+    "unitcode": "MTH3360",
+    "unitname": "Fluid dynamics"
+  },
+  {
+    "unitcode": "MTH3401",
+    "unitname": "Special topics in mathematics 1"
+  },
+  {
+    "unitcode": "MTH3402",
+    "unitname": "Special topics in mathematics 2"
+  },
+  {
+    "unitcode": "MTH4010",
+    "unitname": "Mathematics honours topic A"
+  },
+  {
+    "unitcode": "MTH4020",
+    "unitname": "Mathematics honours topic B"
+  },
+  {
+    "unitcode": "MTH4030",
+    "unitname": "Mathematics honours topic C"
+  },
+  {
+    "unitcode": "MTH4040",
+    "unitname": "Mathematics honours topic D"
+  },
+  {
+    "unitcode": "MTH4089",
+    "unitname": "Computational statistical inference"
+  },
+  {
+    "unitcode": "MTH4099",
+    "unitname": "Measure theory"
+  },
+  {
+    "unitcode": "MTH4100",
+    "unitname": "Mathematics research studies"
+  },
+  {
+    "unitcode": "MTH4111",
+    "unitname": "Differential geometry"
+  },
+  {
+    "unitcode": "MTH4113",
+    "unitname": "Low-dimensional topology"
+  },
+  {
+    "unitcode": "MTH4115",
+    "unitname": "Algebraic topology"
+  },
+  {
+    "unitcode": "MTH4121",
+    "unitname": "Analysis on manifolds"
+  },
+  {
+    "unitcode": "MTH4123",
+    "unitname": "Partial differential equations"
+  },
+  {
+    "unitcode": "MTH4141",
+    "unitname": "Computational group theory"
+  },
+  {
+    "unitcode": "MTH4151",
+    "unitname": "Advanced graph theory"
+  },
+  {
+    "unitcode": "MTH4153",
+    "unitname": "Combinatorics"
+  },
+  {
+    "unitcode": "MTH4200",
+    "unitname": "Advanced studies in mathematics"
+  },
+  {
+    "unitcode": "MTH4311",
+    "unitname": "Methods of applied mathematics"
+  },
+  {
+    "unitcode": "MTH4321",
+    "unitname": "Methods of computational mathematics"
+  },
+  {
+    "unitcode": "MTH4323",
+    "unitname": "Numerical analysis and control of differential equations"
+  },
+  {
+    "unitcode": "MTH4331",
+    "unitname": "Optimisation for data analytics"
+  },
+  {
+    "unitcode": "MTH4333",
+    "unitname": "Discrete optimisation"
+  },
+  {
+    "unitcode": "MTH4341",
+    "unitname": "Fluid dynamics and turbulence"
+  },
+  {
+    "unitcode": "MTH4343",
+    "unitname": "Magnetohydrodynamics and visualisation of scientific data"
+  },
+  {
+    "unitcode": "MTH4351",
+    "unitname": "Mathematical biology"
+  },
+  {
+    "unitcode": "MTH5000",
+    "unitname": "Mathematics master project"
+  },
+  {
+    "unitcode": "MTH5010",
+    "unitname": "Special topics in advanced mathematics 1"
+  },
+  {
+    "unitcode": "MTH5020",
+    "unitname": "Special topics in advanced mathematics 2"
+  },
+  {
+    "unitcode": "MTH5089",
+    "unitname": "Computational statistical inference"
+  },
+  {
+    "unitcode": "MTH5099",
+    "unitname": "Measure theory"
+  },
+  {
+    "unitcode": "MTH5111",
+    "unitname": "Differential geometry"
+  },
+  {
+    "unitcode": "MTH5112",
+    "unitname": "Partial differential equations in finance"
+  },
+  {
+    "unitcode": "MTH5113",
+    "unitname": "Low-dimensional topology"
+  },
+  {
+    "unitcode": "MTH5115",
+    "unitname": "Algebraic topology"
+  },
+  {
+    "unitcode": "MTH5121",
+    "unitname": "Analysis on manifolds"
+  },
+  {
+    "unitcode": "MTH5123",
+    "unitname": "Partial differential equations"
+  },
+  {
+    "unitcode": "MTH5141",
+    "unitname": "Computational group theory"
+  },
+  {
+    "unitcode": "MTH5151",
+    "unitname": "Advanced graph theory"
+  },
+  {
+    "unitcode": "MTH5153",
+    "unitname": "Combinatorics"
+  },
+  {
+    "unitcode": "MTH5210",
+    "unitname": "Stochastic calculus and mathematical finance"
+  },
+  {
+    "unitcode": "MTH5220",
+    "unitname": "The theory of martingales in discrete time"
+  },
+  {
+    "unitcode": "MTH5230",
+    "unitname": "Markov chains and random walks"
+  },
+  {
+    "unitcode": "MTH5311",
+    "unitname": "Methods of applied mathematics"
+  },
+  {
+    "unitcode": "MTH5321",
+    "unitname": "Methods of computational mathematics"
+  },
+  {
+    "unitcode": "MTH5323",
+    "unitname": "Numerical analysis and control of differential equations"
+  },
+  {
+    "unitcode": "MTH5331",
+    "unitname": "Optimisation for data analytics"
+  },
+  {
+    "unitcode": "MTH5333",
+    "unitname": "Discrete optimisation"
+  },
+  {
+    "unitcode": "MTH5341",
+    "unitname": "Fluid dynamics and turbulence"
+  },
+  {
+    "unitcode": "MTH5343",
+    "unitname": "Magnetohydrodynamics and visualisation of scientific data"
+  },
+  {
+    "unitcode": "MTH5351",
+    "unitname": "Mathematical biology"
+  },
+  {
+    "unitcode": "MTH5510",
+    "unitname": "Quantitative risk management"
+  },
+  {
+    "unitcode": "MTH5520",
+    "unitname": "Interest rate modelling"
+  },
+  {
+    "unitcode": "MTH5530",
+    "unitname": "Computational methods in finance"
+  },
+  {
+    "unitcode": "MTH5540",
+    "unitname": "Statistical learning in finance"
+  },
+  {
+    "unitcode": "MTH5550",
+    "unitname": "Quantitative trading and market microstructure"
+  },
+  {
+    "unitcode": "MTH5810",
+    "unitname": "Industry research project"
+  },
+  {
+    "unitcode": "MTH5820",
+    "unitname": "Minor industry research project"
+  },
+  {
+    "unitcode": "MTH5830",
+    "unitname": "Industry placement"
+  },
+  {
+    "unitcode": "MTH5840",
+    "unitname": "Minor industry placement"
+  },
+  {
+    "unitcode": "PHA2022",
+    "unitname": "Drugs and society"
+  },
+  {
+    "unitcode": "PHA3011",
+    "unitname": "Principles of drug action"
+  },
+  {
+    "unitcode": "PHA3021",
+    "unitname": "Drugs in health and disease"
+  },
+  {
+    "unitcode": "PHA3032",
+    "unitname": "Neuro and endocrine pharmacology"
+  },
+  {
+    "unitcode": "PHA3042",
+    "unitname": "Modern drug development"
+  },
+  {
+    "unitcode": "PHA3800",
+    "unitname": "Fundamentals of toxicology"
+  },
+  {
+    "unitcode": "PHA3801",
+    "unitname": "Principles of pharmacology"
+  },
+  {
+    "unitcode": "PHA3990",
+    "unitname": "Action in pharmacology research project"
+  },
+  {
+    "unitcode": "PHS1001",
+    "unitname": "Foundation physics"
+  },
+  {
+    "unitcode": "PHS1002",
+    "unitname": "Physics for engineering"
+  },
+  {
+    "unitcode": "PHS1011",
+    "unitname": "Classical physics and relativity"
+  },
+  {
+    "unitcode": "PHS1022",
+    "unitname": "Fields and quantum physics"
+  },
+  {
+    "unitcode": "PHS1031",
+    "unitname": "Physics for the living world"
+  },
+  {
+    "unitcode": "PHS2061",
+    "unitname": "Quantum and thermal physics"
+  },
+  {
+    "unitcode": "PHS2062",
+    "unitname": "Electromagnetism and optics"
+  },
+  {
+    "unitcode": "PHS2081",
+    "unitname": "Atomic, nuclear and condensed matter physics"
+  },
+  {
+    "unitcode": "PHS2350",
+    "unitname": "Physics and astronomy introductory research project 1"
+  },
+  {
+    "unitcode": "PHS2360",
+    "unitname": "Physics and astronomy introductory research project 2"
+  },
+  {
+    "unitcode": "PHS3000",
+    "unitname": "Experimental physics"
+  },
+  {
+    "unitcode": "PHS3101",
+    "unitname": "Quantum mechanics"
+  },
+  {
+    "unitcode": "PHS3102",
+    "unitname": "Statistical and condensed matter physics"
+  },
+  {
+    "unitcode": "PHS3201",
+    "unitname": "Classical dynamics and field theory"
+  },
+  {
+    "unitcode": "PHS3202",
+    "unitname": "Wave optics and atomic physics"
+  },
+  {
+    "unitcode": "PHS3302",
+    "unitname": "Relativity and particle physics"
+  },
+  {
+    "unitcode": "PHS3350",
+    "unitname": "Physics and astronomy research project 1"
+  },
+  {
+    "unitcode": "PHS3360",
+    "unitname": "Physics and astronomy research project 2"
+  },
+  {
+    "unitcode": "PHS4000",
+    "unitname": "Physics research project"
+  },
+  {
+    "unitcode": "PHS4001",
+    "unitname": "Physics research project A"
+  },
+  {
+    "unitcode": "PHS4002",
+    "unitname": "Physics research project B"
+  },
+  {
+    "unitcode": "PHS4020",
+    "unitname": "Physics coursework A"
+  },
+  {
+    "unitcode": "PHS4021",
+    "unitname": "Physics coursework B"
+  },
+  {
+    "unitcode": "PHS4100",
+    "unitname": "Physics honours research project"
+  },
+  {
+    "unitcode": "PHS4110",
+    "unitname": "Physics honours research project A"
+  },
+  {
+    "unitcode": "PHS4120",
+    "unitname": "Physics honours research project B"
+  },
+  {
+    "unitcode": "PHS4200",
+    "unitname": "Physics honours coursework"
+  },
+  {
+    "unitcode": "PHS4210",
+    "unitname": "Physics honours coursework A"
+  },
+  {
+    "unitcode": "PHS4220",
+    "unitname": "Physics honours coursework B"
+  },
+  {
+    "unitcode": "PHS5000",
+    "unitname": "Advanced physics research project"
+  },
+  {
+    "unitcode": "PHS5001",
+    "unitname": "Advanced physics research project A"
+  },
+  {
+    "unitcode": "PHS5020",
+    "unitname": "Advanced physics coursework A"
+  },
+  {
+    "unitcode": "PHS5021",
+    "unitname": "Advanced physics coursework B"
+  },
+  {
+    "unitcode": "PHY2011",
+    "unitname": "Neuroscience of communication, sensory and control systems"
+  },
+  {
+    "unitcode": "PHY2032",
+    "unitname": "Endocrine control systems"
+  },
+  {
+    "unitcode": "PHY2042",
+    "unitname": "Body systems physiology"
+  },
+  {
+    "unitcode": "PHY2810",
+    "unitname": "Physiology of human body systems"
+  },
+  {
+    "unitcode": "PHY2820",
+    "unitname": "Physiology of human health"
+  },
+  {
+    "unitcode": "PHY3012",
+    "unitname": "Integrative neuroscience"
+  },
+  {
+    "unitcode": "PHY3072",
+    "unitname": "Exercise physiology and metabolism"
+  },
+  {
+    "unitcode": "PHY3102",
+    "unitname": "Nutrition, metabolism and body weight"
+  },
+  {
+    "unitcode": "PHY3111",
+    "unitname": "Sensory and cognitive neuroscience"
+  },
+  {
+    "unitcode": "PHY3171",
+    "unitname": "Clinical and experimental cardiovascular physiology"
+  },
+  {
+    "unitcode": "PHY3181",
+    "unitname": "Hormones and reproduction"
+  },
+  {
+    "unitcode": "PHY3990",
+    "unitname": "Action in physiology research project"
+  },
+  {
+    "unitcode": "SCI1020",
+    "unitname": "Introduction to statistical reasoning"
+  },
+  {
+    "unitcode": "SCI1200",
+    "unitname": "Humans, evolution and modern society"
+  },
+  {
+    "unitcode": "SCI1300",
+    "unitname": "Climate change: From science to society"
+  },
+  {
+    "unitcode": "SCI1501",
+    "unitname": "Impact through science 1A"
+  },
+  {
+    "unitcode": "SCI1502",
+    "unitname": "Impact through science 1B"
+  },
+  {
+    "unitcode": "SCI1800",
+    "unitname": "The sustainable planet"
+  },
+  {
+    "unitcode": "SCI2010",
+    "unitname": "Scientific practice and communication"
+  },
+  {
+    "unitcode": "SCI2015",
+    "unitname": "Scientific practice and communication (advanced)"
+  },
+  {
+    "unitcode": "SCI2400",
+    "unitname": "From Galileo to GPS: How astronomy shapes our lives"
+  },
+  {
+    "unitcode": "SCI2501",
+    "unitname": "Impact through science 2A"
+  },
+  {
+    "unitcode": "SCI2502",
+    "unitname": "Impact through science 2B"
+  },
+  {
+    "unitcode": "SCI3501",
+    "unitname": "Impact through science 3A"
+  },
+  {
+    "unitcode": "SCI3502",
+    "unitname": "Impact through science 3B"
+  },
+  {
+    "unitcode": "SCI3716",
+    "unitname": "Laboratory and workplace management"
+  },
+  {
+    "unitcode": "SCI3800",
+    "unitname": "Science internship"
+  },
+  {
+    "unitcode": "SCI3910",
+    "unitname": "Schools science project"
+  },
+  {
+    "unitcode": "SCI3920",
+    "unitname": "Science internship"
+  },
+  {
+    "unitcode": "SCI3930",
+    "unitname": "Career skills for scientists"
+  },
+  {
+    "unitcode": "SCI3990",
+    "unitname": "Science in action research project"
+  },
+  {
+    "unitcode": "SCI4100",
+    "unitname": "Science honours project"
+  },
+  {
+    "unitcode": "SCI4110",
+    "unitname": "Science honours project"
+  },
+  {
+    "unitcode": "SCI4120",
+    "unitname": "Science honours project"
+  },
+  {
+    "unitcode": "SCI4210",
+    "unitname": "Science honours coursework"
+  },
+  {
+    "unitcode": "SCI4220",
+    "unitname": "Science honours coursework"
+  },
+  {
+    "unitcode": "SCI4230",
+    "unitname": "Science honours coursework"
+  },
+  {
+    "unitcode": "SCI4240",
+    "unitname": "Science honours coursework"
+  },
+  {
+    "unitcode": "SCI4501",
+    "unitname": "Impact through science 4A: Research"
+  },
+  {
+    "unitcode": "SCI4502",
+    "unitname": "Impact through science 4B: Professional practice"
+  },
+  {
+    "unitcode": "STA1010",
+    "unitname": "Statistical methods for science"
+  },
+  {
+    "unitcode": "STA2216",
+    "unitname": "Data analysis for science"
+  }
+]
