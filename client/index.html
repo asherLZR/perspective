@@ -26,15 +26,17 @@
                 </div>
             </nav>
         </header>
+        <div class="layer"></div>
         <main>
             <div class="container" id="app">
                 <div class="row">
-                    <div v-for="subject in subjectNames">
-                        <subject-card :title="subject" cardinfo="Hey" imgfile="assets/download-s.jpg"></subject-card>
+                    <div v-for="subject in subjects">
+                        <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
                     </div>
                 </div>
             </div>
         </main>
+        </div>
         <footer class="page-footer transparent">
         </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>

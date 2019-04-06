@@ -1,7 +1,9 @@
 <html>
+    
     <head>
         <title>Hackamon Project</title>
-        <link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="/style.css">
+        <link rel="stylesheet" href="/unit.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     </head>
@@ -22,7 +24,7 @@
                         </div>
                         </form>
                     </li>
-                    <li><a href="./index.html">Explore</a></li>
+                    <li><a href="/index.html">Explore</a></li>
                     <li><a href="">Profile</a></li>
                     </ul>
                     
@@ -31,7 +33,7 @@
         </header>
         <main>
             <div class="container" id="unit">
-                <h4>{{subjectName}}</h4>
+                <h4 id="subject-header"><%= subject %></h4>
                 <div>
                         <ul class="collection" v-for="(item, index) in units" :key="index">
                             <unit-card :title=index :subject=item></unit-card>
@@ -44,5 +46,5 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     </body>
-    <script src="./unit.js"></script>
+    <script src="/unit.js"></script>
 </html>
