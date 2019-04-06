@@ -21,5 +21,11 @@ app.get("/", (req, res) => {
 });
 
 app.get("/units/:subject", (req, res) => {
-    res.render(path.join(__dirname + "/../client/unit.ejs"),req.params);
+    let subjectName = req.params.subject;
+    if (subjectName == "it") {
+        subjectName = "Information Technology"
+    }
+    let subjectHeader = subjectName.charAt(0).toUpperCase() + subjectName.slice(1);
+    req.params.subjectHeader = subjectHeader;
+    res.render(path.join(__dirname + "/../client/unit.ejs"), req.params);
 })

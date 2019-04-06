@@ -33,7 +33,7 @@
         </header>
         <main>
             <div class="container" id="unit">
-                <h4 id="subject-header" class="center"><%= subject %></h4>
+                <h4 id="subject-header" class="center"><%= subjectHeader %></h4>
                 <div>
                     <ul class="collection" v-for="item in units.slice(0,9)" :key="index">
                         <unit-card :title=item.unitcode :subject=item.unitname></unit-card>
