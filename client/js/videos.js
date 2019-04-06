@@ -6,7 +6,17 @@ new Vue({
     data () {
         return {
             videos: [],
-            selectedVideo: null
+            selectedVideo: null,
+            topic: "Astronomy",
+            comments: [
+                {
+                    username: "Sally Yik",
+                    comment: "Astrobiology is a multidisciplinary field related to the sciences of Astronomy, Chemistry, Biology and Geology. "
+                },{
+                    username: "Peaker Guo",
+                    comment: "Milankovitch periodicities of 123 kyr (eccentricity), 35.6 kyr (obliquity), and 21.2 kyr (precession) were identified in geophysical logs of three Late Permian coals."
+                }
+            ]
         }
     },
     computed: {
@@ -21,19 +31,14 @@ new Vue({
                 part: 'snippet',
                 maxResult: 5,
                 key: KEY,
-                q: "astronomy"
+                q: "astronomy videos"
             }
         })
         .then(response => {
             this.videos = response.data.items;
             this.selectedVideo = response.data.items[2];
         });
-
-        console.log(this.videos);
     }
-
-
-
 })
 
 
@@ -44,8 +49,12 @@ Vue.component('video-li', {
       }
     },
     props: ['video'],
-    template: '<li><div><img :src="video" /></div></li>'
+    template: '<li><div><img :src="video"/></div></li>'
 })
 
+Vue.component('comment-card',{
+    props: ['title', 'subject'],
+    template: '<li class="collection-item avatar"><i class="material-icons circle">face</i><span class="title">{{title}}</span><p>{{subject}}</p><a href="#!" class="secondary-content"></a></li>'
+})
 
   

@@ -1,0 +1,39 @@
+iframe{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+ul, .commenting{
+    border-style: hidden !important;
+}
+
+.img{
+    object-fit: cover;
+}
+
+.video-container {
+    box-shadow: inset 3px 3px 10px 0 white;
+    border-radius: 10px;
+}
+
+.voting-container {
+}
+
+.vid-col{
+    max-width: 100%;
+}
+
+.frame-container{
+    height: 50%;
+}
+
+
+#name{
+    margin-left: 15px;
+    width: 90%;
+}
+
+#commentCheckbox {
+    color: black;
+}

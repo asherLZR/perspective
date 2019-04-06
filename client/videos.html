@@ -1,22 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
-        <meta charset="utf-8">
-        <title>YouTube</title>
-        
+        <title>Hackamon Project</title>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link rel="stylesheet" href="/styles/style.css">
+        <link rel="stylesheet" href="/styles/videos.css">
     </head>
     <body>
-        
-        <div id="app">
-            <template v-if="selectedVideo != null">
-                <iframe :src="videoSrc" ></iframe>
-                <p>{{ selectedVideo.snippet.description }}<p>
-            </template>
-            <ul v-for="item in videos">
-                <video-li :video="item.snippet.thumbnails.medium.url"></video-li>
-            </ul>
-        </div>
-
+        <header>
+            <nav class="transparent">
+                <div class="nav-wrapper">
+                    <div class="header-container">
+                        <a href="/" class="brand-logo">Logo</a>
+                    </div>
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li>
+                    <form>
+                        <div class="input-field">
+                            <input id="search" type="search" required>
+                            <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+                            <i class="material-icons">close</i>
+                        </div>
+                        </form>
+                    </li>
+                    <li><a href="/index.html">Explore</a></li>
+                    <li><a href="">Profile</a></li>
+                    </ul>
+                    
+                </div>
+            </nav>
+        </header>
+        <main>
+            <div class="container" id="app">
+                <h4 id="subject-header" class="center">{{topic}}</h4>
+                <hr>
+                <div class="row">
+                    <div class="col s8 frame-container">
+                        <template v-if="selectedVideo != null">
+                            <iframe :src="videoSrc" ></iframe>
+                            <p>{{ selectedVideo.snippet.description }}</p>
+                        </template>
+                        <div class="voting-container">
+                            <span class="vertical-align" style="margin-left: 75%">
+                                    263 &nbsp <i class="material-icons" style="color:rgb(0, 39, 0)">thumb_up</i>
+                                    &nbsp 5 &nbsp <i class="material-icons" style="color:rgb(80, 0, 0)">thumb_down</i>
+                            </span> 
+                        </div>
+                        <hr>
+                        <div>
+                            <ul class="collection">
+                                <li class="collection-item avatar commenting">
+                                    <div>
+                                        <i class="material-icons circle">face</i>
+                                        <input placeholder="Add a comment..." id="name" type="text" class="validate">
+                                        <a href="#!" class="vertical-align"><i id="commentCheckbox" class="material-icons button-flat">send</i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="collection" v-for="comment in comments">
+                                <comment-card :title=comment.username :subject=comment.comment></comment-card>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    <div class="col s4 vid-col">
+                        <h6 class="center"><b>Related Videos</b></h6>
+                        <ul v-for="item in videos">
+                            <div class="video-container">
+                            <video-li :video="item.snippet.thumbnails.medium.url"></video-li>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="page-footer transparent">
+        </footer>
         <script src="https://unpkg.com/vue"></script>
         <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
         <script src="/js/videos.js"></script>
