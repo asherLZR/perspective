@@ -7,9 +7,11 @@
     </head>
     <body>
         <header>
-            <nav>
-                <div class="nav-wrapper #1565c0 blue darken-3">
-                    <a href="/" class="brand-logo">Logo</a>
+            <nav class="transparent">
+                <div class="nav-wrapper">
+                    <div class="header-container">
+                        <a href="/" class="brand-logo">Logo</a>
+                    </div>
                     <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li>
                     <form>
@@ -32,7 +34,7 @@
                 <h4>{{subjectName}}</h4>
                 <div>
                         <ul class="collection" v-for="(item, index) in units" :key="index">
-                            <unit-card :title=index></unit-card>
+                            <unit-card :title=index :subject=item></unit-card>
                         </ul>
                 </div>
             </div>
@@ -42,5 +44,5 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     </body>
-    <script src="./app.js"></script>
+    <script src="./unit.js"></script>
 </html>
