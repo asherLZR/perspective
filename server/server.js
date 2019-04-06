@@ -30,10 +30,10 @@ app.get("/units/:subject", (req, res) => {
     res.render(path.join(__dirname + "/../client/unit.ejs"), req.params);
 })
 
-app.get("/videos", (req, res) => {
+app.get("/units/:subject/:unitcode/videos", (req, res) => {
     res.sendFile(path.join(__dirname + "/../client/videos.html"));
 });
 
-app.get("/topics", (req, res) => {
+app.get("/units/:subject/:unitcode/topics", (req, res) => {
     res.sendFile(path.join(__dirname + "/../client/topics.html"));
 });
