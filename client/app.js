@@ -4,7 +4,7 @@ Vue.component('subject-card', {
         }
     },
     props: ['title', 'cardinfo', 'imgfile'],
-    template: '<div class="col s4"><a href="#"><div class="card horizontal"><div class="card-image"><img :src="imgfile"></div><div class="card-stacked"><div class="card-content"><h6>{{title}}</h6></div></div></div></a></div>'
+    template: '<div class="col s4"><a href="unit.html"><div class="card horizontal"><div class="card-image"><img :src="imgfile"></div><div class="card-stacked"><div class="card-content"><h6>{{title}}</h6></div></div></div></a></div>'
 })
 
 new Vue({

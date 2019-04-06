@@ -9,9 +9,7 @@
         <header>
             <nav class="transparent">
                 <div class="nav-wrapper">
-                    <div class="header-container">
-                        <a href="#" class="brand-logo">Logo</a>
-                    </div>
+                    <a href="/" class="brand-logo">Logo</a>
                     <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li>
                     <form>
@@ -20,22 +18,20 @@
                             <label class="label-icon" for="search"><i class="material-icons">search</i></label>
                             <i class="material-icons">close</i>
                         </div>
-                        </form>
+                    </form>
                     </li>
                     <li><a href="./index.html">Explore</a></li>
                     <li><a href="">Profile</a></li>
                     </ul>
-                    
                 </div>
             </nav>
         </header>
         <main>
-            <div class="container" id="unit">
-                <h4>{{subjectName}}</h4>
-                <div>
-                        <ul class="collection" v-for="(item, index) in units" :key="index">
-                            <unit-card :title=index :subject=item></unit-card>
-                        </ul>
+            <div class="container" id="app">
+                <div class="row">
+                    <div v-for="subject in subjectNames">
+                        <subject-card :title="subject" cardinfo="Hey" imgfile="assets/download-s.jpg"></subject-card>
+                    </div>
                 </div>
             </div>
         </main>
@@ -44,5 +40,5 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     </body>
-    <script src="./unit.js"></script>
+    <script src="./app.js"></script>
 </html>

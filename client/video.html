@@ -7,9 +7,9 @@
     </head>
     <body>
         <header>
-            <nav class="transparent">
-                <div class="nav-wrapper">
-                    <a href="#" class="brand-logo">Logo</a>
+            <nav>
+                <div class="nav-wrapper #1565c0 blue darken-3">
+                    <a href="/" class="brand-logo">Logo</a>
                     <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li>
                     <form>
@@ -18,20 +18,20 @@
                             <label class="label-icon" for="search"><i class="material-icons">search</i></label>
                             <i class="material-icons">close</i>
                         </div>
-                    </form>
+                        </form>
                     </li>
                     <li><a href="./index.html">Explore</a></li>
                     <li><a href="">Profile</a></li>
                     </ul>
+                    
                 </div>
             </nav>
         </header>
         <main>
-            <div class="container" id="app">
-                <div class="row">
-                    <div v-for="subject in subjectNames">
-                        <subject-card :title="subject" cardinfo="Hey" imgfile="assets/download-s.jpg"></subject-card>
-                    </div>
+            <div class="container" id="unit">
+                <h1>Video 1</h1>
+                <div>
+                    <iframe width="1300" height="700" src="https://www.youtube.com/embed/xli_FI7CuzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </main>
