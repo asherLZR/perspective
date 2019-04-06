@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>YouTube</title>
+        
+    </head>
+    <body>
+        
+        <div id="app">
+            <template v-if="selectedVideo != null">
+                <iframe :src="videoSrc" ></iframe>
+                <p>{{ selectedVideo.snippet.description }}<p>
+            </template>
+            <ul v-for="item in videos">
+                <video-li :video="item.snippet.thumbnails.medium.url"></video-li>
+            </ul>
+        </div>
+
+        <script src="https://unpkg.com/vue"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="/js/videos.js"></script>
+    </body>
+</html>

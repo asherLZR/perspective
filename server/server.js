@@ -29,3 +29,11 @@ app.get("/units/:subject", (req, res) => {
     req.params.subjectHeader = subjectHeader;
     res.render(path.join(__dirname + "/../client/unit.ejs"), req.params);
 })
+
+app.get("/videos", (req, res) => {
+    res.sendFile(path.join(__dirname + "/../client/videos.html"));
+});
+
+app.get("/topics", (req, res) => {
+    res.sendFile(path.join(__dirname + "/../client/topics.html"));
+});
