@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/asherLZR/hackamon2019#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.4"
   }
 }
