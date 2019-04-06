@@ -29,9 +29,11 @@
         </header>
         <main>
             <div class="container" id="unit">
-                <h1>{{subjectName}}</h1>
+                <h4>{{subjectName}}</h4>
                 <div>
-                    
+                        <ul class="collection" v-for="(item, index) in units" :key="index">
+                            <unit-card :title=index></unit-card>
+                        </ul>
                 </div>
             </div>
         </main>
