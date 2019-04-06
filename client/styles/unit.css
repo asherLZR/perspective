@@ -1,7 +1,11 @@
+a {
+    color: rgb(0,109,174);
+  }
+
 .collection:hover {
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
 .pagination li.active {
-    background-color: #DD341E !important;
+    background-color: rgb(0,109,174) !important;
 }

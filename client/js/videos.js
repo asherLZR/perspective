@@ -7,14 +7,16 @@ new Vue({
         return {
             videos: [],
             selectedVideo: null,
-            topic: "Astronomy",
+            topic: "ASP2011 - Astronomy: Age and Origin of the Solar System",
             comments: [
                 {
                     username: "Sally Yik",
-                    comment: "Astrobiology is a multidisciplinary field related to the sciences of Astronomy, Chemistry, Biology and Geology. "
+                    comment: "Astrobiology is a multidisciplinary field related to the sciences of Astronomy, Chemistry, Biology and Geology.",
+                    img: "url('/assets/happy1.jpg')"
                 },{
                     username: "Peaker Guo",
-                    comment: "Milankovitch periodicities of 123 kyr (eccentricity), 35.6 kyr (obliquity), and 21.2 kyr (precession) were identified in geophysical logs of three Late Permian coals."
+                    comment: "Milankovitch periodicities of 123 kyr (eccentricity), 35.6 kyr (obliquity), and 21.2 kyr (precession) were identified in geophysical logs of three Late Permian coals.",
+                    img: "url('/assets/happy3.jpg')"
                 }
             ]
         }
@@ -53,8 +55,8 @@ Vue.component('video-li', {
 })
 
 Vue.component('comment-card',{
-    props: ['title', 'subject'],
-    template: '<li class="collection-item avatar"><i class="material-icons circle">face</i><span class="title">{{title}}</span><p>{{subject}}</p><a href="#!" class="secondary-content"></a></li>'
+    props: ['title', 'subject', 'img'],
+    template: '<li class="collection-item avatar"><img :style="{backgroundImage: img}" class="circle"></img><span class="title">{{title}}</span><p>{{subject}}</p><a href="#!" class="secondary-content"></a></li>'
 })
 
   

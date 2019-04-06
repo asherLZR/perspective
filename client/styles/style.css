@@ -42,6 +42,10 @@ main {
     color: rgb(249, 172, 18);
 }
 
+.right{
+    align-content: right;
+}
+
 .header-container{
     background-color: white;
 }
