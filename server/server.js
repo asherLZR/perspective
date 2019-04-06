@@ -33,3 +33,7 @@ app.get("/units/:subject", (req, res) => {
 app.get("/videos", (req, res) => {
     res.sendFile(path.join(__dirname + "/../client/videos.html"));
 });
+
+app.get("/topics", (req, res) => {
+    res.sendFile(path.join(__dirname + "/../client/topics.html"));
+});

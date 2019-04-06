@@ -31,23 +31,10 @@
             </nav>
         </header>
         <main>
-            <div class="container" id="unit">
-                <h4 id="subject-header" class="center"><%= subjectHeader %></h4>
-                <div>
-                    <ul class="collection" v-for="item in units.slice(0,9)" :key="index">
-                        <unit-card :title=item.unitcode :subject=item.unitname></unit-card>
-                    </ul>
-                </div>
-                <div class="center header-container">
-                    <ul class="pagination">
-                        <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li class="waves-effect"><a href="#!">2</a></li>
-                        <li class="waves-effect"><a href="#!">3</a></li>
-                        <li class="waves-effect"><a href="#!">4</a></li>
-                        <li class="waves-effect"><a href="#!">5</a></li>
-                        <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
-                    </ul>
+            <div class="container" id="app">
+                <h4 id="subject-header" class="center">Astronomy</h4>
+                <div class="collection" v-for="item in topics">
+                    <a href="/videos" class="collection-item">{{item}}</a>
                 </div>
             </div>
         </main>
@@ -56,5 +43,5 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     </body>
-    <script src="/js/unit.js"></script>
+    <script src="/js/topics.js"></script>
 </html>
