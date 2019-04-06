@@ -1,0 +1,17 @@
+.card {
+    padding: 25px;
+    background-size: auto 100%;
+}
+
+.card-stacked {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.card-content h6 {
+    color: white;
+    text-align: center;
+}
+
+#app {
+    margin-top: 10%;
+}

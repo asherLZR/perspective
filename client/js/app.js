@@ -4,7 +4,7 @@ Vue.component('subject-card', {
         }
     },
     props: ['title', 'cardinfo', 'imgfile', 'url'],
-    template: '<div class="col s4"><a :href="url"><div class="card horizontal"><div class="card-image"><img :src="imgfile"></div><div class="card-stacked"><div class="card-content"><h6>{{title}}</h6></div></div></div></a></div>'
+    template: '<div class="col s4"><a :href="url"><div class="card horizontal" :style="imgfile"><div class="card-stacked"><div class="card-content"><h6>{{title}}</h6></div></div></div></a></div>'
 })
 
 new Vue({
@@ -12,32 +12,32 @@ new Vue({
     data: {
         "subjects": [{
             name: "Arts",
-            img: "assets/download-s.jpg",
+            img: "background-image: url('/assets/arts.jpg');",
             url: "/units/arts"
         },{
             name: "Business and Economics",
-            img: "assets/download-s.jpg",
+            img: "background-image: url('/assets/business.jpg');",
             url: "/units/business"
         },
         {
             name: "Education",
-            img: "assets/download-s.jpg",
+            img: "background-image: url('/assets/education.jpg');",
             url: "/units/education"
-        },
-        {
-            name: "Engineering",
-            img: "assets/download-s.jpg",
-            url: "/units/engineering"
-        },{
-            name: "Information Technology",
-            img: "assets/download-s.jpg",
-            url: "/units/it"
-        },
-        {
-            name: "Science",
-            img: "assets/download-s.jpg",
-            url: "/units/science"
-        }]
+        }],
+        "subjects_1": [{
+                name: "Engineering",
+                img: "background-image: url('/assets/engineering.jpg');",
+                url: "/units/engineering"
+            },{
+                name: "Information Technology",
+                img: "background-image: url('/assets/informationTechnology.jpg');",
+                url: "/units/it"
+            },
+            {
+                name: "Science",
+                img: "background-image: url('/assets/science.jpg');",
+                url: "/units/science"
+            }]
         }
     })
 

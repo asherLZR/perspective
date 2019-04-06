@@ -12,5 +12,5 @@ fetch("/data/" + filename + ".json")
 
   Vue.component('unit-card',{
     props: ['title', 'subject'],
-    template: '<li class="collection-item avatar"><a href="/topics"><i class="material-icons circle">video_library</i><span class="title">{{title}}</span><p>{{subject}}</p><a href="#!" class="secondary-content"><i class="star material-icons">grade</i></a></a></li>'
+    template: '<li class="collection-item avatar"><a href="/units/science/ASP2011/topics"><i class="material-icons circle">video_library</i><span class="title">{{title}}</span><p>{{subject}}</p><a href="#!" class="secondary-content"><i class="star material-icons">grade</i></a></a></li>'
 })
