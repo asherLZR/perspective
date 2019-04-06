@@ -30,36 +30,32 @@
         </header>
         <div class="layer"></div>
         <main>
-                <div style="text-align: center; font-family: 'Times New Roman', Times, serif">
-                    </br></br>
-                    <h1>
-                        <i>
-                            Change your perspective.
-                        </i>
-                    </h1>
-                </div>
+                
                 <div class="container" id="app">
-            
-                <div class="row">
-                    <div v-for="subject in subjects">
-                        <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
+                    <div style="text-align: center; font-family: 'Times New Roman', Times, serif">
+                        </br></br>
+                        <h1>
+                            <i>
+                                Change your perspective.
+                            </i>
+                        </h1>
+                    </div>
+                    <div class="row">
+                        <div v-for="subject in subjects">
+                            <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div v-for="subject in subjects_1">
+                            <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
+                        </div>
+                    </div>
+
+                    <div style="text-align: center">
+                            <h2>Some other title</h2>
+                        <a class="waves-effect waves-light btn-small"><i class="material-icons right">cloud</i>Contribute</a>    
                     </div>
                 </div>
-                <div class="row">
-                    <div v-for="subject in subjects_1">
-                        <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
-                    </div>
-                </div>
-
-                <div style="text-align: center">
-                    <br>
-                        <h2>Some other title</h2>
-                    <br>
-                        <a class="waves-effect waves-light btn-small"><i class="material-icons right">cloud</i>Contribute</a>
-
-                    
-                </div>
-            </div>
         </main>
         </div>
         <footer class="page-footer transparent">
