@@ -1,10 +1,10 @@
-fetch("/data/Science.json")
+let filename  = document.getElementById('subject-header').innerHTML;
+fetch("/data/" + filename + ".json")
   .then(response => response.json())
   .then(json => {
       new Vue({
         el: "#unit",
         data: {
-            "subjectName": "Science",
             "units": json
         }
     })
