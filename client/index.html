@@ -1,9 +1,10 @@
 <html>
     <head>
         <title>Hackamon Project</title>
-        <link rel="stylesheet" href="./style.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="/style.css">
+        <link rel="stylesheet" href="/index.css">
     </head>
     <body>
         <header>
@@ -20,7 +21,7 @@
                         </div>
                     </form>
                     </li>
-                    <li><a href="./index.html">Explore</a></li>
+                    <li><a href="/index.html">Explore</a></li>
                     <li><a href="">Profile</a></li>
                     </ul>
                 </div>
@@ -31,6 +32,11 @@
             <div class="container" id="app">
                 <div class="row">
                     <div v-for="subject in subjects">
+                        <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
+                    </div>
+                </div>
+                <div class="row">
+                    <div v-for="subject in subjects_1">
                         <subject-card :title="subject.name" cardinfo="Hey" :imgfile="subject.img" :url="subject.url"></subject-card>
                     </div>
                 </div>
