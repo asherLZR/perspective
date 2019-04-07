@@ -32,13 +32,13 @@
         <main>
                 
                 <div class="container" id="app">
-                    <div style="text-align: center; font-family: 'Times New Roman', Times, serif">
+                    <div style="text-align: center;">
                         </br></br>
-                        <h1>
+                        <h3>
                             <!-- <i> -->
-                                Change your <i>perspective.</i>
+                                Change your perspective.
                             <!-- </i> -->
-                        </h1>
+                        </h3>
                     </div>
                     <div class="row">
                         <div v-for="subject in subjects">
@@ -52,8 +52,22 @@
                     </div>
 
                     <div style="text-align: center">
-                            <h4>Change others' perspective</h4>
-                        <a class="waves-effect blue btn-small"><i class="material-icons right">cloud</i>Upload</a>    
+                            <h3>Change others' perspective</h3>
+                            <div class="row">
+                                <!-- <subject-card :title="" cardinfo="Hey" imgfile="background-image: url('/assets/science.jpg');" url="/#!"></subject-card> -->
+                                <div class="col s4"></div>
+                                <div class="col s4 center">
+                                    <a href="/#">
+                                        <div class="card horizontal" style="background-image: url('/assets/usplash.jpg');">
+                                            <div class="card-stacked"><div class="card-content">
+                                                <h6>Upload</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            </div>
+                        <!-- <a class="waves-effect blue btn-small"><i class="material-icons right">cloud</i>Upload</a>     -->
                     </div>
                 </div>
         </main>
