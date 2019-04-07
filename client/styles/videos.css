@@ -9,13 +9,20 @@ ul, .commenting{
 }
 
 .img{
-    object-fit: cover;
+    object-fit: fill;
+    /* width: 100%; */
+}
+
+.ind-vid{
+    object-fit: fill;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .video-container {
     object-fit: cover;
-    box-shadow: inset 3px 3px 10px 0 white;
-    border-radius: 10px;
+    /* box-shadow: inset 3px 3px 10px 0 white;
+    border-radius: 10px; */
 }
 
 .small{
