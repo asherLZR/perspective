@@ -51,7 +51,7 @@ Vue.component('video-li', {
       }
     },
     props: ['video'],
-    template: '<li><div class="ind-vid"><img :src="video"/></img></div></li>'
+    template: '<li><div class="ind-vid" style="cursor: pointer"><img :src="video"/></img></div></li>'
 })
 
 Vue.component('comment-card',{
