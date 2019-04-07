@@ -69,3 +69,14 @@ main {
     font-weight: bold;
     padding-right: 50px;
 }
+
+.upload{
+    width: 20%;
+    align-self: center;
+    display: inline-block
+}
+
+.child-center{
+    text-align: center;
+    align-items: center;
+}
